@@ -1,0 +1,1674 @@
+offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Beat Number
+0,<music21.chord.Chord C#4 E4 E3 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,,
+0.5,<music21.chord.Chord D4 F#4 F#3 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,,
+1,<music21.chord.Chord C4 E-4 E-3 A2>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,,
+1.5,<music21.chord.Chord C#4 E4 E3 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,1,1.0
+3,<music21.chord.Chord A4 C#4 E4 A3 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,1,2.5
+3.5,<music21.chord.Chord B4 C#4 E4 B3 A2 E3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,1,3.0
+4,<music21.chord.Chord C#5 C#4 F4 A2 F3 A3>,"[0, 4, 8]","[1, 5, 9]",Con moto D850 II A Major.mid,Schubert,1,3.5
+4.5,<music21.chord.Chord C#5 D4 F#4 D3 F#3 B-3>,"[0, 4, 7, 8]","[6, 10, 1, 2]",Con moto D850 II A Major.mid,Schubert,2,1.0
+5.5,<music21.chord.Chord B4 D4 F#4 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,2,2.0
+6,<music21.chord.Chord A4 D4 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,2,2.5
+6.5,<music21.chord.Chord G#4 D4 E3 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,2,3.0
+7,<music21.chord.Chord F#4 D4 F#3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,2,3.5
+7.5,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,3,1.0
+9,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,3,2.5
+9.125,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,3,2.625
+9.25,<music21.chord.Chord F#4 D4 G#2 E3>,"[0, 2, 4, 6]","[2, 4, 6, 8]",Con moto D850 II A Major.mid,Schubert,3,2.75
+9.375,<music21.chord.Chord G#4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,3,2.875
+9.5,<music21.chord.Chord D4 F#4 G#2 F#3>,"[0, 4, 6]","[2, 6, 8]",Con moto D850 II A Major.mid,Schubert,3,3.0
+10,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,3,3.5
+10.5,<music21.chord.Chord D4 F#4 F#3 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,4,1.0
+11.5,<music21.chord.Chord C#4 E4 E3 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,4,2.0
+12,<music21.chord.Chord A3 C#4 C#3 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,4,2.5
+12.5,<music21.chord.Chord D4 F#4 F#3 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,4,3.0
+13,<music21.chord.Chord C4 E-4 E-3 A2>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,4,3.5
+13.5,<music21.chord.Chord E4 C#4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,5,1.0
+15,<music21.chord.Chord E4 A4 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,5,2.5
+15.5,<music21.chord.Chord C#5 E4 A4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,5,3.0
+16,<music21.chord.Chord E4 A4 C#5 E5 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,5,3.5
+16.5,<music21.chord.Chord E4 G#4 C#5 E5 G#2 E3 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,6,1.0
+18,<music21.chord.Chord E4 E5 G#4 C#4 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,6,2.5
+18.5,<music21.chord.Chord F#4 E-5 G#4 C4 G#3>,"[0, 3, 6, 8]","[0, 3, 6, 8]",Con moto D850 II A Major.mid,Schubert,6,3.0
+19,<music21.chord.Chord G#4 F#4 E-4 G#3>,"[0, 3, 5]","[3, 6, 8]",Con moto D850 II A Major.mid,Schubert,6,3.5
+19.5,<music21.chord.Chord E4 G#4 C#5 C#3 G#3 C#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,7,1.0
+21,<music21.chord.Chord C#4 C#5 E4 A3 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,7,2.5
+21.5,<music21.chord.Chord D4 B4 E4 G#3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,7,3.0
+22,<music21.chord.Chord E4 D4 B3 E3>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,7,3.5
+22.5,<music21.chord.Chord C#4 A4 A2 E3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,8,1.0
+24,<music21.chord.Chord C#4 E4 E3 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,8,2.5
+24.5,<music21.chord.Chord D4 F#4 F#3 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,8,3.0
+25,<music21.chord.Chord C4 E-4 E-3 A2>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,8,3.5
+25.5,<music21.chord.Chord C#4 E4 E3 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,9,1.0
+27,<music21.chord.Chord A4 C#4 E4 A3 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,9,2.5
+27.5,<music21.chord.Chord B4 C#4 E4 B3 A2 E3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,9,3.0
+28,<music21.chord.Chord C#5 C#4 F4 A2 F3 A3>,"[0, 4, 8]","[1, 5, 9]",Con moto D850 II A Major.mid,Schubert,9,3.5
+28.5,<music21.chord.Chord C#5 D4 F#4 D3 F#3 B-3>,"[0, 4, 7, 8]","[6, 10, 1, 2]",Con moto D850 II A Major.mid,Schubert,10,1.0
+29.5,<music21.chord.Chord B4 D4 F#4 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,10,2.0
+30,<music21.chord.Chord A4 D4 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,10,2.5
+30.5,<music21.chord.Chord G#4 D4 E3 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,10,3.0
+31,<music21.chord.Chord F#4 D4 F#3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,10,3.5
+31.5,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,11,1.0
+33,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,11,2.5
+33.125,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,11,2.625
+33.25,<music21.chord.Chord F#4 D4 G#2 E3>,"[0, 2, 4, 6]","[2, 4, 6, 8]",Con moto D850 II A Major.mid,Schubert,11,2.75
+33.375,<music21.chord.Chord G#4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,11,2.875
+33.5,<music21.chord.Chord D4 F#4 G#2 F#3>,"[0, 4, 6]","[2, 6, 8]",Con moto D850 II A Major.mid,Schubert,11,3.0
+34,<music21.chord.Chord E4 D4 G#2 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,11,3.5
+34.5,<music21.chord.Chord D4 F#4 F#3 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,12,1.0
+35.5,<music21.chord.Chord C#4 E4 E3 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,12,2.0
+36,<music21.chord.Chord A3 C#4 C#3 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,12,2.5
+36.5,<music21.chord.Chord D4 F#4 F#3 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,12,3.0
+37,<music21.chord.Chord C4 E-4 E-3 A2>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,12,3.5
+37.5,<music21.chord.Chord E4 C#4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,13,1.0
+39,<music21.chord.Chord E4 A4 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,13,2.5
+39.5,<music21.chord.Chord C#5 E4 A4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,13,3.0
+40,<music21.chord.Chord E4 A4 C#5 E5 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,13,3.5
+40.5,<music21.chord.Chord E4 G#4 C#5 E5 G#2 E3 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,14,1.0
+42,<music21.chord.Chord E4 E5 G#4 C#4 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,14,2.5
+42.5,<music21.chord.Chord F#4 E-5 G#4 C4 G#3>,"[0, 3, 6, 8]","[0, 3, 6, 8]",Con moto D850 II A Major.mid,Schubert,14,3.0
+43,<music21.chord.Chord G#4 F#4 E-4 G#3>,"[0, 3, 5]","[3, 6, 8]",Con moto D850 II A Major.mid,Schubert,14,3.5
+43.5,<music21.chord.Chord E4 G#4 C#5 C#3 G#3 C#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,15,1.0
+45,<music21.chord.Chord C#4 C#5 E4 A3 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,15,2.5
+45.5,<music21.chord.Chord D4 B4 E4 G#3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,15,3.0
+46,<music21.chord.Chord E4 D4 B3 E3>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,15,3.5
+46.5,<music21.chord.Chord A4 C#4 A3 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,16,1.0
+48,<music21.chord.Chord G4 C#4 B-4 G3 E3>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Con moto D850 II A Major.mid,Schubert,16,2.5
+48.5,<music21.chord.Chord D4 B4 G4 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,16,3.0
+49,<music21.chord.Chord E4 G4 B-4 C#5 G3 C#3>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Con moto D850 II A Major.mid,Schubert,16,3.5
+49.5,<music21.chord.Chord D4 G4 B4 D5 G3 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,17,1.0
+51,<music21.chord.Chord B4 D4 G3 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,17,2.5
+51.5,<music21.chord.Chord G4 D4 F3 G3>,"[0, 3, 5]","[2, 5, 7]",Con moto D850 II A Major.mid,Schubert,17,3.0
+52,<music21.chord.Chord D4 B3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,17,3.5
+52.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,18,1.0
+54,<music21.chord.Chord B3 D4 G2 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,18,2.5
+54.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,18,3.0
+55,<music21.chord.Chord B3 F4 D3 G3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,18,3.5
+55.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,19,1.0
+56,<music21.chord.Chord B4 D5 G3 G4>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,19,1.5
+56.5,<music21.chord.Chord C5 E5 C4 G4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,19,2.0
+57,<music21.chord.Chord B4 F5 D4 G4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,19,2.5
+57.5,<music21.chord.Chord C5 E5 C4 G4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,19,3.0
+58,<music21.chord.Chord B3 D4 G2 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,19,3.5
+58.5,<music21.chord.Chord E4 C4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,20,1.0
+58.875,<music21.chord.Chord G4 E4 C4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,20,1.375
+59,<music21.chord.Chord B3 F4 D3 G3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,20,1.5
+59.5,<music21.chord.Chord E4 C4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,20,2.0
+60,<music21.chord.Chord E4 D4 B2 E3 G#3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,20,2.5
+60.5,<music21.chord.Chord D4 E4 F#4 B2 E3 G#3>,"[0, 2, 4, 6, 9]","[2, 4, 6, 8, 11]",Con moto D850 II A Major.mid,Schubert,20,3.0
+61,<music21.chord.Chord D4 E4 G#4 B2 E3 G#3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,20,3.5
+61.5,<music21.chord.Chord C#4 E4 A4 C#3 E3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,21,1.0
+62,<music21.chord.Chord E-4 A4 B4 F#3 A3 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,21,1.5
+62.5,<music21.chord.Chord E4 A4 C#5 E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,21,2.0
+63.5,<music21.chord.Chord C#5 D4 E4 G#4 E2 E3>,"[0, 1, 3, 7]","[1, 2, 4, 8]",Con moto D850 II A Major.mid,Schubert,21,3.0
+64.25,<music21.chord.Chord B4 D4 E4 G#4 E2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,21,3.75
+64.5,<music21.chord.Chord C#4 E4 A4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,22,1.0
+66,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,22,2.5
+66.5,<music21.chord.Chord C#4 C#3>,[0],[1],Con moto D850 II A Major.mid,Schubert,22,3.0
+67,<music21.chord.Chord A3 A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,22,3.5
+67.375,<music21.chord.Chord A3 A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,22,3.875
+67.5,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,23,1.0
+69,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,23,2.5
+69.5,<music21.chord.Chord C#4 C#3>,[0],[1],Con moto D850 II A Major.mid,Schubert,23,3.0
+70,<music21.chord.Chord B-3 B-2>,[0],[10],Con moto D850 II A Major.mid,Schubert,23,3.5
+70.375,<music21.chord.Chord B-3 B-2>,[0],[10],Con moto D850 II A Major.mid,Schubert,23,3.875
+70.5,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,24,1.0
+72,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,24,2.5
+72.5,<music21.chord.Chord D4 D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,24,3.0
+73,<music21.chord.Chord B3 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,24,3.5
+73.375,<music21.chord.Chord B3 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,24,3.875
+73.5,<music21.chord.Chord F#4 F#3>,[0],[6],Con moto D850 II A Major.mid,Schubert,25,1.0
+74,<music21.chord.Chord C#4 F#4 B-4 E3 F#3>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Con moto D850 II A Major.mid,Schubert,25,1.5
+74.5,<music21.chord.Chord B3 F#4 B4 D3 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,25,2.0
+75,<music21.chord.Chord C#4 F#4 C#5 B-2 F#3>,"[0, 4, 7]","[6, 10, 1]",Con moto D850 II A Major.mid,Schubert,25,2.5
+75.5,<music21.chord.Chord D4 F#4 D5 B2 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,25,3.0
+76,<music21.chord.Chord B4 D5 B5 F2 D3>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,25,3.5
+76.5,<music21.chord.Chord B4 D5 A5 E2 E3>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,26,1.0
+77.5,<music21.chord.Chord G#5 B4 D5 E2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,26,2.0
+78,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,26,2.5
+78.5,<music21.chord.Chord B3 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,26,3.0
+79,<music21.chord.Chord G#3 G#2>,[0],[8],Con moto D850 II A Major.mid,Schubert,26,3.5
+79.375,<music21.chord.Chord G#3 G#2>,[0],[8],Con moto D850 II A Major.mid,Schubert,26,3.875
+79.5,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,27,1.0
+81,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,27,2.5
+81.5,<music21.chord.Chord C4 C3>,[0],[0],Con moto D850 II A Major.mid,Schubert,27,3.0
+82,<music21.chord.Chord A3 A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,27,3.5
+82.375,<music21.chord.Chord A3 A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,27,3.875
+82.5,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,28,1.0
+84,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,28,2.5
+84.5,<music21.chord.Chord C#4 C#3>,[0],[1],Con moto D850 II A Major.mid,Schubert,28,3.0
+85,<music21.chord.Chord B-3 B-2>,[0],[10],Con moto D850 II A Major.mid,Schubert,28,3.5
+85.375,<music21.chord.Chord B-3 B-2>,[0],[10],Con moto D850 II A Major.mid,Schubert,28,3.875
+85.5,<music21.chord.Chord F4 F3>,[0],[5],Con moto D850 II A Major.mid,Schubert,29,1.0
+86,<music21.chord.Chord C4 F4 A4 E-3 F3>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,29,1.5
+86.5,<music21.chord.Chord B-3 F4 B-4 D3 F3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,29,2.0
+87,<music21.chord.Chord C4 F4 C5 A2 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,29,2.5
+87.5,<music21.chord.Chord D5 D4 F4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,29,3.0
+88,<music21.chord.Chord F5 F4 A4 C3 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,29,3.5
+88.25,<music21.chord.Chord E-5 F4 A4>,"[0, 2, 6]","[3, 5, 9]",Con moto D850 II A Major.mid,Schubert,29,3.75
+88.5,<music21.chord.Chord A4 E-5 F4 C3 F3>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,30,1.0
+89.5,<music21.chord.Chord B-4 D5 F4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,30,2.0
+90,<music21.chord.Chord F4 D5 F5 F2 F3>,"[0, 3]","[2, 5]",Con moto D850 II A Major.mid,Schubert,30,2.5
+90.5,<music21.chord.Chord B-4 F5 B-5 G2 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Con moto D850 II A Major.mid,Schubert,30,3.0
+91,<music21.chord.Chord C5 F5 C6 A2 F3 A3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,30,3.5
+91.5,<music21.chord.Chord D5 F5 D6 B-2 F3 B-3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,31,1.0
+93,<music21.chord.Chord B-5 B-4 D5 B-3 D4 D3>,"[0, 4]","[10, 2]",Con moto D850 II A Major.mid,Schubert,31,2.5
+93.5,<music21.chord.Chord F5 B-4 D5 F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,31,3.0
+94,<music21.chord.Chord A4 C5 E-5 E-4 C4>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,31,3.5
+94.5,<music21.chord.Chord D5 B-4 G#3 B-3 D4>,"[0, 2, 6]","[8, 10, 2]",Con moto D850 II A Major.mid,Schubert,32,1.0
+96,<music21.chord.Chord E-4 C5 F4 F3 A2>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,32,2.5
+96.5,<music21.chord.Chord D4 B-4 F4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,32,3.0
+97,<music21.chord.Chord F4 A3 F3 C3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,32,3.5
+97.5,<music21.chord.Chord B-3 D4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,33,1.0
+99,<music21.chord.Chord A3 C4 F2 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,33,2.5
+99.5,<music21.chord.Chord B-3 D4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,33,3.0
+100,<music21.chord.Chord A3 E-4 C3 F3>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,33,3.5
+100.5,<music21.chord.Chord B-3 D4 F3 B-2>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,34,1.0
+101,<music21.chord.Chord A4 C5 F4 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,34,1.5
+101.5,<music21.chord.Chord B-4 D5 F4 B-3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,34,2.0
+102,<music21.chord.Chord A4 E-5 F4 C4>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,34,2.5
+102.5,<music21.chord.Chord B-4 D5 F4 B-3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,34,3.0
+103,<music21.chord.Chord A3 C4 F3 F2>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,34,3.5
+103.5,<music21.chord.Chord D4 B-3 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,35,1.0
+104,<music21.chord.Chord F4 A3 F3 C3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,35,1.5
+104.25,<music21.chord.Chord E-4 A3 F3 C3>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,35,1.75
+104.5,<music21.chord.Chord B-3 D4 F3 B-2>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,35,2.0
+105,<music21.chord.Chord F3 G#3 D4 B-2>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Con moto D850 II A Major.mid,Schubert,35,2.5
+105.5,<music21.chord.Chord F3 A3 D4 A2>,"[0, 3, 7]","[2, 5, 9]",Con moto D850 II A Major.mid,Schubert,35,3.0
+106,<music21.chord.Chord E3 B3 D4 G#2>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,35,3.5
+106.5,<music21.chord.Chord D4 A3 A2 E3>,"[0, 2, 7]","[2, 4, 9]",Con moto D850 II A Major.mid,Schubert,36,1.0
+106.75,<music21.chord.Chord C#4 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,36,1.25
+107,<music21.chord.Chord B3 F#3 D2 D3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,36,1.5
+107.25,<music21.chord.Chord F#4 F#3>,[0],[6],Con moto D850 II A Major.mid,Schubert,36,1.75
+107.5,<music21.chord.Chord E3 A3 C#4 E2 C#3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,36,2.0
+108.5,<music21.chord.Chord C#4 D3 G#3 E2>,"[0, 1, 3, 7]","[1, 2, 4, 8]",Con moto D850 II A Major.mid,Schubert,36,3.0
+109,<music21.chord.Chord B3 D3 G#3 E2>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,36,3.5
+109.375,<music21.chord.Chord D3 G#3 E2>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,36,3.875
+109.5,<music21.chord.Chord A3 C#3 A2 A1>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,37,1.0
+110.25,<music21.chord.Chord C#4 C#3 A2 A1>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,37,1.75
+110.5,<music21.chord.Chord E4 A2 A1>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,37,2.0
+110.75,<music21.chord.Chord A4 A2 A1>,[0],[9],Con moto D850 II A Major.mid,Schubert,37,2.25
+111,<music21.chord.Chord C#5 E4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,37,2.5
+111.25,<music21.chord.Chord E5 E4 A3>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,37,2.75
+111.5,<music21.chord.Chord D5 F#5 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,37,3.0
+112,<music21.chord.Chord E-5 C5 E-4 A3>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,37,3.5
+112.5,<music21.chord.Chord E5 C#5 A3 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,38,1.0
+114,<music21.chord.Chord A5 C#5 E5 A4 A3 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,38,2.5
+114.5,<music21.chord.Chord B5 C#5 E5 B4 A3 E4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,38,3.0
+115,<music21.chord.Chord C#5 F5 C#6 A3 F4 A4>,"[0, 4, 8]","[1, 5, 9]",Con moto D850 II A Major.mid,Schubert,38,3.5
+115.5,<music21.chord.Chord D5 F#5 C#6 B-4 D4 F#4>,"[0, 4, 7, 8]","[6, 10, 1, 2]",Con moto D850 II A Major.mid,Schubert,39,1.0
+116.5,<music21.chord.Chord B5 D5 F#5 B4 D4 F#4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,39,2.0
+117,<music21.chord.Chord A4 D4 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,39,2.5
+117.5,<music21.chord.Chord G#4 D4 E3 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,39,3.0
+118,<music21.chord.Chord F#4 D4 F#3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,39,3.5
+118.5,<music21.chord.Chord E4 D4 E3 G#2>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,40,1.0
+120,<music21.chord.Chord E5 D5 E4 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,40,2.5
+120.25,<music21.chord.Chord F#5 E5 D5 E4 G#3>,"[0, 2, 4, 6]","[2, 4, 6, 8]",Con moto D850 II A Major.mid,Schubert,40,2.75
+120.375,<music21.chord.Chord G#5 E5 D5 E4 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,40,2.875
+120.5,<music21.chord.Chord F#5 D5 F#4 G#3>,"[0, 4, 6]","[2, 6, 8]",Con moto D850 II A Major.mid,Schubert,40,3.0
+121,<music21.chord.Chord E5 D5 E4 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,40,3.5
+121.5,<music21.chord.Chord F#5 D5 A3 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,41,1.0
+122.5,<music21.chord.Chord E5 C#5 E4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,41,2.0
+123,<music21.chord.Chord C#4 B3 C#3 B2>,"[0, 2]","[11, 1]",Con moto D850 II A Major.mid,Schubert,41,2.5
+123.5,<music21.chord.Chord A3 F#4 C#4 A2 F#3 C#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,41,3.0
+124,<music21.chord.Chord B3 C#4 F4 G#2 C#3 F3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Con moto D850 II A Major.mid,Schubert,41,3.5
+124.5,<music21.chord.Chord A3 D4 F#4 F#2 A2 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,42,1.0
+126,<music21.chord.Chord A4 A3 F#3>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,42,2.5
+126.5,<music21.chord.Chord G4 B4 E3 A3>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Con moto D850 II A Major.mid,Schubert,42,3.0
+127,<music21.chord.Chord G4 A4 C#5 A3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,42,3.5
+127.5,<music21.chord.Chord B-4 C#5 E5 G4 B-3 C#4 D3>,"[0, 1, 3, 6, 9]","[1, 2, 4, 7, 10]",Con moto D850 II A Major.mid,Schubert,43,1.0
+130.5,<music21.chord.Chord B4 D5 G4 B3 D4 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,44,1.0
+133.5,<music21.chord.Chord C5 D4 F#4 D3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,45,1.0
+135,<music21.chord.Chord D5 C5 D4 F#4 D3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,45,2.5
+135.125,<music21.chord.Chord C5 D4 F#4 D3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,45,2.625
+135.25,<music21.chord.Chord B4 D4 F#4 D3 A3>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Con moto D850 II A Major.mid,Schubert,45,2.75
+135.375,<music21.chord.Chord C5 D4 F#4 D3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,45,2.875
+135.5,<music21.chord.Chord B4 D4 F#4 D3 A3>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Con moto D850 II A Major.mid,Schubert,45,3.0
+135.75,<music21.chord.Chord C5 D4 F#4 D3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,45,3.25
+136,<music21.chord.Chord E5 D4 F#4 D3 A3>,"[0, 2, 4, 7]","[2, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,45,3.5
+136.25,<music21.chord.Chord D5 D4 F#4 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,45,3.75
+136.5,<music21.chord.Chord G4 B4 G2 G3>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,46,1.0
+137.875,<music21.chord.Chord B4>,[0],[11],Con moto D850 II A Major.mid,Schubert,46,2.375
+138,<music21.chord.Chord D4 G4 D5 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,46,2.5
+138.5,<music21.chord.Chord C#5 A4 D4 A2 C#3>,"[0, 4, 5]","[9, 1, 2]",Con moto D850 II A Major.mid,Schubert,46,3.0
+139,<music21.chord.Chord B4 D4 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,46,3.5
+139.5,<music21.chord.Chord D4 A4 D3 F#2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,47,1.0
+141,<music21.chord.Chord D4 A4 A3 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,47,2.5
+141.5,<music21.chord.Chord E4 G#4 E3 G#3 A3>,"[0, 4, 5]","[4, 8, 9]",Con moto D850 II A Major.mid,Schubert,47,3.0
+142,<music21.chord.Chord F#4 A3 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,47,3.5
+142.5,<music21.chord.Chord E4 C#3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,48,1.0
+143,<music21.chord.Chord E-4 A4 F#3 A3 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,48,1.5
+143.5,<music21.chord.Chord E4 A4 C#5 E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,48,2.0
+144.5,<music21.chord.Chord C#5 D4 E4 G#4 E2 E3>,"[0, 1, 3, 7]","[1, 2, 4, 8]",Con moto D850 II A Major.mid,Schubert,48,3.0
+145.25,<music21.chord.Chord B4 D4 E4 G#4 E2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,48,3.75
+145.5,<music21.chord.Chord C#4 E4 A4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,49,1.0
+147,<music21.chord.Chord A4>,[0],[9],Con moto D850 II A Major.mid,Schubert,49,2.5
+147.5,<music21.chord.Chord F#4 D5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,49,3.0
+147.75,<music21.chord.Chord F#4 D5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,49,3.25
+148,<music21.chord.Chord F#4 D5 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,49,3.5
+148.25,<music21.chord.Chord A4 E5 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,49,3.75
+148.5,<music21.chord.Chord D5 F#5 D4>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,50,1.0
+148.75,<music21.chord.Chord D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,50,1.25
+149,<music21.chord.Chord D5 F#5 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,50,1.5
+149.25,<music21.chord.Chord D5 F#5 D2>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,50,1.75
+149.5,<music21.chord.Chord D5 F#5 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,50,2.0
+149.75,<music21.chord.Chord D5 F#5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,50,2.25
+150,<music21.chord.Chord D5 F#5 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,50,2.5
+150.25,<music21.chord.Chord A4 E5 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,50,2.75
+150.5,<music21.chord.Chord F#4 D5 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,50,3.0
+150.75,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,50,3.25
+151,<music21.chord.Chord B4 D5 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,50,3.5
+151.25,<music21.chord.Chord F#4 C#5 A3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,50,3.75
+151.5,<music21.chord.Chord D4 B4 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,51,1.0
+151.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,51,1.25
+152,<music21.chord.Chord D4 B4 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,51,1.5
+152.25,<music21.chord.Chord D4 B4 G1>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,51,1.75
+152.5,<music21.chord.Chord D4 B4 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,51,2.0
+152.75,<music21.chord.Chord D4 B4 B2>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,51,2.25
+153,<music21.chord.Chord B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,51,2.5
+153.25,<music21.chord.Chord B4 F#2>,"[0, 5]","[6, 11]",Con moto D850 II A Major.mid,Schubert,51,2.75
+153.5,<music21.chord.Chord G4 E5 E2>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,51,3.0
+153.75,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,51,3.25
+154,<music21.chord.Chord G4 E5 B3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,51,3.5
+154.25,<music21.chord.Chord B4 F#5 E-4>,"[0, 4, 7]","[11, 3, 6]",Con moto D850 II A Major.mid,Schubert,51,3.75
+154.5,<music21.chord.Chord E5 G5 E4>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,52,1.0
+154.75,<music21.chord.Chord E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,52,1.25
+155,<music21.chord.Chord E5 G5 E3>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,52,1.5
+155.25,<music21.chord.Chord E5 G5 E2>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,52,1.75
+155.5,<music21.chord.Chord E5 G5 E3>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,52,2.0
+155.75,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,52,2.25
+156,<music21.chord.Chord E5 G5 B3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,52,2.5
+156.25,<music21.chord.Chord B4 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,52,2.75
+156.5,<music21.chord.Chord G4 E5 C#4>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,52,3.0
+156.75,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,52,3.25
+157,<music21.chord.Chord C#5 E5 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,52,3.5
+157.25,<music21.chord.Chord G#4 D5 B3>,"[0, 3, 6]","[8, 11, 2]",Con moto D850 II A Major.mid,Schubert,52,3.75
+157.5,<music21.chord.Chord E4 C#5 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,53,1.0
+157.75,<music21.chord.Chord E4 C#5 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,53,1.25
+158,<music21.chord.Chord E4 C#5 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,53,1.5
+158.25,<music21.chord.Chord E4 C#5 A1>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,53,1.75
+158.5,<music21.chord.Chord E4 C#5 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,53,2.0
+158.75,<music21.chord.Chord A4 C#5 C#4 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,53,2.25
+159,<music21.chord.Chord A4 C#5 C#4 A3 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,53,2.5
+159.25,<music21.chord.Chord A4 D5 D4 B2 A3 B3>,"[0, 2, 5]","[9, 11, 2]",Con moto D850 II A Major.mid,Schubert,53,2.75
+159.5,<music21.chord.Chord E4 A4 E5 C#3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,53,3.0
+159.75,<music21.chord.Chord F#4 D5 F#5 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,53,3.25
+160,<music21.chord.Chord F#4 D5 F#5 D4 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,53,3.5
+160.25,<music21.chord.Chord G4 D5 G5 E3 D4 E4>,"[0, 2, 5]","[2, 4, 7]",Con moto D850 II A Major.mid,Schubert,53,3.75
+160.5,<music21.chord.Chord A4 E5 A5 F#3 D4 F#4>,"[0, 2, 4, 7]","[2, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,54,1.0
+161,<music21.chord.Chord A4 E5 A5 F#3 D4 F#4>,"[0, 2, 4, 7]","[2, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,54,1.5
+161.75,<music21.chord.Chord D5 A5 F#3 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,54,2.25
+162,<music21.chord.Chord D5 F#5 D6 A3 A4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,54,2.5
+162.25,<music21.chord.Chord D5 A5 F#3 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,54,2.75
+162.5,<music21.chord.Chord D5 F#5 D3 D4>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,54,3.0
+162.75,<music21.chord.Chord D5 C#3 C#4>,"[0, 1]","[1, 2]",Con moto D850 II A Major.mid,Schubert,54,3.25
+163,<music21.chord.Chord D5 F#5 B2 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,54,3.5
+163.25,<music21.chord.Chord D5 F#5 A5 A2 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,54,3.75
+163.5,<music21.chord.Chord B4 D5 G5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,55,1.0
+164,<music21.chord.Chord B4 D5 G5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,55,1.5
+164.75,<music21.chord.Chord B4 D5 B5 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,55,2.25
+165,<music21.chord.Chord B4 D5 B5 G3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,55,2.5
+165.25,<music21.chord.Chord A4 E5 A5 F#3 F#2 D3>,"[0, 2, 4, 7]","[2, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,55,2.75
+165.5,<music21.chord.Chord B4 D5 B5 G3 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,55,3.0
+165.75,<music21.chord.Chord B4 D5 B5 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,55,3.25
+166,<music21.chord.Chord B4 D5 B5 G3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,55,3.5
+166.25,<music21.chord.Chord C5 D5 C6 A3 A2 D3>,"[0, 3, 5]","[9, 0, 2]",Con moto D850 II A Major.mid,Schubert,55,3.75
+166.5,<music21.chord.Chord B4 D5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,56,1.0
+167,<music21.chord.Chord B4 D5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,56,1.5
+167.75,<music21.chord.Chord G4 B4 D5 B2 B3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,56,2.25
+168,<music21.chord.Chord G4 B4 G5 D3 D4>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,56,2.5
+168.25,<music21.chord.Chord G4 B4 D5 B2 B3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,56,2.75
+168.5,<music21.chord.Chord G4 B4 G2 G3>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,56,3.0
+168.75,<music21.chord.Chord G4 B4 D5 B2 B3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,56,3.25
+169,<music21.chord.Chord G4 B4 G5 G2 G3>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,56,3.5
+169.25,<music21.chord.Chord A4 D5 A5 F#2 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,56,3.75
+169.5,<music21.chord.Chord B4 G5 B5 E2 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,57,1.0
+170,<music21.chord.Chord B4 G5 B5 E2 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,57,1.5
+170.75,<music21.chord.Chord G5 B5 G6 E2 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,57,2.25
+171.25,<music21.chord.Chord G5 B5 G6 E2 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,57,2.75
+171.5,<music21.chord.Chord C#5 G5 C#6 A2 E3 A3>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,57,3.0
+172,<music21.chord.Chord C#5 G5 C#6 A2 E3 A3>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,57,3.5
+172.75,<music21.chord.Chord D5 F#5 D6 D2 A2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,58,1.25
+173.25,<music21.chord.Chord D5 F#5 D6 D2 A2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,58,1.75
+173.5,<music21.chord.Chord D4 F#4 D5 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,58,2.0
+174,<music21.chord.Chord D4 F#4 D5 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,58,2.5
+175.5,<music21.chord.Chord D3 A3>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,59,1.0
+175.75,<music21.chord.Chord D4 D3 A3>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,59,1.25
+176,<music21.chord.Chord B3 G4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,59,1.5
+176.25,<music21.chord.Chord D4 A4>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,59,1.75
+176.5,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,59,2.0
+176.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,59,2.25
+177,<music21.chord.Chord G4 B4 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,59,2.5
+177.25,<music21.chord.Chord G4 B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,59,2.75
+177.5,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,59,3.0
+177.5833333,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,59,3.0833333
+177.75,<music21.chord.Chord D4 A4>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,59,3.25
+178,<music21.chord.Chord G4 B4 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,59,3.5
+178.25,<music21.chord.Chord A4 D5 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,59,3.75
+178.5,<music21.chord.Chord G4 B4 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,60,1.0
+178.75,<music21.chord.Chord D4 A4 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,60,1.25
+179,<music21.chord.Chord G4 B4 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,60,1.5
+179.25,<music21.chord.Chord A4 D5 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,60,1.75
+179.5,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,60,2.0
+179.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,60,2.25
+180,<music21.chord.Chord G4 B4 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,60,2.5
+180.25,<music21.chord.Chord G4 B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,60,2.75
+180.5,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,60,3.0
+180.5833333,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,60,3.0833333
+180.75,<music21.chord.Chord D4 A4>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,60,3.25
+181,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,60,3.5
+181.25,<music21.chord.Chord A4 D5 D3 G2>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,60,3.75
+181.5,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,61,1.0
+181.75,<music21.chord.Chord D4 A4 D3 F#2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,61,1.25
+182,<music21.chord.Chord G4 B4 D3 E2>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Con moto D850 II A Major.mid,Schubert,61,1.5
+182.25,<music21.chord.Chord A4 D5 D3 D2>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,61,1.75
+182.5,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,61,2.0
+182.75,<music21.chord.Chord C2>,[0],[0],Con moto D850 II A Major.mid,Schubert,61,2.25
+183,<music21.chord.Chord C5 E5 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,61,2.5
+183.25,<music21.chord.Chord C5 E5 C2>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,61,2.75
+183.5,<music21.chord.Chord C5 E5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,61,3.0
+183.5833333,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,61,3.0833333
+183.75,<music21.chord.Chord G4 D5>,"[0, 5]","[2, 7]",Con moto D850 II A Major.mid,Schubert,61,3.25
+184,<music21.chord.Chord C5 E5 C2 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,61,3.5
+184.25,<music21.chord.Chord G4 D5 C2 G2>,"[0, 2, 7]","[0, 2, 7]",Con moto D850 II A Major.mid,Schubert,61,3.75
+184.5,<music21.chord.Chord E4 C5 C2 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,62,1.0
+184.75,<music21.chord.Chord D4 G4 C2 G2>,"[0, 2, 7]","[0, 2, 7]",Con moto D850 II A Major.mid,Schubert,62,1.25
+185,<music21.chord.Chord E4 C5 C2 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,62,1.5
+185.25,<music21.chord.Chord G4 F5 C2 G2>,"[0, 2, 7]","[5, 7, 0]",Con moto D850 II A Major.mid,Schubert,62,1.75
+185.5,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,62,2.0
+185.75,<music21.chord.Chord C2>,[0],[0],Con moto D850 II A Major.mid,Schubert,62,2.25
+186,<music21.chord.Chord C5 E5 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,62,2.5
+186.25,<music21.chord.Chord C5 E5 C2>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,62,2.75
+186.5,<music21.chord.Chord C5 E5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,62,3.0
+186.5833333,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,62,3.0833333
+186.75,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,62,3.25
+187,<music21.chord.Chord E5 G5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,62,3.5
+187.25,<music21.chord.Chord D5 F#5 G2 C2>,"[0, 2, 6, 7]","[0, 2, 6, 7]",Con moto D850 II A Major.mid,Schubert,62,3.75
+187.5,<music21.chord.Chord C5 E5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,63,1.0
+187.75,<music21.chord.Chord A4 C5 G2 C2>,"[0, 2, 5]","[7, 9, 0]",Con moto D850 II A Major.mid,Schubert,63,1.25
+188,<music21.chord.Chord C5 E5 A2 C2>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,63,1.5
+188.25,<music21.chord.Chord A4 C5 A2 C2>,"[0, 3]","[9, 0]",Con moto D850 II A Major.mid,Schubert,63,1.75
+188.5,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,63,2.0
+188.75,<music21.chord.Chord C2>,[0],[0],Con moto D850 II A Major.mid,Schubert,63,2.25
+189,<music21.chord.Chord F#4 A4 A2>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,63,2.5
+189.25,<music21.chord.Chord F#4 A4 C2>,"[0, 3, 6]","[6, 9, 0]",Con moto D850 II A Major.mid,Schubert,63,2.75
+189.5,<music21.chord.Chord F#4 A4 A2 C2>,"[0, 3, 6]","[6, 9, 0]",Con moto D850 II A Major.mid,Schubert,63,3.0
+189.5833333,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,63,3.0833333
+189.75,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,63,3.25
+190,<music21.chord.Chord A4 C5 C2 A2>,"[0, 3]","[9, 0]",Con moto D850 II A Major.mid,Schubert,63,3.5
+190.25,<music21.chord.Chord G4 B4 C2 A2>,"[0, 2, 4, 5]","[7, 9, 11, 0]",Con moto D850 II A Major.mid,Schubert,63,3.75
+190.5,<music21.chord.Chord F#4 A4 C2 A2>,"[0, 3, 6]","[6, 9, 0]",Con moto D850 II A Major.mid,Schubert,64,1.0
+190.75,<music21.chord.Chord G4 B4 C2 A2>,"[0, 2, 4, 5]","[7, 9, 11, 0]",Con moto D850 II A Major.mid,Schubert,64,1.25
+191,<music21.chord.Chord F#4 A4 C3 A3>,"[0, 3, 6]","[6, 9, 0]",Con moto D850 II A Major.mid,Schubert,64,1.5
+191.25,<music21.chord.Chord E4 F#4 C3 A3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Con moto D850 II A Major.mid,Schubert,64,1.75
+191.5,<music21.chord.Chord E-4 B4>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,64,2.0
+191.75,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,64,2.25
+192,<music21.chord.Chord E-4 B4 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,64,2.5
+192.25,<music21.chord.Chord E-4 B4 B2>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,64,2.75
+192.5,<music21.chord.Chord E-4 B4 A3 B2>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,64,3.0
+192.5833333,<music21.chord.Chord E-4 B4>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,64,3.0833333
+192.75,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,64,3.25
+193,<music21.chord.Chord A4 C5 B2 A3>,"[0, 2, 3]","[9, 11, 0]",Con moto D850 II A Major.mid,Schubert,64,3.5
+193.25,<music21.chord.Chord G4 B4 B2 A3>,"[0, 2, 4]","[7, 9, 11]",Con moto D850 II A Major.mid,Schubert,64,3.75
+193.5,<music21.chord.Chord F#4 A4 B2 A3>,"[0, 3, 5]","[6, 9, 11]",Con moto D850 II A Major.mid,Schubert,65,1.0
+193.75,<music21.chord.Chord G4 B4 B2 A3>,"[0, 2, 4]","[7, 9, 11]",Con moto D850 II A Major.mid,Schubert,65,1.25
+194,<music21.chord.Chord F#4 A4 C3 A3>,"[0, 3, 6]","[6, 9, 0]",Con moto D850 II A Major.mid,Schubert,65,1.5
+194.25,<music21.chord.Chord E4 F#4 C3 A3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Con moto D850 II A Major.mid,Schubert,65,1.75
+194.5,<music21.chord.Chord E-4 B4>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,65,2.0
+194.75,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,65,2.25
+195,<music21.chord.Chord E-4 B4 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,65,2.5
+195.25,<music21.chord.Chord E-4 B4 B2>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,65,2.75
+195.5,<music21.chord.Chord E-4 B4 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,65,3.0
+195.75,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,65,3.25
+196,<music21.chord.Chord A4 C5 B2 A3>,"[0, 2, 3]","[9, 11, 0]",Con moto D850 II A Major.mid,Schubert,65,3.5
+196.25,<music21.chord.Chord G4 B4 B2 A3>,"[0, 2, 4]","[7, 9, 11]",Con moto D850 II A Major.mid,Schubert,65,3.75
+196.5,<music21.chord.Chord F#4 A4 B2 A3>,"[0, 3, 5]","[6, 9, 11]",Con moto D850 II A Major.mid,Schubert,66,1.0
+196.75,<music21.chord.Chord G4 B4 B2 A3>,"[0, 2, 4]","[7, 9, 11]",Con moto D850 II A Major.mid,Schubert,66,1.25
+197,<music21.chord.Chord F#4 A4 C3 A3>,"[0, 3, 6]","[6, 9, 0]",Con moto D850 II A Major.mid,Schubert,66,1.5
+197.25,<music21.chord.Chord E4 F#4 C3 A3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Con moto D850 II A Major.mid,Schubert,66,1.75
+197.5,<music21.chord.Chord E-4 B4>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,66,2.0
+197.75,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,66,2.25
+198,<music21.chord.Chord E-4 B4 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,66,2.5
+198.125,<music21.chord.Chord A3>,[0],[9],Con moto D850 II A Major.mid,Schubert,66,2.625
+198.25,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,66,2.75
+198.5,<music21.chord.Chord A3>,[0],[9],Con moto D850 II A Major.mid,Schubert,66,3.0
+199,<music21.chord.Chord E-4 B4 B2 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,66,3.5
+199.125,<music21.chord.Chord B2 A3>,"[0, 2]","[9, 11]",Con moto D850 II A Major.mid,Schubert,66,3.625
+200,<music21.chord.Chord E-4 B4 B2 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,67,1.5
+200.5,<music21.chord.Chord E-4 B4>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,67,2.0
+200.75,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,67,2.25
+201,<music21.chord.Chord E-4 B4 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,67,2.5
+201.25,<music21.chord.Chord E-4 B4 B2>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,67,2.75
+201.5,<music21.chord.Chord E-4 B4 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,67,3.0
+202,<music21.chord.Chord E-4 B4 B2 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,67,3.5
+203,<music21.chord.Chord E-4 B4 B2 A3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,68,1.5
+203.5,<music21.chord.Chord D4 B4 G2 G#3>,"[0, 1, 4, 7]","[7, 8, 11, 2]",Con moto D850 II A Major.mid,Schubert,68,2.0
+203.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,68,2.25
+204,<music21.chord.Chord G4 B4 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,68,2.5
+204.25,<music21.chord.Chord G4 B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,68,2.75
+204.5,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,68,3.0
+204.5833333,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,68,3.0833333
+204.75,<music21.chord.Chord D4 A4>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,68,3.25
+205,<music21.chord.Chord G4 B4 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,68,3.5
+205.25,<music21.chord.Chord A4 D5 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,68,3.75
+205.5,<music21.chord.Chord G4 B4 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,69,1.0
+205.75,<music21.chord.Chord D4 A4 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,69,1.25
+206,<music21.chord.Chord G4 B4 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,69,1.5
+206.25,<music21.chord.Chord A4 D5 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,69,1.75
+206.5,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,69,2.0
+206.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,69,2.25
+207,<music21.chord.Chord G4 B4 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,69,2.5
+207.25,<music21.chord.Chord G4 B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,69,2.75
+207.5,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,69,3.0
+207.5833333,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,69,3.0833333
+207.75,<music21.chord.Chord D4 A4>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,69,3.25
+208,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,69,3.5
+208.25,<music21.chord.Chord A4 D5 D3 G2>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,69,3.75
+208.5,<music21.chord.Chord G4 B4 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,70,1.0
+208.75,<music21.chord.Chord D4 A4 D3 F#2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,70,1.25
+209,<music21.chord.Chord G4 B4 D3 E2>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Con moto D850 II A Major.mid,Schubert,70,1.5
+209.25,<music21.chord.Chord A4 D5 D3 D2>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,70,1.75
+209.5,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,70,2.0
+209.75,<music21.chord.Chord C2>,[0],[0],Con moto D850 II A Major.mid,Schubert,70,2.25
+210,<music21.chord.Chord C5 E5 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,70,2.5
+210.25,<music21.chord.Chord C5 E5 C2>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,70,2.75
+210.5,<music21.chord.Chord C5 E5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,70,3.0
+210.5833333,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,70,3.0833333
+210.75,<music21.chord.Chord G4 D5>,"[0, 5]","[2, 7]",Con moto D850 II A Major.mid,Schubert,70,3.25
+211,<music21.chord.Chord C5 E5 C2 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,70,3.5
+211.25,<music21.chord.Chord G4 D5 C2 G2>,"[0, 2, 7]","[0, 2, 7]",Con moto D850 II A Major.mid,Schubert,70,3.75
+211.5,<music21.chord.Chord E4 C5 C2 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,71,1.0
+211.75,<music21.chord.Chord D4 G4 C2 G2>,"[0, 2, 7]","[0, 2, 7]",Con moto D850 II A Major.mid,Schubert,71,1.25
+212,<music21.chord.Chord E4 C5 C2 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,71,1.5
+212.25,<music21.chord.Chord G4 F5 C2 G2>,"[0, 2, 7]","[5, 7, 0]",Con moto D850 II A Major.mid,Schubert,71,1.75
+212.5,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,71,2.0
+212.75,<music21.chord.Chord C2>,[0],[0],Con moto D850 II A Major.mid,Schubert,71,2.25
+213,<music21.chord.Chord C5 E5 G2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,71,2.5
+213.25,<music21.chord.Chord C5 E5 C2>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,71,2.75
+213.5,<music21.chord.Chord C5 E5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,71,3.0
+213.5833333,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,71,3.0833333
+213.75,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,71,3.25
+214,<music21.chord.Chord C5 E5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,71,3.5
+214.25,<music21.chord.Chord C5 E5 G2 C2>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,71,3.75
+214.5,<music21.chord.Chord E5 D5 G#2 B1>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,72,1.0
+214.75,<music21.chord.Chord E5 B4 G#2 B1>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,72,1.25
+215,<music21.chord.Chord E5 C#5 G#2 E2>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,72,1.5
+215.25,<music21.chord.Chord E5 D5 G#2 E2>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,72,1.75
+215.5,<music21.chord.Chord C#5 E5 A1 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,72,2.0
+215.75,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,72,2.25
+216,<music21.chord.Chord C#5 E5 G3>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,72,2.5
+216.25,<music21.chord.Chord C#5 E5 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,72,2.75
+216.5,<music21.chord.Chord C#5 E5 G3 A2>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,72,3.0
+216.5833333,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,72,3.0833333
+216.75,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,72,3.25
+217,<music21.chord.Chord G5 B-5 A2 G3>,"[0, 2, 3]","[7, 9, 10]",Con moto D850 II A Major.mid,Schubert,72,3.5
+217.25,<music21.chord.Chord F5 A5 A2 G3>,"[0, 2, 4]","[5, 7, 9]",Con moto D850 II A Major.mid,Schubert,72,3.75
+217.5,<music21.chord.Chord E5 G5 A2 G3>,"[0, 3, 5]","[4, 7, 9]",Con moto D850 II A Major.mid,Schubert,73,1.0
+217.75,<music21.chord.Chord F5 A5 A2 G3>,"[0, 2, 4]","[5, 7, 9]",Con moto D850 II A Major.mid,Schubert,73,1.25
+218,<music21.chord.Chord E5 G5 B-2 G3>,"[0, 3, 6]","[4, 7, 10]",Con moto D850 II A Major.mid,Schubert,73,1.5
+218.25,<music21.chord.Chord E5 F5 B-2 G3>,"[0, 1, 3, 6]","[4, 5, 7, 10]",Con moto D850 II A Major.mid,Schubert,73,1.75
+218.5,<music21.chord.Chord C#5 A5>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,73,2.0
+218.75,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,73,2.25
+219,<music21.chord.Chord C#5 A5 G3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,73,2.5
+219.25,<music21.chord.Chord C#5 A5 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,73,2.75
+219.5,<music21.chord.Chord C#5 A5 G3 A2>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,73,3.0
+219.5833333,<music21.chord.Chord C#5 A5>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,73,3.0833333
+219.75,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,73,3.25
+220,<music21.chord.Chord G5 B-5 A2 G3>,"[0, 2, 3]","[7, 9, 10]",Con moto D850 II A Major.mid,Schubert,73,3.5
+220.25,<music21.chord.Chord F5 A5 A2 G3>,"[0, 2, 4]","[5, 7, 9]",Con moto D850 II A Major.mid,Schubert,73,3.75
+220.5,<music21.chord.Chord E5 G5 A2 G3>,"[0, 3, 5]","[4, 7, 9]",Con moto D850 II A Major.mid,Schubert,74,1.0
+220.75,<music21.chord.Chord F5 A5 A2 G3>,"[0, 2, 4]","[5, 7, 9]",Con moto D850 II A Major.mid,Schubert,74,1.25
+221,<music21.chord.Chord E5 G5 B-2 G3>,"[0, 3, 6]","[4, 7, 10]",Con moto D850 II A Major.mid,Schubert,74,1.5
+221.25,<music21.chord.Chord E5 F5 B-2 G3>,"[0, 1, 3, 6]","[4, 5, 7, 10]",Con moto D850 II A Major.mid,Schubert,74,1.75
+221.5,<music21.chord.Chord C#5 A5 A2 G3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,74,2.0
+221.75,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,74,2.25
+222,<music21.chord.Chord C#5 A5 G3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,74,2.5
+222.25,<music21.chord.Chord C#5 A5 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,74,2.75
+222.5,<music21.chord.Chord C#5 A5 G3 A2>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,74,3.0
+222.5833333,<music21.chord.Chord C#5 A5>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,74,3.0833333
+223,<music21.chord.Chord C#5 A5 A2 G3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,74,3.5
+223.125,<music21.chord.Chord A2 G3>,"[0, 2]","[7, 9]",Con moto D850 II A Major.mid,Schubert,74,3.625
+224,<music21.chord.Chord C#5 A5 A2 G3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,75,1.5
+224.5,<music21.chord.Chord C#5 A5>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,75,2.0
+224.75,<music21.chord.Chord A3>,[0],[9],Con moto D850 II A Major.mid,Schubert,75,2.25
+225,<music21.chord.Chord C#5 A5 G4>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,75,2.5
+225.25,<music21.chord.Chord C#5 A5 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,75,2.75
+225.5,<music21.chord.Chord C#5 A5 G4 A3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,75,3.0
+226,<music21.chord.Chord C#5 A5 A3 G4>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,75,3.5
+226.25,<music21.chord.Chord A4 A3 G4>,"[0, 2]","[7, 9]",Con moto D850 II A Major.mid,Schubert,75,3.75
+226.5,<music21.chord.Chord F#4 D5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,76,1.0
+226.75,<music21.chord.Chord F#4 D5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,76,1.25
+227,<music21.chord.Chord F#4 D5 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,76,1.5
+227.25,<music21.chord.Chord A4 E5 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,76,1.75
+227.5,<music21.chord.Chord D5 F#5 D4>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,76,2.0
+227.75,<music21.chord.Chord D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,76,2.25
+228,<music21.chord.Chord D5 F#5 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,76,2.5
+228.25,<music21.chord.Chord D5 F#5 D2>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,76,2.75
+228.5,<music21.chord.Chord D5 F#5 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,76,3.0
+228.75,<music21.chord.Chord D5 F#5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,76,3.25
+229,<music21.chord.Chord D5 F#5 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,76,3.5
+229.25,<music21.chord.Chord A4 E5 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,76,3.75
+229.5,<music21.chord.Chord F#4 D5 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,77,1.0
+229.75,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,77,1.25
+230,<music21.chord.Chord B4 D5 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,77,1.5
+230.25,<music21.chord.Chord F#4 C#5 A3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,77,1.75
+230.5,<music21.chord.Chord D4 B4 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,77,2.0
+230.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,77,2.25
+231,<music21.chord.Chord G4 B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,77,2.5
+231.25,<music21.chord.Chord G4 B4 G1>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,77,2.75
+231.5,<music21.chord.Chord G4 B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,77,3.0
+231.75,<music21.chord.Chord G4 B4 B2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,77,3.25
+232,<music21.chord.Chord B4 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,77,3.5
+232.25,<music21.chord.Chord B4 F#2>,"[0, 5]","[6, 11]",Con moto D850 II A Major.mid,Schubert,77,3.75
+232.5,<music21.chord.Chord G4 E5 E2>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,78,1.0
+232.75,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,78,1.25
+233,<music21.chord.Chord G4 E5 B3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,78,1.5
+233.25,<music21.chord.Chord B4 F#5 E-4>,"[0, 4, 7]","[11, 3, 6]",Con moto D850 II A Major.mid,Schubert,78,1.75
+233.5,<music21.chord.Chord E5 G5 E4>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,78,2.0
+233.75,<music21.chord.Chord E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,78,2.25
+234,<music21.chord.Chord E5 G5 E3>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,78,2.5
+234.25,<music21.chord.Chord E5 G5 E2>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,78,2.75
+234.5,<music21.chord.Chord E5 G5 E3>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,78,3.0
+234.75,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,78,3.25
+235,<music21.chord.Chord E5 G5 B3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,78,3.5
+235.25,<music21.chord.Chord B4 F5 D4>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,78,3.75
+235.5,<music21.chord.Chord G4 E5 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,79,1.0
+235.75,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,79,1.25
+236,<music21.chord.Chord C5 E5 G#3>,"[0, 4, 8]","[0, 4, 8]",Con moto D850 II A Major.mid,Schubert,79,1.5
+236.25,<music21.chord.Chord G#4 D5 B3>,"[0, 3, 6]","[8, 11, 2]",Con moto D850 II A Major.mid,Schubert,79,1.75
+236.5,<music21.chord.Chord E4 C5 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,79,2.0
+236.75,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,79,2.25
+237,<music21.chord.Chord E4 C5 A2>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,79,2.5
+237.25,<music21.chord.Chord E4 C5 A1>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,79,2.75
+237.5,<music21.chord.Chord E4 C5 A2>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,79,3.0
+237.75,<music21.chord.Chord C4 A4 C5 A2>,"[0, 3]","[9, 0]",Con moto D850 II A Major.mid,Schubert,79,3.25
+238,<music21.chord.Chord C4 A4 C5 A3 A2>,"[0, 3]","[9, 0]",Con moto D850 II A Major.mid,Schubert,79,3.5
+238.25,<music21.chord.Chord D4 A4 D5 B2 A3 B3>,"[0, 2, 5]","[9, 11, 2]",Con moto D850 II A Major.mid,Schubert,79,3.75
+238.5,<music21.chord.Chord E4 A4 E5 C3 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,80,1.0
+238.75,<music21.chord.Chord F4 A4 F5 D3 A3>,"[0, 3, 7]","[2, 5, 9]",Con moto D850 II A Major.mid,Schubert,80,1.25
+239,<music21.chord.Chord F4 A4 F5 D4 D3 A3>,"[0, 3, 7]","[2, 5, 9]",Con moto D850 II A Major.mid,Schubert,80,1.5
+239.25,<music21.chord.Chord G4 C5 G5 E3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,80,1.75
+239.5,<music21.chord.Chord A4 C5 A5 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,80,2.0
+240,<music21.chord.Chord A4 C5 A5 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,80,2.5
+240.75,<music21.chord.Chord F4 C5 A2 A3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,80,3.25
+241,<music21.chord.Chord F4 A4 F5 C3 C4>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,80,3.5
+241.25,<music21.chord.Chord F4 C5 A2 A3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,80,3.75
+241.5,<music21.chord.Chord F4 A4 F2 F3>,"[0, 4]","[5, 9]",Con moto D850 II A Major.mid,Schubert,81,1.0
+241.75,<music21.chord.Chord F4 E2 E3>,"[0, 1]","[4, 5]",Con moto D850 II A Major.mid,Schubert,81,1.25
+242,<music21.chord.Chord F4 A4 D2 D3>,"[0, 3, 7]","[2, 5, 9]",Con moto D850 II A Major.mid,Schubert,81,1.5
+242.25,<music21.chord.Chord F4 A4 C5 C2 C3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,81,1.75
+242.5,<music21.chord.Chord D4 F4 B-4 D5 B-1 B-2>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,81,2.0
+243,<music21.chord.Chord D4 F4 B-4 D5 B-2 F3 B-3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,81,2.5
+243.75,<music21.chord.Chord D4 F4 B-4 D5 F3 B2>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,81,3.25
+244,<music21.chord.Chord D4 F4 B-4 D5 B-3 B2>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,81,3.5
+244.25,<music21.chord.Chord C4 F4 C5 A3 A2 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,81,3.75
+244.5,<music21.chord.Chord D4 F4 D5 B-3 B2 F3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,1.0
+244.75,<music21.chord.Chord D4 F4 D5 F3 B2>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,1.25
+245,<music21.chord.Chord D4 F4 D5 B-3 B2>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,1.5
+245.25,<music21.chord.Chord E-4 F4 E-5 C4 C3 F3>,"[0, 3, 5]","[0, 3, 5]",Con moto D850 II A Major.mid,Schubert,82,1.75
+245.5,<music21.chord.Chord D4 F4 B-4 D5 B-2 F3 B-3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,2.0
+246,<music21.chord.Chord D4 F4 B-4 D5 B-2 F3 B-3>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,2.5
+246.75,<music21.chord.Chord B-4 D5 F5 D3 D4>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,3.25
+247,<music21.chord.Chord B-4 D5 B-5 F3 F4>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,3.5
+247.25,<music21.chord.Chord B-4 D5 F5 D3 D4>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,82,3.75
+247.5,<music21.chord.Chord B-4 D5 B-2 B-3>,"[0, 4]","[10, 2]",Con moto D850 II A Major.mid,Schubert,83,1.0
+247.75,<music21.chord.Chord B-4 D5 F5 D3 D4>,"[0, 4, 7]","[10, 2, 5]",Con moto D850 II A Major.mid,Schubert,83,1.25
+248,<music21.chord.Chord B-4 D5 B-5 B-2 B-3>,"[0, 4]","[10, 2]",Con moto D850 II A Major.mid,Schubert,83,1.5
+248.25,<music21.chord.Chord C5 F5 C6 A2 A3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,83,1.75
+248.5,<music21.chord.Chord D5 B-5 D6 G2 G3>,"[0, 3, 7]","[7, 10, 2]",Con moto D850 II A Major.mid,Schubert,83,2.0
+249,<music21.chord.Chord D5 B-5 D6 G2 G3>,"[0, 3, 7]","[7, 10, 2]",Con moto D850 II A Major.mid,Schubert,83,2.5
+249.75,<music21.chord.Chord B-5 D6 B-6 G1 G2>,"[0, 3, 7]","[7, 10, 2]",Con moto D850 II A Major.mid,Schubert,83,3.25
+250.25,<music21.chord.Chord B-5 D6 B-6 G1 G2>,"[0, 3, 7]","[7, 10, 2]",Con moto D850 II A Major.mid,Schubert,83,3.75
+250.5,<music21.chord.Chord E5 B-5 E6 C2 C3>,"[0, 2, 6]","[10, 0, 4]",Con moto D850 II A Major.mid,Schubert,84,1.0
+251,<music21.chord.Chord E5 B-5 E6 C2 C3>,"[0, 2, 6]","[10, 0, 4]",Con moto D850 II A Major.mid,Schubert,84,1.5
+251.75,<music21.chord.Chord F5 A5 F6 F1 F2>,"[0, 4]","[5, 9]",Con moto D850 II A Major.mid,Schubert,84,2.25
+252.25,<music21.chord.Chord F5 A5 F6 F1 F2>,"[0, 4]","[5, 9]",Con moto D850 II A Major.mid,Schubert,84,2.75
+252.5,<music21.chord.Chord F4 A4 F5 F2 C3 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,84,3.0
+253,<music21.chord.Chord F4 A4 F5 F2 C3 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,84,3.5
+253.75,<music21.chord.Chord F4 A4 F5 F3 C4>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,85,1.25
+254.25,<music21.chord.Chord F4 A4 F5 E-3 C4>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,85,1.75
+254.5,<music21.chord.Chord F#4 A4 F#5 D3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,85,2.0
+255,<music21.chord.Chord F#4 A4 F#5 D3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,85,2.5
+255.75,<music21.chord.Chord A4 F#5 F#4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,85,3.25
+256,<music21.chord.Chord C5 A5 A4>,"[0, 3]","[9, 0]",Con moto D850 II A Major.mid,Schubert,85,3.5
+256.25,<music21.chord.Chord B-4 G5 G4>,"[0, 3]","[7, 10]",Con moto D850 II A Major.mid,Schubert,85,3.75
+256.5,<music21.chord.Chord A4 F#5 F#4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,86,1.0
+256.75,<music21.chord.Chord G4 B-4 G5>,"[0, 3]","[7, 10]",Con moto D850 II A Major.mid,Schubert,86,1.25
+257,<music21.chord.Chord F#4 A4 F#5>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,86,1.5
+257.25,<music21.chord.Chord E-4 G4 E-5 C3 A3>,"[0, 2, 5, 8]","[7, 9, 0, 3]",Con moto D850 II A Major.mid,Schubert,86,1.75
+257.5,<music21.chord.Chord D4 F#4 D5 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,86,2.0
+258,<music21.chord.Chord D4 F#4 D5 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,86,2.5
+258.75,<music21.chord.Chord A4 F#5 F#4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,86,3.25
+259,<music21.chord.Chord C5 A5 A4>,"[0, 3]","[9, 0]",Con moto D850 II A Major.mid,Schubert,86,3.5
+259.25,<music21.chord.Chord B-4 G5 G4>,"[0, 3]","[7, 10]",Con moto D850 II A Major.mid,Schubert,86,3.75
+259.5,<music21.chord.Chord A4 F#5 F#4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,87,1.0
+259.75,<music21.chord.Chord G4 B-4 G5>,"[0, 3]","[7, 10]",Con moto D850 II A Major.mid,Schubert,87,1.25
+260,<music21.chord.Chord F#4 A4 F#5>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,87,1.5
+260.25,<music21.chord.Chord E-4 G4 E-5 C3 A3>,"[0, 2, 5, 8]","[7, 9, 0, 3]",Con moto D850 II A Major.mid,Schubert,87,1.75
+260.5,<music21.chord.Chord D4 F#4 D5 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,87,2.0
+261,<music21.chord.Chord D4 F#4 D5 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,87,2.5
+261.75,<music21.chord.Chord D4 F#4 D5 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,87,3.25
+262.25,<music21.chord.Chord D4 F#4 D5 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,87,3.75
+262.5,<music21.chord.Chord D4 F#4 D5 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,88,1.0
+263,<music21.chord.Chord D4 D5 F#4 D3 C4>,"[0, 2, 6]","[0, 2, 6]",Con moto D850 II A Major.mid,Schubert,88,1.5
+263.75,<music21.chord.Chord E-4 E-5 F#4 B2 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,88,2.25
+264.25,<music21.chord.Chord E-4 F#4 E-5 B2 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,88,2.75
+264.5,<music21.chord.Chord E-4 F#4 E-5 B2 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,88,3.0
+265,<music21.chord.Chord E-4 F#4 E-5 B2 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,88,3.5
+265.75,<music21.chord.Chord E-5 F#5 E-6 B-2 B-3>,"[0, 3, 7]","[3, 6, 10]",Con moto D850 II A Major.mid,Schubert,89,1.25
+266.25,<music21.chord.Chord E-5 F#5 E-6 B-2 B-3>,"[0, 3, 7]","[3, 6, 10]",Con moto D850 II A Major.mid,Schubert,89,1.75
+266.5,<music21.chord.Chord E-5 F#5 E-6 B-2 B-3>,"[0, 3, 7]","[3, 6, 10]",Con moto D850 II A Major.mid,Schubert,89,2.0
+267,<music21.chord.Chord E-5 F#5 E-6 B-2 B-3>,"[0, 3, 7]","[3, 6, 10]",Con moto D850 II A Major.mid,Schubert,89,2.5
+267.75,<music21.chord.Chord C#4 E4 C#5 A2 G3>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,89,3.25
+268.25,<music21.chord.Chord C#4 E4 C#5 A2 G3>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,89,3.75
+268.5,<music21.chord.Chord C#4 E4 C#5 A2 G3>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,90,1.0
+269,<music21.chord.Chord C#4 E4 C#5 A2 G3>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,90,1.5
+269.75,<music21.chord.Chord C#5 F5 C#6 G#2 G#3>,"[0, 4, 7]","[1, 5, 8]",Con moto D850 II A Major.mid,Schubert,90,2.25
+270.25,<music21.chord.Chord C#5 F5 C#6 G#2 G#3>,"[0, 4, 7]","[1, 5, 8]",Con moto D850 II A Major.mid,Schubert,90,2.75
+270.5,<music21.chord.Chord C#5 F5 C#6 G#2 G#3>,"[0, 4, 7]","[1, 5, 8]",Con moto D850 II A Major.mid,Schubert,90,3.0
+271,<music21.chord.Chord C#5 F5 C#6 G#2 G#3>,"[0, 4, 7]","[1, 5, 8]",Con moto D850 II A Major.mid,Schubert,90,3.5
+271.75,<music21.chord.Chord B3 D4 B4 G2 F3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,91,1.25
+272.25,<music21.chord.Chord B3 D4 B4 G2 F3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,91,1.75
+272.75,<music21.chord.Chord B4 E-5 B5 F#2 F#3>,"[0, 4, 7]","[11, 3, 6]",Con moto D850 II A Major.mid,Schubert,91,2.25
+273.25,<music21.chord.Chord B4 E-5 B5 F#2 F#3>,"[0, 4, 7]","[11, 3, 6]",Con moto D850 II A Major.mid,Schubert,91,2.75
+273.75,<music21.chord.Chord A3 C4 A4 F2 E-3>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,91,3.25
+274.25,<music21.chord.Chord A3 C4 A4 F2 E-3>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Con moto D850 II A Major.mid,Schubert,91,3.75
+274.75,<music21.chord.Chord A4 C#5 A5 E2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,92,1.25
+275.25,<music21.chord.Chord A4 C#5 A5 E2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,92,1.75
+276,<music21.chord.Chord B3 D4 F4 A4 E2 E3>,"[0, 2, 5, 7, 8]","[9, 11, 2, 4, 5]",Con moto D850 II A Major.mid,Schubert,92,2.5
+277,<music21.chord.Chord B3 D4 F4 A4 E2 E3>,"[0, 2, 5, 7, 8]","[9, 11, 2, 4, 5]",Con moto D850 II A Major.mid,Schubert,92,3.5
+278,<music21.chord.Chord B3 D4 E4 G#4 E2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,93,1.5
+279,<music21.chord.Chord B3 D4 E4 G#4 E2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,93,2.5
+281,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,94,1.5
+281.25,<music21.chord.Chord E5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,94,1.75
+281.5,<music21.chord.Chord A3 D4 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,94,2.0
+281.75,<music21.chord.Chord G#5 A3 D4 F#4>,"[0, 4, 6, 7]","[2, 6, 8, 9]",Con moto D850 II A Major.mid,Schubert,94,2.25
+281.875,<music21.chord.Chord F#5 A3 D4 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,94,2.375
+282,<music21.chord.Chord A3 C4 E-4>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,94,2.5
+282.25,<music21.chord.Chord E5 A3 C4 E-4>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Con moto D850 II A Major.mid,Schubert,94,2.75
+282.375,<music21.chord.Chord D5 A3 C4 E-4>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Con moto D850 II A Major.mid,Schubert,94,2.875
+282.5,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,94,3.0
+282.75,<music21.chord.Chord E5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,94,3.25
+283.25,<music21.chord.Chord C#5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,94,3.75
+283.5,<music21.chord.Chord E5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,95,1.0
+283.75,<music21.chord.Chord A5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,95,1.25
+284,<music21.chord.Chord C#4 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,95,1.5
+284.25,<music21.chord.Chord A5 C#4 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,95,1.75
+284.5,<music21.chord.Chord C#4 E4 B4>,"[0, 2, 5]","[11, 1, 4]",Con moto D850 II A Major.mid,Schubert,95,2.0
+284.75,<music21.chord.Chord G#5 C#4 E4 B4>,"[0, 3, 5, 8]","[8, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,95,2.25
+285,<music21.chord.Chord C#4 E4 C#5>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,95,2.5
+285.25,<music21.chord.Chord A5 C#4 E4 C#5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,95,2.75
+285.5,<music21.chord.Chord C#5 D4 F#4>,"[0, 1, 5]","[1, 2, 6]",Con moto D850 II A Major.mid,Schubert,95,3.0
+286,<music21.chord.Chord B-5 C#5 D4 F#4>,"[0, 4, 7, 8]","[6, 10, 1, 2]",Con moto D850 II A Major.mid,Schubert,95,3.5
+286.5,<music21.chord.Chord B-5 B4 D4 F#4>,"[0, 1, 4, 8]","[10, 11, 2, 6]",Con moto D850 II A Major.mid,Schubert,96,1.0
+286.75,<music21.chord.Chord B5 B4 D4 F#4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,96,1.25
+287,<music21.chord.Chord C#4 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,96,1.5
+287.25,<music21.chord.Chord C#6 C#4 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,96,1.75
+287.5,<music21.chord.Chord B3 D4 G#4>,"[0, 3, 6]","[8, 11, 2]",Con moto D850 II A Major.mid,Schubert,96,2.0
+287.75,<music21.chord.Chord D6 B3 D4 G#4>,"[0, 3, 6]","[8, 11, 2]",Con moto D850 II A Major.mid,Schubert,96,2.25
+288,<music21.chord.Chord A3 C#4 F#4>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,96,2.5
+288.25,<music21.chord.Chord E-6 A3 C#4 F#4>,"[0, 2, 5, 8]","[1, 3, 6, 9]",Con moto D850 II A Major.mid,Schubert,96,2.75
+288.5,<music21.chord.Chord E4 G#3 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,96,3.0
+289,<music21.chord.Chord E6 E4 G#3 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,96,3.5
+289.25,<music21.chord.Chord E6 E4 G#3 C#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,96,3.75
+289.5,<music21.chord.Chord E6 E4 G#3 D4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,97,1.0
+289.75,<music21.chord.Chord F#6 E4 G#3 D4>,"[0, 2, 4, 6]","[2, 4, 6, 8]",Con moto D850 II A Major.mid,Schubert,97,1.25
+290,<music21.chord.Chord G#3 D4 E4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,97,1.5
+290.25,<music21.chord.Chord E6 F#4 G#3 D4 E4>,"[0, 2, 4, 6]","[2, 4, 6, 8]",Con moto D850 II A Major.mid,Schubert,97,1.75
+290.375,<music21.chord.Chord G#4 G#3 D4 E4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,97,1.875
+290.5,<music21.chord.Chord G#3 D4 F#4>,"[0, 4, 6]","[2, 6, 8]",Con moto D850 II A Major.mid,Schubert,97,2.0
+290.75,<music21.chord.Chord D6 G#3 D4 F#4>,"[0, 4, 6]","[2, 6, 8]",Con moto D850 II A Major.mid,Schubert,97,2.25
+291,<music21.chord.Chord G#3 D4 E4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,97,2.5
+291.25,<music21.chord.Chord B5 G#3 D4 E4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,97,2.75
+291.5,<music21.chord.Chord A5 D4 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,97,3.0
+291.75,<music21.chord.Chord A6 D4 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,97,3.25
+292.75,<music21.chord.Chord G#6 A6 D4 F#4 A3>,"[0, 4, 6, 7]","[2, 6, 8, 9]",Con moto D850 II A Major.mid,Schubert,98,1.25
+292.875,<music21.chord.Chord F#6 A6 D4 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,98,1.375
+293,<music21.chord.Chord E6 A6 D4 F#4 A3>,"[0, 2, 4, 7]","[2, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,98,1.5
+293.125,<music21.chord.Chord D6 A6 D4 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,98,1.625
+293.25,<music21.chord.Chord C#6 A6 D4 F#4 A3>,"[0, 1, 5, 8]","[1, 2, 6, 9]",Con moto D850 II A Major.mid,Schubert,98,1.75
+293.375,<music21.chord.Chord B5 A6 D4 F#4 A3>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Con moto D850 II A Major.mid,Schubert,98,1.875
+293.5,<music21.chord.Chord A5 C#4 E4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,98,2.0
+293.75,<music21.chord.Chord C#4 E4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,98,2.25
+294,<music21.chord.Chord C#4 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,98,2.5
+294.25,<music21.chord.Chord E5 C#4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,98,2.75
+294.5,<music21.chord.Chord A3 D4 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,98,3.0
+294.75,<music21.chord.Chord G#5 A3 D4 F#4>,"[0, 4, 6, 7]","[2, 6, 8, 9]",Con moto D850 II A Major.mid,Schubert,98,3.25
+294.875,<music21.chord.Chord F#5 A3 D4 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,98,3.375
+295,<music21.chord.Chord A3 C4 E-4>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,98,3.5
+295.25,<music21.chord.Chord E5>,[0],[4],Con moto D850 II A Major.mid,Schubert,98,3.75
+295.375,<music21.chord.Chord E-5>,[0],[3],Con moto D850 II A Major.mid,Schubert,98,3.875
+295.5,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,99,1.0
+295.75,<music21.chord.Chord E5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,99,1.25
+296.25,<music21.chord.Chord C#5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,99,1.75
+296.5,<music21.chord.Chord E5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,99,2.0
+296.75,<music21.chord.Chord A5 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,99,2.25
+297,<music21.chord.Chord A3 C#4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,99,2.5
+297.25,<music21.chord.Chord A5 A3 C#4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,99,2.75
+297.5,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,99,3.0
+297.75,<music21.chord.Chord C#6 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,99,3.25
+298,<music21.chord.Chord A3 C#4 E-4 F#4>,"[0, 2, 5, 8]","[1, 3, 6, 9]",Con moto D850 II A Major.mid,Schubert,99,3.5
+298.25,<music21.chord.Chord E-6 A3 C#4 E-4 F#4>,"[0, 2, 5, 8]","[1, 3, 6, 9]",Con moto D850 II A Major.mid,Schubert,99,3.75
+298.5,<music21.chord.Chord G#3 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,100,1.0
+298.75,<music21.chord.Chord E6 G#3 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,100,1.25
+299.25,<music21.chord.Chord F#6 G#3 C#4 E4 G#4>,"[0, 3, 5, 7]","[1, 4, 6, 8]",Con moto D850 II A Major.mid,Schubert,100,1.75
+299.5,<music21.chord.Chord G#6 G#3 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,100,2.0
+299.75,<music21.chord.Chord C#7 G#3 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,100,2.25
+300,<music21.chord.Chord G#3 E4 G#4>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,100,2.5
+300.25,<music21.chord.Chord C#6>,[0],[1],Con moto D850 II A Major.mid,Schubert,100,2.75
+300.375,<music21.chord.Chord E6>,[0],[4],Con moto D850 II A Major.mid,Schubert,100,2.875
+300.5,<music21.chord.Chord G#3 F#4 G#4>,"[0, 2]","[6, 8]",Con moto D850 II A Major.mid,Schubert,100,3.0
+300.75,<music21.chord.Chord E6>,[0],[4],Con moto D850 II A Major.mid,Schubert,100,3.25
+300.875,<music21.chord.Chord E-6>,[0],[3],Con moto D850 II A Major.mid,Schubert,100,3.375
+301,<music21.chord.Chord G#3 E-4 G#4>,"[0, 5]","[3, 8]",Con moto D850 II A Major.mid,Schubert,100,3.5
+301.25,<music21.chord.Chord E-6>,[0],[3],Con moto D850 II A Major.mid,Schubert,100,3.75
+301.375,<music21.chord.Chord G#5>,[0],[8],Con moto D850 II A Major.mid,Schubert,100,3.875
+301.5,<music21.chord.Chord C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,101,1.0
+301.75,<music21.chord.Chord G#5 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,101,1.25
+302.125,<music21.chord.Chord B-5 C#4 E4 G#4>,"[0, 2, 5, 8]","[8, 10, 1, 4]",Con moto D850 II A Major.mid,Schubert,101,1.625
+302.25,<music21.chord.Chord B5 C#4 E4 G#4>,"[0, 3, 5, 8]","[8, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,101,1.75
+302.375,<music21.chord.Chord C6 C#4 E4 G#4>,"[0, 1, 4, 8]","[0, 1, 4, 8]",Con moto D850 II A Major.mid,Schubert,101,1.875
+302.5,<music21.chord.Chord C#6 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,101,2.0
+302.75,<music21.chord.Chord C#6 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,101,2.25
+303,<music21.chord.Chord E3 C#4 E4>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,101,2.5
+303.25,<music21.chord.Chord A6>,[0],[9],Con moto D850 II A Major.mid,Schubert,101,2.75
+303.375,<music21.chord.Chord C#7>,[0],[1],Con moto D850 II A Major.mid,Schubert,101,2.875
+303.5,<music21.chord.Chord E3 D4 E4>,"[0, 2]","[2, 4]",Con moto D850 II A Major.mid,Schubert,101,3.0
+303.75,<music21.chord.Chord C#7>,[0],[1],Con moto D850 II A Major.mid,Schubert,101,3.25
+303.875,<music21.chord.Chord B6>,[0],[11],Con moto D850 II A Major.mid,Schubert,101,3.375
+304,<music21.chord.Chord E3 C#4 E4>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,101,3.5
+304.25,<music21.chord.Chord B6>,[0],[11],Con moto D850 II A Major.mid,Schubert,101,3.75
+304.375,<music21.chord.Chord E6>,[0],[4],Con moto D850 II A Major.mid,Schubert,101,3.875
+304.5,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,102,1.0
+304.75,<music21.chord.Chord E6 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,102,1.25
+305.125,<music21.chord.Chord F#6 A3 C#4 E4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,102,1.625
+305.25,<music21.chord.Chord G6 A3 C#4 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,102,1.75
+305.375,<music21.chord.Chord G#6 A3 C#4 E4>,"[0, 1, 5, 8]","[8, 9, 1, 4]",Con moto D850 II A Major.mid,Schubert,102,1.875
+305.5,<music21.chord.Chord A6 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,102,2.0
+305.75,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,102,2.25
+306,<music21.chord.Chord C#5 E5 A5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,102,2.5
+306.25,<music21.chord.Chord B4>,[0],[11],Con moto D850 II A Major.mid,Schubert,102,2.75
+306.5,<music21.chord.Chord D5 F#5 A5>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,102,3.0
+306.75,<music21.chord.Chord A4>,[0],[9],Con moto D850 II A Major.mid,Schubert,102,3.25
+307,<music21.chord.Chord C5 E-5 A5>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,102,3.5
+307.25,<music21.chord.Chord F#4>,[0],[6],Con moto D850 II A Major.mid,Schubert,102,3.75
+307.5,<music21.chord.Chord C#5 E5 A5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,1.0
+307.75,<music21.chord.Chord C#5 E5 A5 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,1.25
+308.125,<music21.chord.Chord C#5 E5 A5 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,1.625
+308.25,<music21.chord.Chord C#5 E5 A5 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,1.75
+308.375,<music21.chord.Chord C#5 E5 A5 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,1.875
+308.5,<music21.chord.Chord C#5 E5 A5 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,2.0
+308.75,<music21.chord.Chord C#5 E5 A5 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,2.25
+309,<music21.chord.Chord C#5 E5 A5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,2.5
+309.25,<music21.chord.Chord C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,103,2.75
+309.5,<music21.chord.Chord C#5 E5 B5>,"[0, 2, 5]","[11, 1, 4]",Con moto D850 II A Major.mid,Schubert,103,3.0
+309.75,<music21.chord.Chord E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,103,3.25
+310,<music21.chord.Chord C#5 E5 C#6>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,103,3.5
+310.25,<music21.chord.Chord A4>,[0],[9],Con moto D850 II A Major.mid,Schubert,103,3.75
+310.5,<music21.chord.Chord C#6 D5 F#5>,"[0, 1, 5]","[1, 2, 6]",Con moto D850 II A Major.mid,Schubert,104,1.0
+310.75,<music21.chord.Chord C#6 D5 F#5 B-4>,"[0, 4, 7, 8]","[6, 10, 1, 2]",Con moto D850 II A Major.mid,Schubert,104,1.25
+311.125,<music21.chord.Chord C#6 D5 F#5 C#5>,"[0, 1, 5]","[1, 2, 6]",Con moto D850 II A Major.mid,Schubert,104,1.625
+311.25,<music21.chord.Chord C#6 D5 F#5 B4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",Con moto D850 II A Major.mid,Schubert,104,1.75
+311.375,<music21.chord.Chord C#6 D5 F#5 B-4>,"[0, 4, 7, 8]","[6, 10, 1, 2]",Con moto D850 II A Major.mid,Schubert,104,1.875
+311.5,<music21.chord.Chord B5 D5 F#5 B4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,104,2.0
+311.75,<music21.chord.Chord B5 D5 F#5 B4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,104,2.25
+312,<music21.chord.Chord D5 A5>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,104,2.5
+312.25,<music21.chord.Chord D4 F#4>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,104,2.75
+312.5,<music21.chord.Chord D5 G#5>,"[0, 6]","[2, 8]",Con moto D850 II A Major.mid,Schubert,104,3.0
+312.75,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,104,3.25
+313,<music21.chord.Chord F#5 D5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,104,3.5
+313.25,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,104,3.75
+313.5,<music21.chord.Chord D5 E5>,"[0, 2]","[2, 4]",Con moto D850 II A Major.mid,Schubert,105,1.0
+313.75,<music21.chord.Chord D5 E5 G#4 B4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,105,1.25
+314.125,<music21.chord.Chord D5 E5 A4 C#5>,"[0, 4, 5, 7]","[9, 1, 2, 4]",Con moto D850 II A Major.mid,Schubert,105,1.625
+314.25,<music21.chord.Chord D5 E5 G#4 B4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,105,1.75
+314.375,<music21.chord.Chord D5 E5 F#4 A4>,"[0, 2, 4, 7]","[2, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,105,1.875
+314.5,<music21.chord.Chord D5 E5 G#4 B4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,105,2.0
+314.75,<music21.chord.Chord D5 E5 G#4 B4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,105,2.25
+315,<music21.chord.Chord G#4 D5 E5>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,105,2.5
+315.25,<music21.chord.Chord E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,105,2.75
+315.5,<music21.chord.Chord A4 D5 F#5>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,105,3.0
+315.75,<music21.chord.Chord D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,105,3.25
+316,<music21.chord.Chord G#4 D5 E5>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,105,3.5
+316.25,<music21.chord.Chord B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,105,3.75
+316.5,<music21.chord.Chord D5 F#5 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,106,1.0
+316.75,<music21.chord.Chord D5 F#5 A4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,106,1.25
+317.75,<music21.chord.Chord D5 F#5 G#4 A4>,"[0, 4, 6, 7]","[2, 6, 8, 9]",Con moto D850 II A Major.mid,Schubert,106,2.25
+317.875,<music21.chord.Chord D5 F#5 F#4 A4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,106,2.375
+318,<music21.chord.Chord D5 F#5 E4 A4>,"[0, 2, 4, 7]","[2, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,106,2.5
+318.125,<music21.chord.Chord D5 F#5 D4 A4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,106,2.625
+318.25,<music21.chord.Chord D5 F#5 C#4 A4>,"[0, 1, 5, 8]","[1, 2, 6, 9]",Con moto D850 II A Major.mid,Schubert,106,2.75
+318.375,<music21.chord.Chord D5 F#5 B3 A4>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Con moto D850 II A Major.mid,Schubert,106,2.875
+318.5,<music21.chord.Chord C#5 E5 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,106,3.0
+318.75,<music21.chord.Chord C#5 E5 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,106,3.25
+319,<music21.chord.Chord A4 C#5 E5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,106,3.5
+319.25,<music21.chord.Chord B2 B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,106,3.75
+319.5,<music21.chord.Chord A4 D5 F#5>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,107,1.0
+319.75,<music21.chord.Chord A2 A3>,[0],[9],Con moto D850 II A Major.mid,Schubert,107,1.25
+320,<music21.chord.Chord A4 C5 E-5>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,107,1.5
+320.25,<music21.chord.Chord F#3 F#2>,[0],[6],Con moto D850 II A Major.mid,Schubert,107,1.75
+320.5,<music21.chord.Chord A4 C#5 E5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,107,2.0
+320.75,<music21.chord.Chord A4 C#5 E5 E2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,107,2.25
+321.25,<music21.chord.Chord A4 C#5 E5 C#2 C#3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,107,2.75
+321.5,<music21.chord.Chord A4 C#5 E5 E2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,107,3.0
+321.75,<music21.chord.Chord A4 C#5 E5 A2 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,107,3.25
+322,<music21.chord.Chord A4 C#5 E5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,107,3.5
+322.25,<music21.chord.Chord C#3 C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,107,3.75
+322.5,<music21.chord.Chord C#5 E5 A5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,108,1.0
+322.75,<music21.chord.Chord B2 B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,108,1.25
+323,<music21.chord.Chord E5 A5 C#6>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,108,1.5
+323.25,<music21.chord.Chord A2 A3>,[0],[9],Con moto D850 II A Major.mid,Schubert,108,1.75
+323.5,<music21.chord.Chord E5 G#5 C#6 E6>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,108,2.0
+323.75,<music21.chord.Chord E5 G#5 C#6 E6 G#2 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,108,2.25
+324.25,<music21.chord.Chord E5 G#5 C#6 E6 E2 E3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,108,2.75
+324.5,<music21.chord.Chord E5 G#5 C#6 E6 G#2 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,108,3.0
+324.75,<music21.chord.Chord E5 G#5 C#6 E6 C#3 C#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,108,3.25
+325,<music21.chord.Chord C#5 G#5 C#6>,"[0, 5]","[8, 1]",Con moto D850 II A Major.mid,Schubert,108,3.5
+325.25,<music21.chord.Chord E3 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,108,3.75
+325.5,<music21.chord.Chord E-5 F#5 E-6>,"[0, 3]","[3, 6]",Con moto D850 II A Major.mid,Schubert,109,1.0
+325.75,<music21.chord.Chord A3 A4>,[0],[9],Con moto D850 II A Major.mid,Schubert,109,1.25
+326,<music21.chord.Chord F#5 C6 E-6 G#6>,"[0, 3, 6, 8]","[0, 3, 6, 8]",Con moto D850 II A Major.mid,Schubert,109,1.5
+326.25,<music21.chord.Chord G#2 G#3>,[0],[8],Con moto D850 II A Major.mid,Schubert,109,1.75
+326.5,<music21.chord.Chord C#5 E5 G#5 C#6>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,109,2.0
+326.75,<music21.chord.Chord C#5 E5 G#5 C#6 C#3 C#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,109,2.25
+327.25,<music21.chord.Chord C#5 E5 G#5 C#6 G#2 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,109,2.75
+327.5,<music21.chord.Chord C#5 E5 G#5 C#6 E2 E3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,109,3.0
+327.75,<music21.chord.Chord C#5 E5 G#5 C#6 C#2 C#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,109,3.25
+328,<music21.chord.Chord E4 A4>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,109,3.5
+328.25,<music21.chord.Chord C#3>,[0],[1],Con moto D850 II A Major.mid,Schubert,109,3.75
+328.5,<music21.chord.Chord E-4 A4 B4>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,110,1.0
+328.75,<music21.chord.Chord F#3>,[0],[6],Con moto D850 II A Major.mid,Schubert,110,1.25
+329,<music21.chord.Chord D4 G#4 B4 E5>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,110,1.5
+329.25,<music21.chord.Chord E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,110,1.75
+329.5,<music21.chord.Chord C#4 A4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,110,2.0
+329.75,<music21.chord.Chord C#4 A4 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,110,2.25
+330.25,<music21.chord.Chord C#4 A4 C#3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,110,2.75
+330.5,<music21.chord.Chord C#4 A4 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,110,3.0
+330.75,<music21.chord.Chord C#4 A4 F#2>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,110,3.25
+331,<music21.chord.Chord C#5 G5 B-5>,"[0, 3, 6]","[7, 10, 1]",Con moto D850 II A Major.mid,Schubert,110,3.5
+331.25,<music21.chord.Chord E2 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,110,3.75
+331.5,<music21.chord.Chord D5 G5 B5>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,111,1.0
+331.75,<music21.chord.Chord D2 D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,111,1.25
+332,<music21.chord.Chord E5 G5 C#6>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,111,1.5
+332.25,<music21.chord.Chord C#2 C#3>,[0],[1],Con moto D850 II A Major.mid,Schubert,111,1.75
+332.5,<music21.chord.Chord D5 G5 B5 D6>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,111,2.0
+333,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,111,2.5
+333.75,<music21.chord.Chord B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,111,3.25
+334,<music21.chord.Chord G5 B5>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,111,3.5
+334.25,<music21.chord.Chord D5 G5>,"[0, 5]","[2, 7]",Con moto D850 II A Major.mid,Schubert,111,3.75
+334.5,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,112,1.0
+334.75,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,112,1.25
+335,<music21.chord.Chord D4 G4>,"[0, 5]","[2, 7]",Con moto D850 II A Major.mid,Schubert,112,1.5
+335.25,<music21.chord.Chord B3 D4 G2 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,112,1.75
+335.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,112,2.0
+337,<music21.chord.Chord B3 D4 G2 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,112,3.5
+337.25,<music21.chord.Chord D4 G4 B2 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,112,3.75
+337.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,113,1.0
+337.75,<music21.chord.Chord E4 C5 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,113,1.25
+338,<music21.chord.Chord F4 B4 D3 G3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,113,1.5
+338.25,<music21.chord.Chord B4 F5 G2 G3>,"[0, 2, 6]","[5, 7, 11]",Con moto D850 II A Major.mid,Schubert,113,1.75
+338.5,<music21.chord.Chord C5 E5 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,113,2.0
+339,<music21.chord.Chord B3 D4 G2 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,113,2.5
+339.25,<music21.chord.Chord D4 G4 B2 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,113,2.75
+339.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,113,3.0
+339.75,<music21.chord.Chord E4 C5 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,113,3.25
+340,<music21.chord.Chord F4 B4 D3 G3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,113,3.5
+340.25,<music21.chord.Chord B4 F5 G2 G3>,"[0, 2, 6]","[5, 7, 11]",Con moto D850 II A Major.mid,Schubert,113,3.75
+340.5,<music21.chord.Chord C5 E5 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,114,1.0
+341,<music21.chord.Chord F5 B5 D3 G3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,114,1.5
+341.25,<music21.chord.Chord B5 F6 G2 G3>,"[0, 2, 6]","[5, 7, 11]",Con moto D850 II A Major.mid,Schubert,114,1.75
+341.5,<music21.chord.Chord C6 E6 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,114,2.0
+341.75,<music21.chord.Chord E5 C6 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,114,2.25
+342,<music21.chord.Chord F5 B5 D3 G3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,114,2.5
+342.25,<music21.chord.Chord B4 F5 G2 G3>,"[0, 2, 6]","[5, 7, 11]",Con moto D850 II A Major.mid,Schubert,114,2.75
+342.5,<music21.chord.Chord C5 E5 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,114,3.0
+343,<music21.chord.Chord E4 G#4 D5 E5>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,114,3.5
+343.25,<music21.chord.Chord B1 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,114,3.75
+343.5,<music21.chord.Chord F#4 A4 D5 F#5>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,115,1.0
+343.75,<music21.chord.Chord E2 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,115,1.25
+344,<music21.chord.Chord G#4 B4 E5 G#5>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,115,1.5
+344.25,<music21.chord.Chord D2 D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,115,1.75
+344.5,<music21.chord.Chord A4 C#5 E5 A5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,115,2.0
+344.75,<music21.chord.Chord C#2 C#3>,[0],[1],Con moto D850 II A Major.mid,Schubert,115,2.25
+345,<music21.chord.Chord B4 E-5 A5 B5>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,115,2.5
+345.25,<music21.chord.Chord F#2 F#3>,[0],[6],Con moto D850 II A Major.mid,Schubert,115,2.75
+345.5,<music21.chord.Chord C#5 E5 A5 C#6 E2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,115,3.0
+346.25,<music21.chord.Chord A4 E2 E3>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,115,3.75
+346.5,<music21.chord.Chord C#5 D4 E4 G#4 E2 E3>,"[0, 1, 3, 7]","[1, 2, 4, 8]",Con moto D850 II A Major.mid,Schubert,116,1.0
+347.25,<music21.chord.Chord B4 D4 E4 G#4 E2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,116,1.75
+347.5,<music21.chord.Chord C#4 E4 A4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,116,2.0
+349,<music21.chord.Chord E5 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,116,3.5
+349.25,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,116,3.75
+349.5,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,117,1.0
+349.75,<music21.chord.Chord C#5 C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,117,1.25
+350,<music21.chord.Chord B4 B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,117,1.5
+350.25,<music21.chord.Chord A4 A3>,[0],[9],Con moto D850 II A Major.mid,Schubert,117,1.75
+350.375,<music21.chord.Chord A4 A3>,[0],[9],Con moto D850 II A Major.mid,Schubert,117,1.875
+350.5,<music21.chord.Chord E5 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,117,2.0
+352,<music21.chord.Chord E5 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,117,3.5
+352.25,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,117,3.75
+352.5,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,118,1.0
+352.6666667,<music21.chord.Chord C#5 C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,118,1.1666667
+352.875,<music21.chord.Chord B4 B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,118,1.375
+353,<music21.chord.Chord B-4 B-3>,[0],[10],Con moto D850 II A Major.mid,Schubert,118,1.5
+353.125,<music21.chord.Chord C#5 C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,118,1.625
+353.3333333,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,118,1.8333333
+353.375,<music21.chord.Chord C#5 D5 C#4 D4>,"[0, 1]","[1, 2]",Con moto D850 II A Major.mid,Schubert,118,1.875
+353.4583333,<music21.chord.Chord C#5 C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,118,1.9583333
+353.5,<music21.chord.Chord E5 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,118,2.0
+355,<music21.chord.Chord B-4 B-3>,[0],[10],Con moto D850 II A Major.mid,Schubert,118,3.5
+355.25,<music21.chord.Chord E5 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,118,3.75
+355.5,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,119,1.0
+355.625,<music21.chord.Chord E5 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,119,1.125
+355.75,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,119,1.25
+355.875,<music21.chord.Chord C#5 C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,119,1.375
+356,<music21.chord.Chord B4 B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,119,1.5
+356.125,<music21.chord.Chord C#5 C#4>,[0],[1],Con moto D850 II A Major.mid,Schubert,119,1.625
+356.25,<music21.chord.Chord D5 D4>,[0],[2],Con moto D850 II A Major.mid,Schubert,119,1.75
+356.375,<music21.chord.Chord E5 E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,119,1.875
+356.5,<music21.chord.Chord F#5 F#4>,[0],[6],Con moto D850 II A Major.mid,Schubert,119,2.0
+357,<music21.chord.Chord F#5 B-4 F#4 E4>,"[0, 2, 6]","[4, 6, 10]",Con moto D850 II A Major.mid,Schubert,119,2.5
+357.5,<music21.chord.Chord F#5 B4 F#4 D4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,119,3.0
+358,<music21.chord.Chord B-5 C#5 F#4 C#4 E4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Con moto D850 II A Major.mid,Schubert,119,3.5
+358.5,<music21.chord.Chord B5 D5 B3 D4 F#4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,120,1.0
+359,<music21.chord.Chord F#5 B4 D4>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,120,1.5
+359.25,<music21.chord.Chord D5 B4 D4>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,120,1.75
+359.5,<music21.chord.Chord A4 C#5 E-4>,"[0, 4, 6]","[9, 1, 3]",Con moto D850 II A Major.mid,Schubert,120,2.0
+360.5,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,120,3.0
+361,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,120,3.5
+361.25,<music21.chord.Chord E-4 E-3>,[0],[3],Con moto D850 II A Major.mid,Schubert,120,3.75
+361.5,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,121,1.0
+361.75,<music21.chord.Chord B3 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,121,1.25
+361.875,<music21.chord.Chord A3 B3 A2 B2>,"[0, 2]","[9, 11]",Con moto D850 II A Major.mid,Schubert,121,1.375
+362,<music21.chord.Chord A3 A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,121,1.5
+362.25,<music21.chord.Chord G#3 G#2>,[0],[8],Con moto D850 II A Major.mid,Schubert,121,1.75
+362.375,<music21.chord.Chord G#3 G#2>,[0],[8],Con moto D850 II A Major.mid,Schubert,121,1.875
+362.5,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,121,2.0
+363,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,121,2.5
+364,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,121,3.5
+364.25,<music21.chord.Chord E-4 E-3>,[0],[3],Con moto D850 II A Major.mid,Schubert,121,3.75
+364.5,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,122,1.0
+364.75,<music21.chord.Chord C4 C3>,[0],[0],Con moto D850 II A Major.mid,Schubert,122,1.25
+364.875,<music21.chord.Chord B3 C4 B2 C3>,"[0, 1]","[11, 0]",Con moto D850 II A Major.mid,Schubert,122,1.375
+365,<music21.chord.Chord B3 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,122,1.5
+365.25,<music21.chord.Chord A3 A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,122,1.75
+365.375,<music21.chord.Chord A3 A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,122,1.875
+365.5,<music21.chord.Chord F4 F3>,[0],[5],Con moto D850 II A Major.mid,Schubert,122,2.0
+366,<music21.chord.Chord F4 F3>,[0],[5],Con moto D850 II A Major.mid,Schubert,122,2.5
+367,<music21.chord.Chord F4 F3>,[0],[5],Con moto D850 II A Major.mid,Schubert,122,3.5
+367.25,<music21.chord.Chord E4 E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,122,3.75
+367.5,<music21.chord.Chord F4 F3>,[0],[5],Con moto D850 II A Major.mid,Schubert,123,1.0
+367.75,<music21.chord.Chord D4 D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,123,1.25
+367.875,<music21.chord.Chord C4 D4 C3 D3>,"[0, 2]","[0, 2]",Con moto D850 II A Major.mid,Schubert,123,1.375
+368,<music21.chord.Chord C4 C3>,[0],[0],Con moto D850 II A Major.mid,Schubert,123,1.5
+368.25,<music21.chord.Chord B3 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,123,1.75
+368.375,<music21.chord.Chord B3 B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,123,1.875
+368.5,<music21.chord.Chord G4 G3>,[0],[7],Con moto D850 II A Major.mid,Schubert,123,2.0
+369,<music21.chord.Chord D4 G4 B4 G3 F3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,123,2.5
+369.5,<music21.chord.Chord C4 G4 C5 G3 E3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,123,3.0
+370,<music21.chord.Chord D4 G4 D5 G3 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,123,3.5
+370.5,<music21.chord.Chord E5 E4 G4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,124,1.0
+371,<music21.chord.Chord G5 G4 B4 G3 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,124,1.5
+371.25,<music21.chord.Chord F5 G4 B4 G3 D3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,124,1.75
+371.5,<music21.chord.Chord B4 F5 G4 G3 D3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,124,2.0
+372.5,<music21.chord.Chord C5 E5 G4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,124,3.0
+373,<music21.chord.Chord G4 E5 G5 G3 G2>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,124,3.5
+373.5,<music21.chord.Chord C5 G5 C6 A2 A3 G3>,"[0, 2, 5]","[7, 9, 0]",Con moto D850 II A Major.mid,Schubert,125,1.0
+374,<music21.chord.Chord D5 G5 D6 B2 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,125,1.5
+374.5,<music21.chord.Chord E5 G5 E6 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,125,2.0
+375,<music21.chord.Chord E5 G5 E6 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,125,2.5
+376,<music21.chord.Chord C6 C5 E5 C4 E4 E3>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,125,3.5
+376.5,<music21.chord.Chord G5 C5 E5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,126,1.0
+377,<music21.chord.Chord B4 D5 F5 G3 B3 D4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,126,1.5
+377.5,<music21.chord.Chord E5 C5 C4 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,126,2.0
+378,<music21.chord.Chord E5 C5 C4 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,126,2.5
+379,<music21.chord.Chord F4 D5 G4 G3 B2>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,126,3.5
+379.5,<music21.chord.Chord E4 C5 G4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,127,1.0
+380,<music21.chord.Chord G4 B3 G3 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,127,1.5
+380.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,127,2.0
+381,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,127,2.5
+382,<music21.chord.Chord C4 E4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,127,3.5
+382.25,<music21.chord.Chord B3 D4 G3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,127,3.75
+382.5,<music21.chord.Chord B3 D4 G3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,128,1.0
+382.75,<music21.chord.Chord C4 E4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,128,1.25
+383,<music21.chord.Chord C4 E4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,128,1.5
+383.25,<music21.chord.Chord B3 F4 G3 D3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,128,1.75
+383.5,<music21.chord.Chord C4 E4 C3 G3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,128,2.0
+384,<music21.chord.Chord C5 E5 G4 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,128,2.5
+384.25,<music21.chord.Chord B4 D5 G4 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,128,2.75
+384.5,<music21.chord.Chord D5 B4 G4 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,128,3.0
+384.75,<music21.chord.Chord E5 C5 G4 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,128,3.25
+385,<music21.chord.Chord G5 B4 G4 E4>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,128,3.5
+385.25,<music21.chord.Chord F5 B4 G4 D4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,128,3.75
+385.5,<music21.chord.Chord E5 C5 G4 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,129,1.0
+386,<music21.chord.Chord C4 E4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,129,1.5
+386.25,<music21.chord.Chord B3 D4 G3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,129,1.75
+386.5,<music21.chord.Chord D4 B3 G3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,129,2.0
+386.75,<music21.chord.Chord E4 C4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,129,2.25
+387,<music21.chord.Chord G4 B3 G3 E3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,129,2.5
+387.25,<music21.chord.Chord F4 B3 G3 D3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,129,2.75
+387.5,<music21.chord.Chord E4 C4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,129,3.0
+388,<music21.chord.Chord E5 C5 C4 G4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,129,3.5
+388.5,<music21.chord.Chord E5 D5 B3 G#4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,130,1.0
+388.75,<music21.chord.Chord F#5 D5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,130,1.25
+388.875,<music21.chord.Chord G#5 D5>,"[0, 6]","[2, 8]",Con moto D850 II A Major.mid,Schubert,130,1.375
+389,<music21.chord.Chord F#5 D5 B3 G#4>,"[0, 2, 5, 8]","[6, 8, 11, 2]",Con moto D850 II A Major.mid,Schubert,130,1.5
+389.375,<music21.chord.Chord E5 D5>,"[0, 2]","[2, 4]",Con moto D850 II A Major.mid,Schubert,130,1.875
+389.5,<music21.chord.Chord C#5 A3 A4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,130,2.0
+389.75,<music21.chord.Chord A5 C#5>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,130,2.25
+390,<music21.chord.Chord E5 C#5 A3 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,130,2.5
+390.25,<music21.chord.Chord C#6 C#5>,[0],[1],Con moto D850 II A Major.mid,Schubert,130,2.75
+390.5,<music21.chord.Chord G#5 B4 E5 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,130,3.0
+391.5,<music21.chord.Chord G#5 A4 E-5 B2 B3>,"[0, 1, 3, 7]","[8, 9, 11, 3]",Con moto D850 II A Major.mid,Schubert,131,1.0
+392,<music21.chord.Chord F#5 A4 E-5 B2 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,131,1.5
+392.375,<music21.chord.Chord E5 A4 E-5 B2 B3>,"[0, 2, 6, 7]","[9, 11, 3, 4]",Con moto D850 II A Major.mid,Schubert,131,1.875
+392.5,<music21.chord.Chord G#4 E3 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,131,2.0
+393.25,<music21.chord.Chord G#3 E3 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,131,2.75
+393.5,<music21.chord.Chord B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,131,3.0
+393.75,<music21.chord.Chord E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,131,3.25
+394,<music21.chord.Chord G#4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,131,3.5
+394.25,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,131,3.75
+394.5,<music21.chord.Chord C#5 A4 C#4 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,132,1.0
+395,<music21.chord.Chord B-4 G4 B-3 E3>,"[0, 3, 6]","[4, 7, 10]",Con moto D850 II A Major.mid,Schubert,132,1.5
+395.5,<music21.chord.Chord B4 G#4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,132,2.0
+396.25,<music21.chord.Chord B3 E3>,"[0, 5]","[11, 4]",Con moto D850 II A Major.mid,Schubert,132,2.75
+396.5,<music21.chord.Chord E4 B3 E3>,"[0, 5]","[11, 4]",Con moto D850 II A Major.mid,Schubert,132,3.0
+396.75,<music21.chord.Chord G#4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,132,3.25
+397,<music21.chord.Chord B4 G#4 E4 E3 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,132,3.5
+397.25,<music21.chord.Chord E5 G#4 B4 E4 E3 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,132,3.75
+397.5,<music21.chord.Chord F#5 G#4 B4 F#4 E3 B3>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Con moto D850 II A Major.mid,Schubert,133,1.0
+398,<music21.chord.Chord G#5 G#4 C5 E3 C4 E4>,"[0, 4, 8]","[0, 4, 8]",Con moto D850 II A Major.mid,Schubert,133,1.5
+398.5,<music21.chord.Chord A4 C#5 G#5 F4 A3 C#4>,"[0, 4, 7, 8]","[1, 5, 8, 9]",Con moto D850 II A Major.mid,Schubert,133,2.0
+399.5,<music21.chord.Chord F#5 A4 C#5 F#4 A3 C#4>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,133,3.0
+399.75,<music21.chord.Chord A4 F#4 A3 C#4>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,133,3.25
+400,<music21.chord.Chord C#5 A4 C#4 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,133,3.5
+400.25,<music21.chord.Chord E5 A4 C#4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,133,3.75
+400.5,<music21.chord.Chord E-5 A4 E-4 B3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,134,1.0
+401,<music21.chord.Chord C#5 A4 E4 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,134,1.5
+401.5,<music21.chord.Chord B4 A4 E-3 B3>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,134,2.0
+402.25,<music21.chord.Chord B4 E-3 B3>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,134,2.75
+402.5,<music21.chord.Chord E-5 E-3 B3>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,134,3.0
+402.75,<music21.chord.Chord F#5 E-3 B3>,"[0, 4, 7]","[11, 3, 6]",Con moto D850 II A Major.mid,Schubert,134,3.25
+403,<music21.chord.Chord A5 E-4 B4>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,134,3.5
+403.25,<music21.chord.Chord B5 E-4 B4>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,134,3.75
+403.375,<music21.chord.Chord C#6 E-6 E-4 B4>,"[0, 2, 4]","[11, 1, 3]",Con moto D850 II A Major.mid,Schubert,134,3.875
+403.5,<music21.chord.Chord C#6 C#5>,[0],[1],Con moto D850 II A Major.mid,Schubert,135,1.0
+404,<music21.chord.Chord B5 A5 E-4 B4>,"[0, 2, 6]","[9, 11, 3]",Con moto D850 II A Major.mid,Schubert,135,1.5
+404.5,<music21.chord.Chord C#6 A5 E4 C#5>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,135,2.0
+405.5,<music21.chord.Chord G#5 B5 B4 E4>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,135,3.0
+405.75,<music21.chord.Chord B3>,[0],[11],Con moto D850 II A Major.mid,Schubert,135,3.25
+406,<music21.chord.Chord E4 G#4 G#3>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,135,3.5
+406.25,<music21.chord.Chord E4 G#4 G#3 F#3>,"[0, 2, 4]","[4, 6, 8]",Con moto D850 II A Major.mid,Schubert,135,3.75
+406.5,<music21.chord.Chord C#5 E4 G#4 G#3 E3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,136,1.0
+407,<music21.chord.Chord F#4 G#4 C5 E-3 G#3 C4>,"[0, 3, 6, 8]","[0, 3, 6, 8]",Con moto D850 II A Major.mid,Schubert,136,1.5
+407.5,<music21.chord.Chord E4 A4 C#5 C#3 E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,136,2.0
+408.25,<music21.chord.Chord E-4 C#3 E3 A3 C#4>,"[0, 4, 6, 7]","[9, 1, 3, 4]",Con moto D850 II A Major.mid,Schubert,136,2.75
+408.5,<music21.chord.Chord E4 C#3 E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,136,3.0
+408.75,<music21.chord.Chord A4 C#3 E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,136,3.25
+409,<music21.chord.Chord C#5>,[0],[1],Con moto D850 II A Major.mid,Schubert,136,3.5
+409.25,<music21.chord.Chord E5 E4 C#4>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,136,3.75
+409.5,<music21.chord.Chord E5 F#5 B3 E4>,"[0, 2, 7]","[4, 6, 11]",Con moto D850 II A Major.mid,Schubert,137,1.0
+410,<music21.chord.Chord D5 E5 G#5 E4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,137,1.5
+410.5,<music21.chord.Chord G#5 B5 D5 F4 G#4 A3>,"[0, 1, 3, 6, 9]","[8, 9, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,137,2.0
+413.5,<music21.chord.Chord F#5 A5 D5 F#4 A4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,138,2.0
+416.5,<music21.chord.Chord G5 C#5 A4 A3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,139,2.0
+418,<music21.chord.Chord A5 G5 C#5 A4 A3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,139,3.5
+418.125,<music21.chord.Chord G5 C#5 A4 A3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,139,3.625
+418.25,<music21.chord.Chord F#5 C#5 A4 A3 E4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,139,3.75
+418.375,<music21.chord.Chord G5 C#5 A4 A3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,139,3.875
+418.5,<music21.chord.Chord F#5 C#5 A4 A3 E4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Con moto D850 II A Major.mid,Schubert,140,1.0
+418.75,<music21.chord.Chord G5 C#5 A4 A3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Con moto D850 II A Major.mid,Schubert,140,1.25
+419,<music21.chord.Chord B5 C#5 A4 A3 E4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,140,1.5
+419.25,<music21.chord.Chord A5 C#5 A4 A3 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,140,1.75
+419.5,<music21.chord.Chord F#5 D5 A4 D3 A3 D4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,140,2.0
+420.25,<music21.chord.Chord F#4>,[0],[6],Con moto D850 II A Major.mid,Schubert,140,2.75
+420.5,<music21.chord.Chord A4>,[0],[9],Con moto D850 II A Major.mid,Schubert,140,3.0
+420.75,<music21.chord.Chord D5>,[0],[2],Con moto D850 II A Major.mid,Schubert,140,3.25
+421,<music21.chord.Chord F#5>,[0],[6],Con moto D850 II A Major.mid,Schubert,140,3.5
+421.25,<music21.chord.Chord A5 D5 A4 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,140,3.75
+421.5,<music21.chord.Chord G#5 E5 D5 A4 E3 G#3>,"[0, 2, 6, 7]","[2, 4, 8, 9]",Con moto D850 II A Major.mid,Schubert,141,1.0
+421.5833333,<music21.chord.Chord E3 G#3>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,141,1.0833333
+422,<music21.chord.Chord F#5 A4 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,141,1.5
+422.5,<music21.chord.Chord A4 E5 C#3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,141,2.0
+423.25,<music21.chord.Chord C#4 C#3 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,141,2.75
+423.5,<music21.chord.Chord E4 C#3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,141,3.0
+423.75,<music21.chord.Chord A4 C#3 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,141,3.25
+424,<music21.chord.Chord C#5>,[0],[1],Con moto D850 II A Major.mid,Schubert,141,3.5
+424.25,<music21.chord.Chord E5 E4 A4 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,141,3.75
+424.5,<music21.chord.Chord E-5 B4 B3 E-4>,"[0, 4]","[11, 3]",Con moto D850 II A Major.mid,Schubert,142,1.0
+425,<music21.chord.Chord C#5 A3 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,142,1.5
+425.5,<music21.chord.Chord E4 B4 G#3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,142,2.0
+426,<music21.chord.Chord F#4 B-4 E5 C#4 E4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Con moto D850 II A Major.mid,Schubert,142,2.5
+426.5,<music21.chord.Chord G#4 B4 E5 G#5 B3 E4>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,142,3.0
+427.5,<music21.chord.Chord G#5 A4 B4 E-5 B2 B3>,"[0, 1, 3, 7]","[8, 9, 11, 3]",Con moto D850 II A Major.mid,Schubert,143,1.0
+428.25,<music21.chord.Chord F#5 A4 B4 E-5 B2 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,143,1.75
+428.5,<music21.chord.Chord G#4 B4 E5 E3 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,143,2.0
+430,<music21.chord.Chord E4>,[0],[4],Con moto D850 II A Major.mid,Schubert,143,3.5
+430.5,<music21.chord.Chord C#4 A4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,144,1.0
+430.75,<music21.chord.Chord C#4 A4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,144,1.25
+431,<music21.chord.Chord C#4 A4 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,144,1.5
+431.25,<music21.chord.Chord E4 B4 G#3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,144,1.75
+431.5,<music21.chord.Chord A4 C#5 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,144,2.0
+431.75,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,144,2.25
+432,<music21.chord.Chord A4 C#5 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,144,2.5
+432.25,<music21.chord.Chord A4 C#5 A1>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,144,2.75
+432.5,<music21.chord.Chord A4 C#5 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,144,3.0
+432.75,<music21.chord.Chord A4 C#5>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,144,3.25
+433,<music21.chord.Chord A4 C#5 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,144,3.5
+433.25,<music21.chord.Chord E4 B4 G#3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,144,3.75
+433.5,<music21.chord.Chord C#4 A4 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,145,1.0
+433.75,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,145,1.25
+434,<music21.chord.Chord F#4 A4 C#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,145,1.5
+434.25,<music21.chord.Chord C#4 G#4 E3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,145,1.75
+434.5,<music21.chord.Chord A3 F#4 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,145,2.0
+434.75,<music21.chord.Chord D2>,[0],[2],Con moto D850 II A Major.mid,Schubert,145,2.25
+435,<music21.chord.Chord A3 F#4 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,145,2.5
+435.25,<music21.chord.Chord A3 F#4 A1>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,145,2.75
+435.5,<music21.chord.Chord A3 F#4 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,145,3.0
+435.75,<music21.chord.Chord A3 F#4 F#2>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,145,3.25
+436,<music21.chord.Chord F#4 D2>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,145,3.5
+436.25,<music21.chord.Chord F#4 C#2>,"[0, 5]","[1, 6]",Con moto D850 II A Major.mid,Schubert,145,3.75
+436.5,<music21.chord.Chord D4 B4 B1>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,146,1.0
+436.75,<music21.chord.Chord D4 B4>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,146,1.25
+437,<music21.chord.Chord D4 B4 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,146,1.5
+437.25,<music21.chord.Chord F#4 C#5 B-3>,"[0, 4, 7]","[6, 10, 1]",Con moto D850 II A Major.mid,Schubert,146,1.75
+437.5,<music21.chord.Chord B4 D5 B3>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,146,2.0
+437.75,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,146,2.25
+438,<music21.chord.Chord B4 D5 B2>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,146,2.5
+438.25,<music21.chord.Chord B4 D5 B1>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,146,2.75
+438.5,<music21.chord.Chord B4 D5 B2>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,146,3.0
+438.75,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,146,3.25
+439,<music21.chord.Chord B4 D5 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,146,3.5
+439.25,<music21.chord.Chord F#4 C#5 A3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,146,3.75
+439.5,<music21.chord.Chord D4 B4 G#3>,"[0, 3, 6]","[8, 11, 2]",Con moto D850 II A Major.mid,Schubert,147,1.0
+439.75,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",Con moto D850 II A Major.mid,Schubert,147,1.25
+440,<music21.chord.Chord G#4 B4 E-3>,"[0, 3, 7]","[8, 11, 3]",Con moto D850 II A Major.mid,Schubert,147,1.5
+440.25,<music21.chord.Chord E-4 A4 F#3>,"[0, 3, 6]","[3, 6, 9]",Con moto D850 II A Major.mid,Schubert,147,1.75
+440.5,<music21.chord.Chord B3 G#4 E3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,147,2.0
+440.75,<music21.chord.Chord E2>,[0],[4],Con moto D850 II A Major.mid,Schubert,147,2.25
+441,<music21.chord.Chord B3 G#4 E2>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,147,2.5
+441.25,<music21.chord.Chord B3 G#4 B1>,"[0, 3]","[8, 11]",Con moto D850 II A Major.mid,Schubert,147,2.75
+441.5,<music21.chord.Chord B3 G#4 E2>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,147,3.0
+441.75,<music21.chord.Chord G#3 E4 G#4 E2 E3>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,147,3.25
+442.25,<music21.chord.Chord A3 E4 A4 F#2 E3 F#3>,"[0, 2, 5]","[4, 6, 9]",Con moto D850 II A Major.mid,Schubert,147,3.75
+442.5,<music21.chord.Chord B3 E4 B4 G#2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,148,1.0
+442.75,<music21.chord.Chord C#4 A4 C#5 A2 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,148,1.25
+443.25,<music21.chord.Chord D4 A4 D5 B2 A3 B3>,"[0, 2, 5]","[9, 11, 2]",Con moto D850 II A Major.mid,Schubert,148,1.75
+443.5,<music21.chord.Chord E4 A4 E5 C#3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,148,2.0
+444,<music21.chord.Chord E4 A4 E5 C#3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,148,2.5
+444.75,<music21.chord.Chord A4 E5 C#3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,148,3.25
+445,<music21.chord.Chord A4 C#5 A5 E3 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,148,3.5
+445.25,<music21.chord.Chord A4 E5 C#3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,148,3.75
+445.5,<music21.chord.Chord A4 C#5 A2 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,149,1.0
+445.75,<music21.chord.Chord A4 G#2 G#3>,"[0, 1]","[8, 9]",Con moto D850 II A Major.mid,Schubert,149,1.25
+446,<music21.chord.Chord A4 C#5 F#2 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,149,1.5
+446.25,<music21.chord.Chord A4 E5 E2 E3>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,149,1.75
+446.5,<music21.chord.Chord F#4 A4 F#5 D2 A2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,149,2.0
+447,<music21.chord.Chord F#4 A4 F#5 D2 A2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,149,2.5
+447.75,<music21.chord.Chord F#4 A4 F#5 A2 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,149,3.25
+448,<music21.chord.Chord F#4 A4 F#5 D3 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,149,3.5
+448.25,<music21.chord.Chord E4 A4 E5 C#3 C#2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,149,3.75
+448.5,<music21.chord.Chord F#4 A4 F#5 D3 D2 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,1.0
+448.75,<music21.chord.Chord F#4 A4 F#5 A2 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,1.25
+449,<music21.chord.Chord F#4 A4 F#5 D3 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,1.5
+449.25,<music21.chord.Chord G4 A4 G5 E3 E2 A2>,"[0, 3, 5]","[4, 7, 9]",Con moto D850 II A Major.mid,Schubert,150,1.75
+449.5,<music21.chord.Chord F#4 D5 F#5 D2 A2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,2.0
+450,<music21.chord.Chord F#4 D5 F#5 D2 A2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,2.5
+450.75,<music21.chord.Chord D4 A4 F#2 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,3.25
+451,<music21.chord.Chord D4 F#4 D5 A2 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,3.5
+451.25,<music21.chord.Chord D4 A4 F#2 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,150,3.75
+451.5,<music21.chord.Chord D4 F#4 D2 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,151,1.0
+451.75,<music21.chord.Chord D4 A4 F#2 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,151,1.25
+452,<music21.chord.Chord D4 F#4 D5 D2 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,151,1.5
+452.25,<music21.chord.Chord E4 A4 E5 C#2 C#3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,151,1.75
+452.5,<music21.chord.Chord F#4 D5 F#5 B1 B2>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,151,2.0
+453,<music21.chord.Chord F#4 D5 F#5 B1 B2>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,151,2.5
+453.75,<music21.chord.Chord D5 F#5 D6 B1 F#2 B2>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,151,3.25
+454.25,<music21.chord.Chord D5 F#5 D6 B1 F#2 B2>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,151,3.75
+454.5,<music21.chord.Chord G#4 D5 G#5 E2 B2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,152,1.0
+455,<music21.chord.Chord G#4 D5 G#5 E2 B2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,152,1.5
+455.75,<music21.chord.Chord A4 C#5 A5 A1 E2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,152,2.25
+456.25,<music21.chord.Chord A4 C#5 A5 A1 E2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,152,2.75
+456.5,<music21.chord.Chord A3 C#4 A4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,152,3.0
+457,<music21.chord.Chord A3 C#4 A4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,152,3.5
+457.75,<music21.chord.Chord A3 C#4 A4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,153,1.25
+458.75,<music21.chord.Chord A4>,[0],[9],Con moto D850 II A Major.mid,Schubert,153,2.25
+459,<music21.chord.Chord F#4 D5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,153,2.5
+459.25,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,153,2.75
+459.5,<music21.chord.Chord D5 F#5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,153,3.0
+459.75,<music21.chord.Chord D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,153,3.25
+460,<music21.chord.Chord D5 F#5 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,153,3.5
+460.25,<music21.chord.Chord D5 F#5 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,153,3.75
+460.5,<music21.chord.Chord D5 F#5 A3 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,154,1.0
+460.5833333,<music21.chord.Chord D5 F#5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,154,1.0833333
+460.75,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,154,1.25
+461,<music21.chord.Chord D5 F#5 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,154,1.5
+461.25,<music21.chord.Chord E5 A5 D3 A3>,"[0, 2, 7]","[2, 4, 9]",Con moto D850 II A Major.mid,Schubert,154,1.75
+461.5,<music21.chord.Chord D5 F#5 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,154,2.0
+461.75,<music21.chord.Chord A4 E5 D3 A3>,"[0, 2, 7]","[2, 4, 9]",Con moto D850 II A Major.mid,Schubert,154,2.25
+462,<music21.chord.Chord D5 F#5 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,154,2.5
+462.25,<music21.chord.Chord E5 A5 D3 A3>,"[0, 2, 7]","[2, 4, 9]",Con moto D850 II A Major.mid,Schubert,154,2.75
+462.5,<music21.chord.Chord D5 F#5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,154,3.0
+462.75,<music21.chord.Chord D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,154,3.25
+463,<music21.chord.Chord D5 F#5 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,154,3.5
+463.25,<music21.chord.Chord D5 F#5 D3>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,154,3.75
+463.5,<music21.chord.Chord D5 F#5 A3 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,155,1.0
+463.5833333,<music21.chord.Chord D5 F#5>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,155,1.0833333
+463.75,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,155,1.25
+464,<music21.chord.Chord D5 F#5 A3 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,155,1.5
+464.25,<music21.chord.Chord E5 A5 A3 D3>,"[0, 2, 7]","[2, 4, 9]",Con moto D850 II A Major.mid,Schubert,155,1.75
+464.5,<music21.chord.Chord D5 F#5 A3 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,155,2.0
+464.75,<music21.chord.Chord A4 E5 A3 C#3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,155,2.25
+465,<music21.chord.Chord D5 F#5 A3 B2>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Con moto D850 II A Major.mid,Schubert,155,2.5
+465.25,<music21.chord.Chord E5 A5 A3 A2>,"[0, 5]","[4, 9]",Con moto D850 II A Major.mid,Schubert,155,2.75
+465.5,<music21.chord.Chord G5 B5>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,155,3.0
+465.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,155,3.25
+466,<music21.chord.Chord G5 B5 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,155,3.5
+466.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,155,3.75
+466.5,<music21.chord.Chord G5 B5 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,156,1.0
+466.5833333,<music21.chord.Chord G5 B5>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,156,1.0833333
+466.75,<music21.chord.Chord D5 A5>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,156,1.25
+467,<music21.chord.Chord G5 B5 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,156,1.5
+467.25,<music21.chord.Chord D5 A5 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,156,1.75
+467.5,<music21.chord.Chord B4 G5 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,156,2.0
+467.75,<music21.chord.Chord A4 D5 G2 D3>,"[0, 2, 7]","[7, 9, 2]",Con moto D850 II A Major.mid,Schubert,156,2.25
+468,<music21.chord.Chord B4 G5 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,156,2.5
+468.25,<music21.chord.Chord D5 C6 G2 D3>,"[0, 2, 7]","[0, 2, 7]",Con moto D850 II A Major.mid,Schubert,156,2.75
+468.5,<music21.chord.Chord G5 B5>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,156,3.0
+468.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,156,3.25
+469,<music21.chord.Chord G5 B5 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,156,3.5
+469.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,156,3.75
+469.5,<music21.chord.Chord G5 B5 D3 G2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,157,1.0
+469.5833333,<music21.chord.Chord G5 B5>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,157,1.0833333
+469.75,<music21.chord.Chord G5 B5>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,157,1.25
+470,<music21.chord.Chord B5 D6 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,157,1.5
+470.25,<music21.chord.Chord A5 C#6 G2 D3>,"[0, 2, 6, 7]","[7, 9, 1, 2]",Con moto D850 II A Major.mid,Schubert,157,1.75
+470.5,<music21.chord.Chord G5 B5 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,157,2.0
+470.75,<music21.chord.Chord E5 G5 G2 D3>,"[0, 2, 5]","[2, 4, 7]",Con moto D850 II A Major.mid,Schubert,157,2.25
+471,<music21.chord.Chord G5 B5 G2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,157,2.5
+471.25,<music21.chord.Chord E5 G5 G2 E3>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,157,2.75
+471.5,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,157,3.0
+471.75,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,157,3.25
+472,<music21.chord.Chord C#5 E5 E3>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,157,3.5
+472.25,<music21.chord.Chord C#5 E5 G2>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,157,3.75
+472.5,<music21.chord.Chord C#5 E5 E3 G2>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,158,1.0
+472.5833333,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,158,1.0833333
+472.75,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,158,1.25
+473,<music21.chord.Chord E5 G5 G2 E3>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,158,1.5
+473.25,<music21.chord.Chord D5 F#5 G2 E3>,"[0, 2, 4, 5]","[2, 4, 6, 7]",Con moto D850 II A Major.mid,Schubert,158,1.75
+473.5,<music21.chord.Chord C#5 E5 G2 E3>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,158,2.0
+473.75,<music21.chord.Chord D5 F#5 G2 E3>,"[0, 2, 4, 5]","[2, 4, 6, 7]",Con moto D850 II A Major.mid,Schubert,158,2.25
+474,<music21.chord.Chord C#5 E5 G3 E4>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,158,2.5
+474.25,<music21.chord.Chord B4 C#5 G3 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",Con moto D850 II A Major.mid,Schubert,158,2.75
+474.5,<music21.chord.Chord B-4 F#5>,"[0, 4]","[6, 10]",Con moto D850 II A Major.mid,Schubert,158,3.0
+474.75,<music21.chord.Chord F#3>,[0],[6],Con moto D850 II A Major.mid,Schubert,158,3.25
+475,<music21.chord.Chord B-4 F#5 E4>,"[0, 2, 6]","[4, 6, 10]",Con moto D850 II A Major.mid,Schubert,158,3.5
+475.25,<music21.chord.Chord B-4 F#5 F#3>,"[0, 4]","[6, 10]",Con moto D850 II A Major.mid,Schubert,158,3.75
+475.5,<music21.chord.Chord B-4 F#5 E4 F#3>,"[0, 2, 6]","[4, 6, 10]",Con moto D850 II A Major.mid,Schubert,159,1.0
+475.5833333,<music21.chord.Chord B-4 F#5>,"[0, 4]","[6, 10]",Con moto D850 II A Major.mid,Schubert,159,1.0833333
+475.75,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Con moto D850 II A Major.mid,Schubert,159,1.25
+476,<music21.chord.Chord E5 G5 F#3 E4>,"[0, 2, 3]","[4, 6, 7]",Con moto D850 II A Major.mid,Schubert,159,1.5
+476.25,<music21.chord.Chord D5 F#5 F#3 E4>,"[0, 2, 4]","[2, 4, 6]",Con moto D850 II A Major.mid,Schubert,159,1.75
+476.5,<music21.chord.Chord C#5 E5 F#3 E4>,"[0, 3, 5]","[1, 4, 6]",Con moto D850 II A Major.mid,Schubert,159,2.0
+476.75,<music21.chord.Chord D5 F#5 F#3 E4>,"[0, 2, 4]","[2, 4, 6]",Con moto D850 II A Major.mid,Schubert,159,2.25
+477,<music21.chord.Chord C#5 E5 G3 E4>,"[0, 3, 6]","[1, 4, 7]",Con moto D850 II A Major.mid,Schubert,159,2.5
+477.25,<music21.chord.Chord B4 C#5 G3 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",Con moto D850 II A Major.mid,Schubert,159,2.75
+477.5,<music21.chord.Chord B-4 F#5>,"[0, 4]","[6, 10]",Con moto D850 II A Major.mid,Schubert,159,3.0
+477.75,<music21.chord.Chord F#3>,[0],[6],Con moto D850 II A Major.mid,Schubert,159,3.25
+478,<music21.chord.Chord B-4 F#5 E4>,"[0, 2, 6]","[4, 6, 10]",Con moto D850 II A Major.mid,Schubert,159,3.5
+478.25,<music21.chord.Chord B-4 F#5 F#3>,"[0, 4]","[6, 10]",Con moto D850 II A Major.mid,Schubert,159,3.75
+478.5,<music21.chord.Chord B-4 F#5 E4 F#3>,"[0, 2, 6]","[4, 6, 10]",Con moto D850 II A Major.mid,Schubert,160,1.0
+479,<music21.chord.Chord B-4 F#5 E4 F#3>,"[0, 2, 6]","[4, 6, 10]",Con moto D850 II A Major.mid,Schubert,160,1.5
+480,<music21.chord.Chord B-4 F#5 E4 F#3>,"[0, 2, 6]","[4, 6, 10]",Con moto D850 II A Major.mid,Schubert,160,2.5
+480.5,<music21.chord.Chord A4 F#5>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,160,3.0
+480.75,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,160,3.25
+481,<music21.chord.Chord A4 F#5 E-4>,"[0, 3, 6]","[3, 6, 9]",Con moto D850 II A Major.mid,Schubert,160,3.5
+481.25,<music21.chord.Chord A4 F#5 B2>,"[0, 3, 5]","[6, 9, 11]",Con moto D850 II A Major.mid,Schubert,160,3.75
+481.5,<music21.chord.Chord A4 F#5 E-4 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,161,1.0
+482,<music21.chord.Chord A4 F#5 E-4 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,161,1.5
+483,<music21.chord.Chord A4 F#5 E-4 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,161,2.5
+483.5,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,161,3.0
+483.75,<music21.chord.Chord E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,161,3.25
+484,<music21.chord.Chord G#4 E5 D4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,161,3.5
+484.25,<music21.chord.Chord G#4 E5 E3>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,161,3.75
+484.5,<music21.chord.Chord G#4 E5 D4 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,162,1.0
+484.75,<music21.chord.Chord B4 D5 E3 D4>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,162,1.25
+485,<music21.chord.Chord D5 F5 D4 E3>,"[0, 2, 3]","[2, 4, 5]",Con moto D850 II A Major.mid,Schubert,162,1.5
+485.25,<music21.chord.Chord C5 E5 D4 E3>,"[0, 2, 4]","[0, 2, 4]",Con moto D850 II A Major.mid,Schubert,162,1.75
+485.5,<music21.chord.Chord B4 D5 D4 E3>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,162,2.0
+485.75,<music21.chord.Chord C5 E5 D4 E3>,"[0, 2, 4]","[0, 2, 4]",Con moto D850 II A Major.mid,Schubert,162,2.25
+486,<music21.chord.Chord B4 D5 D4 F3>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,162,2.5
+486.25,<music21.chord.Chord A4 B4 D4 F3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,162,2.75
+486.5,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,162,3.0
+486.75,<music21.chord.Chord E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,162,3.25
+487,<music21.chord.Chord G#4 E5 D4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,162,3.5
+487.25,<music21.chord.Chord G#4 E5 E3>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,162,3.75
+487.5,<music21.chord.Chord G#4 E5 D4 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,163,1.0
+487.5833333,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,163,1.0833333
+487.75,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,163,1.25
+488,<music21.chord.Chord D5 F5 E3 D4>,"[0, 2, 3]","[2, 4, 5]",Con moto D850 II A Major.mid,Schubert,163,1.5
+488.25,<music21.chord.Chord C5 E5 E3 D4>,"[0, 2, 4]","[0, 2, 4]",Con moto D850 II A Major.mid,Schubert,163,1.75
+488.5,<music21.chord.Chord B4 D5 E3 D4>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,163,2.0
+488.75,<music21.chord.Chord C5 E5 E3 D4>,"[0, 2, 4]","[0, 2, 4]",Con moto D850 II A Major.mid,Schubert,163,2.25
+489,<music21.chord.Chord B4 D5 F3 D4>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,163,2.5
+489.25,<music21.chord.Chord A4 B4 F3 D4>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,163,2.75
+489.5,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,163,3.0
+489.75,<music21.chord.Chord E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,163,3.25
+490,<music21.chord.Chord G#4 E5 D4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,163,3.5
+490.25,<music21.chord.Chord G#4 E5 E3>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,163,3.75
+490.5,<music21.chord.Chord G#4 E5 D4 E3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,164,1.0
+490.5833333,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,164,1.0833333
+491,<music21.chord.Chord G#4 E5 E3 D4>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,164,1.5
+491.25,<music21.chord.Chord E4 E3 D4>,"[0, 2]","[2, 4]",Con moto D850 II A Major.mid,Schubert,164,1.75
+491.5,<music21.chord.Chord C#4 A4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,164,2.0
+491.75,<music21.chord.Chord C#4 A4>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,164,2.25
+492,<music21.chord.Chord C#4 A4 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,164,2.5
+492.25,<music21.chord.Chord E4 B4 G#3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,164,2.75
+492.5,<music21.chord.Chord A4 C#5 A3>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,164,3.0
+492.75,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,164,3.25
+493,<music21.chord.Chord A4 C#5 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,164,3.5
+493.25,<music21.chord.Chord A4 C#5 A1>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,164,3.75
+493.5,<music21.chord.Chord A4 C#5 A2>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,165,1.0
+493.75,<music21.chord.Chord A4 C#5>,"[0, 4]","[9, 1]",Con moto D850 II A Major.mid,Schubert,165,1.25
+494,<music21.chord.Chord A4 C#5 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,165,1.5
+494.25,<music21.chord.Chord E4 B4 G#3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,165,1.75
+494.5,<music21.chord.Chord C#4 A4 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,165,2.0
+494.75,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,165,2.25
+495,<music21.chord.Chord F#4 A4 C#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,165,2.5
+495.25,<music21.chord.Chord C#4 G#4 E3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,165,2.75
+495.5,<music21.chord.Chord A3 F#4 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,165,3.0
+495.75,<music21.chord.Chord D2>,[0],[2],Con moto D850 II A Major.mid,Schubert,165,3.25
+496,<music21.chord.Chord A3 F#4 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,165,3.5
+496.25,<music21.chord.Chord A3 F#4 A1>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,165,3.75
+496.5,<music21.chord.Chord A3 F#4 D2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,166,1.0
+496.75,<music21.chord.Chord A3 F#4 F#2>,"[0, 3]","[6, 9]",Con moto D850 II A Major.mid,Schubert,166,1.25
+497,<music21.chord.Chord F#4 D2>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,166,1.5
+497.25,<music21.chord.Chord F#4 C#2>,"[0, 5]","[1, 6]",Con moto D850 II A Major.mid,Schubert,166,1.75
+497.5,<music21.chord.Chord D4 B4 B1>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,166,2.0
+497.75,<music21.chord.Chord D4 B4>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,166,2.25
+498,<music21.chord.Chord D4 B4 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,166,2.5
+498.25,<music21.chord.Chord F#4 C#5 B-3>,"[0, 4, 7]","[6, 10, 1]",Con moto D850 II A Major.mid,Schubert,166,2.75
+498.5,<music21.chord.Chord B4 D5 B3>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,166,3.0
+498.75,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,166,3.25
+499,<music21.chord.Chord B4 D5 B2>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,166,3.5
+499.25,<music21.chord.Chord B4 D5 B1>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,166,3.75
+499.5,<music21.chord.Chord B4 D5 B2>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,167,1.0
+499.75,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",Con moto D850 II A Major.mid,Schubert,167,1.25
+500,<music21.chord.Chord B4 D5 F#3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,167,1.5
+500.25,<music21.chord.Chord F#4 C5 A3>,"[0, 3, 6]","[6, 9, 0]",Con moto D850 II A Major.mid,Schubert,167,1.75
+500.5,<music21.chord.Chord D4 B4 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,167,2.0
+500.75,<music21.chord.Chord G4 B4>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,167,2.25
+501,<music21.chord.Chord G4 B4 E-3>,"[0, 4, 8]","[3, 7, 11]",Con moto D850 II A Major.mid,Schubert,167,2.5
+501.25,<music21.chord.Chord E-4 A4 F#3>,"[0, 3, 6]","[3, 6, 9]",Con moto D850 II A Major.mid,Schubert,167,2.75
+501.5,<music21.chord.Chord B3 G4 E3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,167,3.0
+501.75,<music21.chord.Chord E2>,[0],[4],Con moto D850 II A Major.mid,Schubert,167,3.25
+502,<music21.chord.Chord B3 G4 E2>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,167,3.5
+502.25,<music21.chord.Chord B3 G4 B1>,"[0, 4]","[7, 11]",Con moto D850 II A Major.mid,Schubert,167,3.75
+502.5,<music21.chord.Chord B3 G4 E2>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,168,1.0
+502.75,<music21.chord.Chord G3 E4 G4 E2 E3>,"[0, 3]","[4, 7]",Con moto D850 II A Major.mid,Schubert,168,1.25
+503.25,<music21.chord.Chord A3 E4 A4 F#2 E3 F#3>,"[0, 2, 5]","[4, 6, 9]",Con moto D850 II A Major.mid,Schubert,168,1.75
+503.5,<music21.chord.Chord B3 E4 B4 G2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Con moto D850 II A Major.mid,Schubert,168,2.0
+503.75,<music21.chord.Chord C4 A4 C5 A2 A3>,"[0, 3]","[9, 0]",Con moto D850 II A Major.mid,Schubert,168,2.25
+504.25,<music21.chord.Chord D4 A4 D5 B2 A3 B3>,"[0, 2, 5]","[9, 11, 2]",Con moto D850 II A Major.mid,Schubert,168,2.75
+504.5,<music21.chord.Chord E4 G4 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,168,3.0
+505,<music21.chord.Chord E4 G4 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,168,3.5
+505.75,<music21.chord.Chord C5 G5 E3 E4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,169,1.25
+506,<music21.chord.Chord C5 E5 C6 G3 G4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,169,1.5
+506.25,<music21.chord.Chord C5 G5 E3 E4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,169,1.75
+506.5,<music21.chord.Chord C5 E5 C3 C4>,"[0, 4]","[0, 4]",Con moto D850 II A Major.mid,Schubert,169,2.0
+506.75,<music21.chord.Chord C5 B2 B3>,"[0, 1]","[11, 0]",Con moto D850 II A Major.mid,Schubert,169,2.25
+507,<music21.chord.Chord C5 E5 A2 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,169,2.5
+507.25,<music21.chord.Chord C5 G5 G2 G3>,"[0, 5]","[7, 0]",Con moto D850 II A Major.mid,Schubert,169,2.75
+507.5,<music21.chord.Chord A4 C5 F5 A5 F2 C3 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,169,3.0
+508,<music21.chord.Chord A4 C5 F5 A5 F2 C3 F3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,169,3.5
+508.75,<music21.chord.Chord A4 C5 A5 C3 F2>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,170,1.25
+509,<music21.chord.Chord A4 C5 A5 F3 F2>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,170,1.5
+509.25,<music21.chord.Chord B-4 C5 B-5 G3 G2 C3>,"[0, 3, 5]","[7, 10, 0]",Con moto D850 II A Major.mid,Schubert,170,1.75
+509.5,<music21.chord.Chord A4 C5 A5 F3 F2 C3>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,170,2.0
+509.75,<music21.chord.Chord A4 C5 A5 C3 F2>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,170,2.25
+510,<music21.chord.Chord A4 C5 A5 F3 F2>,"[0, 4, 7]","[5, 9, 0]",Con moto D850 II A Major.mid,Schubert,170,2.5
+510.25,<music21.chord.Chord G4 C#5 G5 E-3 E-2>,"[0, 2, 6]","[1, 3, 7]",Con moto D850 II A Major.mid,Schubert,170,2.75
+510.5,<music21.chord.Chord A4 D5 F#5 A5 D2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,170,3.0
+511,<music21.chord.Chord A4 D5 F#5 A5 D2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,170,3.5
+511.75,<music21.chord.Chord D5 A5 F#3 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,171,1.25
+512,<music21.chord.Chord D5 F#5 D6 A3 A4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,171,1.5
+512.25,<music21.chord.Chord D5 F#5 A5 F#3 F#4>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,171,1.75
+512.5,<music21.chord.Chord D5 F#5 D3 D4>,"[0, 4]","[2, 6]",Con moto D850 II A Major.mid,Schubert,171,2.0
+512.75,<music21.chord.Chord D5 C#3 C#4>,"[0, 1]","[1, 2]",Con moto D850 II A Major.mid,Schubert,171,2.25
+513,<music21.chord.Chord D5 F#5 B2 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,171,2.5
+513.25,<music21.chord.Chord D5 F#5 A5 A2 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,171,2.75
+513.5,<music21.chord.Chord B4 D5 G5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,171,3.0
+514,<music21.chord.Chord B4 D5 G5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,171,3.5
+514.75,<music21.chord.Chord B4 D5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,172,1.25
+515.25,<music21.chord.Chord C5 D5 C6 A2 D3 A3>,"[0, 3, 5]","[9, 0, 2]",Con moto D850 II A Major.mid,Schubert,172,1.75
+515.5,<music21.chord.Chord B4 D5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,172,2.0
+515.75,<music21.chord.Chord B4 D5 B5 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,172,2.25
+516.25,<music21.chord.Chord A4 E-5 A5 F2 F3>,"[0, 2, 6]","[3, 5, 9]",Con moto D850 II A Major.mid,Schubert,172,2.75
+516.5,<music21.chord.Chord B4 E5 G#5 B5 E2 E3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,172,3.0
+517,<music21.chord.Chord B4 E5 G#5 B5 E2 E3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,172,3.5
+517.75,<music21.chord.Chord E5 B5 G#3 G#4>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,173,1.25
+518,<music21.chord.Chord E5 G#5 E6 B3 B4>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,173,1.5
+518.25,<music21.chord.Chord E5 G#5 B5 G#3 G#4>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,173,1.75
+518.5,<music21.chord.Chord E5 G#5 E3 E4>,"[0, 4]","[4, 8]",Con moto D850 II A Major.mid,Schubert,173,2.0
+518.75,<music21.chord.Chord E5 D3 D4>,"[0, 2]","[2, 4]",Con moto D850 II A Major.mid,Schubert,173,2.25
+519,<music21.chord.Chord E5 G#5 C3 C4>,"[0, 4, 8]","[0, 4, 8]",Con moto D850 II A Major.mid,Schubert,173,2.5
+519.25,<music21.chord.Chord E5 G#5 B5 B2 B3>,"[0, 4, 7]","[4, 8, 11]",Con moto D850 II A Major.mid,Schubert,173,2.75
+519.5,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,173,3.0
+520,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,173,3.5
+520.75,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,174,1.25
+521.25,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,174,1.75
+521.5,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,174,2.0
+522,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,174,2.5
+522.75,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,174,3.25
+523.25,<music21.chord.Chord C5 E5 A5 C6 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,174,3.75
+523.5,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,175,1.0
+524,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,175,1.5
+524.75,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,175,2.25
+525.25,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,175,2.75
+525.5,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,175,3.0
+526,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,175,3.5
+526.75,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,176,1.25
+527.25,<music21.chord.Chord D5 G5 B5 D6 G2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,176,1.75
+527.5,<music21.chord.Chord E5 G5 C6 E6 C2 G2 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,176,2.0
+528,<music21.chord.Chord E5 G5 C6 E6 C2 G2 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,176,2.5
+528.75,<music21.chord.Chord E5 G5 C6 E6 C2 G2 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,176,3.25
+529.25,<music21.chord.Chord E5 G5 C6 E6 C2 G2 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,176,3.75
+529.5,<music21.chord.Chord E5 G5 C6 E6 C2 G2 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,177,1.0
+530,<music21.chord.Chord E5 G5 C6 E6 C2 G2 C3>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,177,1.5
+530.75,<music21.chord.Chord E4 G4 C5 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,177,2.25
+531.25,<music21.chord.Chord E4 G4 C5 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,177,2.75
+531.5,<music21.chord.Chord E4 G4 C5 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,177,3.0
+532,<music21.chord.Chord E4 G4 C5 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,177,3.5
+532.75,<music21.chord.Chord E4 G4 C5 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,178,1.25
+533.25,<music21.chord.Chord E4 G4 C5 E5 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Con moto D850 II A Major.mid,Schubert,178,1.75
+533.5,<music21.chord.Chord F4 C5 E5 D3 B3 D4>,"[0, 1, 3, 5, 6]","[11, 0, 2, 4, 5]",Con moto D850 II A Major.mid,Schubert,178,2.0
+534,<music21.chord.Chord F4 B4 D5 D3 B3 D4>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,178,2.5
+534.75,<music21.chord.Chord F4 B4 D5 D3 B3 D4>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,178,3.25
+535.25,<music21.chord.Chord F4 B4 D5 D3 B3 D4>,"[0, 3, 6]","[11, 2, 5]",Con moto D850 II A Major.mid,Schubert,178,3.75
+535.5,<music21.chord.Chord E4 B4 D5 E3 A3 C4>,"[0, 2, 3, 5, 7]","[9, 11, 0, 2, 4]",Con moto D850 II A Major.mid,Schubert,179,1.0
+536,<music21.chord.Chord E4 A4 C5 E3 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,179,1.5
+536.75,<music21.chord.Chord E4 A4 C5 E3 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,179,2.25
+537.25,<music21.chord.Chord E4 A4 C5 E3 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Con moto D850 II A Major.mid,Schubert,179,2.75
+537.5,<music21.chord.Chord E4 A4 C5 E3 D4>,"[0, 3, 5, 7]","[9, 0, 2, 4]",Con moto D850 II A Major.mid,Schubert,179,3.0
+538,<music21.chord.Chord E4 G#4 B4 E3 D4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,179,3.5
+540,<music21.chord.Chord C#4 E4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,180,2.5
+540.5,<music21.chord.Chord D4 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,180,3.0
+541,<music21.chord.Chord C4 E-4 A3>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,180,3.5
+541.5,<music21.chord.Chord C#4 E4 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,181,1.0
+541.75,<music21.chord.Chord C#4 E4 A4 C#5 A3 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,181,1.25
+542.25,<music21.chord.Chord C#4 E4 A4 C#5 A3 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,181,1.75
+542.5,<music21.chord.Chord C#4 E4 A4 C#5 A3 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,181,2.0
+543,<music21.chord.Chord C#4 E4 A4 C#5 A3 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,181,2.5
+543.5,<music21.chord.Chord C#4 E4 B4 A3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,181,3.0
+544,<music21.chord.Chord C#4 F4 C#5 A3>,"[0, 4, 8]","[1, 5, 9]",Con moto D850 II A Major.mid,Schubert,181,3.5
+544.5,<music21.chord.Chord C#5 F#4 D4>,"[0, 1, 5]","[1, 2, 6]",Con moto D850 II A Major.mid,Schubert,182,1.0
+544.75,<music21.chord.Chord C#5 F#4 E5 F#5 D4 D3 B-3>,"[0, 3, 4, 6, 8]","[10, 1, 2, 4, 6]",Con moto D850 II A Major.mid,Schubert,182,1.25
+545.25,<music21.chord.Chord C#5 F#4 E5 F#5 D4 D3 B-3>,"[0, 3, 4, 6, 8]","[10, 1, 2, 4, 6]",Con moto D850 II A Major.mid,Schubert,182,1.75
+545.5,<music21.chord.Chord B4 F#4 D5 F#5 D4 D3 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,182,2.0
+546,<music21.chord.Chord B4 F#4 D5 F#5 D4 D3 B3>,"[0, 3, 7]","[11, 2, 6]",Con moto D850 II A Major.mid,Schubert,182,2.5
+546.25,<music21.chord.Chord A4 D4>,"[0, 5]","[9, 2]",Con moto D850 II A Major.mid,Schubert,182,2.75
+546.5,<music21.chord.Chord G#4 D4 B3>,"[0, 3, 6]","[8, 11, 2]",Con moto D850 II A Major.mid,Schubert,182,3.0
+547,<music21.chord.Chord F#4 D4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,182,3.5
+547.5,<music21.chord.Chord D4 E4 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,183,1.0
+547.75,<music21.chord.Chord D4 E4 D5 E5 G#3 B2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,183,1.25
+548.25,<music21.chord.Chord D4 E4 D5 E5 G#3 B2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,183,1.75
+548.5,<music21.chord.Chord D4 E4 D5 E5 G#3 B2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,183,2.0
+549,<music21.chord.Chord D4 E4 D5 E5 G#3 B2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,183,2.5
+549.25,<music21.chord.Chord F#4>,[0],[6],Con moto D850 II A Major.mid,Schubert,183,2.75
+549.375,<music21.chord.Chord G#4>,[0],[8],Con moto D850 II A Major.mid,Schubert,183,2.875
+549.5,<music21.chord.Chord D4 F#4 G#3>,"[0, 4, 6]","[2, 6, 8]",Con moto D850 II A Major.mid,Schubert,183,3.0
+550,<music21.chord.Chord D4 E4 G#3>,"[0, 2, 6]","[2, 4, 8]",Con moto D850 II A Major.mid,Schubert,183,3.5
+550.5,<music21.chord.Chord D4 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,184,1.0
+550.75,<music21.chord.Chord D4 F#4 A4 A3 A2 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,184,1.25
+551.25,<music21.chord.Chord D4 F#4 A4 A3 A2 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,184,1.75
+551.5,<music21.chord.Chord C#4 E4 A4 A3 A2 C#3 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,184,2.0
+552,<music21.chord.Chord A4 C#5 E5 A2 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,184,2.5
+552.5,<music21.chord.Chord A4 D5 F#5 D2 D3>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,184,3.0
+553,<music21.chord.Chord A4 C5 E-5 F#2 F#3>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Con moto D850 II A Major.mid,Schubert,184,3.5
+553.5,<music21.chord.Chord A4 C#5 E5 A2 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,185,1.0
+553.75,<music21.chord.Chord C#5 E5 A5 C#6 A1 E2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,185,1.25
+554.25,<music21.chord.Chord C#5 E5 A5 C#6 A1 E2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,185,1.75
+554.5,<music21.chord.Chord C#5 E5 A5 C#6 A1 E2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,185,2.0
+555,<music21.chord.Chord C#5 E5 A5 C#6 A1 E2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,185,2.5
+555.25,<music21.chord.Chord E4 A4 C#5 C#3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,185,2.75
+555.5,<music21.chord.Chord E4 A4 C#5 E5 B2 B3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Con moto D850 II A Major.mid,Schubert,185,3.0
+556,<music21.chord.Chord F#4 C#5 E-5 F#5 A2 A3>,"[0, 2, 5, 8]","[1, 3, 6, 9]",Con moto D850 II A Major.mid,Schubert,185,3.5
+556.5,<music21.chord.Chord G#4 C#5 E5 G#5 G#2 G#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,186,1.0
+556.75,<music21.chord.Chord G#5 C#6 E6 G#6 G#1 C#2 G#2>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,186,1.25
+557.25,<music21.chord.Chord G#5 C#6 E6 G#6 G#1 C#2 G#2>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,186,1.75
+557.5,<music21.chord.Chord G#5 C#6 E6 G#6 G#1 C#2 G#2>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,186,2.0
+558,<music21.chord.Chord G#5 C#6 E6 G#6 G#1 C#2 G#2>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,186,2.5
+558.25,<music21.chord.Chord E4 G#4 E5 G#3 C#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,186,2.75
+558.5,<music21.chord.Chord F#4 G#4 E-5 G#3 C4>,"[0, 3, 6, 8]","[0, 3, 6, 8]",Con moto D850 II A Major.mid,Schubert,186,3.0
+559,<music21.chord.Chord F#4 G#4 G#3 E-4>,"[0, 3, 5]","[3, 6, 8]",Con moto D850 II A Major.mid,Schubert,186,3.5
+559.5,<music21.chord.Chord E4 G#4 C#5 C#3 G#3 C#4>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,187,1.0
+559.75,<music21.chord.Chord C#5 E5 G#5 C#6 C#2 E2 G#2 C#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,187,1.25
+560.25,<music21.chord.Chord C#5 E5 G#5 C#6 C#2 E2 G#2 C#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,187,1.75
+560.5,<music21.chord.Chord C#5 E5 G#5 C#6 C#2 E2 G#2 C#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,187,2.0
+561,<music21.chord.Chord C#5 E5 G#5 C#6 C#2 E2 G#2 C#3>,"[0, 3, 7]","[1, 4, 8]",Con moto D850 II A Major.mid,Schubert,187,2.5
+561.25,<music21.chord.Chord C#4 E4 C#5 E3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,187,2.75
+561.5,<music21.chord.Chord D4 E4 B4 E3 G#3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,187,3.0
+562,<music21.chord.Chord D4 E4 E3 B3>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,187,3.5
+562.5,<music21.chord.Chord C#4 A4 F#3 A3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,188,1.0
+562.75,<music21.chord.Chord A4 C#5 F#5 A5 F#2 C#3 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,188,1.25
+563.25,<music21.chord.Chord A4 C#5 F#5 A5 F#2 C#3 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,188,1.75
+563.5,<music21.chord.Chord A4 C#5 F#5 A5 F#2 C#3 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,188,2.0
+564,<music21.chord.Chord A4 C#5 F#5 A5 F#2 C#3 F#3>,"[0, 3, 7]","[6, 9, 1]",Con moto D850 II A Major.mid,Schubert,188,2.5
+564.25,<music21.chord.Chord C#4 G4 B-4 E2 E3>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Con moto D850 II A Major.mid,Schubert,188,2.75
+564.5,<music21.chord.Chord D4 G4 B4 D2 D3>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,188,3.0
+565,<music21.chord.Chord E4 G4 B-4 C#5 C#2 C#3>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Con moto D850 II A Major.mid,Schubert,188,3.5
+565.5,<music21.chord.Chord D4 G4 B4 D5 B1 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,189,1.0
+565.75,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,189,1.25
+566.25,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,189,1.75
+566.5,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,189,2.0
+567,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,189,2.5
+567.75,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,189,3.25
+568.25,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,189,3.75
+568.5,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,190,1.0
+569,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,190,1.5
+569.75,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,190,2.25
+570.25,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,190,2.75
+570.5,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,190,3.0
+571,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,190,3.5
+571.75,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,191,1.25
+572.25,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,191,1.75
+572.5,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,191,2.0
+573,<music21.chord.Chord D4 F#4 A4 D5 C3 D3 F#3 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Con moto D850 II A Major.mid,Schubert,191,2.5
+573.75,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,191,3.25
+574.25,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,191,3.75
+574.5,<music21.chord.Chord D5 G5 B5 D6 B1 D2 G2 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,192,1.0
+575,<music21.chord.Chord D5 G5 B5 B1 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,192,1.5
+575.5,<music21.chord.Chord B4 D5 G5 B1 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,192,2.0
+576,<music21.chord.Chord G4 B4 D5 B1 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,192,2.5
+576.5,<music21.chord.Chord D4 G4 B4 B1 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,192,3.0
+577,<music21.chord.Chord B3 D4 G4 B1 B2>,"[0, 4, 7]","[7, 11, 2]",Con moto D850 II A Major.mid,Schubert,192,3.5
+577.5,<music21.chord.Chord G3 D4 F4 B1 B2>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,193,1.0
+580.5,<music21.chord.Chord G3 D4 F4 B1 B2>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Con moto D850 II A Major.mid,Schubert,194,1.0
+583.5,<music21.chord.Chord E4 G#3 D4 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,195,1.0
+585.125,<music21.chord.Chord E4 G#3 D4 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,195,2.625
+585.25,<music21.chord.Chord F#4 G#3 D4 B2 D3 E3>,"[0, 2, 4, 6, 9]","[2, 4, 6, 8, 11]",Con moto D850 II A Major.mid,Schubert,195,2.75
+585.375,<music21.chord.Chord G#4 G#3 D4 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,195,2.875
+585.5,<music21.chord.Chord F#4 B2 D3 E3>,"[0, 3, 5, 7]","[11, 2, 4, 6]",Con moto D850 II A Major.mid,Schubert,195,3.0
+586.25,<music21.chord.Chord E4 B2 D3 E3>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,195,3.75
+586.5,<music21.chord.Chord E4 G#3 D4 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,196,1.0
+588.125,<music21.chord.Chord E4 G#3 D4 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,196,2.625
+588.25,<music21.chord.Chord F#4 G#3 D4 B2 D3 E3>,"[0, 2, 4, 6, 9]","[2, 4, 6, 8, 11]",Con moto D850 II A Major.mid,Schubert,196,2.75
+588.375,<music21.chord.Chord G#4 G#3 D4 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,196,2.875
+588.5,<music21.chord.Chord F#4 B2 D3 E3>,"[0, 3, 5, 7]","[11, 2, 4, 6]",Con moto D850 II A Major.mid,Schubert,196,3.0
+589.25,<music21.chord.Chord E4 B2 D3 E3>,"[0, 3, 5]","[11, 2, 4]",Con moto D850 II A Major.mid,Schubert,196,3.75
+589.5,<music21.chord.Chord E4 C#4 C#3 E3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,197,1.0
+589.75,<music21.chord.Chord A4 C#4 C#3 E3 A3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,197,1.25
+590,<music21.chord.Chord G#4 E-4 F#3 A3 B3>,"[0, 3, 5, 6, 8]","[3, 6, 8, 9, 11]",Con moto D850 II A Major.mid,Schubert,197,1.5
+590.25,<music21.chord.Chord A4 E-4 F#3 A3 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Con moto D850 II A Major.mid,Schubert,197,1.75
+590.5,<music21.chord.Chord C#5 E4 E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,197,2.0
+591.5,<music21.chord.Chord C#5 D4 E4 G#4 E2 E3>,"[0, 1, 3, 7]","[1, 2, 4, 8]",Con moto D850 II A Major.mid,Schubert,197,3.0
+592.25,<music21.chord.Chord B4 D4 E4 G#4 E2 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Con moto D850 II A Major.mid,Schubert,197,3.75
+592.5,<music21.chord.Chord C#4 E4 A4 A2 E3>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,198,1.0
+592.75,<music21.chord.Chord A3 C#4 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,198,1.25
+593.25,<music21.chord.Chord A3 C#4 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,198,1.75
+593.5,<music21.chord.Chord A3 C#4 E4 A4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,198,2.0
+594,<music21.chord.Chord A3 C#4 E4 A4 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,198,2.5
+594.5,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,198,3.0
+595,<music21.chord.Chord G#2>,[0],[8],Con moto D850 II A Major.mid,Schubert,198,3.5
+595.5,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,199,1.0
+595.75,<music21.chord.Chord A3 C#4 G4 A4 A2>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,199,1.25
+596.25,<music21.chord.Chord A3 C#4 G4 A4 A2>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,199,1.75
+596.5,<music21.chord.Chord A3 C#4 G4 A4 A2>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,199,2.0
+597,<music21.chord.Chord A3 C#4 G4 A4 G3>,"[0, 2, 6]","[7, 9, 1]",Con moto D850 II A Major.mid,Schubert,199,2.5
+597.5,<music21.chord.Chord E3>,[0],[4],Con moto D850 II A Major.mid,Schubert,199,3.0
+598,<music21.chord.Chord C#3>,[0],[1],Con moto D850 II A Major.mid,Schubert,199,3.5
+598.5,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,200,1.0
+598.75,<music21.chord.Chord A3 D4 F#4 A4 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,200,1.25
+599.25,<music21.chord.Chord A3 D4 F#4 A4 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,200,1.75
+599.5,<music21.chord.Chord A3 D4 F#4 A4 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,200,2.0
+600,<music21.chord.Chord A3 D4 F#4 A4 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,200,2.5
+600.5,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,200,3.0
+601,<music21.chord.Chord G#2>,[0],[8],Con moto D850 II A Major.mid,Schubert,200,3.5
+601.5,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,201,1.0
+601.75,<music21.chord.Chord A3 D4 F4 G#4 A2>,"[0, 3, 6, 7]","[2, 5, 8, 9]",Con moto D850 II A Major.mid,Schubert,201,1.25
+602.25,<music21.chord.Chord A3 D4 F4 G#4 A2>,"[0, 3, 6, 7]","[2, 5, 8, 9]",Con moto D850 II A Major.mid,Schubert,201,1.75
+602.5,<music21.chord.Chord A3 D4 F4 G#4 A2>,"[0, 3, 6, 7]","[2, 5, 8, 9]",Con moto D850 II A Major.mid,Schubert,201,2.0
+603,<music21.chord.Chord A3 D4 F4 G#4 F3>,"[0, 3, 6, 7]","[2, 5, 8, 9]",Con moto D850 II A Major.mid,Schubert,201,2.5
+603.5,<music21.chord.Chord D3>,[0],[2],Con moto D850 II A Major.mid,Schubert,201,3.0
+604.25,<music21.chord.Chord B2>,[0],[11],Con moto D850 II A Major.mid,Schubert,201,3.75
+604.5,<music21.chord.Chord A2>,[0],[9],Con moto D850 II A Major.mid,Schubert,202,1.0
+604.75,<music21.chord.Chord A3 C#4 E4 A4 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,202,1.25
+605.25,<music21.chord.Chord A3 C#4 E4 A4 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,202,1.75
+605.5,<music21.chord.Chord A3 C#4 E4 A4 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,202,2.0
+606,<music21.chord.Chord A3 C#4 E4 A4 A1>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,202,2.5
+606.5,<music21.chord.Chord B1>,[0],[11],Con moto D850 II A Major.mid,Schubert,202,3.0
+607,<music21.chord.Chord G#1>,[0],[8],Con moto D850 II A Major.mid,Schubert,202,3.5
+607.5,<music21.chord.Chord A1>,[0],[9],Con moto D850 II A Major.mid,Schubert,203,1.0
+607.75,<music21.chord.Chord B-3 C#4 E4 G4 A1>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Con moto D850 II A Major.mid,Schubert,203,1.25
+608.25,<music21.chord.Chord B-3 C#4 E4 G4 A1>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Con moto D850 II A Major.mid,Schubert,203,1.75
+608.5,<music21.chord.Chord B-3 C#4 E4 G4 A1>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Con moto D850 II A Major.mid,Schubert,203,2.0
+609,<music21.chord.Chord B-3 C#4 E4 G4 C#2>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Con moto D850 II A Major.mid,Schubert,203,2.5
+609.375,<music21.chord.Chord E2>,[0],[4],Con moto D850 II A Major.mid,Schubert,203,2.875
+609.5,<music21.chord.Chord G2>,[0],[7],Con moto D850 II A Major.mid,Schubert,203,3.0
+610,<music21.chord.Chord B-2>,[0],[10],Con moto D850 II A Major.mid,Schubert,203,3.5
+610.5,<music21.chord.Chord A1>,[0],[9],Con moto D850 II A Major.mid,Schubert,204,1.0
+610.75,<music21.chord.Chord A3 D4 F#4 A1>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,204,1.25
+611.25,<music21.chord.Chord A3 D4 F#4 A1>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,204,1.75
+611.5,<music21.chord.Chord A3 D4 F#4 A1>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,204,2.0
+612,<music21.chord.Chord A3 D4 F#4 A1>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,204,2.5
+612.5,<music21.chord.Chord B1>,[0],[11],Con moto D850 II A Major.mid,Schubert,204,3.0
+613,<music21.chord.Chord G#1>,[0],[8],Con moto D850 II A Major.mid,Schubert,204,3.5
+613.5,<music21.chord.Chord A1>,[0],[9],Con moto D850 II A Major.mid,Schubert,205,1.0
+613.75,<music21.chord.Chord G#3 B3 D4 F4 A1>,"[0, 1, 3, 6, 9]","[8, 9, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,205,1.25
+614.25,<music21.chord.Chord G#3 B3 D4 F4 A1>,"[0, 1, 3, 6, 9]","[8, 9, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,205,1.75
+614.5,<music21.chord.Chord G#3 B3 D4 F4 A1>,"[0, 1, 3, 6, 9]","[8, 9, 11, 2, 5]",Con moto D850 II A Major.mid,Schubert,205,2.0
+615,<music21.chord.Chord G#3 B3 D4 F4 F2>,"[0, 3, 6, 9]","[2, 5, 8, 11]",Con moto D850 II A Major.mid,Schubert,205,2.5
+615.375,<music21.chord.Chord E2>,[0],[4],Con moto D850 II A Major.mid,Schubert,205,2.875
+615.5,<music21.chord.Chord D2>,[0],[2],Con moto D850 II A Major.mid,Schubert,205,3.0
+615.625,<music21.chord.Chord E2>,[0],[4],Con moto D850 II A Major.mid,Schubert,205,3.125
+615.75,<music21.chord.Chord D2>,[0],[2],Con moto D850 II A Major.mid,Schubert,205,3.25
+616,<music21.chord.Chord C#2>,[0],[1],Con moto D850 II A Major.mid,Schubert,205,3.5
+616.375,<music21.chord.Chord B1>,[0],[11],Con moto D850 II A Major.mid,Schubert,205,3.875
+616.5,<music21.chord.Chord A1>,[0],[9],Con moto D850 II A Major.mid,Schubert,206,1.0
+616.75,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,206,1.25
+617.25,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,206,1.75
+617.5,<music21.chord.Chord E3 A3 C#4 E4 C#2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,206,2.0
+618,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,206,2.5
+618.5,<music21.chord.Chord E3 A3 C#4 E2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,206,3.0
+619,<music21.chord.Chord E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,206,3.5
+619.5,<music21.chord.Chord C#3 E3 A3 A1 C#2 E2 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,207,1.0

@@ -1,0 +1,1156 @@
+offset,Chord,NormalForm,PCsInNormalForm,File,Composer,Measure Number,Measure Beat Number
+0,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,1,1
+0.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,1,1.25
+0.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,1,1.5
+0.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,1,1.75
+1,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,1,2
+1.25,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,1,2.25
+1.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,1,2.5
+1.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,1,2.75
+2,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,1,3
+2.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,1,3.25
+2.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,1,3.5
+2.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,1,3.75
+3,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,1,4
+3.25,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,1,4.25
+3.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,1,4.5
+3.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,1,4.75
+4,<music21.chord.Chord C4 E3 G3>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,2,1
+4.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,2,1.25
+4.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,2,1.5
+4.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,2,1.75
+5,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,2,2
+5.25,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,2,2.25
+5.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,2,2.5
+5.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,2,2.75
+6,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,2,3
+6.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,2,3.25
+6.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,2,3.5
+6.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,2,3.75
+7,<music21.chord.Chord G4 E3 G3>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,2,4
+7.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,2,4.25
+7.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,2,4.5
+7.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,2,4.75
+8,<music21.chord.Chord D4 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Etudes Op299No9 C major ,Czerny,3,1
+8.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,3,1.25
+8.5,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,3,1.5
+8.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,3,1.75
+9,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,3,2
+9.25,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,3,2.25
+9.5,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,3,2.5
+9.75,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,3,2.75
+10,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,3,3
+10.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,3,3.25
+10.5,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,3,3.5
+10.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,3,3.75
+11,<music21.chord.Chord A4 F3 A3>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,3,4
+11.25,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,3,4.25
+11.5,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,3,4.5
+11.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,3,4.75
+12,<music21.chord.Chord B4 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,4,1
+12.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,4,1.25
+12.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,4,1.5
+12.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,4,1.75
+13,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,4,2
+13.25,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,4,2.25
+13.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,4,2.5
+13.75,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,4,2.75
+14,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,4,3
+14.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,4,3.25
+14.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,4,3.5
+14.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,4,3.75
+15,<music21.chord.Chord D5 B3 D4>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,4,4
+15.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,4,4.25
+15.5,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,4,4.5
+15.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,4,4.75
+16,<music21.chord.Chord E5 C4 E4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,5,1
+16.25,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,5,1.25
+16.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,5,1.5
+16.75,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,5,1.75
+17,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,5,2
+17.25,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,5,2.25
+17.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,5,2.5
+17.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,5,2.75
+18,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,5,3
+18.25,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,5,3.25
+18.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,5,3.5
+18.75,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,5,3.75
+19,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,5,4
+19.25,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,5,4.25
+19.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,5,4.5
+19.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,5,4.75
+20,<music21.chord.Chord C5 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,6,1
+20.25,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,6,1.25
+20.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,6,1.5
+20.75,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,6,1.75
+21,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,6,2
+21.25,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,6,2.25
+21.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,6,2.5
+21.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,6,2.75
+22,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,6,3
+22.25,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,6,3.25
+22.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,6,3.5
+22.75,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,6,3.75
+23,<music21.chord.Chord G5 E4 G4>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,6,4
+23.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,6,4.25
+23.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,6,4.5
+23.75,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,6,4.75
+24,<music21.chord.Chord D5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Etudes Op299No9 C major ,Czerny,7,1
+24.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,7,1.25
+24.5,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,7,1.5
+24.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,7,1.75
+25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,7,2
+25.25,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,7,2.25
+25.5,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,7,2.5
+25.75,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,7,2.75
+26,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,7,3
+26.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,7,3.25
+26.5,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,7,3.5
+26.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,7,3.75
+27,<music21.chord.Chord A5 F4 A4>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,7,4
+27.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,7,4.25
+27.5,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,7,4.5
+27.75,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,7,4.75
+28,<music21.chord.Chord B5 G4 B4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,8,1
+28.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,8,1.25
+28.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,8,1.5
+28.75,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,8,1.75
+29,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,8,2
+29.25,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,8,2.25
+29.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,8,2.5
+29.75,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,8,2.75
+30,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,8,3
+30.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,8,3.25
+30.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,8,3.5
+30.75,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,8,3.75
+31,<music21.chord.Chord D6 G4 B4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,8,4
+31.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,8,4.25
+31.5,<music21.chord.Chord F6>,[0],[5],Etudes Op299No9 C major ,Czerny,8,4.5
+31.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,8,4.75
+32,<music21.chord.Chord C6 E6 C4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,9,1
+32.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,9,1.25
+32.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,9,1.5
+32.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,9,1.75
+33,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,9,2
+33.25,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,9,2.25
+33.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,9,2.5
+33.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,9,2.75
+34,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,9,3
+34.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,9,3.25
+34.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,9,3.5
+34.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,9,3.75
+35,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,9,4
+35.25,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,9,4.25
+35.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,9,4.5
+35.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,9,4.75
+36,<music21.chord.Chord C6 E6 C4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,10,1
+36.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,10,1.25
+36.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,10,1.5
+36.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,10,1.75
+37,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,10,2
+37.25,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,10,2.25
+37.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,10,2.5
+37.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,10,2.75
+38,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,10,3
+38.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,10,3.25
+38.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,10,3.5
+38.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,10,3.75
+39,<music21.chord.Chord C6 E6 G4>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,10,4
+39.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,10,4.25
+39.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,10,4.5
+39.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,10,4.75
+40,<music21.chord.Chord C6 F#6 D4>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,11,1
+40.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,11,1.25
+40.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,11,1.5
+40.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,11,1.75
+41,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,11,2
+41.25,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,11,2.25
+41.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,11,2.5
+41.75,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,11,2.75
+42,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,11,3
+42.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,11,3.25
+42.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,11,3.5
+42.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,11,3.75
+43,<music21.chord.Chord F#5 A5 A4>,"[0, 3]","[6, 9]",Etudes Op299No9 C major ,Czerny,11,4
+43.25,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,11,4.25
+43.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,11,4.5
+43.75,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,11,4.75
+44,<music21.chord.Chord F#5 D6 D4>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,12,1
+44.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,12,1.25
+44.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,12,1.5
+44.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,12,1.75
+45,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,12,2
+45.25,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,12,2.25
+45.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,12,2.5
+45.75,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,12,2.75
+46,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,12,3
+46.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,12,3.25
+46.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,12,3.5
+46.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,12,3.75
+47,<music21.chord.Chord F#5 C6 A4>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,12,4
+47.25,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,12,4.25
+47.5,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,12,4.5
+47.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,12,4.75
+48,<music21.chord.Chord G5 B5 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,13,1
+48.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,13,1.25
+48.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,13,1.5
+48.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,13,1.75
+49,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,13,2
+49.25,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,13,2.25
+49.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,13,2.5
+49.75,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,13,2.75
+50,<music21.chord.Chord B5 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,13,3
+50.25,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,13,3.25
+50.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,13,3.5
+50.75,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,13,3.75
+51,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,13,4
+51.25,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,13,4.25
+51.5,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,13,4.5
+51.75,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,13,4.75
+52,<music21.chord.Chord G6 B3 D4 G4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,14,1
+52.25,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,14,1.25
+52.5,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,14,1.5
+52.75,<music21.chord.Chord C7>,[0],[0],Etudes Op299No9 C major ,Czerny,14,1.75
+53,<music21.chord.Chord D7>,[0],[2],Etudes Op299No9 C major ,Czerny,14,2
+53.25,<music21.chord.Chord C7>,[0],[0],Etudes Op299No9 C major ,Czerny,14,2.25
+53.5,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,14,2.5
+53.75,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,14,2.75
+54,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,14,3
+54.25,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,14,3.25
+54.5,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,14,3.5
+54.75,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,14,3.75
+55,<music21.chord.Chord C6 B3 D4 G4>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,14,4
+55.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,14,4.25
+55.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,14,4.5
+55.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,14,4.75
+56,<music21.chord.Chord F#5 A3 C4 D4 F#4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,15,1
+56.25,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,15,1.25
+56.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,15,1.5
+56.75,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,15,1.75
+57,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,15,2
+57.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,15,2.25
+57.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,15,2.5
+57.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,15,2.75
+58,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,15,3
+58.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,15,3.25
+58.5,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,15,3.5
+58.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,15,3.75
+59,<music21.chord.Chord B4 A3 C4 D4>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,15,4
+59.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,15,4.25
+59.5,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,15,4.5
+59.75,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,15,4.75
+60,<music21.chord.Chord A4 F#3 C4>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,16,1
+60.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,16,1.25
+60.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,16,1.5
+60.75,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,16,1.75
+61,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,16,2
+61.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,16,2.25
+61.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,16,2.5
+61.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,16,2.75
+62,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,16,3
+62.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,16,3.25
+62.5,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,16,3.5
+62.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,16,3.75
+63,<music21.chord.Chord A5 F#3 A3 D4>,"[0, 4, 7]","[2, 6, 9]",Etudes Op299No9 C major ,Czerny,16,4
+63.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,16,4.25
+63.5,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,16,4.5
+63.75,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,16,4.75
+64,<music21.chord.Chord B5 G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,17,1
+64.25,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,17,1.25
+64.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,17,1.5
+64.75,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,17,1.75
+65,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,17,2
+65.25,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,17,2.25
+65.5,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,17,2.5
+65.75,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,17,2.75
+66,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,17,3
+66.25,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,17,3.25
+66.5,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,17,3.5
+66.75,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,17,3.75
+67,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,17,4
+67.25,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,17,4.25
+67.5,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,17,4.5
+67.75,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,17,4.75
+68,<music21.chord.Chord G6 B2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,18,1
+68.25,<music21.chord.Chord A6 B2 D3 G3>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Etudes Op299No9 C major ,Czerny,18,1.25
+68.375,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,18,1.375
+68.5,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,18,1.5
+68.75,<music21.chord.Chord C7>,[0],[0],Etudes Op299No9 C major ,Czerny,18,1.75
+69,<music21.chord.Chord D7>,[0],[2],Etudes Op299No9 C major ,Czerny,18,2
+69.25,<music21.chord.Chord C7>,[0],[0],Etudes Op299No9 C major ,Czerny,18,2.25
+69.5,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,18,2.5
+69.75,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,18,2.75
+70,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,18,3
+70.25,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,18,3.25
+70.5,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,18,3.5
+70.75,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,18,3.75
+71,<music21.chord.Chord C6 B2 D3 G3>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,18,4
+71.25,<music21.chord.Chord B5 B2 D3 G3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,18,4.25
+71.375,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,18,4.375
+71.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,18,4.5
+71.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,18,4.75
+72,<music21.chord.Chord F#5 A2 C3 D3 F#3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,19,1
+72.25,<music21.chord.Chord G5 A2 C3 D3 F#3>,"[0, 1, 3, 6, 8]","[6, 7, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,19,1.25
+72.375,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,19,1.375
+72.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,19,1.5
+72.75,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,19,1.75
+73,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,19,2
+73.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,19,2.25
+73.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,19,2.5
+73.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,19,2.75
+74,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,19,3
+74.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,19,3.25
+74.5,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,19,3.5
+74.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,19,3.75
+75,<music21.chord.Chord B4 A2 C3 D3 F#3>,"[0, 3, 5, 6, 8]","[6, 9, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,19,4
+75.25,<music21.chord.Chord A4 A2 C3 D3 F#3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,19,4.25
+75.375,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,19,4.375
+75.5,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,19,4.5
+75.75,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,19,4.75
+76,<music21.chord.Chord A4 F#2 A2 C3 D3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,20,1
+76.25,<music21.chord.Chord D4 F#2 A2 C3 D3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,20,1.25
+76.375,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,20,1.375
+76.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,20,1.5
+76.75,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,20,1.75
+77,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,20,2
+77.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,20,2.25
+77.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,20,2.5
+77.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,20,2.75
+78,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,20,3
+78.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,20,3.25
+78.5,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,20,3.5
+78.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,20,3.75
+79,<music21.chord.Chord A5 F#2 A2 C3 D3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,20,4
+79.25,<music21.chord.Chord B5 F#2 A2 C3 D3>,"[0, 3, 5, 6, 8]","[6, 9, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,20,4.25
+79.375,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,20,4.375
+79.5,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,20,4.5
+79.75,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,20,4.75
+80,<music21.chord.Chord B5 G2>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,21,1
+80.25,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,21,1.25
+80.5,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,21,1.5
+80.75,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,21,1.75
+81,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,21,2
+81.25,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,21,2.25
+81.5,<music21.chord.Chord F#3>,[0],[6],Etudes Op299No9 C major ,Czerny,21,2.5
+81.75,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,21,2.75
+82,<music21.chord.Chord G2>,[0],[7],Etudes Op299No9 C major ,Czerny,21,3
+82.25,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,21,3.25
+82.5,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,21,3.5
+82.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,21,3.75
+83,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,21,4
+83.25,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,21,4.25
+83.5,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,21,4.5
+83.75,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,21,4.75
+84,<music21.chord.Chord B5 G3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,22,1
+84.25,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,22,1.25
+84.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,22,1.5
+84.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,22,1.75
+85,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,22,2
+85.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,22,2.25
+85.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,22,2.5
+85.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,22,2.75
+86,<music21.chord.Chord B5 G3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,22,3
+86.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,22,3.25
+86.5,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,22,3.5
+86.75,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,22,3.75
+87,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,22,4
+87.25,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,22,4.25
+87.5,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,22,4.5
+87.75,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,22,4.75
+88,<music21.chord.Chord C5 A2>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,23,1
+88.25,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,23,1.25
+88.5,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,23,1.5
+88.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,23,1.75
+89,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,23,2
+89.25,<music21.chord.Chord F#3>,[0],[6],Etudes Op299No9 C major ,Czerny,23,2.25
+89.5,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,23,2.5
+89.75,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,23,2.75
+90,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,23,3
+90.25,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,23,3.25
+90.5,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,23,3.5
+90.75,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,23,3.75
+91,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,23,4
+91.25,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,23,4.25
+91.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,23,4.5
+91.75,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,23,4.75
+92,<music21.chord.Chord C6 A3>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,24,1
+92.25,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,24,1.25
+92.5,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,24,1.5
+92.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,24,1.75
+93,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,24,2
+93.25,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,24,2.25
+93.5,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,24,2.5
+93.75,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,24,2.75
+94,<music21.chord.Chord C6 A3>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,24,3
+94.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,24,3.25
+94.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,24,3.5
+94.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,24,3.75
+95,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,24,4
+95.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,24,4.25
+95.5,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,24,4.5
+95.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,24,4.75
+96,<music21.chord.Chord D5 B2>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,25,1
+96.25,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,25,1.25
+96.5,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,25,1.5
+96.75,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,25,1.75
+97,<music21.chord.Chord F#3>,[0],[6],Etudes Op299No9 C major ,Czerny,25,2
+97.25,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,25,2.25
+97.5,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,25,2.5
+97.75,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,25,2.75
+98,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,25,3
+98.25,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,25,3.25
+98.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,25,3.5
+98.75,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,25,3.75
+99,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,25,4
+99.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,25,4.25
+99.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,25,4.5
+99.75,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,25,4.75
+100,<music21.chord.Chord D6 B3>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,26,1
+100.25,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,26,1.25
+100.5,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,26,1.5
+100.75,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,26,1.75
+101,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,26,2
+101.25,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,26,2.25
+101.5,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,26,2.5
+101.75,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,26,2.75
+102,<music21.chord.Chord D6 B3>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,26,3
+102.25,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,26,3.25
+102.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,26,3.5
+102.75,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,26,3.75
+103,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,26,4
+103.25,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,26,4.25
+103.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,26,4.5
+103.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,26,4.75
+104,<music21.chord.Chord E5 C4 G4>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,27,1
+104.25,<music21.chord.Chord F#5 C4 G4>,"[0, 1, 6]","[6, 7, 0]",Etudes Op299No9 C major ,Czerny,27,1.25
+104.5,<music21.chord.Chord G5 C4 G4>,"[0, 5]","[7, 0]",Etudes Op299No9 C major ,Czerny,27,1.5
+104.75,<music21.chord.Chord A5 C4 G4>,"[0, 2, 5]","[7, 9, 0]",Etudes Op299No9 C major ,Czerny,27,1.75
+105,<music21.chord.Chord B5 C4 G4>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,27,2
+105.25,<music21.chord.Chord C6 C4 G4>,"[0, 5]","[7, 0]",Etudes Op299No9 C major ,Czerny,27,2.25
+105.5,<music21.chord.Chord D6 C4 G4>,"[0, 2, 7]","[0, 2, 7]",Etudes Op299No9 C major ,Czerny,27,2.5
+105.75,<music21.chord.Chord E6 C4 G4>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,27,2.75
+105.875,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,27,2.875
+106,<music21.chord.Chord F#6 C4 D4 A4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,27,3
+106.25,<music21.chord.Chord E6 C4 D4 A4>,"[0, 3, 5, 7]","[9, 0, 2, 4]",Etudes Op299No9 C major ,Czerny,27,3.25
+106.5,<music21.chord.Chord D6 C4 D4 A4>,"[0, 3, 5]","[9, 0, 2]",Etudes Op299No9 C major ,Czerny,27,3.5
+106.75,<music21.chord.Chord C6 C4 D4 A4>,"[0, 3, 5]","[9, 0, 2]",Etudes Op299No9 C major ,Czerny,27,3.75
+107,<music21.chord.Chord B5 C4 D4 A4>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,27,4
+107.25,<music21.chord.Chord A5 C4 D4 A4>,"[0, 3, 5]","[9, 0, 2]",Etudes Op299No9 C major ,Czerny,27,4.25
+107.5,<music21.chord.Chord G5 C4 D4 A4>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,27,4.5
+107.75,<music21.chord.Chord F#5 C4 D4 A4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,27,4.75
+107.875,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,27,4.875
+108,<music21.chord.Chord G5 B3 D4 G4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,28,1
+108.25,<music21.chord.Chord A5 B3 D4 G4>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Etudes Op299No9 C major ,Czerny,28,1.25
+108.5,<music21.chord.Chord B5 B3 D4 G4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,28,1.5
+108.75,<music21.chord.Chord C6 B3 D4 G4>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,28,1.75
+109,<music21.chord.Chord D6 B3 D4 G4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,28,2
+109.25,<music21.chord.Chord E6 B3 D4 G4>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Etudes Op299No9 C major ,Czerny,28,2.25
+109.5,<music21.chord.Chord F#6 B3 D4 G4>,"[0, 1, 5, 8]","[6, 7, 11, 2]",Etudes Op299No9 C major ,Czerny,28,2.5
+109.75,<music21.chord.Chord G6 B3 D4 G4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,28,2.75
+110,<music21.chord.Chord A6 A3 C4 D4 F#4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,28,3
+110.25,<music21.chord.Chord G6 A3 C4 D4 F#4>,"[0, 1, 3, 6, 8]","[6, 7, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,28,3.25
+110.5,<music21.chord.Chord F#6 A3 C4 D4 F#4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,28,3.5
+110.75,<music21.chord.Chord E6 A3 C4 D4 F#4>,"[0, 2, 4, 6, 9]","[0, 2, 4, 6, 9]",Etudes Op299No9 C major ,Czerny,28,3.75
+111,<music21.chord.Chord D6 A3 C4 D4 F#4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,28,4
+111.25,<music21.chord.Chord C6 A3 C4 D4 F#4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,28,4.25
+111.5,<music21.chord.Chord B5 A3 C4 D4 F#4>,"[0, 3, 5, 6, 8]","[6, 9, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,28,4.5
+111.75,<music21.chord.Chord A5 A3 C4 D4 F#4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,28,4.75
+112,<music21.chord.Chord B5 G3 B3 D4 G4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,29,1
+112.25,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,29,1.25
+112.5,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,29,1.5
+112.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,29,1.75
+113,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,29,2
+113.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,29,2.25
+113.5,<music21.chord.Chord D6 B-4>,"[0, 4]","[10, 2]",Etudes Op299No9 C major ,Czerny,29,2.5
+113.75,<music21.chord.Chord C#6 B-4>,"[0, 3]","[10, 1]",Etudes Op299No9 C major ,Czerny,29,2.75
+114,<music21.chord.Chord D6 G4 B4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,29,3
+114.25,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,29,3.25
+114.5,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,29,3.5
+114.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,29,3.75
+115,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,29,4
+115.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,29,4.25
+115.5,<music21.chord.Chord D6 B-4>,"[0, 4]","[10, 2]",Etudes Op299No9 C major ,Czerny,29,4.5
+115.75,<music21.chord.Chord C#6 B-4>,"[0, 3]","[10, 1]",Etudes Op299No9 C major ,Czerny,29,4.75
+116,<music21.chord.Chord D6 G4 B4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,30,1
+116.25,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,30,1.25
+116.5,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,30,1.5
+116.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,30,1.75
+117,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,30,2
+117.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,30,2.25
+117.5,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,30,2.5
+117.75,<music21.chord.Chord C#6>,[0],[1],Etudes Op299No9 C major ,Czerny,30,2.75
+118,<music21.chord.Chord E6 D4 F#4 C5>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Etudes Op299No9 C major ,Czerny,30,3
+118.25,<music21.chord.Chord D6 D4 F#4 C5>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,30,3.25
+118.5,<music21.chord.Chord C6 D4 F#4 C5>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,30,3.5
+118.75,<music21.chord.Chord B5 D4 F#4 C5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Etudes Op299No9 C major ,Czerny,30,3.75
+119,<music21.chord.Chord A5 D4 F#4 C5>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,30,4
+119.25,<music21.chord.Chord B5 D4 F#4 C5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Etudes Op299No9 C major ,Czerny,30,4.25
+119.5,<music21.chord.Chord C6 D4 F#4 C5>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,30,4.5
+119.75,<music21.chord.Chord D6 D4 F#4 C5>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,30,4.75
+120,<music21.chord.Chord B5 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,31,1
+120.25,<music21.chord.Chord B6 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,31,1.25
+120.5,<music21.chord.Chord A6 G3 B3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,31,1.5
+120.75,<music21.chord.Chord G6 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,31,1.75
+121,<music21.chord.Chord F#6 D3 G3 B3>,"[0, 1, 5, 8]","[6, 7, 11, 2]",Etudes Op299No9 C major ,Czerny,31,2
+121.25,<music21.chord.Chord E6 D3 G3 B3>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Etudes Op299No9 C major ,Czerny,31,2.25
+121.5,<music21.chord.Chord D6 D3 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,31,2.5
+121.75,<music21.chord.Chord C#6 D3 G3 B3>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Etudes Op299No9 C major ,Czerny,31,2.75
+122,<music21.chord.Chord D6 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,31,3
+122.25,<music21.chord.Chord B6 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,31,3.25
+122.5,<music21.chord.Chord A6 G3 B3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,31,3.5
+122.75,<music21.chord.Chord G6 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,31,3.75
+123,<music21.chord.Chord F#6 D3 G3 B3>,"[0, 1, 5, 8]","[6, 7, 11, 2]",Etudes Op299No9 C major ,Czerny,31,4
+123.25,<music21.chord.Chord E6 D3 G3 B3>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Etudes Op299No9 C major ,Czerny,31,4.25
+123.5,<music21.chord.Chord D6 D3 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,31,4.5
+123.75,<music21.chord.Chord C#6 D3 G3 B3>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Etudes Op299No9 C major ,Czerny,31,4.75
+124,<music21.chord.Chord D6 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,32,1
+124.25,<music21.chord.Chord B6 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,32,1.25
+124.5,<music21.chord.Chord A6 G3 B3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,32,1.5
+124.75,<music21.chord.Chord G6 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,32,1.75
+125,<music21.chord.Chord F#6 D3 G3 B3>,"[0, 1, 5, 8]","[6, 7, 11, 2]",Etudes Op299No9 C major ,Czerny,32,2
+125.25,<music21.chord.Chord E6 D3 G3 B3>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Etudes Op299No9 C major ,Czerny,32,2.25
+125.5,<music21.chord.Chord D6 D3 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,32,2.5
+125.75,<music21.chord.Chord C#6 D3 G3 B3>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Etudes Op299No9 C major ,Czerny,32,2.75
+126,<music21.chord.Chord E6 F#3 C4>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,32,3
+126.25,<music21.chord.Chord D6 F#3 C4>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,32,3.25
+126.5,<music21.chord.Chord C6 F#3 C4>,"[0, 6]","[0, 6]",Etudes Op299No9 C major ,Czerny,32,3.5
+126.75,<music21.chord.Chord B5 F#3 C4>,"[0, 5, 6]","[6, 11, 0]",Etudes Op299No9 C major ,Czerny,32,3.75
+127,<music21.chord.Chord A5 D3 F#3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,32,4
+127.25,<music21.chord.Chord B5 D3 F#3 C4>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Etudes Op299No9 C major ,Czerny,32,4.25
+127.5,<music21.chord.Chord C6 D3 F#3 C4>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,32,4.5
+127.75,<music21.chord.Chord D6 D3 F#3 C4>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,32,4.75
+128,<music21.chord.Chord B5 G3 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,33,1
+128.25,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,33,1.25
+128.5,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,33,1.5
+128.75,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,33,1.75
+129,<music21.chord.Chord A5 E-5>,"[0, 6]","[3, 9]",Etudes Op299No9 C major ,Czerny,33,2
+129.25,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,33,2.25
+129.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,33,2.5
+129.75,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,33,2.75
+130,<music21.chord.Chord G5 E5>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,33,3
+130.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,33,3.25
+130.5,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,33,3.5
+130.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,33,3.75
+131,<music21.chord.Chord F5 B4>,"[0, 6]","[5, 11]",Etudes Op299No9 C major ,Czerny,33,4
+131.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,33,4.25
+131.5,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,33,4.5
+131.75,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,33,4.75
+132,<music21.chord.Chord E5 C5>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,34,1
+132.25,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,34,1.25
+132.5,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,34,1.5
+132.75,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,34,1.75
+133,<music21.chord.Chord D5 G#4>,"[0, 6]","[2, 8]",Etudes Op299No9 C major ,Czerny,34,2
+133.25,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,34,2.25
+133.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,34,2.5
+133.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,34,2.75
+134,<music21.chord.Chord C5 A4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,34,3
+134.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,34,3.25
+134.5,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,34,3.5
+134.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,34,3.75
+135,<music21.chord.Chord B4 D4 G#4>,"[0, 3, 6]","[8, 11, 2]",Etudes Op299No9 C major ,Czerny,34,4
+135.25,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,34,4.25
+135.5,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,34,4.5
+135.75,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,34,4.75
+136,<music21.chord.Chord A4 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Etudes Op299No9 C major ,Czerny,35,1
+136.25,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,35,1.25
+136.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,35,1.5
+136.75,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,35,1.75
+137,<music21.chord.Chord G#4 D4 F4>,"[0, 3, 6]","[2, 5, 8]",Etudes Op299No9 C major ,Czerny,35,2
+137.25,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,35,2.25
+137.5,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,35,2.5
+137.75,<music21.chord.Chord G#4>,[0],[8],Etudes Op299No9 C major ,Czerny,35,2.75
+138,<music21.chord.Chord A4 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Etudes Op299No9 C major ,Czerny,35,3
+138.25,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,35,3.25
+138.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,35,3.5
+138.75,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,35,3.75
+139,<music21.chord.Chord G#4 D4 F4>,"[0, 3, 6]","[2, 5, 8]",Etudes Op299No9 C major ,Czerny,35,4
+139.25,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,35,4.25
+139.5,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,35,4.5
+139.75,<music21.chord.Chord G#4>,[0],[8],Etudes Op299No9 C major ,Czerny,35,4.75
+140,<music21.chord.Chord A4 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Etudes Op299No9 C major ,Czerny,36,1
+140.25,<music21.chord.Chord B4 C4 E4>,"[0, 1, 5]","[11, 0, 4]",Etudes Op299No9 C major ,Czerny,36,1.25
+140.5,<music21.chord.Chord C5 C4 E4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,36,1.5
+140.75,<music21.chord.Chord D5 C4 E4>,"[0, 2, 4]","[0, 2, 4]",Etudes Op299No9 C major ,Czerny,36,1.75
+141,<music21.chord.Chord E5 C4 E4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,36,2
+141.25,<music21.chord.Chord F#5 C4 E4>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,36,2.25
+141.5,<music21.chord.Chord G#5 C4 E4>,"[0, 4, 8]","[0, 4, 8]",Etudes Op299No9 C major ,Czerny,36,2.5
+141.75,<music21.chord.Chord A5 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Etudes Op299No9 C major ,Czerny,36,2.75
+142,<music21.chord.Chord G5 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Etudes Op299No9 C major ,Czerny,36,3
+142.25,<music21.chord.Chord E5 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Etudes Op299No9 C major ,Czerny,36,3.25
+142.5,<music21.chord.Chord F#5 C#4 E4 G4 A4>,"[0, 3, 5, 6, 8]","[1, 4, 6, 7, 9]",Etudes Op299No9 C major ,Czerny,36,3.5
+142.75,<music21.chord.Chord G5 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Etudes Op299No9 C major ,Czerny,36,3.75
+143,<music21.chord.Chord A5 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Etudes Op299No9 C major ,Czerny,36,4
+143.25,<music21.chord.Chord G5 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Etudes Op299No9 C major ,Czerny,36,4.25
+143.5,<music21.chord.Chord F#5 C#4 E4 G4 A4>,"[0, 3, 5, 6, 8]","[1, 4, 6, 7, 9]",Etudes Op299No9 C major ,Czerny,36,4.5
+143.75,<music21.chord.Chord E5 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Etudes Op299No9 C major ,Czerny,36,4.75
+144,<music21.chord.Chord D5 D4 G4 B4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,37,1
+144.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,37,1.25
+144.5,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,37,1.5
+144.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,37,1.75
+145,<music21.chord.Chord A5 D3 D4>,"[0, 5]","[9, 2]",Etudes Op299No9 C major ,Czerny,37,2
+145.25,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,37,2.25
+145.5,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,37,2.5
+145.75,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,37,2.75
+146,<music21.chord.Chord G5 B2 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,37,3
+146.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,37,3.25
+146.5,<music21.chord.Chord B5>,[0],[11],Etudes Op299No9 C major ,Czerny,37,3.5
+146.75,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,37,3.75
+147,<music21.chord.Chord D6 G2 G3>,"[0, 5]","[2, 7]",Etudes Op299No9 C major ,Czerny,37,4
+147.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,37,4.25
+147.5,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,37,4.5
+147.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,37,4.75
+148,<music21.chord.Chord D6 D2 D3>,[0],[2],Etudes Op299No9 C major ,Czerny,38,1
+148.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,38,1.25
+148.5,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,38,1.5
+148.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,38,1.75
+149,<music21.chord.Chord A6>,[0],[9],Etudes Op299No9 C major ,Czerny,38,2
+149.25,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,38,2.25
+149.5,<music21.chord.Chord C7>,[0],[0],Etudes Op299No9 C major ,Czerny,38,2.5
+149.75,<music21.chord.Chord D7>,[0],[2],Etudes Op299No9 C major ,Czerny,38,2.75
+150,<music21.chord.Chord D3 F#3 A3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,38,3
+151,<music21.chord.Chord A4 C5 D5 F#5 D3 F#3 A3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Etudes Op299No9 C major ,Czerny,38,4
+152,<music21.chord.Chord B4 D5 G5 G2>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,39,1
+152.25,<music21.chord.Chord B4 D5 G5 A2>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Etudes Op299No9 C major ,Czerny,39,1.25
+152.5,<music21.chord.Chord B4 D5 G5 B2>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,39,1.5
+152.75,<music21.chord.Chord B4 D5 G5 C3>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Etudes Op299No9 C major ,Czerny,39,1.75
+153,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,39,2
+153.25,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,39,2.25
+153.5,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,39,2.5
+153.75,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,39,2.75
+154,<music21.chord.Chord G2>,[0],[7],Etudes Op299No9 C major ,Czerny,39,3
+154.25,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,39,3.25
+154.5,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,39,3.5
+154.75,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,39,3.75
+155,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,39,4
+155.25,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,39,4.25
+155.5,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,39,4.5
+155.75,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,39,4.75
+156,<music21.chord.Chord G2>,[0],[7],Etudes Op299No9 C major ,Czerny,40,1
+156.25,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,40,1.25
+156.5,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,40,1.5
+156.75,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,40,1.75
+157,<music21.chord.Chord G4 B4 D3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,40,2
+157.25,<music21.chord.Chord G4 B4 C3>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,40,2.25
+157.375,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,40,2.375
+157.5,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,40,2.5
+157.75,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,40,2.75
+158,<music21.chord.Chord G4 B4 G2>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,40,3
+158.25,<music21.chord.Chord G4 B4 A2>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,40,3.25
+158.375,<music21.chord.Chord A2>,[0],[9],Etudes Op299No9 C major ,Czerny,40,3.375
+158.5,<music21.chord.Chord B2>,[0],[11],Etudes Op299No9 C major ,Czerny,40,3.5
+158.75,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,40,3.75
+159,<music21.chord.Chord G4 B4 D3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,40,4
+159.25,<music21.chord.Chord G4 B4 E3>,"[0, 3, 7]","[4, 7, 11]",Etudes Op299No9 C major ,Czerny,40,4.25
+159.375,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,40,4.375
+159.5,<music21.chord.Chord F#3>,[0],[6],Etudes Op299No9 C major ,Czerny,40,4.5
+159.75,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,40,4.75
+160,<music21.chord.Chord D5 F#4 D3>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,41,1
+160.25,<music21.chord.Chord D5 F#4 E3>,"[0, 2, 4]","[2, 4, 6]",Etudes Op299No9 C major ,Czerny,41,1.25
+160.5,<music21.chord.Chord D5 F#4 F#3>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,41,1.5
+160.75,<music21.chord.Chord D5 F#4 G3>,"[0, 4, 5]","[2, 6, 7]",Etudes Op299No9 C major ,Czerny,41,1.75
+161,<music21.chord.Chord D5 F#4 A3>,"[0, 4, 7]","[2, 6, 9]",Etudes Op299No9 C major ,Czerny,41,2
+161.25,<music21.chord.Chord D5 F#4 G3>,"[0, 4, 5]","[2, 6, 7]",Etudes Op299No9 C major ,Czerny,41,2.25
+161.5,<music21.chord.Chord D5 F#4 F#3>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,41,2.5
+161.75,<music21.chord.Chord D5 F#4 E3>,"[0, 2, 4]","[2, 4, 6]",Etudes Op299No9 C major ,Czerny,41,2.75
+162,<music21.chord.Chord C5 F#4 D3>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,41,3
+162.25,<music21.chord.Chord C5 F#4 E3>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,41,3.25
+162.5,<music21.chord.Chord C5 F#4 F#3>,"[0, 6]","[0, 6]",Etudes Op299No9 C major ,Czerny,41,3.5
+162.75,<music21.chord.Chord C5 F#4 G3>,"[0, 1, 6]","[6, 7, 0]",Etudes Op299No9 C major ,Czerny,41,3.75
+163,<music21.chord.Chord C5 F#4 A3>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,41,4
+163.25,<music21.chord.Chord C5 F#4 G3>,"[0, 1, 6]","[6, 7, 0]",Etudes Op299No9 C major ,Czerny,41,4.25
+163.5,<music21.chord.Chord C5 F#4 F#3>,"[0, 6]","[0, 6]",Etudes Op299No9 C major ,Czerny,41,4.5
+163.75,<music21.chord.Chord C5 F#4 E3>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,41,4.75
+163.875,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,41,4.875
+164,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,42,1
+164.25,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,42,1.25
+164.5,<music21.chord.Chord F#3>,[0],[6],Etudes Op299No9 C major ,Czerny,42,1.5
+164.75,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,42,1.75
+165,<music21.chord.Chord C5 F#5 A3>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,42,2
+165.25,<music21.chord.Chord C5 F#5 G3>,"[0, 1, 6]","[6, 7, 0]",Etudes Op299No9 C major ,Czerny,42,2.25
+165.375,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,42,2.375
+165.5,<music21.chord.Chord F#3>,[0],[6],Etudes Op299No9 C major ,Czerny,42,2.5
+165.75,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,42,2.75
+166,<music21.chord.Chord C5 F#5 D3>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,42,3
+166.25,<music21.chord.Chord C5 F#5 E3>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,42,3.25
+166.375,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,42,3.375
+166.5,<music21.chord.Chord F#3>,[0],[6],Etudes Op299No9 C major ,Czerny,42,3.5
+166.75,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,42,3.75
+167,<music21.chord.Chord C5 F#5 A3>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,42,4
+167.25,<music21.chord.Chord C5 F#5 B3>,"[0, 5, 6]","[6, 11, 0]",Etudes Op299No9 C major ,Czerny,42,4.25
+167.375,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,42,4.375
+167.5,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,42,4.5
+167.75,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,42,4.75
+168,<music21.chord.Chord G5 B4 G3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,43,1
+168.25,<music21.chord.Chord G5 B4 A3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,43,1.25
+168.5,<music21.chord.Chord G5 B4 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,43,1.5
+168.75,<music21.chord.Chord G5 B4 C4>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,43,1.75
+169,<music21.chord.Chord G5 B4 D4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,43,2
+169.25,<music21.chord.Chord G5 B4 C4>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,43,2.25
+169.5,<music21.chord.Chord G5 B4 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,43,2.5
+169.75,<music21.chord.Chord G5 B4 A3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,43,2.75
+170,<music21.chord.Chord D5 B4 G3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,43,3
+170.25,<music21.chord.Chord D5 B4 A3>,"[0, 2, 5]","[9, 11, 2]",Etudes Op299No9 C major ,Czerny,43,3.25
+170.5,<music21.chord.Chord D5 B4 B3>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,43,3.5
+170.75,<music21.chord.Chord D5 B4 C4>,"[0, 1, 3]","[11, 0, 2]",Etudes Op299No9 C major ,Czerny,43,3.75
+171,<music21.chord.Chord D5 B4 D4>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,43,4
+171.25,<music21.chord.Chord D5 B4 C4>,"[0, 1, 3]","[11, 0, 2]",Etudes Op299No9 C major ,Czerny,43,4.25
+171.5,<music21.chord.Chord D5 B4 B3>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,43,4.5
+171.75,<music21.chord.Chord D5 B4 A3>,"[0, 2, 5]","[9, 11, 2]",Etudes Op299No9 C major ,Czerny,43,4.75
+171.875,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,43,4.875
+172,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,44,1
+172.25,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,44,1.25
+172.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,44,1.5
+172.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,44,1.75
+173,<music21.chord.Chord G5 B5 D4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,44,2
+173.25,<music21.chord.Chord G5 B5 C4>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,44,2.25
+173.375,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,44,2.375
+173.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,44,2.5
+173.75,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,44,2.75
+174,<music21.chord.Chord G5 B5 G3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,44,3
+174.25,<music21.chord.Chord G5 B5 A3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,44,3.25
+174.375,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,44,3.375
+174.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,44,3.5
+174.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,44,3.75
+175,<music21.chord.Chord G5 B5 D4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,44,4
+175.25,<music21.chord.Chord G5 B5 E4>,"[0, 3, 7]","[4, 7, 11]",Etudes Op299No9 C major ,Czerny,44,4.25
+175.375,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,44,4.375
+175.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,44,4.5
+175.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,44,4.75
+176,<music21.chord.Chord D6 F#5 D4>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,45,1
+176.25,<music21.chord.Chord D6 F#5 E4>,"[0, 2, 4]","[2, 4, 6]",Etudes Op299No9 C major ,Czerny,45,1.25
+176.5,<music21.chord.Chord D6 F#5 F#4>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,45,1.5
+176.75,<music21.chord.Chord D6 F#5 G4>,"[0, 4, 5]","[2, 6, 7]",Etudes Op299No9 C major ,Czerny,45,1.75
+177,<music21.chord.Chord D6 F#5 A4>,"[0, 4, 7]","[2, 6, 9]",Etudes Op299No9 C major ,Czerny,45,2
+177.25,<music21.chord.Chord D6 F#5 G4>,"[0, 4, 5]","[2, 6, 7]",Etudes Op299No9 C major ,Czerny,45,2.25
+177.5,<music21.chord.Chord D6 F#5 F#4>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,45,2.5
+177.75,<music21.chord.Chord D6 F#5 E4>,"[0, 2, 4]","[2, 4, 6]",Etudes Op299No9 C major ,Czerny,45,2.75
+178,<music21.chord.Chord C6 F#5 D4>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,45,3
+178.25,<music21.chord.Chord C6 F#5 E4>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,45,3.25
+178.5,<music21.chord.Chord C6 F#5 F#4>,"[0, 6]","[0, 6]",Etudes Op299No9 C major ,Czerny,45,3.5
+178.75,<music21.chord.Chord C6 F#5 G4>,"[0, 1, 6]","[6, 7, 0]",Etudes Op299No9 C major ,Czerny,45,3.75
+179,<music21.chord.Chord C6 F#5 A4>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,45,4
+179.25,<music21.chord.Chord C6 F#5 G4>,"[0, 1, 6]","[6, 7, 0]",Etudes Op299No9 C major ,Czerny,45,4.25
+179.5,<music21.chord.Chord C6 F#5 F#4>,"[0, 6]","[0, 6]",Etudes Op299No9 C major ,Czerny,45,4.5
+179.75,<music21.chord.Chord C6 F#5 E4>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,45,4.75
+180,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,46,1
+180.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,46,1.25
+180.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,46,1.5
+180.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,46,1.75
+181,<music21.chord.Chord C6 F#6 A4>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,46,2
+181.25,<music21.chord.Chord C6 F#6 G4>,"[0, 1, 6]","[6, 7, 0]",Etudes Op299No9 C major ,Czerny,46,2.25
+181.375,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,46,2.375
+181.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,46,2.5
+181.75,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,46,2.75
+182,<music21.chord.Chord C6 F#6 D4>,"[0, 2, 6]","[0, 2, 6]",Etudes Op299No9 C major ,Czerny,46,3
+182.25,<music21.chord.Chord C6 F#6 E4>,"[0, 4, 6]","[0, 4, 6]",Etudes Op299No9 C major ,Czerny,46,3.25
+182.375,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,46,3.375
+182.5,<music21.chord.Chord F#4>,[0],[6],Etudes Op299No9 C major ,Czerny,46,3.5
+182.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,46,3.75
+183,<music21.chord.Chord C6 F#6 A4>,"[0, 3, 6]","[6, 9, 0]",Etudes Op299No9 C major ,Czerny,46,4
+183.25,<music21.chord.Chord C6 F#6 B4>,"[0, 5, 6]","[6, 11, 0]",Etudes Op299No9 C major ,Czerny,46,4.25
+183.375,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,46,4.375
+183.5,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,46,4.5
+183.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,46,4.75
+184,<music21.chord.Chord B5 G6 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,47,1
+184.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,47,1.25
+184.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,47,1.5
+184.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,47,1.75
+185,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,47,2
+185.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,47,2.25
+185.5,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,47,2.5
+185.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,47,2.75
+186,<music21.chord.Chord D6 F#5>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,47,3
+186.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,47,3.25
+186.5,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,47,3.5
+186.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,47,3.75
+187,<music21.chord.Chord A6 D5>,"[0, 5]","[9, 2]",Etudes Op299No9 C major ,Czerny,47,4
+187.25,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,47,4.25
+187.5,<music21.chord.Chord C7>,[0],[0],Etudes Op299No9 C major ,Czerny,47,4.5
+187.75,<music21.chord.Chord D7>,[0],[2],Etudes Op299No9 C major ,Czerny,47,4.75
+188,<music21.chord.Chord B6 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,48,1
+188.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,48,1.25
+188.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,48,1.5
+188.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,48,1.75
+189,<music21.chord.Chord G6 D5>,"[0, 5]","[2, 7]",Etudes Op299No9 C major ,Czerny,48,2
+189.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,48,2.25
+189.5,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,48,2.5
+189.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,48,2.75
+190,<music21.chord.Chord D6 F#5>,"[0, 4]","[2, 6]",Etudes Op299No9 C major ,Czerny,48,3
+190.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,48,3.25
+190.5,<music21.chord.Chord F#6>,[0],[6],Etudes Op299No9 C major ,Czerny,48,3.5
+190.75,<music21.chord.Chord G6>,[0],[7],Etudes Op299No9 C major ,Czerny,48,3.75
+191,<music21.chord.Chord A6 D5>,"[0, 5]","[9, 2]",Etudes Op299No9 C major ,Czerny,48,4
+191.25,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,48,4.25
+191.5,<music21.chord.Chord C7>,[0],[0],Etudes Op299No9 C major ,Czerny,48,4.5
+191.75,<music21.chord.Chord D7>,[0],[2],Etudes Op299No9 C major ,Czerny,48,4.75
+192,<music21.chord.Chord B6 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,49,1
+192.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,49,1.25
+192.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,49,1.5
+192.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,49,1.75
+193,<music21.chord.Chord G6 D5>,"[0, 5]","[2, 7]",Etudes Op299No9 C major ,Czerny,49,2
+193.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,49,2.25
+193.5,<music21.chord.Chord F#5>,[0],[6],Etudes Op299No9 C major ,Czerny,49,2.5
+193.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,49,2.75
+194,<music21.chord.Chord F6 A5>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,49,3
+194.25,<music21.chord.Chord G6 A5>,"[0, 2]","[7, 9]",Etudes Op299No9 C major ,Czerny,49,3.25
+194.5,<music21.chord.Chord A6 A5>,[0],[9],Etudes Op299No9 C major ,Czerny,49,3.5
+194.75,<music21.chord.Chord B6 A5>,"[0, 2]","[9, 11]",Etudes Op299No9 C major ,Czerny,49,3.75
+194.875,<music21.chord.Chord B6 A5>,"[0, 2]","[9, 11]",Etudes Op299No9 C major ,Czerny,49,3.875
+195,<music21.chord.Chord C7 C6 A5>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,49,4
+195.25,<music21.chord.Chord D7 C6 A5>,"[0, 3, 5]","[9, 0, 2]",Etudes Op299No9 C major ,Czerny,49,4.25
+195.5,<music21.chord.Chord E7 C6 A5>,"[0, 3, 7]","[9, 0, 4]",Etudes Op299No9 C major ,Czerny,49,4.5
+195.75,<music21.chord.Chord F7 C6 A5>,"[0, 4, 7]","[5, 9, 0]",Etudes Op299No9 C major ,Czerny,49,4.75
+195.875,<music21.chord.Chord F7>,[0],[5],Etudes Op299No9 C major ,Czerny,49,4.875
+196,<music21.chord.Chord E7 G5>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,50,1
+196.25,<music21.chord.Chord D7 G5>,"[0, 5]","[2, 7]",Etudes Op299No9 C major ,Czerny,50,1.25
+196.5,<music21.chord.Chord C7 G5>,"[0, 5]","[7, 0]",Etudes Op299No9 C major ,Czerny,50,1.5
+196.75,<music21.chord.Chord B6 G5>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,50,1.75
+196.875,<music21.chord.Chord B6 G5>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,50,1.875
+197,<music21.chord.Chord A6 B5 G5>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,50,2
+197.25,<music21.chord.Chord G6 B5 G5>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,50,2.25
+197.5,<music21.chord.Chord F6 B5 G5>,"[0, 2, 6]","[5, 7, 11]",Etudes Op299No9 C major ,Czerny,50,2.5
+197.75,<music21.chord.Chord E6 B5 G5>,"[0, 3, 7]","[4, 7, 11]",Etudes Op299No9 C major ,Czerny,50,2.75
+197.875,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,50,2.875
+198,<music21.chord.Chord D6 F5>,"[0, 3]","[2, 5]",Etudes Op299No9 C major ,Czerny,50,3
+198.25,<music21.chord.Chord E6 F5>,"[0, 1]","[4, 5]",Etudes Op299No9 C major ,Czerny,50,3.25
+198.5,<music21.chord.Chord F6 F5>,[0],[5],Etudes Op299No9 C major ,Czerny,50,3.5
+198.75,<music21.chord.Chord G6 F5>,"[0, 2]","[5, 7]",Etudes Op299No9 C major ,Czerny,50,3.75
+198.875,<music21.chord.Chord G6 F5>,"[0, 2]","[5, 7]",Etudes Op299No9 C major ,Czerny,50,3.875
+199,<music21.chord.Chord A6 A5 F5>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,50,4
+199.25,<music21.chord.Chord B6 A5 F5>,"[0, 4, 6]","[5, 9, 11]",Etudes Op299No9 C major ,Czerny,50,4.25
+199.5,<music21.chord.Chord C7 A5 F5>,"[0, 4, 7]","[5, 9, 0]",Etudes Op299No9 C major ,Czerny,50,4.5
+199.75,<music21.chord.Chord D7 A5 F5>,"[0, 3, 7]","[2, 5, 9]",Etudes Op299No9 C major ,Czerny,50,4.75
+199.875,<music21.chord.Chord D7>,[0],[2],Etudes Op299No9 C major ,Czerny,50,4.875
+200,<music21.chord.Chord C7 E5>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,51,1
+200.25,<music21.chord.Chord B6 E5>,"[0, 5]","[11, 4]",Etudes Op299No9 C major ,Czerny,51,1.25
+200.5,<music21.chord.Chord A6 E5>,"[0, 5]","[4, 9]",Etudes Op299No9 C major ,Czerny,51,1.5
+200.75,<music21.chord.Chord G6 E5>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,51,1.75
+200.875,<music21.chord.Chord G6 E5>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,51,1.875
+201,<music21.chord.Chord F6 G5 E5>,"[0, 1, 3]","[4, 5, 7]",Etudes Op299No9 C major ,Czerny,51,2
+201.25,<music21.chord.Chord E6 G5 E5>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,51,2.25
+201.5,<music21.chord.Chord D6 G5 E5>,"[0, 2, 5]","[2, 4, 7]",Etudes Op299No9 C major ,Czerny,51,2.5
+201.75,<music21.chord.Chord C6 G5 E5>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,51,2.75
+201.875,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,51,2.875
+202,<music21.chord.Chord B5 D5>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,51,3
+202.25,<music21.chord.Chord C6 D5>,"[0, 2]","[0, 2]",Etudes Op299No9 C major ,Czerny,51,3.25
+202.5,<music21.chord.Chord D6 D5>,[0],[2],Etudes Op299No9 C major ,Czerny,51,3.5
+202.75,<music21.chord.Chord E6 D5>,"[0, 2]","[2, 4]",Etudes Op299No9 C major ,Czerny,51,3.75
+202.875,<music21.chord.Chord E6 D5>,"[0, 2]","[2, 4]",Etudes Op299No9 C major ,Czerny,51,3.875
+203,<music21.chord.Chord F6 F5 D5>,"[0, 3]","[2, 5]",Etudes Op299No9 C major ,Czerny,51,4
+203.25,<music21.chord.Chord G6 F5 D5>,"[0, 3, 5]","[2, 5, 7]",Etudes Op299No9 C major ,Czerny,51,4.25
+203.5,<music21.chord.Chord A6 F5 D5>,"[0, 3, 7]","[2, 5, 9]",Etudes Op299No9 C major ,Czerny,51,4.5
+203.75,<music21.chord.Chord B6 F5 D5>,"[0, 3, 6]","[11, 2, 5]",Etudes Op299No9 C major ,Czerny,51,4.75
+203.875,<music21.chord.Chord B6>,[0],[11],Etudes Op299No9 C major ,Czerny,51,4.875
+204,<music21.chord.Chord A6 C5>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,52,1
+204.25,<music21.chord.Chord G6 C5>,"[0, 5]","[7, 0]",Etudes Op299No9 C major ,Czerny,52,1.25
+204.5,<music21.chord.Chord F6 C5>,"[0, 5]","[0, 5]",Etudes Op299No9 C major ,Czerny,52,1.5
+204.75,<music21.chord.Chord E6 C5>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,52,1.75
+205,<music21.chord.Chord D6 E5 C5>,"[0, 2, 4]","[0, 2, 4]",Etudes Op299No9 C major ,Czerny,52,2
+205.25,<music21.chord.Chord C6 E5 C5>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,52,2.25
+205.5,<music21.chord.Chord B5 E5 C5>,"[0, 1, 5]","[11, 0, 4]",Etudes Op299No9 C major ,Czerny,52,2.5
+205.75,<music21.chord.Chord A5 E5 C5>,"[0, 3, 7]","[9, 0, 4]",Etudes Op299No9 C major ,Czerny,52,2.75
+206,<music21.chord.Chord G5 B4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,52,3
+206.25,<music21.chord.Chord A5 B4>,"[0, 2]","[9, 11]",Etudes Op299No9 C major ,Czerny,52,3.25
+206.5,<music21.chord.Chord B5 B4>,[0],[11],Etudes Op299No9 C major ,Czerny,52,3.5
+206.75,<music21.chord.Chord C6 B4>,"[0, 1]","[11, 0]",Etudes Op299No9 C major ,Czerny,52,3.75
+207,<music21.chord.Chord D6 D5 B4>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,52,4
+207.25,<music21.chord.Chord E6 D5 B4>,"[0, 3, 5]","[11, 2, 4]",Etudes Op299No9 C major ,Czerny,52,4.25
+207.5,<music21.chord.Chord F6 D5 B4>,"[0, 3, 6]","[11, 2, 5]",Etudes Op299No9 C major ,Czerny,52,4.5
+207.75,<music21.chord.Chord G6 D5 B4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,52,4.75
+208,<music21.chord.Chord F6 A4>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,53,1
+208.25,<music21.chord.Chord E6 A4>,"[0, 5]","[4, 9]",Etudes Op299No9 C major ,Czerny,53,1.25
+208.5,<music21.chord.Chord D6 A4>,"[0, 5]","[9, 2]",Etudes Op299No9 C major ,Czerny,53,1.5
+208.75,<music21.chord.Chord C6 A4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,53,1.75
+208.875,<music21.chord.Chord C6 A4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,53,1.875
+209,<music21.chord.Chord B5 C5 A4>,"[0, 2, 3]","[9, 11, 0]",Etudes Op299No9 C major ,Czerny,53,2
+209.25,<music21.chord.Chord A5 C5 A4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,53,2.25
+209.5,<music21.chord.Chord G5 C5 A4>,"[0, 2, 5]","[7, 9, 0]",Etudes Op299No9 C major ,Czerny,53,2.5
+209.75,<music21.chord.Chord F5 C5 A4>,"[0, 4, 7]","[5, 9, 0]",Etudes Op299No9 C major ,Czerny,53,2.75
+209.875,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,53,2.875
+210,<music21.chord.Chord E5 G4>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,53,3
+210.25,<music21.chord.Chord F5 G4>,"[0, 2]","[5, 7]",Etudes Op299No9 C major ,Czerny,53,3.25
+210.5,<music21.chord.Chord G5 G4>,[0],[7],Etudes Op299No9 C major ,Czerny,53,3.5
+210.75,<music21.chord.Chord A5 G4>,"[0, 2]","[7, 9]",Etudes Op299No9 C major ,Czerny,53,3.75
+210.875,<music21.chord.Chord A5 G4>,"[0, 2]","[7, 9]",Etudes Op299No9 C major ,Czerny,53,3.875
+211,<music21.chord.Chord B5 B4 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,53,4
+211.25,<music21.chord.Chord C6 B4 G4>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,53,4.25
+211.5,<music21.chord.Chord D6 B4 G4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,53,4.5
+211.75,<music21.chord.Chord E6 B4 G4>,"[0, 3, 7]","[4, 7, 11]",Etudes Op299No9 C major ,Czerny,53,4.75
+211.875,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,53,4.875
+212,<music21.chord.Chord D6 F4>,"[0, 3]","[2, 5]",Etudes Op299No9 C major ,Czerny,54,1
+212.25,<music21.chord.Chord C6 F4>,"[0, 5]","[0, 5]",Etudes Op299No9 C major ,Czerny,54,1.25
+212.5,<music21.chord.Chord B5 F4>,"[0, 6]","[5, 11]",Etudes Op299No9 C major ,Czerny,54,1.5
+212.75,<music21.chord.Chord A5 F4>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,54,1.75
+213,<music21.chord.Chord G5 A4 F4>,"[0, 2, 4]","[5, 7, 9]",Etudes Op299No9 C major ,Czerny,54,2
+213.25,<music21.chord.Chord F5 A4 F4>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,54,2.25
+213.5,<music21.chord.Chord E5 A4 F4>,"[0, 1, 5]","[4, 5, 9]",Etudes Op299No9 C major ,Czerny,54,2.5
+213.75,<music21.chord.Chord D5 A4 F4>,"[0, 3, 7]","[2, 5, 9]",Etudes Op299No9 C major ,Czerny,54,2.75
+214,<music21.chord.Chord C5 E4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,54,3
+214.25,<music21.chord.Chord D5 E4>,"[0, 2]","[2, 4]",Etudes Op299No9 C major ,Czerny,54,3.25
+214.5,<music21.chord.Chord E5 E4>,[0],[4],Etudes Op299No9 C major ,Czerny,54,3.5
+214.75,<music21.chord.Chord F5 E4>,"[0, 1]","[4, 5]",Etudes Op299No9 C major ,Czerny,54,3.75
+215,<music21.chord.Chord G5 G4 E4>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,54,4
+215.25,<music21.chord.Chord A5 G4 E4>,"[0, 3, 5]","[4, 7, 9]",Etudes Op299No9 C major ,Czerny,54,4.25
+215.5,<music21.chord.Chord B5 G4 E4>,"[0, 3, 7]","[4, 7, 11]",Etudes Op299No9 C major ,Czerny,54,4.5
+215.75,<music21.chord.Chord C6 G4 E4>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,54,4.75
+216,<music21.chord.Chord B5 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,1
+216.25,<music21.chord.Chord G6 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,1.25
+216.5,<music21.chord.Chord F6 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,1.5
+216.75,<music21.chord.Chord E6 G3 B3 D4 F4>,"[0, 3, 5, 6, 8]","[11, 2, 4, 5, 7]",Etudes Op299No9 C major ,Czerny,55,1.75
+217,<music21.chord.Chord D6 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,2
+217.25,<music21.chord.Chord C6 G3 B3 D4 F4>,"[0, 1, 3, 6, 8]","[11, 0, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,2.25
+217.5,<music21.chord.Chord B5 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,2.5
+217.75,<music21.chord.Chord A5 G3 B3 D4 F4>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Etudes Op299No9 C major ,Czerny,55,2.75
+218,<music21.chord.Chord G5 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,3
+218.25,<music21.chord.Chord F5 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,3.25
+218.5,<music21.chord.Chord E5 G3 B3 D4 F4>,"[0, 3, 5, 6, 8]","[11, 2, 4, 5, 7]",Etudes Op299No9 C major ,Czerny,55,3.5
+218.75,<music21.chord.Chord D5 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,3.75
+219,<music21.chord.Chord C5 G3 B3 D4 F4>,"[0, 1, 3, 6, 8]","[11, 0, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,4
+219.25,<music21.chord.Chord B4 G3 B3 D4 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Etudes Op299No9 C major ,Czerny,55,4.25
+219.5,<music21.chord.Chord A4 G3 B3 D4 F4>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Etudes Op299No9 C major ,Czerny,55,4.5
+219.666666666667,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,55,4.666666666667
+219.75,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,55,4.75
+220,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,56,1
+220.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,56,1.25
+220.5,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,56,1.5
+220.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,56,1.75
+221,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,56,2
+221.25,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,56,2.25
+221.5,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,56,2.5
+221.75,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,56,2.75
+222,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,56,3
+222.25,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,56,3.25
+222.5,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,56,3.5
+222.75,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,56,3.75
+223,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,56,4
+223.25,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,56,4.25
+223.5,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,56,4.5
+223.75,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,56,4.75
+224,<music21.chord.Chord C5 C3>,[0],[0],Etudes Op299No9 C major ,Czerny,57,1
+224.25,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,57,1.25
+224.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,57,1.5
+224.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,57,1.75
+225,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,57,2
+225.25,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,57,2.25
+225.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,57,2.5
+225.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,57,2.75
+226,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,57,3
+226.25,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,57,3.25
+226.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,57,3.5
+226.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,57,3.75
+227,<music21.chord.Chord E4 G4 G3>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,57,4
+227.25,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,57,4.25
+227.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,57,4.5
+227.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,57,4.75
+228,<music21.chord.Chord E4 C5 C3>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,58,1
+228.25,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,58,1.25
+228.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,58,1.5
+228.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,58,1.75
+229,<music21.chord.Chord C5 E4 G3>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,58,2
+229.25,<music21.chord.Chord C5 E4 F3>,"[0, 4, 5]","[0, 4, 5]",Etudes Op299No9 C major ,Czerny,58,2.25
+229.5,<music21.chord.Chord C5 E4 E3>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,58,2.5
+229.75,<music21.chord.Chord C5 E4 D3>,"[0, 2, 4]","[0, 2, 4]",Etudes Op299No9 C major ,Czerny,58,2.75
+230,<music21.chord.Chord C5 E4 C3>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,58,3
+230.25,<music21.chord.Chord C5 E4 D3>,"[0, 2, 4]","[0, 2, 4]",Etudes Op299No9 C major ,Czerny,58,3.25
+230.5,<music21.chord.Chord C5 E4 E3>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,58,3.5
+230.75,<music21.chord.Chord C5 E4 F3>,"[0, 4, 5]","[0, 4, 5]",Etudes Op299No9 C major ,Czerny,58,3.75
+231,<music21.chord.Chord B-4 E4 G3>,"[0, 3, 6]","[4, 7, 10]",Etudes Op299No9 C major ,Czerny,58,4
+231.25,<music21.chord.Chord B-4 E4 A3>,"[0, 5, 6]","[4, 9, 10]",Etudes Op299No9 C major ,Czerny,58,4.25
+231.5,<music21.chord.Chord B-4 E4 B-3>,"[0, 6]","[4, 10]",Etudes Op299No9 C major ,Czerny,58,4.5
+231.75,<music21.chord.Chord B-4 E4 C4>,"[0, 2, 6]","[10, 0, 4]",Etudes Op299No9 C major ,Czerny,58,4.75
+231.875,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,58,4.875
+232,<music21.chord.Chord F4 A4 F3>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,59,1
+232.25,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,59,1.25
+232.5,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,59,1.5
+232.75,<music21.chord.Chord B-3>,[0],[10],Etudes Op299No9 C major ,Czerny,59,1.75
+233,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,59,2
+233.25,<music21.chord.Chord B-3>,[0],[10],Etudes Op299No9 C major ,Czerny,59,2.25
+233.5,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,59,2.5
+233.75,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,59,2.75
+234,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,59,3
+234.25,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,59,3.25
+234.5,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,59,3.5
+234.75,<music21.chord.Chord B-3>,[0],[10],Etudes Op299No9 C major ,Czerny,59,3.75
+235,<music21.chord.Chord A4 C5 C4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,59,4
+235.25,<music21.chord.Chord B-3>,[0],[10],Etudes Op299No9 C major ,Czerny,59,4.25
+235.5,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,59,4.5
+235.75,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,59,4.75
+236,<music21.chord.Chord A4 F5 F3>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,60,1
+236.25,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,60,1.25
+236.5,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,60,1.5
+236.75,<music21.chord.Chord B-3>,[0],[10],Etudes Op299No9 C major ,Czerny,60,1.75
+237,<music21.chord.Chord F5 A4 C4>,"[0, 4, 7]","[5, 9, 0]",Etudes Op299No9 C major ,Czerny,60,2
+237.25,<music21.chord.Chord F5 A4 B-3>,"[0, 4, 5]","[5, 9, 10]",Etudes Op299No9 C major ,Czerny,60,2.25
+237.5,<music21.chord.Chord F5 A4 A3>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,60,2.5
+237.75,<music21.chord.Chord F5 A4 G3>,"[0, 2, 4]","[5, 7, 9]",Etudes Op299No9 C major ,Czerny,60,2.75
+238,<music21.chord.Chord F5 A4 F3>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,60,3
+238.25,<music21.chord.Chord F5 A4 G3>,"[0, 2, 4]","[5, 7, 9]",Etudes Op299No9 C major ,Czerny,60,3.25
+238.5,<music21.chord.Chord F5 A4 A3>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,60,3.5
+238.75,<music21.chord.Chord F5 A4 B-3>,"[0, 4, 5]","[5, 9, 10]",Etudes Op299No9 C major ,Czerny,60,3.75
+239,<music21.chord.Chord A5 A4 C4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,60,4
+239.25,<music21.chord.Chord A5 A4 D4>,"[0, 5]","[9, 2]",Etudes Op299No9 C major ,Czerny,60,4.25
+239.5,<music21.chord.Chord A5 A4 E4>,"[0, 5]","[4, 9]",Etudes Op299No9 C major ,Czerny,60,4.5
+239.75,<music21.chord.Chord A5 A4 F4>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,60,4.75
+239.875,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,60,4.875
+240,<music21.chord.Chord G4 B4 G3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,61,1
+240.25,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,61,1.25
+240.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,61,1.5
+240.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,61,1.75
+241,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,61,2
+241.25,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,61,2.25
+241.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,61,2.5
+241.75,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,61,2.75
+242,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,61,3
+242.25,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,61,3.25
+242.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,61,3.5
+242.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,61,3.75
+243,<music21.chord.Chord B4 D5 D4>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,61,4
+243.25,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,61,4.25
+243.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,61,4.5
+243.75,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,61,4.75
+244,<music21.chord.Chord B4 G5 G3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,62,1
+244.25,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,62,1.25
+244.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,62,1.5
+244.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,62,1.75
+245,<music21.chord.Chord G5 B4 D4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,62,2
+245.25,<music21.chord.Chord G5 B4 C4>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,62,2.25
+245.5,<music21.chord.Chord G5 B4 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,62,2.5
+245.75,<music21.chord.Chord G5 B4 A3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,62,2.75
+246,<music21.chord.Chord G5 B4 G3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,62,3
+246.25,<music21.chord.Chord G5 B4 A3>,"[0, 2, 4]","[7, 9, 11]",Etudes Op299No9 C major ,Czerny,62,3.25
+246.5,<music21.chord.Chord G5 B4 B3>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,62,3.5
+246.75,<music21.chord.Chord G5 B4 C4>,"[0, 4, 5]","[7, 11, 0]",Etudes Op299No9 C major ,Czerny,62,3.75
+247,<music21.chord.Chord F5 B4 D4>,"[0, 3, 6]","[11, 2, 5]",Etudes Op299No9 C major ,Czerny,62,4
+247.25,<music21.chord.Chord F5 B4 E4>,"[0, 5, 6]","[11, 4, 5]",Etudes Op299No9 C major ,Czerny,62,4.25
+247.5,<music21.chord.Chord F5 B4 F4>,"[0, 6]","[5, 11]",Etudes Op299No9 C major ,Czerny,62,4.5
+247.75,<music21.chord.Chord F5 B4 G4>,"[0, 2, 6]","[5, 7, 11]",Etudes Op299No9 C major ,Czerny,62,4.75
+248,<music21.chord.Chord E5 C4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,63,1
+248.25,<music21.chord.Chord F5 D4>,"[0, 3]","[2, 5]",Etudes Op299No9 C major ,Czerny,63,1.25
+248.5,<music21.chord.Chord G5 E4>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,63,1.5
+248.75,<music21.chord.Chord A5 F4>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,63,1.75
+249,<music21.chord.Chord B5 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,63,2
+249.25,<music21.chord.Chord C6 A4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,63,2.25
+249.5,<music21.chord.Chord D6 B4>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,63,2.5
+249.75,<music21.chord.Chord E6 C5>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,63,2.75
+250,<music21.chord.Chord D6 G4 B4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,63,3
+250.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,63,3.25
+250.5,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,63,3.5
+250.75,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,63,3.75
+251,<music21.chord.Chord B5 B3 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,63,4
+251.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,63,4.25
+251.5,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,63,4.5
+251.75,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,63,4.75
+252,<music21.chord.Chord E5 C4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,64,1
+252.25,<music21.chord.Chord F5 D4>,"[0, 3]","[2, 5]",Etudes Op299No9 C major ,Czerny,64,1.25
+252.5,<music21.chord.Chord G5 E4>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,64,1.5
+252.75,<music21.chord.Chord A5 F4>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,64,1.75
+253,<music21.chord.Chord B5 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,64,2
+253.25,<music21.chord.Chord C6 A4>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,64,2.25
+253.5,<music21.chord.Chord D6 B4>,"[0, 3]","[11, 2]",Etudes Op299No9 C major ,Czerny,64,2.5
+253.75,<music21.chord.Chord E6 C5>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,64,2.75
+254,<music21.chord.Chord D6 G4 B4>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,64,3
+254.25,<music21.chord.Chord E6>,[0],[4],Etudes Op299No9 C major ,Czerny,64,3.25
+254.5,<music21.chord.Chord D6>,[0],[2],Etudes Op299No9 C major ,Czerny,64,3.5
+254.75,<music21.chord.Chord C6>,[0],[0],Etudes Op299No9 C major ,Czerny,64,3.75
+255,<music21.chord.Chord B5 B3 G4>,"[0, 4]","[7, 11]",Etudes Op299No9 C major ,Czerny,64,4
+255.25,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,64,4.25
+255.5,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,64,4.5
+255.75,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,64,4.75
+256,<music21.chord.Chord E5 C4>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,65,1
+256.25,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,65,1.25
+256.5,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,65,1.5
+256.75,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,65,1.75
+257,<music21.chord.Chord D5 G5 B3>,"[0, 4, 7]","[7, 11, 2]",Etudes Op299No9 C major ,Czerny,65,2
+257.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,65,2.25
+257.5,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,65,2.5
+257.75,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,65,2.75
+258,<music21.chord.Chord C5 A3>,"[0, 3]","[9, 0]",Etudes Op299No9 C major ,Czerny,65,3
+258.25,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,65,3.25
+258.5,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,65,3.5
+258.75,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,65,3.75
+259,<music21.chord.Chord B4 E5 G3>,"[0, 3, 7]","[4, 7, 11]",Etudes Op299No9 C major ,Czerny,65,4
+259.25,<music21.chord.Chord B3>,[0],[11],Etudes Op299No9 C major ,Czerny,65,4.25
+259.5,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,65,4.5
+259.75,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,65,4.75
+260,<music21.chord.Chord A4 F3>,"[0, 4]","[5, 9]",Etudes Op299No9 C major ,Czerny,66,1
+260.25,<music21.chord.Chord A3>,[0],[9],Etudes Op299No9 C major ,Czerny,66,1.25
+260.5,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,66,1.5
+260.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,66,1.75
+261,<music21.chord.Chord G4 C5 E3>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,66,2
+261.25,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,66,2.25
+261.5,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,66,2.5
+261.75,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,66,2.75
+262,<music21.chord.Chord F4 D3>,"[0, 3]","[2, 5]",Etudes Op299No9 C major ,Czerny,66,3
+262.25,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,66,3.25
+262.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,66,3.5
+262.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,66,3.75
+263,<music21.chord.Chord E4 A4 C#3>,"[0, 4, 7]","[9, 1, 4]",Etudes Op299No9 C major ,Czerny,66,4
+263.25,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,66,4.25
+263.5,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,66,4.5
+263.75,<music21.chord.Chord C#3>,[0],[1],Etudes Op299No9 C major ,Czerny,66,4.75
+264,<music21.chord.Chord F4 D3>,"[0, 3]","[2, 5]",Etudes Op299No9 C major ,Czerny,67,1
+264.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,67,1.25
+264.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,67,1.5
+264.75,<music21.chord.Chord F4>,[0],[5],Etudes Op299No9 C major ,Czerny,67,1.75
+265,<music21.chord.Chord G4>,[0],[7],Etudes Op299No9 C major ,Czerny,67,2
+265.25,<music21.chord.Chord A4>,[0],[9],Etudes Op299No9 C major ,Czerny,67,2.25
+265.5,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,67,2.5
+265.75,<music21.chord.Chord C#5>,[0],[1],Etudes Op299No9 C major ,Czerny,67,2.75
+266,<music21.chord.Chord D5 F2 A2 D3>,"[0, 3, 7]","[2, 5, 9]",Etudes Op299No9 C major ,Czerny,67,3
+266.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,67,3.25
+266.5,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,67,3.5
+266.75,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,67,3.75
+267,<music21.chord.Chord A5>,[0],[9],Etudes Op299No9 C major ,Czerny,67,4
+267.25,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,67,4.25
+267.5,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,67,4.5
+267.75,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,67,4.75
+268,<music21.chord.Chord G5 G2 C3 E3>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,68,1
+268.25,<music21.chord.Chord E-5>,[0],[3],Etudes Op299No9 C major ,Czerny,68,1.25
+268.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,68,1.5
+268.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,68,1.75
+269,<music21.chord.Chord G5>,[0],[7],Etudes Op299No9 C major ,Czerny,68,2
+269.25,<music21.chord.Chord E-5>,[0],[3],Etudes Op299No9 C major ,Czerny,68,2.25
+269.5,<music21.chord.Chord E5>,[0],[4],Etudes Op299No9 C major ,Czerny,68,2.5
+269.75,<music21.chord.Chord C5>,[0],[0],Etudes Op299No9 C major ,Czerny,68,2.75
+270,<music21.chord.Chord F5 G2 D3 F3>,"[0, 3, 5]","[2, 5, 7]",Etudes Op299No9 C major ,Czerny,68,3
+270.25,<music21.chord.Chord C#5>,[0],[1],Etudes Op299No9 C major ,Czerny,68,3.25
+270.5,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,68,3.5
+270.75,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,68,3.75
+271,<music21.chord.Chord F5>,[0],[5],Etudes Op299No9 C major ,Czerny,68,4
+271.25,<music21.chord.Chord C#5>,[0],[1],Etudes Op299No9 C major ,Czerny,68,4.25
+271.5,<music21.chord.Chord D5>,[0],[2],Etudes Op299No9 C major ,Czerny,68,4.5
+271.75,<music21.chord.Chord B4>,[0],[11],Etudes Op299No9 C major ,Czerny,68,4.75
+272,<music21.chord.Chord C5 C3>,[0],[0],Etudes Op299No9 C major ,Czerny,69,1
+272.25,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,69,1.25
+272.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,69,1.5
+272.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,69,1.75
+273,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,69,2
+273.25,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,69,2.25
+273.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,69,2.5
+273.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,69,2.75
+274,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,69,3
+274.25,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,69,3.25
+274.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,69,3.5
+274.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,69,3.75
+275,<music21.chord.Chord E4 G4 G3>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,69,4
+275.25,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,69,4.25
+275.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,69,4.5
+275.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,69,4.75
+276,<music21.chord.Chord C4 E4 C3>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,70,1
+276.25,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,70,1.25
+276.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,70,1.5
+276.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,70,1.75
+277,<music21.chord.Chord G3>,[0],[7],Etudes Op299No9 C major ,Czerny,70,2
+277.25,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,70,2.25
+277.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,70,2.5
+277.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,70,2.75
+278,<music21.chord.Chord C3>,[0],[0],Etudes Op299No9 C major ,Czerny,70,3
+278.25,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,70,3.25
+278.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,70,3.5
+278.75,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,70,3.75
+279,<music21.chord.Chord E4 G4 G3>,"[0, 3]","[4, 7]",Etudes Op299No9 C major ,Czerny,70,4
+279.25,<music21.chord.Chord F3>,[0],[5],Etudes Op299No9 C major ,Czerny,70,4.25
+279.5,<music21.chord.Chord E3>,[0],[4],Etudes Op299No9 C major ,Czerny,70,4.5
+279.75,<music21.chord.Chord D3>,[0],[2],Etudes Op299No9 C major ,Czerny,70,4.75
+280,<music21.chord.Chord C4 E4 C3>,"[0, 4]","[0, 4]",Etudes Op299No9 C major ,Czerny,71,1
+282,<music21.chord.Chord C5 E5 G5 C6 C2 E2 G2 C3>,"[0, 4, 7]","[0, 4, 7]",Etudes Op299No9 C major ,Czerny,71,3

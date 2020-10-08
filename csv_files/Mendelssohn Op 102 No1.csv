@@ -1,0 +1,515 @@
+offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Beat Number
+0,<music21.chord.Chord E1 E2>,[0],[4],Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,1
+0.25,<music21.chord.Chord B3 E4 G4 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,1.25
+0.5,<music21.chord.Chord B3 E4 G4 E3 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,1.5
+0.75,<music21.chord.Chord B3 E4 G4 E1 E2 E3 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,1.75
+1,<music21.chord.Chord G3 E3 E1 E2>,"[0, 3]","[4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,2
+1.5,<music21.chord.Chord B3 E4 G4 B2 B1 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,2.5
+1.75,<music21.chord.Chord B3 E4 G4 B2 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,2.75
+2,<music21.chord.Chord E2 E1 B2 B1>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,3
+2.25,<music21.chord.Chord B3 E4 G4 E2 E1 B2 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,3.25
+2.5,<music21.chord.Chord B3 E4 G4 E3 B2 E2 E1 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,3.5
+2.75,<music21.chord.Chord B3 E4 G4 E2 E1 E3 B2 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,3.75
+3,<music21.chord.Chord E3 G3 E2 E1 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,4
+3.25,<music21.chord.Chord E2 E1 E3 G3>,"[0, 3]","[4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,4.25
+3.5,<music21.chord.Chord B3 E4 G4 B4 B1 B2 E2 E1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,4.5
+3.75,<music21.chord.Chord B3 E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,4.75
+4,<music21.chord.Chord B4 E1 E2 B1 B2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,1
+4.25,<music21.chord.Chord B3 D4 E4 G#4 B4 E1 E2 B1 B2>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,1.25
+4.5,<music21.chord.Chord B4 B3 D4 E4 G#4 E3 B2 E1 E2 B1>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,1.5
+4.75,<music21.chord.Chord B3 D4 E4 G#4 B4 E1 E2 B1 E3 B2>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,1.75
+5,<music21.chord.Chord B4 E3 G#3 E1 E2 B1>,"[0, 4, 7]","[4, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,2
+5.25,<music21.chord.Chord B4 E1 E2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,2.25
+5.5,<music21.chord.Chord B3 D4 E4 G#4 B4 E1 E2 E3 G#3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,2.5
+5.75,<music21.chord.Chord B3 D4 E4 G#4 B4 E3 G#3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,2.75
+6,<music21.chord.Chord C5 A2 A1 E3 G#3>,"[0, 1, 4, 8]","[8, 9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,3
+6.25,<music21.chord.Chord C4 E4 A4 C5 A2 A1 E3 G#3>,"[0, 1, 4, 8]","[8, 9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,3.25
+6.5,<music21.chord.Chord C5 C4 E4 A4 A2 C3 E3 G#3>,"[0, 1, 4, 8]","[8, 9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,3.5
+6.75,<music21.chord.Chord C4 E4 A4 C5 A2 C3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,3.75
+7,<music21.chord.Chord C5 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,4
+7.5,<music21.chord.Chord C4 E4 A4 C5 A1 A2 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,2,4.5
+8,<music21.chord.Chord C#5 G1 G2 E3 A3 A1 A2>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,1
+8.25,<music21.chord.Chord E4 B-4 C#5 E3 A3 A1 A2 G1 G2>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,1.25
+8.5,<music21.chord.Chord C#5 E4 B-4 C#3 B-3 E3 A3 A1 A2 G1 G2>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,1.5
+8.75,<music21.chord.Chord E4 B-4 C#5 C#3 B-3 A1 A2 G1 G2>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,1.75
+9,<music21.chord.Chord F#5 F#1 F#2 A1 A2 G1 G2>,"[0, 1, 3]","[6, 7, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,2
+9.25,<music21.chord.Chord F#5 F#1 F#2 G1 G2>,"[0, 1]","[6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,2.25
+9.5,<music21.chord.Chord E4 F#4 B-4 C#5 C#3 E3 B-3 F#3 F#1 F#2 G1 G2>,"[0, 3, 6, 8, 9]","[10, 1, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,2.5
+9.75,<music21.chord.Chord E4 F#4 B-4 C#5 F#1 F#2 C#3 E3 B-3 F#3>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,2.75
+10,<music21.chord.Chord E5 B2 B1 F#1 F#2 C#3 E3 B-3 F#3>,"[0, 1, 3, 6, 8]","[10, 11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,3
+10.25,<music21.chord.Chord F#4 A4 B4 E5 F#1 F#2 C#3 E3 B-3 F#3 B2 B1>,"[0, 1, 2, 4, 7, 9]","[9, 10, 11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,3.25
+10.5,<music21.chord.Chord E-5 F#4 A4 B4 F#3 A3 F#1 F#2 C#3 E3 B-3>,"[0, 1, 2, 4, 6, 7, 9]","[9, 10, 11, 1, 3, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,3.5
+10.75,<music21.chord.Chord F#4 A4 B4 E-5 C#3 E3 B-3 F#3 A3>,"[0, 1, 2, 4, 6, 7, 9]","[9, 10, 11, 1, 3, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,3.75
+11,<music21.chord.Chord E-5 B3 E-4 C#3 E3 B-3 F#3 A3>,"[0, 1, 2, 4, 6, 7, 9]","[9, 10, 11, 1, 3, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,4
+11.25,<music21.chord.Chord E-5 B3 E-4 A3>,"[0, 2, 6]","[9, 11, 3]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,4.25
+11.5,<music21.chord.Chord E-4 F#4 A4 B4 B1 B2 B3 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,3,4.5
+12,<music21.chord.Chord G5 E1 E2 B3 E-4 B1 B2 A3>,"[0, 1, 4, 6, 8]","[3, 4, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,1
+12.25,<music21.chord.Chord B4 G4 G5 B3 E-4 B1 B2 E1 E2>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,1.25
+12.5,<music21.chord.Chord G5 B4 G4 E2 G2 B2 B3 E-4 B1 E1>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,1.5
+12.75,<music21.chord.Chord G4 B4 G5 B1 E2 G2 B2 E1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,1.75
+13,<music21.chord.Chord F#5 B2 G2 E3 B1 E1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,2
+13.25,<music21.chord.Chord F#5 G2 E3 E1>,"[0, 2, 3]","[4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,2.25
+13.5,<music21.chord.Chord E4 G4 B4 E5 E1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,2.5
+13.75,<music21.chord.Chord E4 G4 B4 E5>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,2.75
+14,<music21.chord.Chord E5 A2 A1>,"[0, 5]","[4, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,3
+14.25,<music21.chord.Chord A4 E4 E5 A2 A1>,"[0, 5]","[4, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,3.25
+14.5,<music21.chord.Chord A4 E4 E5 C3 E3 A3 A2 A1>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,3.5
+14.75,<music21.chord.Chord E4 A4 E5 A2 A1 C3 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,3.75
+15,<music21.chord.Chord D5 E3 A3 C4 A2 A1>,"[0, 3, 5, 7]","[9, 0, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,4
+15.5,<music21.chord.Chord C4 E4 A4 C5 A2 A1 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,4.5
+15.75,<music21.chord.Chord C4 E4 A4 C5 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,4,4.75
+16,<music21.chord.Chord B4 B1 B2 E3 A3 C4>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,1
+16.25,<music21.chord.Chord B3 E-4 B4 B1 E3 A3 C4 B2>,"[0, 2, 3, 6, 7]","[9, 11, 0, 3, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,1.25
+16.5,<music21.chord.Chord F#4 B3 E-4 B2 F#3 B1 E3 A3 C4>,"[0, 1, 3, 6, 8, 9]","[3, 4, 6, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,1.5
+16.75,<music21.chord.Chord B3 E-4 F#4 B1 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,1.75
+17,<music21.chord.Chord A4 F#3 A3 B1>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,2
+17.5,<music21.chord.Chord B3 E-4 G4 B1 F#3 A3>,"[0, 3, 4, 6, 8]","[3, 6, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,2.5
+17.75,<music21.chord.Chord B3 E-4 G4 F#3 A3>,"[0, 3, 4, 6, 8]","[3, 6, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,2.75
+18,<music21.chord.Chord E4 E1 E2 F#3 A3>,"[0, 2, 5]","[4, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,3
+18.25,<music21.chord.Chord B3 G3 E4 E1 E2 F#3 A3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,3.25
+18.5,<music21.chord.Chord E4 B3 G3 E3 B2 E1 E2 F#3 A3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,3.5
+18.75,<music21.chord.Chord B3 G3 E4 E1 E2 E3 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,3.75
+19,<music21.chord.Chord E4 E3 G3 E1 E2>,"[0, 3]","[4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,4
+19.5,<music21.chord.Chord B3 E4 G4 B4 B1 B2 E1 E2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,4.5
+19.75,<music21.chord.Chord B3 E4 G4 B4 E3 G3 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,5,4.75
+20,<music21.chord.Chord B4 E1 E2 E3 G3 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,1
+20.25,<music21.chord.Chord B3 D4 E4 G#4 B4 E1 E2 E3 G3 B1 B2>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,1.25
+20.5,<music21.chord.Chord B4 B3 D4 E4 G#4 E3 B2 G3 B1>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,1.5
+20.75,<music21.chord.Chord B3 D4 E4 G#4 B4 B2 B1>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,1.75
+21,<music21.chord.Chord B4 E3 G#3 B1>,"[0, 4, 7]","[4, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,2
+21.25,<music21.chord.Chord B4 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,2.25
+21.5,<music21.chord.Chord B3 D4 E4 G#4 B4 E1 E2 E3 G#3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,2.5
+22,<music21.chord.Chord C5 A1 A2 E3 G#3 E1 E2>,"[0, 1, 4, 8]","[8, 9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,3
+22.25,<music21.chord.Chord C4 E4 A4 C5 E3 G#3 E1 E2 A1 A2>,"[0, 1, 4, 8]","[8, 9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,3.25
+22.5,<music21.chord.Chord C5 C4 E4 A4 E3 C3 G#3 E1 E2>,"[0, 1, 4, 8]","[8, 9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,3.5
+22.75,<music21.chord.Chord C4 E4 A4 C5 E1 E2 C3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,3.75
+23,<music21.chord.Chord C5 E3 A3 E1 E2>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,4
+23.25,<music21.chord.Chord C5 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,4.25
+23.5,<music21.chord.Chord C4 E4 A4 C5 A1 A2>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,6,4.5
+24,<music21.chord.Chord C#5 G1 G2 A1 A2>,"[0, 2, 6]","[7, 9, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,1
+24.25,<music21.chord.Chord E4 G4 B-4 C#5 A1 A2 G1 G2>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,1.25
+24.5,<music21.chord.Chord C#5 E4 G4 B-4 E3 G3 B-3 A1 A2>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,1.5
+24.75,<music21.chord.Chord E4 G4 B-4 C#5 A1 A2 E3 G3 B-3>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,1.75
+25,<music21.chord.Chord G5 E3 G3 B-3 C#4 A1 A2>,"[0, 3, 6, 8, 9]","[1, 4, 7, 9, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,2
+25.25,<music21.chord.Chord G5 E3 G3 B-3 C#4>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,2.25
+25.5,<music21.chord.Chord E4 G4 B-4 C#5 G1 G2 E3 G3 B-3 C#4>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,2.5
+26,<music21.chord.Chord E5 F#2 F#1 G1 G2 E3 G3 B-3 C#4>,"[0, 3, 6, 8, 9]","[10, 1, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,3
+26.25,<music21.chord.Chord D4 A4 C5 E5 G1 G2 E3 G3 B-3 C#4 F#2 F#1>,"[0, 2, 3, 5, 6, 8, 9, 10]","[4, 6, 7, 9, 10, 0, 1, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,3.25
+26.5,<music21.chord.Chord D5 D4 A4 C5 D3 A3 G1 G2 E3 G3 B-3 C#4>,"[0, 2, 3, 5, 6, 7, 9]","[7, 9, 10, 0, 1, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,3.5
+26.75,<music21.chord.Chord D4 A4 C5 D5 G1 G2 D3 A3>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,3.75
+27,<music21.chord.Chord D5 A3 C4 G1 G2>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,4
+27.25,<music21.chord.Chord D5 A3 C4>,"[0, 3, 5]","[9, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,4.25
+27.5,<music21.chord.Chord D4 A4 C5 D5 F#1 F#2 A3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,7,4.5
+28,<music21.chord.Chord B5 G1 G2 F#1 F#2 A3 C4>,"[0, 1, 3, 5, 6]","[6, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,1
+28.25,<music21.chord.Chord D5 B4 B5 F#1 F#2 A3 C4 G1 G2>,"[0, 1, 3, 5, 6, 8]","[6, 7, 9, 11, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,1.25
+28.5,<music21.chord.Chord B5 D5 B4 G3 B3 D4 F#1 F#2 A3 C4 G1 G2>,"[0, 1, 3, 5, 6, 8]","[6, 7, 9, 11, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,1.5
+28.75,<music21.chord.Chord B4 D5 B5 F#1 F#2 G1 G2 G3 B3 D4>,"[0, 1, 5, 8]","[6, 7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,1.75
+29,<music21.chord.Chord A5 B3 D4 G4 F#1 F#2 G1 G2>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,2
+29.25,<music21.chord.Chord A5 B3 D4 G4 G1 G2>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,2.25
+29.5,<music21.chord.Chord B4 D5 G5 B3 D4 G4 G1 G2>,"[0, 4, 7]","[7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,2.5
+29.75,<music21.chord.Chord B4 D5 G5 B3 D4 G4>,"[0, 4, 7]","[7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,2.75
+30,<music21.chord.Chord G5 E2 E3 B3 D4 G4>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,3
+30.25,<music21.chord.Chord C5 G4 G5 E2 B3 D4 E3>,"[0, 1, 3, 5, 8]","[11, 0, 2, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,3.25
+30.5,<music21.chord.Chord C5 G5 E3 G3 C4 E2 B3 D4 G4>,"[0, 1, 3, 5, 8]","[11, 0, 2, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,3.5
+30.75,<music21.chord.Chord G4 C5 G5 E2 E3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,3.75
+31,<music21.chord.Chord F#5 G3 C4 E4 E2>,"[0, 4, 6, 7]","[0, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,4
+31.5,<music21.chord.Chord G4 C5 E5 E2 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,4.5
+31.75,<music21.chord.Chord G4 C5 E5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,8,4.75
+32,<music21.chord.Chord D5 F#2 F#3 G3 C4 E4>,"[0, 2, 4, 6, 7]","[0, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,1
+32.25,<music21.chord.Chord D4 F#4 D5 F#2 F#3 G3 C4 E4>,"[0, 2, 4, 6, 7]","[0, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,1.25
+32.5,<music21.chord.Chord A4 D4 F#4 D3 A3 F#2 F#3 G3 C4 E4>,"[0, 2, 4, 6, 7, 9]","[0, 2, 4, 6, 7, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,1.5
+32.75,<music21.chord.Chord D4 F#4 A4 F#2 F#3 D3 A3>,"[0, 4, 7]","[2, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,1.75
+33,<music21.chord.Chord B4 D3 A3 C4 F#2 F#3>,"[0, 3, 5, 6, 8]","[6, 9, 11, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,2
+33.5,<music21.chord.Chord D4 F#4 A4 C5 D3 D2 F#2 F#3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,2.5
+33.75,<music21.chord.Chord D4 F#4 A4 C5 D3 D2>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,2.75
+34,<music21.chord.Chord B4 G2 G3 D3 D2>,"[0, 4, 7]","[7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,3
+34.25,<music21.chord.Chord D4 G4 B4 G2 G3 D3 D2>,"[0, 4, 7]","[7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,3.25
+34.5,<music21.chord.Chord C#5 D4 G4 D3 G3 B3 D2>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,3.5
+34.75,<music21.chord.Chord D4 G4 C#5 D3 G3 B3 D2>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,3.75
+35,<music21.chord.Chord D5 G3 B3 D4 D2>,"[0, 4, 7]","[7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,4
+35.25,<music21.chord.Chord D5 G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,4.25
+35.5,<music21.chord.Chord G4 B4 E5 G2 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,9,4.5
+36,<music21.chord.Chord F#5 F#2 F#3 G2 G3>,"[0, 1]","[6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,1
+36.25,<music21.chord.Chord B-4 F#4 F#5 G2 G3 F#2 F#3>,"[0, 1, 4]","[6, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,1.25
+36.5,<music21.chord.Chord F#5 B-4 F#4 E3 F#3 B-3 G2 G3>,"[0, 2, 3, 6]","[4, 6, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,1.5
+36.75,<music21.chord.Chord F#4 B-4 F#5 G2 G3 E3 F#3 B-3>,"[0, 2, 3, 6]","[4, 6, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,1.75
+37,<music21.chord.Chord F#5 F#3 B-3 C#4 G2 G3>,"[0, 1, 4, 7]","[6, 7, 10, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,2
+37.25,<music21.chord.Chord E5 F#3 B-3 C#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,2.25
+37.5,<music21.chord.Chord D5 F#4 B-4 F#3 F#2 B-3 C#4>,"[0, 4, 7, 8]","[6, 10, 1, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,2.5
+37.75,<music21.chord.Chord C#5 F#4 B-4 F#3 F#2 B-3 C#4>,"[0, 4, 7]","[6, 10, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,2.75
+38,<music21.chord.Chord B4 G3 G2 B-3 C#4>,"[0, 3, 4, 6]","[7, 10, 11, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,3
+38.25,<music21.chord.Chord D4 G4 B4 G3 G2 B-3 C#4>,"[0, 3, 4, 6, 7]","[7, 10, 11, 1, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,3.25
+38.5,<music21.chord.Chord C#5 D4 G4 D3 G3 B3 B-3 C#4>,"[0, 3, 4, 6, 7]","[7, 10, 11, 1, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,3.5
+38.75,<music21.chord.Chord D4 G4 C#5 D3 G3 B3>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,3.75
+39,<music21.chord.Chord D5 G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,4
+39.5,<music21.chord.Chord G4 B4 E5 G2 G3 B3 D4>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,10,4.5
+40,<music21.chord.Chord F#5 F#2 F#3 B3 D4>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,1
+40.25,<music21.chord.Chord B-4 F#4 F#5 F#2 F#3 B3 D4>,"[0, 1, 4, 8]","[10, 11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,1.25
+40.5,<music21.chord.Chord F#5 B-4 F#4 F#3 B-3 C#4 B3 D4>,"[0, 1, 3, 4, 8]","[10, 11, 1, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,1.5
+40.75,<music21.chord.Chord F#4 B-4 F#5 F#3 B-3 C#4>,"[0, 4, 7]","[6, 10, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,1.75
+41,<music21.chord.Chord F#5 F#3 C#4 E4>,"[0, 3, 5]","[1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,2
+41.25,<music21.chord.Chord E5 F#3 C#4 E4>,"[0, 3, 5]","[1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,2.25
+41.5,<music21.chord.Chord C#5 F#4 F#1 F#2 F#3 C#4 E4>,"[0, 3, 5]","[1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,2.5
+41.75,<music21.chord.Chord B-4 F#4 F#3 C#4 E4 F#1 F#2>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,2.75
+42,<music21.chord.Chord B4 B2 B1 F#3 C#4 E4 F#1 F#2>,"[0, 2, 5, 7]","[11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,3
+42.25,<music21.chord.Chord F#4 D4 B4 F#3 C#4 E4 F#1 F#2 B2 B1>,"[0, 2, 3, 5, 7]","[11, 1, 2, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,3.25
+42.5,<music21.chord.Chord B4 F#4 D4 D3 B2 F#3 C#4 E4 F#1 F#2>,"[0, 2, 3, 5, 7]","[11, 1, 2, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,3.5
+42.75,<music21.chord.Chord D4 F#4 B4 D3 B2 F#1 F#2>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,3.75
+43,<music21.chord.Chord B4 B2 D3 F#3 B3 F#1 F#2>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,4
+43.25,<music21.chord.Chord B4 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,4.25
+43.5,<music21.chord.Chord B3 D4 F#4 B4 B2 D3 F#3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,11,4.5
+44,<music21.chord.Chord B4 B1 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,1
+44.25,<music21.chord.Chord E4 G4 B4 B1 B2 D3 F#3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,1.25
+44.5,<music21.chord.Chord B4 E4 G4 B2 E3 G3 D3 F#3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,1.5
+44.75,<music21.chord.Chord E4 G4 B4 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,1.75
+45,<music21.chord.Chord E5 B2 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,2
+45.5,<music21.chord.Chord G4 B4 G5 B2 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,2.5
+46,<music21.chord.Chord F#5 B1 B2 E3 G3 B3>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,3
+46.25,<music21.chord.Chord F#4 B4 F#5 B1 B2 E3 G3 B3>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,3.25
+46.5,<music21.chord.Chord F#5 F#4 B4 B2 D3 F#3 E3 G3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,3.5
+46.75,<music21.chord.Chord D5 F#4 D3 F#3>,"[0, 4]","[2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,3.75
+47,<music21.chord.Chord B4 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,4
+47.5,<music21.chord.Chord D4 F#4 D5 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,12,4.5
+48,<music21.chord.Chord C#5 B1 B2 D3 F#3 B3>,"[0, 2, 3, 7]","[11, 1, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,1
+48.25,<music21.chord.Chord E4 G4 C#5 B1 B2 D3 F#3 B3>,"[0, 2, 3, 5, 7, 8]","[11, 1, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,1.25
+48.5,<music21.chord.Chord B4 E4 G4 B2 E3 G3 D3 F#3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,1.5
+48.75,<music21.chord.Chord E4 B4 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,1.75
+49,<music21.chord.Chord G4 B2 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,2
+49.5,<music21.chord.Chord C#4 E4 B4 B2 E3 G3 B3>,"[0, 2, 5, 8]","[11, 1, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,2.5
+50,<music21.chord.Chord F#4 B1 B2 E3 G3 B3>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,3
+50.25,<music21.chord.Chord D4 F#4 B1 B2 E3 G3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,3.25
+50.5,<music21.chord.Chord F#4 D4 B2 D3 F#3 E3 G3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,3.5
+50.75,<music21.chord.Chord D4 F#4 D3 F#3>,"[0, 4]","[2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,3.75
+51,<music21.chord.Chord F#4 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,4
+51.5,<music21.chord.Chord B3 D4 F#4 B4 B2 D3 F#3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,13,4.5
+52,<music21.chord.Chord B4 B1 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,1
+52.25,<music21.chord.Chord E4 G4 B4 B1 B2 D3 F#3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,1.25
+52.5,<music21.chord.Chord B4 E4 G4 B2 E3 G3 D3 F#3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,1.5
+52.75,<music21.chord.Chord E4 G4 B4 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,1.75
+53,<music21.chord.Chord E5 B2 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,2
+53.5,<music21.chord.Chord G4 B4 G5 B2 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,2.5
+54,<music21.chord.Chord F#5 B1 B2 E3 G3 B3>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,3
+54.25,<music21.chord.Chord F#4 B4 F#5 B1 B2 E3 G3 B3>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,3.25
+54.5,<music21.chord.Chord D5 F#4 B4 B2 D3 F#3 E3 G3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,3.5
+54.75,<music21.chord.Chord F#4 D5 D3 F#3>,"[0, 4]","[2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,3.75
+55,<music21.chord.Chord B4 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,4
+55.5,<music21.chord.Chord D4 F#4 D5 B2 D3 F#3 B3>,"[0, 3, 7]","[11, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,14,4.5
+56,<music21.chord.Chord C5 B1 B2 D3 F#3 B3>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,1
+56.25,<music21.chord.Chord E4 G4 C5 B1 B2 D3 F#3 B3>,"[0, 1, 3, 5, 7, 8]","[11, 0, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,1.25
+56.5,<music21.chord.Chord B4 E4 G4 B2 E3 G3 D3 F#3 B3>,"[0, 3, 5, 7, 8]","[11, 2, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,1.5
+56.75,<music21.chord.Chord E4 G4 B4 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,1.75
+57,<music21.chord.Chord C5 E3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,2
+57.5,<music21.chord.Chord E4 G4 E5 B2 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,2.5
+58,<music21.chord.Chord C5 B1 B2>,"[0, 1]","[11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,3
+58.25,<music21.chord.Chord E4 G4 C5 B1 B2>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,3.25
+58.5,<music21.chord.Chord B4 E4 G4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,3.5
+58.75,<music21.chord.Chord E4 G4 B4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,3.75
+59,<music21.chord.Chord C5 E3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,4
+59.5,<music21.chord.Chord E4 G4 E5 B2 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,15,4.5
+60,<music21.chord.Chord C5 B1 B2>,"[0, 1]","[11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,1
+60.25,<music21.chord.Chord E4 A4 C5 B1 B2>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,1.25
+60.5,<music21.chord.Chord B4 E4 A4 B2 F#3 A3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,1.5
+60.75,<music21.chord.Chord E4 A4 B4 B2 F#3 A3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,1.75
+61,<music21.chord.Chord C5 F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,2
+61.5,<music21.chord.Chord A4 C5 F#5 B1 B2>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,2.5
+62,<music21.chord.Chord C5 B1 B2>,"[0, 1]","[11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,3
+62.25,<music21.chord.Chord E4 A4 B1 B2>,"[0, 2, 7]","[9, 11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,3.25
+62.5,<music21.chord.Chord B4 E4 A4 B2 F#3 A3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,3.5
+62.75,<music21.chord.Chord E4 A4 B4 B2 F#3 A3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,3.75
+63,<music21.chord.Chord C5 F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,4
+63.5,<music21.chord.Chord A4 C5 F#5 B1 B2>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,16,4.5
+64,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,1
+64.25,<music21.chord.Chord E-4 A4 B4 B1 B2>,"[0, 2, 6]","[9, 11, 3]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,1.25
+64.5,<music21.chord.Chord B-4 E-4 A4 B2 F#3 A3>,"[0, 3, 6, 7, 8]","[3, 6, 9, 10, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,1.5
+64.75,<music21.chord.Chord E-4 A4 B-4 B2 F#3 A3>,"[0, 3, 6, 7, 8]","[3, 6, 9, 10, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,1.75
+65,<music21.chord.Chord B4 F#3 A3 B3>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,2
+65.5,<music21.chord.Chord A4 B4 F#5 B1 B2>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,2.5
+66,<music21.chord.Chord B4 A1 A2>,"[0, 2]","[9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,3
+66.25,<music21.chord.Chord E-4 F#4 A1 A2>,"[0, 3, 6]","[3, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,3.25
+66.5,<music21.chord.Chord B-4 E-4 F#4 B2 E-3 F#3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,3.5
+66.75,<music21.chord.Chord E-4 F#4 B-4 B2 E-3 F#3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,3.75
+67,<music21.chord.Chord B4 E-3 F#3 B3>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,4
+67.5,<music21.chord.Chord B4 E-5 F#5 A1 A2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,17,4.5
+68,<music21.chord.Chord B4 G#1 G#2>,"[0, 3]","[8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,1
+68.25,<music21.chord.Chord F4 B4 G#1 G#2>,"[0, 3, 6]","[5, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,1.25
+68.5,<music21.chord.Chord F5 F4 D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,1.5
+68.75,<music21.chord.Chord F4 B4 F5 D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,1.75
+69,<music21.chord.Chord E5 D3 F3 B3 D4>,"[0, 3, 5, 6]","[11, 2, 4, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,2
+69.5,<music21.chord.Chord F4 B4 D5 G#2 G#1>,"[0, 3, 6, 9]","[2, 5, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,2.5
+70,<music21.chord.Chord C#5 A1 A2>,"[0, 4]","[9, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,3
+70.25,<music21.chord.Chord E4 A4 C#5 A1 A2>,"[0, 4, 7]","[9, 1, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,3.25
+70.5,<music21.chord.Chord C5 E4 A4 C3 E3 A3 A1 A2>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,3.5
+70.75,<music21.chord.Chord E4 A4 C5 A1 A2 C3 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,3.75
+71,<music21.chord.Chord B4 C3 E3 A3 C4 A1 A2>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,4
+71.5,<music21.chord.Chord A3 E4 A4 C2 C3 A1 A2>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,4.5
+71.75,<music21.chord.Chord A3 E4 A4 C2 C3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,18,4.75
+72,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,1
+72.25,<music21.chord.Chord B3 E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,1.25
+72.5,<music21.chord.Chord B4 B3 E4 G4 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,1.5
+72.75,<music21.chord.Chord B3 E4 G4 B4 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,1.75
+73,<music21.chord.Chord B4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,2
+73.5,<music21.chord.Chord B3 E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,2.5
+74,<music21.chord.Chord C5 B1 B2>,"[0, 1]","[11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,3
+74.25,<music21.chord.Chord C4 E4 A4 C5 B1 B2>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,3.25
+74.5,<music21.chord.Chord C5 C4 E4 A4 B2 E3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,3.5
+74.75,<music21.chord.Chord C4 E4 A4 C5 B2 E3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,3.75
+75,<music21.chord.Chord C5 B2 E3 A3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,4
+75.5,<music21.chord.Chord C4 E4 A4 C5 B1 B2>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,19,4.5
+76,<music21.chord.Chord C#5 B1 B2>,"[0, 2]","[11, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,1
+76.25,<music21.chord.Chord E4 F#4 B-4 C#5 B1 B2>,"[0, 1, 3, 6, 8]","[10, 11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,1.25
+76.5,<music21.chord.Chord C#5 E4 F#4 B-4 B2 F#3>,"[0, 1, 3, 6, 8]","[10, 11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,1.5
+76.75,<music21.chord.Chord F#4 B-4 C#5 B2 F#3>,"[0, 4, 5, 7]","[6, 10, 11, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,1.75
+77,<music21.chord.Chord F#5 B2 F#3 B-3>,"[0, 4, 5]","[6, 10, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,2
+77.5,<music21.chord.Chord F#4 B-4 C#5 B1 B2>,"[0, 4, 5, 7]","[6, 10, 11, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,2.5
+78,<music21.chord.Chord E5 B1 B2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,3
+78.25,<music21.chord.Chord F#4 A4 B4 E5 B1 B2>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,3.25
+78.5,<music21.chord.Chord E-5 F#4 A4 B4 B2 F#3 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,3.5
+78.75,<music21.chord.Chord F#4 A4 B4 E-5 B2 F#3 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,3.75
+79,<music21.chord.Chord E-5 B2 F#3 A3 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,4
+79.5,<music21.chord.Chord F#4 A4 B4 B1 B2>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,20,4.5
+80,<music21.chord.Chord G5 E2 E3>,"[0, 3]","[4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,1
+80.25,<music21.chord.Chord B4 G4 G5 E2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,1.25
+80.5,<music21.chord.Chord G5 B4 G4 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,1.5
+80.75,<music21.chord.Chord G4 B4 G5 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,1.75
+81,<music21.chord.Chord F#5 G3 B3 E4>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,2
+81.5,<music21.chord.Chord G4 B4 E5 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,2.5
+82,<music21.chord.Chord E5 A2 A1 G3 B3 E4>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,3
+82.25,<music21.chord.Chord A4 E4 E5 G3 B3 A2 A1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,3.25
+82.5,<music21.chord.Chord A4 E5 C3 E3 A3 G3 B3 E4>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,3.5
+82.75,<music21.chord.Chord E4 A4 E5 C3 E3 A3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,3.75
+83,<music21.chord.Chord D5 E3 A3 C4>,"[0, 3, 5, 7]","[9, 0, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,4
+83.5,<music21.chord.Chord E4 A4 C5 E3 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,21,4.5
+84,<music21.chord.Chord B4 B1 B2 E3 A3 C4>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,1
+84.25,<music21.chord.Chord B3 E-4 B4 E3 A3 C4 B1 B2>,"[0, 2, 3, 6, 7]","[9, 11, 0, 3, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,1.25
+84.5,<music21.chord.Chord F#4 B3 E-4 B2 F#3 E3 A3 C4>,"[0, 1, 3, 6, 8, 9]","[3, 4, 6, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,1.5
+84.75,<music21.chord.Chord B3 E-4 F#4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,1.75
+85,<music21.chord.Chord A4 B2 F#3 A3>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,2
+85.5,<music21.chord.Chord B3 E-4 G4 B2 F#3 A3>,"[0, 3, 4, 6, 8]","[3, 6, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,2.5
+86,<music21.chord.Chord E4 C3 C2 B2 F#3 A3>,"[0, 2, 5, 7, 8]","[4, 6, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,3
+86.25,<music21.chord.Chord G3 C4 E4 B2 F#3 A3 C3 C2>,"[0, 2, 3, 5, 7, 8]","[4, 6, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,3.25
+86.5,<music21.chord.Chord F#4 G3 C4 C3 E3 B2 F#3 A3>,"[0, 2, 3, 5, 7, 8]","[4, 6, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,3.5
+86.75,<music21.chord.Chord G3 C4 F#4 C3 E3>,"[0, 4, 6, 7]","[0, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,3.75
+87,<music21.chord.Chord G4 C3 E3 A3>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,4
+87.5,<music21.chord.Chord C4 E4 A4 C3 C2>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,22,4.5
+88,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,1
+88.25,<music21.chord.Chord E-4 B3 B4 B1 B2>,"[0, 4]","[11, 3]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,1.25
+88.5,<music21.chord.Chord B4 E-4 B3 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,1.5
+88.75,<music21.chord.Chord B3 E-4 B4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,1.75
+89,<music21.chord.Chord B4 F#3 A3>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,2
+89.25,<music21.chord.Chord A4 F#3 A3>,"[0, 3]","[6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,2.25
+89.5,<music21.chord.Chord G4 B3 E-4 B1 B2>,"[0, 4, 8]","[3, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,2.5
+89.75,<music21.chord.Chord F#4 B3 E-4 B1 B2>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,2.75
+90,<music21.chord.Chord E4 C2 C3>,"[0, 4]","[0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,3
+90.25,<music21.chord.Chord G3 C4 E4 C2 C3>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,3.25
+90.5,<music21.chord.Chord F#4 G3 C4 C3 E3>,"[0, 4, 6, 7]","[0, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,3.5
+90.75,<music21.chord.Chord G3 C4 F#4 C3 E3>,"[0, 4, 6, 7]","[0, 4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,3.75
+91,<music21.chord.Chord G4 C3 E3 A3>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,4
+91.5,<music21.chord.Chord C4 E4 A4 C2 C3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,23,4.5
+92,<music21.chord.Chord B4 B2 B1>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,1
+92.25,<music21.chord.Chord E-4 B3 B4 B2 B1>,"[0, 4]","[11, 3]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,1.25
+92.5,<music21.chord.Chord B4 E-4 B3 F#3 B2>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,1.5
+92.75,<music21.chord.Chord B3 E-4 B4 F#3 B2>,"[0, 4, 7]","[11, 3, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,1.75
+93,<music21.chord.Chord B4 A3 F#3>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,2
+93.25,<music21.chord.Chord A4 A3 F#3>,"[0, 3]","[6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,2.25
+93.5,<music21.chord.Chord F#4 B3 B2 B1>,"[0, 5]","[6, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,2.5
+93.75,<music21.chord.Chord E-4 B3 B2 B1>,"[0, 4]","[11, 3]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,2.75
+94,<music21.chord.Chord E4 E1 E2>,[0],[4],Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,3
+94.25,<music21.chord.Chord B3 G3 E4 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,3.25
+94.5,<music21.chord.Chord E4 B3 G3 E3 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,3.5
+94.75,<music21.chord.Chord G3 B3 E4 E1 E2 E3 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,3.75
+95,<music21.chord.Chord B2 G3 E3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,4
+95.5,<music21.chord.Chord E4 G4 B4 E5 E1 E2 B2 G3 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,4.5
+95.75,<music21.chord.Chord E4 G4 B4 E5 B2 G3 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,24,4.75
+96,<music21.chord.Chord E5 E2 E3 B2 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,1
+96.25,<music21.chord.Chord A4 C5 E5 E2 B2 G3 E3>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,1.25
+96.5,<music21.chord.Chord E5 A4 C5 A3 C4 E3 E2 B2 G3>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,1.5
+96.75,<music21.chord.Chord A4 C5 E5 E2 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,1.75
+97,<music21.chord.Chord A5 A3 C4 E4 E3 E2>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,2
+97.5,<music21.chord.Chord C5 E5 C6 E2 A3 C4 E4 E3>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,2.5
+97.75,<music21.chord.Chord C5 E5 C6 A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,2.75
+98,<music21.chord.Chord B5 E2 E3 A3 C4 E4>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,3
+98.25,<music21.chord.Chord B4 E5 B5 E2 A3 C4 E4 E3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,3.25
+98.5,<music21.chord.Chord G5 B4 E5 G3 B3 E3 E2 A3 C4 E4>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,3.5
+98.75,<music21.chord.Chord B4 G5 E2 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,3.75
+99,<music21.chord.Chord E5 G3 B3 E4 E3 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,4
+99.5,<music21.chord.Chord G4 B4 G5 E2 G3 B3 E4 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,4.5
+99.75,<music21.chord.Chord G4 B4 G5 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,25,4.75
+100,<music21.chord.Chord F#5 A1 A2 G3 B3 E4>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,1
+100.25,<music21.chord.Chord A4 C5 F#5 A1 A2 G3 B3 E4>,"[0, 2, 3, 5, 7, 8]","[4, 6, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,1.25
+100.5,<music21.chord.Chord E5 A4 C5 A3 C4 E3 A1 A2 G3 B3 E4>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,1.5
+100.75,<music21.chord.Chord A4 E5 A1 A2 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,1.75
+101,<music21.chord.Chord C5 E3 A3 C4 E4 A1 A2>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,2
+101.5,<music21.chord.Chord F#4 A4 E5 A1 A2 E3 A3 C4 E4>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,2.5
+101.75,<music21.chord.Chord F#4 A4 E5 E3 A3 C4 E4>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,2.75
+102,<music21.chord.Chord B4 E2 E3 A3 C4 E4>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,3
+102.25,<music21.chord.Chord G4 E4 B4 E2 E3 A3 C4>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,3.25
+102.5,<music21.chord.Chord B4 G4 B2 G3 E3 E2 A3 C4 E4>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,3.5
+102.75,<music21.chord.Chord E4 G4 B4 E2 B2 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,3.75
+103,<music21.chord.Chord B4 G3 B3 E3 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,4
+103.5,<music21.chord.Chord E4 G4 B4 E5 E2 G3 B3 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,4.5
+103.75,<music21.chord.Chord E4 G4 B4 E5 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,26,4.75
+104,<music21.chord.Chord E5 E2 E3 G3 B3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,1
+104.25,<music21.chord.Chord A4 C5 E5 E2 E3 G3 B3>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,1.25
+104.5,<music21.chord.Chord E5 A4 C5 E3 A3 C4 G3 B3>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,1.5
+104.75,<music21.chord.Chord A4 C5 E5 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,1.75
+105,<music21.chord.Chord A5 E3 A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,2
+105.5,<music21.chord.Chord C5 E5 C6 E3 A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,2.5
+106,<music21.chord.Chord B5 E3 E2 A3 C4 E4>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,3
+106.25,<music21.chord.Chord B4 E5 B5 E3 E2 A3 C4 E4>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,3.25
+106.5,<music21.chord.Chord G5 B4 E5 E3 G3 B3 A3 C4 E4>,"[0, 3, 5, 7, 8]","[4, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,3.5
+106.75,<music21.chord.Chord B4 G5 G3 B3>,"[0, 4]","[7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,3.75
+107,<music21.chord.Chord E5 E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,4
+107.5,<music21.chord.Chord G4 B4 G5 E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,27,4.5
+108,<music21.chord.Chord F5 A1 A2 E3 G3 B3 E4>,"[0, 1, 3, 5, 7]","[4, 5, 7, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,1
+108.25,<music21.chord.Chord A4 C5 F5 E3 G3 B3 E4 A1 A2>,"[0, 1, 3, 5, 7, 8]","[4, 5, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,1.25
+108.5,<music21.chord.Chord E5 A4 C5 F3 A3 C4 E3 G3 B3 E4>,"[0, 1, 3, 5, 7, 8]","[4, 5, 7, 9, 11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,1.5
+108.75,<music21.chord.Chord A4 C5 E5 F3 A3 C4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,1.75
+109,<music21.chord.Chord F5 F3 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,2
+109.5,<music21.chord.Chord A4 C5 A5 A2 A1>,"[0, 3]","[9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,2.5
+110,<music21.chord.Chord F5 B1 B2>,"[0, 6]","[5, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,3
+110.25,<music21.chord.Chord A4 D5 F5 B1 B2>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,3.25
+110.5,<music21.chord.Chord E5 A4 D5 F3 A3 D4 B1 B2>,"[0, 2, 5, 7, 8]","[9, 11, 2, 4, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,3.5
+110.75,<music21.chord.Chord A4 D5 E5 B1 B2 F3 A3 D4>,"[0, 2, 5, 7, 8]","[9, 11, 2, 4, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,3.75
+111,<music21.chord.Chord F5 F3 A3 D4 F4 B1 B2>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,4
+111.5,<music21.chord.Chord A4 D5 F5 A5 A1 A2 B1 B2>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,4.5
+111.75,<music21.chord.Chord A4 D5 F5 A5 A1 A2>,"[0, 3, 7]","[2, 5, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,28,4.75
+112,<music21.chord.Chord E5 G#2 G#1>,"[0, 4]","[4, 8]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,1
+112.25,<music21.chord.Chord B4 D5 E5 G#2 G#1>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,1.25
+112.5,<music21.chord.Chord E-5 B4 D5 B3 E3>,"[0, 3, 4, 5]","[11, 2, 3, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,1.5
+112.75,<music21.chord.Chord B4 D5 E-5 B3 E3>,"[0, 3, 4, 5]","[11, 2, 3, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,1.75
+113,<music21.chord.Chord E5 E3 B3 D4>,"[0, 3, 5]","[11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,2
+113.5,<music21.chord.Chord B4 D5 E5 B5 G#2 G#1>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,2.5
+114,<music21.chord.Chord E5 A1 A2>,"[0, 5]","[4, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,3
+114.25,<music21.chord.Chord B4 C#5 A1 A2>,"[0, 2, 4]","[9, 11, 1]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,3.25
+114.5,<music21.chord.Chord E-5 B4 C#5 E3 B3 C#4 A1 A2>,"[0, 2, 4, 6, 7]","[9, 11, 1, 3, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,3.5
+114.75,<music21.chord.Chord B4 C#5 E-5 A1 A2 E3 B3 C#4>,"[0, 2, 4, 6, 7]","[9, 11, 1, 3, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,3.75
+115,<music21.chord.Chord E5 B3 C#4 E4 A1 A2>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,4
+115.5,<music21.chord.Chord B4 C#5 E5 B5 G2 G3 A1 A2>,"[0, 2, 4, 6, 9]","[7, 9, 11, 1, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,4.5
+115.75,<music21.chord.Chord B4 C#5 E5 B5 G2 G3>,"[0, 2, 5, 8]","[11, 1, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,29,4.75
+116,<music21.chord.Chord E5 F#2 F#3>,"[0, 2]","[4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,1
+116.25,<music21.chord.Chord B4 C#5 E5 F#2 F#3>,"[0, 2, 5, 7]","[11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,1.25
+116.5,<music21.chord.Chord B5 B4 C#5 F#3 C#4 E4>,"[0, 2, 5, 7]","[11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,1.5
+116.75,<music21.chord.Chord B4 C#5 B5 F#3 C#4 E4>,"[0, 2, 5, 7]","[11, 1, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,1.75
+117,<music21.chord.Chord A5 F#3 C4 E-4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,2
+117.5,<music21.chord.Chord A4 C5 E-5 F#3 F#2>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,2.5
+118,<music21.chord.Chord D5 G2 G3>,"[0, 5]","[2, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,3
+118.25,<music21.chord.Chord A4 B4 D5 G2 G3>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,3.25
+118.5,<music21.chord.Chord A5 A4 B4 F#3 B3 D4 G2 G3>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,3.5
+118.75,<music21.chord.Chord A4 B4 A5 G2 G3 F#3 B3 D4>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,3.75
+119,<music21.chord.Chord G5 E3 B3 C#4 G2 G3>,"[0, 2, 5, 8]","[11, 1, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,4
+119.5,<music21.chord.Chord G4 B4 D5 E2 E3 G2 G3>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,4.5
+119.75,<music21.chord.Chord G4 B4 D5 E2 E3>,"[0, 3, 5, 8]","[11, 2, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,30,4.75
+120,<music21.chord.Chord C#5 E3 E2>,"[0, 3]","[1, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,1
+120.25,<music21.chord.Chord G4 B-4 C#5 E3 E2>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,1.25
+120.5,<music21.chord.Chord G5 G4 B-4 E3 B-3 C#4>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,1.5
+120.75,<music21.chord.Chord G4 B-4 G5 E3 B-3 C#4>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,1.75
+121,<music21.chord.Chord F#5 E-3 A3 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,2
+121.5,<music21.chord.Chord F#4 A4 C5 E-3 E-2>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,2.5
+122,<music21.chord.Chord B4 E3 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,3
+122.25,<music21.chord.Chord F#4 G#4 B4 E3 E2>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,3.25
+122.5,<music21.chord.Chord F#5 F#4 G#4 E3 G#3 B3 E2>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,3.5
+122.75,<music21.chord.Chord F#4 G#4 F#5 E3 G#3 B3 E2>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,3.75
+123,<music21.chord.Chord E5 C3 E3 G3 C4 E2>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,4
+123.5,<music21.chord.Chord G4 E4 C2 C3 E2>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,4.5
+123.75,<music21.chord.Chord G4 E4 C2 C3>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,31,4.75
+124,<music21.chord.Chord G4 A1 A2>,"[0, 2]","[7, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,1
+124.25,<music21.chord.Chord E4 G4 A1 A2>,"[0, 3, 5]","[4, 7, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,1.25
+124.5,<music21.chord.Chord F#5 E4 E3 G3>,"[0, 2, 3]","[4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,1.5
+124.75,<music21.chord.Chord E4 G4 F#5 E3 G3>,"[0, 2, 3]","[4, 6, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,1.75
+125,<music21.chord.Chord E5 E3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,2
+125.5,<music21.chord.Chord F#4 E4 A1 A2>,"[0, 2, 5]","[4, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,2.5
+126,<music21.chord.Chord F#4 A1 A2>,"[0, 3]","[6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,3
+126.25,<music21.chord.Chord E4 F#4 A1 A2>,"[0, 2, 5]","[4, 6, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,3.25
+126.5,<music21.chord.Chord F#5 E4 E3 F#3>,"[0, 2]","[4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,3.5
+126.75,<music21.chord.Chord E4 F#4 F#5 E3 F#3>,"[0, 2]","[4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,3.75
+127,<music21.chord.Chord E5 E3 F#3 A3 C4>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,4
+127.5,<music21.chord.Chord E4 F#4 C5 A1 A2>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,32,4.5
+128,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,1
+128.25,<music21.chord.Chord B3 E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,1.25
+128.5,<music21.chord.Chord B4 B3 E4 G4 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,1.5
+128.75,<music21.chord.Chord B3 E4 G4 B4 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,1.75
+129,<music21.chord.Chord B4 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,2
+129.5,<music21.chord.Chord B3 E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,2.5
+130,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,3
+130.25,<music21.chord.Chord B3 E-4 F#4 A4 B4 B1 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,3.25
+130.5,<music21.chord.Chord B3 E-4 F#4 A4 B4 B2 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,3.5
+130.75,<music21.chord.Chord B3 E-4 F#4 A4 B4 B2 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,3.75
+131,<music21.chord.Chord B4 F#3 A3>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,4
+131.5,<music21.chord.Chord B3 E-4 F#4 A4 B4 B1 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,33,4.5
+132,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,1
+132.25,<music21.chord.Chord B3 E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,1.25
+132.5,<music21.chord.Chord B4 B3 E4 G4 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,1.5
+132.75,<music21.chord.Chord B3 E4 G4 B4 B2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,1.75
+133,<music21.chord.Chord B4 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,2
+133.5,<music21.chord.Chord B3 E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,2.5
+134,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,3
+134.25,<music21.chord.Chord B3 E-4 F#4 A4 B4 B1 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,3.25
+134.5,<music21.chord.Chord B3 E-4 F#4 A4 B4 B2 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,3.5
+134.75,<music21.chord.Chord B3 E-4 F#4 A4 B4 B2 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,3.75
+135,<music21.chord.Chord B4 F#3 A3>,"[0, 3, 5]","[6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,4
+135.5,<music21.chord.Chord C5 B1 B2>,"[0, 1]","[11, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,4.5
+135.75,<music21.chord.Chord B4 B1 B2>,[0],[11],Songs without Words Op102 No1 E minor.mid,Mendelssohn,34,4.75
+136,<music21.chord.Chord B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,1
+136.25,<music21.chord.Chord B3 E4 B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,1.25
+136.5,<music21.chord.Chord G4 B3 E4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,1.5
+136.75,<music21.chord.Chord B3 E4 G4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,1.75
+137,<music21.chord.Chord F#4 C3 E3 A3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,2
+137.5,<music21.chord.Chord C4 E4 C5 E1 E2>,"[0, 4]","[0, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,2.5
+138,<music21.chord.Chord B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,3
+138.25,<music21.chord.Chord B3 E4 B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,3.25
+138.5,<music21.chord.Chord G4 B3 E4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,3.5
+138.75,<music21.chord.Chord B3 E4 G4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,3.75
+139,<music21.chord.Chord B3 E-4 F#4 B2 F#3 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,4
+139.5,<music21.chord.Chord G4 B1 B2>,"[0, 4]","[7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,4.5
+139.75,<music21.chord.Chord A4 B1 B2>,"[0, 2]","[9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,35,4.75
+140,<music21.chord.Chord B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,1
+140.25,<music21.chord.Chord B3 E4 B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,1.25
+140.5,<music21.chord.Chord G4 B3 E4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,1.5
+140.75,<music21.chord.Chord B3 E4 G4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,1.75
+141,<music21.chord.Chord F#4 C3 E3 A3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,2
+141.5,<music21.chord.Chord C4 E4 F#4 C5 E1 E2>,"[0, 4, 6]","[0, 4, 6]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,2.5
+142,<music21.chord.Chord B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,3
+142.25,<music21.chord.Chord B3 E4 B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,3.25
+142.5,<music21.chord.Chord G4 B3 E4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,3.5
+142.75,<music21.chord.Chord B3 E4 G4 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,3.75
+143,<music21.chord.Chord B3 E-4 F#4 B2 F#3 A3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,4
+143.5,<music21.chord.Chord G4 E1 E2>,"[0, 3]","[4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,4.5
+143.75,<music21.chord.Chord A4 E1 E2>,"[0, 5]","[4, 9]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,36,4.75
+144,<music21.chord.Chord B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,1
+144.25,<music21.chord.Chord E4 G4 B4 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,1.25
+144.5,<music21.chord.Chord E5 E4 G4 B2 E3 G3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,1.5
+144.75,<music21.chord.Chord E4 G4 B4 E5 E1 E2 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,1.75
+145,<music21.chord.Chord E5 B2 E3 G3 B3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,2
+145.5,<music21.chord.Chord G4 B4 E5 G5 B1 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,2.5
+145.75,<music21.chord.Chord G4 B4 E5 G5 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,2.75
+146,<music21.chord.Chord G5 E1 E2>,"[0, 3]","[4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,3
+146.25,<music21.chord.Chord B4 E5 G5 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,3.25
+146.5,<music21.chord.Chord B5 B4 E5 B2 E3 G3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,3.5
+146.75,<music21.chord.Chord B4 E5 B5 E1 E2 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,3.75
+147,<music21.chord.Chord B5 B2 E3 G3 B3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,4
+147.5,<music21.chord.Chord B4 E5 G5 B1 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,4.5
+147.75,<music21.chord.Chord B4 E5 G5 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,37,4.75
+148,<music21.chord.Chord G5 E1 E2>,"[0, 3]","[4, 7]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,1
+148.25,<music21.chord.Chord G4 B4 G5 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,1.25
+148.5,<music21.chord.Chord E5 G4 B4 B2 E3 G3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,1.5
+148.75,<music21.chord.Chord G4 B4 E5 E1 E2 B2 E3 G3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,1.75
+149,<music21.chord.Chord E5 B2 E3 G3 B3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,2
+149.5,<music21.chord.Chord E4 G4 B4 B1 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,2.5
+149.75,<music21.chord.Chord E4 G4 B4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,2.75
+150,<music21.chord.Chord B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,3
+150.25,<music21.chord.Chord B3 E4 B4 E1 E2>,"[0, 5]","[11, 4]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,3.25
+150.5,<music21.chord.Chord G4 B3 E4 E3 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,3.5
+150.75,<music21.chord.Chord B3 E4 G4 E1 E2 E3 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,3.75
+151,<music21.chord.Chord B4 B2 E3 G3 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,4
+151.5,<music21.chord.Chord B3 E4 G4 B1 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,4.5
+151.75,<music21.chord.Chord B3 E4 G4 B1 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,38,4.75
+152,<music21.chord.Chord E1 E2>,[0],[4],Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,1
+152.25,<music21.chord.Chord G3 B3 G4 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,1.25
+152.5,<music21.chord.Chord G3 B3 G4 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,1.5
+152.75,<music21.chord.Chord G3 B3 G4 E1 E2 B2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,1.75
+153,<music21.chord.Chord E3 E1 E2>,[0],[4],Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,2
+153.5,<music21.chord.Chord G3 B3 G4 B2 B1 E1 E2 E3>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,2.5
+153.75,<music21.chord.Chord G3 B3 G4 E3 B2 B1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,2.75
+154,<music21.chord.Chord E1 E2 E3>,[0],[4],Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,3
+155,<music21.chord.Chord G3 B3 E4 E2 E1>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,39,4
+156,<music21.chord.Chord G3 B3 E4 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,40,1
