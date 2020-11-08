@@ -1,4 +1,4 @@
-,pieceName,movementName,genre,composer,publicationYear,Epoch,Source,fileFormat,phraseAnalysis,fileConversion,getChords
+,pieceName,movementName,genre,Composer,publicationYear,Epoch,Source,fileFormat,phraseAnalysis,fileConversion,getChords
 piece1,25 Preludes Premiere,Suite 9 Placiditas Tranquillement in E major,Prelude,Alkan,1844,1820-1869,YCAC,CSV,N,NA,NA
 piece2,Etudes Op100,No10 Tendre Fleur D Major,Etude,Burgmuller,1858,1820-1869,YCAC,CSV,Y,NA,NA
 piece3,Nocturne Op55,No1,Nocturne F Minor,Chopin,1843,1820-1869,YCAC,CSV,Y,NA,NA
@@ -32,10 +32,10 @@ piece30,Romance,,OtherSolo,Takemitsu,1949,1920-1969,MuseScore,MusicXML,N,Y,Y
 piece31,Yellow Saraband,,OtherSolo,Carbajo,2015,1970-2020,IMSLP,PDF,N,Y,Y
 piece32,24 Etudes,No15 Mazurka with Chinese Trio,Etude,Zhang,2015,1970-2020,IMSLP,PDF,N,Y,Y
 piece33,La commedia dell’arte,Arlecchino,OtherSolo,Bachlund,2007,1970-2020,IMSLP,PDF,N,Y,Y
-piece34,"Musing for Piano, Op833",No. 7,OtherSolo,Beatty,2017,1970-2020,IMSLP,PDF,N,Y,Y
+piece34,"Musing for Piano, Op833",No7,OtherSolo,Beatty,2017,1970-2020,IMSLP,PDF,N,Y,Y
 piece35,5 Diversions,Reaching,OtherSolo,Allard,2006,1970-2020,IMSLP,PDF,N,Y,Y
-piece36,Piano Piece No8,Op7 No2,OtherSolo,Alario del Rio,2013,1970-2020,IMSLP,PDF,N,Y,Y
+piece36,Piano Piece No8,Op7 No2,OtherSolo,AlariodelRio,2013,1970-2020,IMSLP,PDF,N,Y,Y
 piece37,Invention No6 in B-flat major,,Invention,Simpson,1981,1970-2020,IMSLP,PDF,N,Y,Y
-piece38,Für Alina,,OtherSolo,Pärt,1976,1970-2020,MuseScore,MusicXML,N,Y,Y
+piece38,Für Alina,,OtherSolo,Part,1976,1970-2020,MuseScore,MusicXML,N,Y,Y
 piece39,Concerto Grosso 1: Rondo,Tango,Concerto,Schnittke,1977,1970-2020,MuseScore,MusicXML,N,Y,Y
 piece40,Two Easy Pieces No1,Sea Chant,OtherSolo,Sculthorpe,1970,1970-2020,MuseScore,MusicXML,N,Y,Y
