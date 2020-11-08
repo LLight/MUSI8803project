@@ -1,139 +1,139 @@
-offset,Chord,Measure Number,Measure Beat Number,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Beat Number
-0.5,<music21.chord.Chord C5 G5>,1,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1,1.5
-1,<music21.chord.Chord C5 G5>,1,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1,2
-1.5,<music21.chord.Chord C5 G5>,1,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1,2.5
-2,<music21.chord.Chord C5 G5>,1,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1,3
-2.5,<music21.chord.Chord C5 G5>,1,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1,3.5
-3.5,<music21.chord.Chord C5 G5>,2,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2,1.5
-4,<music21.chord.Chord C5 G5>,2,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2,2
-4.5,<music21.chord.Chord C5 G5>,2,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2,2.5
-5,<music21.chord.Chord C5 G5>,2,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2,3
-5.5,<music21.chord.Chord C5 G5>,2,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2,3.5
-6.5,<music21.chord.Chord C5 G5>,3,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3,1.5
-7,<music21.chord.Chord C5 G5>,3,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3,2
-7.5,<music21.chord.Chord C5 G5 C4>,3,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3,2.5
-8,<music21.chord.Chord C5 G5 G4>,3,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3,3
-8.5,<music21.chord.Chord C5 G5 G4>,3,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3,3.5
-8.75,<music21.chord.Chord C5 G5 E-4>,3,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3,3.75
-9,<music21.chord.Chord C5 G5 C4>,4,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,4,1
-9.5,<music21.chord.Chord C5 G5 C4>,4,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,4,1.5
-10,<music21.chord.Chord C5 G5 C4>,4,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,4,2
-10.5,<music21.chord.Chord C5 G5 C4>,4,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,4,2.5
-11,<music21.chord.Chord C5 G5 F4>,4,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,4,3
-11.5,<music21.chord.Chord C5 G5 F4>,4,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,4,3.5
-11.75,<music21.chord.Chord C5 G5 E-4>,4,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,4,3.75
-12,<music21.chord.Chord C5 G5 G4>,5,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,5,1
-12.5,<music21.chord.Chord C5 G5 G4>,5,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,5,1.5
-13,<music21.chord.Chord C5 G5 G4>,5,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,5,2
-13.5,<music21.chord.Chord C5 G5 E-4>,5,2,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,5,2.5
-14,<music21.chord.Chord C5 G5 G4>,5,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,5,3
-14.5,<music21.chord.Chord C5 G5 G4>,5,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,5,3.5
-14.75,<music21.chord.Chord C5 G5 E-4>,5,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,5,3.75
-15,<music21.chord.Chord D4>,6,1,[0],[2],La Cloches Sonne S248 C minor.mid,Liszt,6,1
-15.5,<music21.chord.Chord B-4 B-5 D4>,6,1,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,6,1.5
-16,<music21.chord.Chord B-4 B-5 D4>,6,2,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,6,2
-16.5,<music21.chord.Chord B-4 B-5 F4>,6,2,"[0, 5]","[5, 10]",La Cloches Sonne S248 C minor.mid,Liszt,6,2.5
-17,<music21.chord.Chord B-4 B-5 E-4>,6,3,"[0, 5]","[10, 3]",La Cloches Sonne S248 C minor.mid,Liszt,6,3
-17.5,<music21.chord.Chord B-4 B-5 D4>,6,3,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,6,3.5
-18,<music21.chord.Chord E-4>,7,1,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,7,1
-18.5,<music21.chord.Chord C5 G5 E-4>,7,1,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,7,1.5
-18.75,<music21.chord.Chord C5 G5 D4>,7,1,"[0, 2, 7]","[0, 2, 7]",La Cloches Sonne S248 C minor.mid,Liszt,7,1.75
-19,<music21.chord.Chord C5 G5 C4>,7,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,7,2
-19.5,<music21.chord.Chord C5 G5 C4>,7,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,7,2.5
-20,<music21.chord.Chord C5 G5 G4>,7,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,7,3
-20.5,<music21.chord.Chord C5 G5 G4>,7,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,7,3.5
-20.75,<music21.chord.Chord C5 G5 E-4>,7,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,7,3.75
-21,<music21.chord.Chord C5 G5 C4>,8,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,8,1
-21.5,<music21.chord.Chord C5 G5 C4>,8,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,8,1.5
-22,<music21.chord.Chord C5 G5 C4>,8,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,8,2
-22.5,<music21.chord.Chord C5 G5 C4>,8,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,8,2.5
-23,<music21.chord.Chord C5 G5 F4>,8,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,8,3
-23.5,<music21.chord.Chord C5 G5 F4>,8,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,8,3.5
-23.75,<music21.chord.Chord C5 G5 E-4>,8,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,8,3.75
-24,<music21.chord.Chord C5 G5 G4>,9,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,9,1
-24.5,<music21.chord.Chord C5 G5 G4>,9,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,9,1.5
-25,<music21.chord.Chord C5 G5 G4>,9,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,9,2
-25.5,<music21.chord.Chord C5 G5 E-4>,9,2,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,9,2.5
-26,<music21.chord.Chord C5 G5 G4>,9,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,9,3
-26.5,<music21.chord.Chord C5 G5 G4>,9,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,9,3.5
-26.75,<music21.chord.Chord C5 G5 E-4>,9,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,9,3.75
-27,<music21.chord.Chord D4>,10,1,[0],[2],La Cloches Sonne S248 C minor.mid,Liszt,10,1
-27.5,<music21.chord.Chord B-4 B-5 D4>,10,1,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,10,1.5
-28,<music21.chord.Chord B-4 B-5 D4>,10,2,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,10,2
-28.5,<music21.chord.Chord B-4 B-5 F4>,10,2,"[0, 5]","[5, 10]",La Cloches Sonne S248 C minor.mid,Liszt,10,2.5
-29,<music21.chord.Chord B-4 B-5 E-4>,10,3,"[0, 5]","[10, 3]",La Cloches Sonne S248 C minor.mid,Liszt,10,3
-29.5,<music21.chord.Chord B-4 B-5 D4>,10,3,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,10,3.5
-30,<music21.chord.Chord G4>,11,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,11,1
-30.5,<music21.chord.Chord G5 G4>,11,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,11,1.5
-31.5,<music21.chord.Chord G5 G4>,11,2,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,11,2.5
-32.5,<music21.chord.Chord G5 G4>,11,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,11,3.5
-33,<music21.chord.Chord G5>,12,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,12,1
-33.5,<music21.chord.Chord G5>,12,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,12,1.5
-35.5,<music21.chord.Chord G5>,12,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,12,3.5
-36,<music21.chord.Chord G5 C5 G#4>,13,1,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,13,1
-36.5,<music21.chord.Chord G5 C5 B-3 G#4>,13,1,"[0, 1, 3, 5]","[7, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,13,1.5
-36.75,<music21.chord.Chord F5 C5 G#4 B-3>,13,1,"[0, 3, 5, 7]","[5, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,13,1.75
-37,<music21.chord.Chord G#5 C5 G#4 B-3>,13,2,"[0, 2, 4]","[8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,13,2
-37.5,<music21.chord.Chord G5 C5 G#4>,13,2,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,13,2.5
-38,<music21.chord.Chord E-5 B-4 G4>,14,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,14,3
-38.5,<music21.chord.Chord E-5 B-4 B-3 G4>,14,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,14,3.5
-39,<music21.chord.Chord G5 B-4 G4 B-3>,14,2,"[0, 3]","[7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,14,1
-39.5,<music21.chord.Chord F5 B-4 G4>,14,2,"[0, 2, 5]","[5, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,14,1.5
-40,<music21.chord.Chord D5 G#4 F4>,15,1,"[0, 3, 6]","[2, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,15,2
-40.5,<music21.chord.Chord D5 G#4 B-3 F4>,15,1,"[0, 3, 6, 8]","[2, 5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,15,2.5
-41,<music21.chord.Chord F5 G#4 F4 B-3>,15,2,"[0, 3, 5]","[5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,15,3
-41.5,<music21.chord.Chord E-5 G#4 F4>,15,2,"[0, 2, 5]","[3, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,15,3.5
-42,<music21.chord.Chord C5 G4 E-4>,16,1,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,16,1
-42.5,<music21.chord.Chord C5 G4 B-3 E-4>,16,1,"[0, 3, 5, 8]","[7, 10, 0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,16,1.5
-43,<music21.chord.Chord B-4 G4 E-4 B-3>,16,2,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,16,2
-43.5,<music21.chord.Chord G5 G4 E-4>,16,2,"[0, 4]","[3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,16,2.5
-44,<music21.chord.Chord G5 C5 G#4>,17,1,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,17,3
-44.5,<music21.chord.Chord G5 C5 B-3 G#4>,17,1,"[0, 1, 3, 5]","[7, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,17,3.5
-44.75,<music21.chord.Chord F5 C5 G#4 B-3>,17,1,"[0, 3, 5, 7]","[5, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,17,3.75
-45,<music21.chord.Chord G#5 C5 G#4 B-3>,17,2,"[0, 2, 4]","[8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,17,1
-45.5,<music21.chord.Chord G5 C5 G#4>,17,2,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,17,1.5
-46,<music21.chord.Chord E-5 B-4 G4>,18,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,18,2
-46.5,<music21.chord.Chord E-5 B-4 B-3 G4>,18,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,18,2.5
-47,<music21.chord.Chord G5 B-4 G4 B-3>,18,2,"[0, 3]","[7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,18,3
-47.5,<music21.chord.Chord F5 B-4 G4>,18,2,"[0, 2, 5]","[5, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,18,3.5
-48,<music21.chord.Chord D5 G#4 F4>,19,1,"[0, 3, 6]","[2, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,19,1
-48.5,<music21.chord.Chord D5 G#4 B-3 F4>,19,1,"[0, 3, 6, 8]","[2, 5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,19,1.5
-49,<music21.chord.Chord E-5 G#4 F4 B-3>,19,2,"[0, 2, 5, 7]","[3, 5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,19,2
-49.5,<music21.chord.Chord F5 G#4 F4>,19,2,"[0, 3]","[5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,19,2.5
-50,<music21.chord.Chord G4 G5 B3 D4>,20,1,"[0, 4, 7]","[7, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,20,3
-52,<music21.chord.Chord G4>,21,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,21,2
-53,<music21.chord.Chord G4 B3 D4>,21,2,"[0, 4, 7]","[7, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,21,3
-53.25,<music21.chord.Chord F4 G4 B3 D4>,21,2,"[0, 3, 6, 8]","[11, 2, 5, 7]",La Cloches Sonne S248 C minor.mid,Liszt,21,3.25
-53.5,<music21.chord.Chord G#4 B3 D4>,21,2,"[0, 3, 6]","[8, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,21,3.5
-53.75,<music21.chord.Chord G4 B3 D4>,21,2,"[0, 4, 7]","[7, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,21,3.75
-54,<music21.chord.Chord E-4 C4>,22,1,"[0, 3]","[0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,22,1
-55,<music21.chord.Chord G4 G#3 C4>,22,2,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,22,2
-55.5,<music21.chord.Chord F4 G#3 C4>,22,2,"[0, 3, 7]","[5, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,22,2.5
-56,<music21.chord.Chord C#4 F3 G#3>,23,1,"[0, 4, 7]","[1, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,23,3
-57,<music21.chord.Chord E-4 F3 G#3>,23,2,"[0, 2, 5]","[3, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,23,1
-57.25,<music21.chord.Chord C#4 F3 G#3>,23,2,"[0, 4, 7]","[1, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,23,1.25
-57.5,<music21.chord.Chord C4 F3 G#3>,23,2,"[0, 3, 7]","[5, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,23,1.5
-57.75,<music21.chord.Chord C#4 F3 G#3>,23,2,"[0, 4, 7]","[1, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,23,1.75
-58,<music21.chord.Chord F4>,24,1,[0],[5],La Cloches Sonne S248 C minor.mid,Liszt,24,2
-59,<music21.chord.Chord F4 B-3 G#3>,24,2,"[0, 3, 5]","[5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,24,3
-59.5,<music21.chord.Chord E-4 G3 B-3>,24,2,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,24,3.5
-60,<music21.chord.Chord C4 E-3>,25,1,"[0, 3]","[0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,25,1
-60.5,<music21.chord.Chord C4>,25,1,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,25,1.5
-61.5,<music21.chord.Chord C3>,25,2,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,25,2.5
-62,<music21.chord.Chord G3>,26,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,26,3
-62.75,<music21.chord.Chord E-3>,26,3,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,26,3.75
-63,<music21.chord.Chord C3>,26,1,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,26,1
-64,<music21.chord.Chord G#3 C4>,27,2,"[0, 4]","[8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,27,2
-64.5,<music21.chord.Chord C3>,27,2,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,27,2.5
-65,<music21.chord.Chord F3>,27,3,[0],[5],La Cloches Sonne S248 C minor.mid,Liszt,27,3
-65.75,<music21.chord.Chord E-3>,27,3,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,27,3.75
-66,<music21.chord.Chord G3>,28,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,28,1
-67,<music21.chord.Chord C4 E-4>,28,2,"[0, 3]","[0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,28,2
-67.5,<music21.chord.Chord F#3>,28,2,[0],[6],La Cloches Sonne S248 C minor.mid,Liszt,28,2.5
-68,<music21.chord.Chord G3>,29,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,29,3
-68.75,<music21.chord.Chord E-3>,29,3,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,29,3.75
-69,<music21.chord.Chord C3>,29,1,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,29,1
-70,<music21.chord.Chord G#3 C4>,30,2,"[0, 4]","[8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,30,2
-71,<music21.chord.Chord G#3 C4 F4 C3>,30,3,"[0, 3, 7]","[5, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,30,3
-71.75,<music21.chord.Chord E-4 G#3 C4 C3>,30,3,"[0, 4, 7]","[8, 0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,30,3.75
-72,<music21.chord.Chord G3 C4 E-4 G4 C2 C3>,31,1,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,31,1
+Offset,Chord,measureNumber,Measure Beat Number,NormalForm,PCsInNormalForm,File,Composer,Measure Beat Number
+0.5,<music21.chord.Chord C5 G5>,1,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+1,<music21.chord.Chord C5 G5>,1,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+1.5,<music21.chord.Chord C5 G5>,1,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+2,<music21.chord.Chord C5 G5>,1,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+2.5,<music21.chord.Chord C5 G5>,1,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+3.5,<music21.chord.Chord C5 G5>,2,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+4,<music21.chord.Chord C5 G5>,2,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+4.5,<music21.chord.Chord C5 G5>,2,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+5,<music21.chord.Chord C5 G5>,2,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+5.5,<music21.chord.Chord C5 G5>,2,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+6.5,<music21.chord.Chord C5 G5>,3,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+7,<music21.chord.Chord C5 G5>,3,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+7.5,<music21.chord.Chord C5 G5 C4>,3,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+8,<music21.chord.Chord C5 G5 G4>,3,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+8.5,<music21.chord.Chord C5 G5 G4>,3,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+8.75,<music21.chord.Chord C5 G5 E-4>,3,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+9,<music21.chord.Chord C5 G5 C4>,4,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1
+9.5,<music21.chord.Chord C5 G5 C4>,4,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+10,<music21.chord.Chord C5 G5 C4>,4,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+10.5,<music21.chord.Chord C5 G5 C4>,4,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+11,<music21.chord.Chord C5 G5 F4>,4,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+11.5,<music21.chord.Chord C5 G5 F4>,4,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+11.75,<music21.chord.Chord C5 G5 E-4>,4,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+12,<music21.chord.Chord C5 G5 G4>,5,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1
+12.5,<music21.chord.Chord C5 G5 G4>,5,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+13,<music21.chord.Chord C5 G5 G4>,5,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+13.5,<music21.chord.Chord C5 G5 E-4>,5,2,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+14,<music21.chord.Chord C5 G5 G4>,5,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+14.5,<music21.chord.Chord C5 G5 G4>,5,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+14.75,<music21.chord.Chord C5 G5 E-4>,5,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+15,<music21.chord.Chord D4>,6,1,[0],[2],La Cloches Sonne S248 C minor.mid,Liszt,1
+15.5,<music21.chord.Chord B-4 B-5 D4>,6,1,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+16,<music21.chord.Chord B-4 B-5 D4>,6,2,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,2
+16.5,<music21.chord.Chord B-4 B-5 F4>,6,2,"[0, 5]","[5, 10]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+17,<music21.chord.Chord B-4 B-5 E-4>,6,3,"[0, 5]","[10, 3]",La Cloches Sonne S248 C minor.mid,Liszt,3
+17.5,<music21.chord.Chord B-4 B-5 D4>,6,3,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+18,<music21.chord.Chord E-4>,7,1,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,1
+18.5,<music21.chord.Chord C5 G5 E-4>,7,1,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+18.75,<music21.chord.Chord C5 G5 D4>,7,1,"[0, 2, 7]","[0, 2, 7]",La Cloches Sonne S248 C minor.mid,Liszt,1.75
+19,<music21.chord.Chord C5 G5 C4>,7,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+19.5,<music21.chord.Chord C5 G5 C4>,7,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+20,<music21.chord.Chord C5 G5 G4>,7,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+20.5,<music21.chord.Chord C5 G5 G4>,7,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+20.75,<music21.chord.Chord C5 G5 E-4>,7,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+21,<music21.chord.Chord C5 G5 C4>,8,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1
+21.5,<music21.chord.Chord C5 G5 C4>,8,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+22,<music21.chord.Chord C5 G5 C4>,8,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+22.5,<music21.chord.Chord C5 G5 C4>,8,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+23,<music21.chord.Chord C5 G5 F4>,8,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+23.5,<music21.chord.Chord C5 G5 F4>,8,3,"[0, 2, 7]","[5, 7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+23.75,<music21.chord.Chord C5 G5 E-4>,8,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+24,<music21.chord.Chord C5 G5 G4>,9,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1
+24.5,<music21.chord.Chord C5 G5 G4>,9,1,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+25,<music21.chord.Chord C5 G5 G4>,9,2,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+25.5,<music21.chord.Chord C5 G5 E-4>,9,2,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+26,<music21.chord.Chord C5 G5 G4>,9,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+26.5,<music21.chord.Chord C5 G5 G4>,9,3,"[0, 5]","[7, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+26.75,<music21.chord.Chord C5 G5 E-4>,9,3,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+27,<music21.chord.Chord D4>,10,1,[0],[2],La Cloches Sonne S248 C minor.mid,Liszt,1
+27.5,<music21.chord.Chord B-4 B-5 D4>,10,1,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+28,<music21.chord.Chord B-4 B-5 D4>,10,2,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,2
+28.5,<music21.chord.Chord B-4 B-5 F4>,10,2,"[0, 5]","[5, 10]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+29,<music21.chord.Chord B-4 B-5 E-4>,10,3,"[0, 5]","[10, 3]",La Cloches Sonne S248 C minor.mid,Liszt,3
+29.5,<music21.chord.Chord B-4 B-5 D4>,10,3,"[0, 4]","[10, 2]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+30,<music21.chord.Chord G4>,11,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,1
+30.5,<music21.chord.Chord G5 G4>,11,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,1.5
+31.5,<music21.chord.Chord G5 G4>,11,2,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,2.5
+32.5,<music21.chord.Chord G5 G4>,11,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,3.5
+33,<music21.chord.Chord G5>,12,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,1
+33.5,<music21.chord.Chord G5>,12,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,1.5
+35.5,<music21.chord.Chord G5>,12,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,3.5
+36,<music21.chord.Chord G5 C5 G#4>,13,1,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1
+36.5,<music21.chord.Chord G5 C5 B-3 G#4>,13,1,"[0, 1, 3, 5]","[7, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+36.75,<music21.chord.Chord F5 C5 G#4 B-3>,13,1,"[0, 3, 5, 7]","[5, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.75
+37,<music21.chord.Chord G#5 C5 G#4 B-3>,13,2,"[0, 2, 4]","[8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+37.5,<music21.chord.Chord G5 C5 G#4>,13,2,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+38,<music21.chord.Chord E-5 B-4 G4>,14,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,3
+38.5,<music21.chord.Chord E-5 B-4 B-3 G4>,14,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+39,<music21.chord.Chord G5 B-4 G4 B-3>,14,2,"[0, 3]","[7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,1
+39.5,<music21.chord.Chord F5 B-4 G4>,14,2,"[0, 2, 5]","[5, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+40,<music21.chord.Chord D5 G#4 F4>,15,1,"[0, 3, 6]","[2, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,2
+40.5,<music21.chord.Chord D5 G#4 B-3 F4>,15,1,"[0, 3, 6, 8]","[2, 5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+41,<music21.chord.Chord F5 G#4 F4 B-3>,15,2,"[0, 3, 5]","[5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,3
+41.5,<music21.chord.Chord E-5 G#4 F4>,15,2,"[0, 2, 5]","[3, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+42,<music21.chord.Chord C5 G4 E-4>,16,1,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,1
+42.5,<music21.chord.Chord C5 G4 B-3 E-4>,16,1,"[0, 3, 5, 8]","[7, 10, 0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+43,<music21.chord.Chord B-4 G4 E-4 B-3>,16,2,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,2
+43.5,<music21.chord.Chord G5 G4 E-4>,16,2,"[0, 4]","[3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+44,<music21.chord.Chord G5 C5 G#4>,17,1,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+44.5,<music21.chord.Chord G5 C5 B-3 G#4>,17,1,"[0, 1, 3, 5]","[7, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+44.75,<music21.chord.Chord F5 C5 G#4 B-3>,17,1,"[0, 3, 5, 7]","[5, 8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+45,<music21.chord.Chord G#5 C5 G#4 B-3>,17,2,"[0, 2, 4]","[8, 10, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1
+45.5,<music21.chord.Chord G5 C5 G#4>,17,2,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+46,<music21.chord.Chord E-5 B-4 G4>,18,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,2
+46.5,<music21.chord.Chord E-5 B-4 B-3 G4>,18,1,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+47,<music21.chord.Chord G5 B-4 G4 B-3>,18,2,"[0, 3]","[7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,3
+47.5,<music21.chord.Chord F5 B-4 G4>,18,2,"[0, 2, 5]","[5, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+48,<music21.chord.Chord D5 G#4 F4>,19,1,"[0, 3, 6]","[2, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,1
+48.5,<music21.chord.Chord D5 G#4 B-3 F4>,19,1,"[0, 3, 6, 8]","[2, 5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+49,<music21.chord.Chord E-5 G#4 F4 B-3>,19,2,"[0, 2, 5, 7]","[3, 5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,2
+49.5,<music21.chord.Chord F5 G#4 F4>,19,2,"[0, 3]","[5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+50,<music21.chord.Chord G4 G5 B3 D4>,20,1,"[0, 4, 7]","[7, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,3
+52,<music21.chord.Chord G4>,21,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,2
+53,<music21.chord.Chord G4 B3 D4>,21,2,"[0, 4, 7]","[7, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,3
+53.25,<music21.chord.Chord F4 G4 B3 D4>,21,2,"[0, 3, 6, 8]","[11, 2, 5, 7]",La Cloches Sonne S248 C minor.mid,Liszt,3.25
+53.5,<music21.chord.Chord G#4 B3 D4>,21,2,"[0, 3, 6]","[8, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+53.75,<music21.chord.Chord G4 B3 D4>,21,2,"[0, 4, 7]","[7, 11, 2]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+54,<music21.chord.Chord E-4 C4>,22,1,"[0, 3]","[0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,1
+55,<music21.chord.Chord G4 G#3 C4>,22,2,"[0, 1, 5]","[7, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+55.5,<music21.chord.Chord F4 G#3 C4>,22,2,"[0, 3, 7]","[5, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2.5
+56,<music21.chord.Chord C#4 F3 G#3>,23,1,"[0, 4, 7]","[1, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,3
+57,<music21.chord.Chord E-4 F3 G#3>,23,2,"[0, 2, 5]","[3, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,1
+57.25,<music21.chord.Chord C#4 F3 G#3>,23,2,"[0, 4, 7]","[1, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,1.25
+57.5,<music21.chord.Chord C4 F3 G#3>,23,2,"[0, 3, 7]","[5, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,1.5
+57.75,<music21.chord.Chord C#4 F3 G#3>,23,2,"[0, 4, 7]","[1, 5, 8]",La Cloches Sonne S248 C minor.mid,Liszt,1.75
+58,<music21.chord.Chord F4>,24,1,[0],[5],La Cloches Sonne S248 C minor.mid,Liszt,2
+59,<music21.chord.Chord F4 B-3 G#3>,24,2,"[0, 3, 5]","[5, 8, 10]",La Cloches Sonne S248 C minor.mid,Liszt,3
+59.5,<music21.chord.Chord E-4 G3 B-3>,24,2,"[0, 4, 7]","[3, 7, 10]",La Cloches Sonne S248 C minor.mid,Liszt,3.5
+60,<music21.chord.Chord C4 E-3>,25,1,"[0, 3]","[0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,1
+60.5,<music21.chord.Chord C4>,25,1,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,1.5
+61.5,<music21.chord.Chord C3>,25,2,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,2.5
+62,<music21.chord.Chord G3>,26,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,3
+62.75,<music21.chord.Chord E-3>,26,3,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,3.75
+63,<music21.chord.Chord C3>,26,1,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,1
+64,<music21.chord.Chord G#3 C4>,27,2,"[0, 4]","[8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+64.5,<music21.chord.Chord C3>,27,2,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,2.5
+65,<music21.chord.Chord F3>,27,3,[0],[5],La Cloches Sonne S248 C minor.mid,Liszt,3
+65.75,<music21.chord.Chord E-3>,27,3,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,3.75
+66,<music21.chord.Chord G3>,28,1,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,1
+67,<music21.chord.Chord C4 E-4>,28,2,"[0, 3]","[0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,2
+67.5,<music21.chord.Chord F#3>,28,2,[0],[6],La Cloches Sonne S248 C minor.mid,Liszt,2.5
+68,<music21.chord.Chord G3>,29,3,[0],[7],La Cloches Sonne S248 C minor.mid,Liszt,3
+68.75,<music21.chord.Chord E-3>,29,3,[0],[3],La Cloches Sonne S248 C minor.mid,Liszt,3.75
+69,<music21.chord.Chord C3>,29,1,[0],[0],La Cloches Sonne S248 C minor.mid,Liszt,1
+70,<music21.chord.Chord G#3 C4>,30,2,"[0, 4]","[8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,2
+71,<music21.chord.Chord G#3 C4 F4 C3>,30,3,"[0, 3, 7]","[5, 8, 0]",La Cloches Sonne S248 C minor.mid,Liszt,3
+71.75,<music21.chord.Chord E-4 G#3 C4 C3>,30,3,"[0, 4, 7]","[8, 0, 3]",La Cloches Sonne S248 C minor.mid,Liszt,3.75
+72,<music21.chord.Chord G3 C4 E-4 G4 C2 C3>,31,1,"[0, 3, 7]","[0, 3, 7]",La Cloches Sonne S248 C minor.mid,Liszt,1

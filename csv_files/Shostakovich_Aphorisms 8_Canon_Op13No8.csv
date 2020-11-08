@@ -1,4 +1,4 @@
-offset,Chord,NormalForm,PCsinNormalForm,file,Composer,MeasureNumber,MeasureCount
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
 0,<music21.chord.Chord F#4>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,1,1
 4.5,<music21.chord.Chord G4>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,3,1.5
 6,<music21.chord.Chord E5>,[0],[4],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,4,1

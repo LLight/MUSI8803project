@@ -1,841 +1,841 @@
-offset,Chord,NormalForm,PCsinNormalForm,file,Composer,MeasureNumber,MeasureCount
-1.0,<music21.chord.Chord C7 C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.0
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
+1,<music21.chord.Chord C7 C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1
 1.125,<music21.chord.Chord E6 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.125
 1.25,<music21.chord.Chord C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.25
-1.3333333333333300,<music21.chord.Chord C6 C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.3333333333333300
-1.4583333333333300,<music21.chord.Chord C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.4583333333333300
+1.333333333,<music21.chord.Chord C6 C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.333333333
+1.458333333,<music21.chord.Chord C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.458333333
 1.5,<music21.chord.Chord C6 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.5
 1.625,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.625
-1.6666666666666700,<music21.chord.Chord G6 C1 C2>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.6666666666666700
-1.7916666666666700,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.7916666666666700
+1.666666667,<music21.chord.Chord G6 C1 C2>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.666666667
+1.791666667,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.791666667
 1.875,<music21.chord.Chord G5 C1 C2>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.875
-2.0,<music21.chord.Chord C6>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.0
+2,<music21.chord.Chord C6>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2
 2.125,<music21.chord.Chord E5>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.125
-2.3333333333333300,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.3333333333333300
+2.333333333,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.333333333
 2.5,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.5
 2.625,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.625
-2.6666666666666700,<music21.chord.Chord G5 C3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.6666666666666700
-2.7916666666666700,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.7916666666666700
+2.666666667,<music21.chord.Chord G5 C3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.666666667
+2.791666667,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.791666667
 2.875,<music21.chord.Chord G4 C3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,2.875
-3.0,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.0
+3,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3
 3.125,<music21.chord.Chord E4 C3 C4>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.125
 3.25,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.25
-3.3333333333333300,<music21.chord.Chord C4 B2 B3 C3>,"[0, 1]","[11, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.3333333333333300
+3.333333333,<music21.chord.Chord C4 B2 B3 C3>,"[0, 1]","[11, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.333333333
 3.375,<music21.chord.Chord C4 B2 B3>,"[0, 1]","[11, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.375
-3.4583333333333300,<music21.chord.Chord B2 B3>,[0],[11],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.4583333333333300
+3.458333333,<music21.chord.Chord B2 B3>,[0],[11],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.458333333
 3.5,<music21.chord.Chord C4 B2 B3>,"[0, 1]","[11, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.5
 3.625,<music21.chord.Chord B2 B3>,[0],[11],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.625
-3.6666666666666700,<music21.chord.Chord G4 B-2 B-3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.6666666666666700
-3.7916666666666700,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.7916666666666700
+3.666666667,<music21.chord.Chord G4 B-2 B-3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.666666667
+3.791666667,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.791666667
 3.875,<music21.chord.Chord G3 B-2 B-3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,3.875
-4.0,<music21.chord.Chord C7 G#2 C#3 G#3>,"[0, 4, 5]","[8, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.0
+4,<music21.chord.Chord C7 G#2 C#3 G#3>,"[0, 4, 5]","[8, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1
 4.125,<music21.chord.Chord F6 G#2 C#3 G#3>,"[0, 4, 7]","[1, 5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.125
 4.25,<music21.chord.Chord G#2 C#3 G#3>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.25
-4.333333333333330,<music21.chord.Chord C6 G#2 C#3 G#3>,"[0, 4, 5]","[8, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.333333333333330
-4.458333333333330,<music21.chord.Chord G#2 C#3 G#3>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.458333333333330
+4.333333333,<music21.chord.Chord C6 G#2 C#3 G#3>,"[0, 4, 5]","[8, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.333333333
+4.458333333,<music21.chord.Chord G#2 C#3 G#3>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.458333333
 4.5,<music21.chord.Chord C#6 C1 C2>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.5
 4.625,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.625
-4.666666666666670,<music21.chord.Chord G#6 C1 C2>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.666666666666670
-4.791666666666670,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.791666666666670
+4.666666667,<music21.chord.Chord G#6 C1 C2>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.666666667
+4.791666667,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.791666667
 4.875,<music21.chord.Chord G#5 C1 C2>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,2,1.875
-5.0,<music21.chord.Chord C6>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.0
+5,<music21.chord.Chord C6>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2
 5.125,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.125
-5.333333333333330,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.333333333333330
+5.333333333,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.333333333
 5.5,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.5
-5.666666666666670,<music21.chord.Chord G#5>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.666666666666670
+5.666666667,<music21.chord.Chord G#5>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.666666667
 5.875,<music21.chord.Chord G#4>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,2,2.875
-6.0,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.0
+6,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3
 6.125,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.125
-6.333333333333330,<music21.chord.Chord C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.333333333333330
+6.333333333,<music21.chord.Chord C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.333333333
 6.5,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.5
-6.666666666666670,<music21.chord.Chord G#4>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.666666666666670
+6.666666667,<music21.chord.Chord G#4>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.666666667
 6.875,<music21.chord.Chord G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,2,3.875
-7.0,<music21.chord.Chord F7 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.0
+7,<music21.chord.Chord F7 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1
 7.125,<music21.chord.Chord A6 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.125
 7.25,<music21.chord.Chord F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.25
-7.333333333333330,<music21.chord.Chord F6 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.333333333333330
-7.458333333333330,<music21.chord.Chord F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.458333333333330
+7.333333333,<music21.chord.Chord F6 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.333333333
+7.458333333,<music21.chord.Chord F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.458333333
 7.5,<music21.chord.Chord F6 C1 C2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.5
 7.625,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.625
-7.666666666666670,<music21.chord.Chord C7 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.666666666666670
-7.791666666666670,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.791666666666670
+7.666666667,<music21.chord.Chord C7 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.666666667
+7.791666667,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.791666667
 7.875,<music21.chord.Chord C6 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,3,1.875
-8.0,<music21.chord.Chord F6>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.0
+8,<music21.chord.Chord F6>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2
 8.125,<music21.chord.Chord A5>,[0],[9],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.125
-8.333333333333330,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.333333333333330
+8.333333333,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.333333333
 8.5,<music21.chord.Chord F5 F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.5
 8.625,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.625
-8.666666666666670,<music21.chord.Chord C6 F3 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.666666666666670
-8.791666666666670,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.791666666666670
+8.666666667,<music21.chord.Chord C6 F3 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.666666667
+8.791666667,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.791666667
 8.875,<music21.chord.Chord C5 F3 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,2.875
-9.0,<music21.chord.Chord F5 F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.0
+9,<music21.chord.Chord F5 F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3
 9.125,<music21.chord.Chord A4 F3 F4>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.125
 9.25,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.25
-9.333333333333330,<music21.chord.Chord F4 E3 E4 F3>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.333333333333330
+9.333333333,<music21.chord.Chord F4 E3 E4 F3>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.333333333
 9.375,<music21.chord.Chord F4 E3 E4>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.375
-9.458333333333330,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.458333333333330
+9.458333333,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.458333333
 9.5,<music21.chord.Chord F4 E3 E4>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.5
 9.625,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.625
-9.666666666666670,<music21.chord.Chord C5 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.666666666666670
-9.791666666666670,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.791666666666670
+9.666666667,<music21.chord.Chord C5 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.666666667
+9.791666667,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.791666667
 9.875,<music21.chord.Chord C4 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,3,3.875
-10.0,<music21.chord.Chord F7 C#3 F#3 C#4>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.0
+10,<music21.chord.Chord F7 C#3 F#3 C#4>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1
 10.125,<music21.chord.Chord B-6 C#3 F#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.125
 10.25,<music21.chord.Chord C#3 F#3 C#4>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.25
-10.333333333333300,<music21.chord.Chord F6 C#3 F#3 C#4>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.333333333333300
-10.458333333333300,<music21.chord.Chord C#3 F#3 C#4>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.458333333333300
+10.33333333,<music21.chord.Chord F6 C#3 F#3 C#4>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.333333333
+10.45833333,<music21.chord.Chord C#3 F#3 C#4>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.458333333
 10.5,<music21.chord.Chord F#6 C1 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.5
 10.625,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.625
-10.666666666666700,<music21.chord.Chord C#7 C1 C2>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.666666666666700
-10.791666666666700,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.791666666666700
+10.66666667,<music21.chord.Chord C#7 C1 C2>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.666666667
+10.79166667,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.791666667
 10.875,<music21.chord.Chord C#6 C1 C2>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,4,1.875
-11.0,<music21.chord.Chord F6>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.0
+11,<music21.chord.Chord F6>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2
 11.125,<music21.chord.Chord B-5>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.125
-11.333333333333300,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.333333333333300
+11.33333333,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.333333333
 11.5,<music21.chord.Chord F#5>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.5
-11.666666666666700,<music21.chord.Chord C#6>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.666666666666700
+11.66666667,<music21.chord.Chord C#6>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.666666667
 11.875,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,4,2.875
-12.0,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.0
+12,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3
 12.125,<music21.chord.Chord B-4>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.125
-12.333333333333300,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.333333333333300
+12.33333333,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.333333333
 12.5,<music21.chord.Chord F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.5
-12.666666666666700,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.666666666666700
+12.66666667,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.666666667
 12.875,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,4,3.875
-13.0,<music21.chord.Chord F5 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.0
+13,<music21.chord.Chord F5 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,1
 13.125,<music21.chord.Chord A4 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.125
 13.25,<music21.chord.Chord F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.25
-13.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.333333333333300
-13.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.458333333333300
+13.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.333333333
+13.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.458333333
 13.5,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.5
 13.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.625
-13.666666666666700,<music21.chord.Chord C5 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.666666666666700
-13.791666666666700,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.791666666666700
+13.66666667,<music21.chord.Chord C5 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.666666667
+13.79166667,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.791666667
 13.875,<music21.chord.Chord C4 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,5,1.875
-14.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.0
+14,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2
 14.125,<music21.chord.Chord B-4 F3 C#4 F4>,"[0, 3, 7]","[10, 1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.125
 14.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.25
-14.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.333333333333300
-14.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.458333333333300
+14.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.333333333
+14.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.458333333
 14.5,<music21.chord.Chord F#4 F2 F3>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.5
 14.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.625
-14.666666666666700,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.666666666666700
-14.791666666666700,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.791666666666700
+14.66666667,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.666666667
+14.79166667,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.791666667
 14.875,<music21.chord.Chord C#4 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,2.875
-15.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.0
+15,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3
 15.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.125
 15.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.25
-15.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.333333333333300
-15.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.458333333333300
+15.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.333333333
+15.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.458333333
 15.5,<music21.chord.Chord G4 F2 F3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.5
 15.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.625
-15.666666666666700,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.666666666666700
-15.791666666666700,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.791666666666700
+15.66666667,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.666666667
+15.79166667,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.791666667
 15.875,<music21.chord.Chord C#4 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,5,3.875
-16.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.0
+16,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1
 16.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.125
 16.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.25
-16.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.333333333333300
-16.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.458333333333300
+16.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.333333333
+16.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.458333333
 16.5,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.5
 16.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.625
-16.666666666666700,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.666666666666700
-16.791666666666700,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.791666666666700
+16.66666667,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.666666667
+16.79166667,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.791666667
 16.875,<music21.chord.Chord C#4 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,1.875
-17.0,<music21.chord.Chord G#5 F3 C#4 F4>,"[0, 4, 7]","[1, 5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.0
+17,<music21.chord.Chord G#5 F3 C#4 F4>,"[0, 4, 7]","[1, 5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2
 17.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.125
 17.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.25
-17.333333333333300,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.333333333333300
-17.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.458333333333300
+17.33333333,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.333333333
+17.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.458333333
 17.5,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.5
 17.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.625
-17.666666666666700,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.666666666666700
-17.791666666666700,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.791666666666700
+17.66666667,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.666666667
+17.79166667,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.791666667
 17.875,<music21.chord.Chord C#4 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,2.875
-18.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.0
+18,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3
 18.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.125
 18.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.25
-18.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.333333333333300
-18.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.458333333333300
+18.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.333333333
+18.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.458333333
 18.5,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.5
 18.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.625
-18.666666666666700,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.666666666666700
-18.791666666666700,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.791666666666700
+18.66666667,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.666666667
+18.79166667,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.791666667
 18.875,<music21.chord.Chord C#4 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,6,3.875
-19.0,<music21.chord.Chord B-5 G1 G2>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.0
+19,<music21.chord.Chord B-5 G1 G2>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1
 19.125,<music21.chord.Chord F5 G1 G2>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.125
 19.25,<music21.chord.Chord G1 G2>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.25
-19.333333333333300,<music21.chord.Chord B-4 C#2 C#3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.333333333333300
-19.458333333333300,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.458333333333300
+19.33333333,<music21.chord.Chord B-4 C#2 C#3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.333333333
+19.45833333,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.458333333
 19.5,<music21.chord.Chord B-4 C#2 C#3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.5
 19.625,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.625
-19.666666666666700,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.666666666666700
-19.791666666666700,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.791666666666700
+19.66666667,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.666666667
+19.79166667,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.791666667
 19.875,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,1.875
-20.0,<music21.chord.Chord F5 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.0
+20,<music21.chord.Chord F5 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2
 20.125,<music21.chord.Chord B-4 G2 G3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.125
 20.25,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.25
-20.333333333333300,<music21.chord.Chord F4 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.333333333333300
-20.458333333333300,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.458333333333300
+20.33333333,<music21.chord.Chord F4 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.333333333
+20.45833333,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.458333333
 20.5,<music21.chord.Chord F4 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.5
 20.625,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.625
-20.666666666666700,<music21.chord.Chord B-4 G2 G3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.666666666666700
-20.791666666666700,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.791666666666700
+20.66666667,<music21.chord.Chord B-4 G2 G3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.666666667
+20.79166667,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.791666667
 20.875,<music21.chord.Chord B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,7,2.875
-21.0,<music21.chord.Chord B-4 F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.0
+21,<music21.chord.Chord B-4 F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3
 21.125,<music21.chord.Chord F4 F3 B-3>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.125
 21.25,<music21.chord.Chord F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.25
-21.333333333333300,<music21.chord.Chord B-4 F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.333333333333300
-21.458333333333300,<music21.chord.Chord F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.458333333333300
+21.33333333,<music21.chord.Chord B-4 F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.333333333
+21.45833333,<music21.chord.Chord F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.458333333
 21.5,<music21.chord.Chord B-4 F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.5
 21.625,<music21.chord.Chord F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.625
-21.666666666666700,<music21.chord.Chord F5 F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.666666666666700
-21.791666666666700,<music21.chord.Chord F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.791666666666700
+21.66666667,<music21.chord.Chord F5 F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.666666667
+21.79166667,<music21.chord.Chord F3 B-3 F4>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.791666667
 21.875,<music21.chord.Chord B-5>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,7,3.875
-22.0,<music21.chord.Chord B5 G1 G2>,"[0, 4]","[7, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.0
+22,<music21.chord.Chord B5 G1 G2>,"[0, 4]","[7, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1
 22.125,<music21.chord.Chord F5 G1 G2>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.125
 22.25,<music21.chord.Chord G1 G2>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.25
-22.333333333333300,<music21.chord.Chord B4 C#2 C#3>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.333333333333300
-22.458333333333300,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.458333333333300
+22.33333333,<music21.chord.Chord B4 C#2 C#3>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.333333333
+22.45833333,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.458333333
 22.5,<music21.chord.Chord B4 C#2 C#3>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.5
 22.625,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.625
-22.666666666666700,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.666666666666700
-22.791666666666700,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.791666666666700
+22.66666667,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.666666667
+22.79166667,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.791666667
 22.875,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,1.875
-23.0,<music21.chord.Chord F5 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.0
+23,<music21.chord.Chord F5 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2
 23.125,<music21.chord.Chord B4 G2 G3>,"[0, 4]","[7, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.125
 23.25,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.25
-23.333333333333300,<music21.chord.Chord F4 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.333333333333300
-23.458333333333300,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.458333333333300
+23.33333333,<music21.chord.Chord F4 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.333333333
+23.45833333,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.458333333
 23.5,<music21.chord.Chord F4 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.5
 23.625,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.625
-23.666666666666700,<music21.chord.Chord B4 G3 G4>,"[0, 4]","[7, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.666666666666700
-23.791666666666700,<music21.chord.Chord G3 G4>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.791666666666700
+23.66666667,<music21.chord.Chord B4 G3 G4>,"[0, 4]","[7, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.666666667
+23.79166667,<music21.chord.Chord G3 G4>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.791666667
 23.875,<music21.chord.Chord B3 G3 G4>,"[0, 4]","[7, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,2.875
-24.0,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.0
+24,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3
 24.125,<music21.chord.Chord B4>,[0],[11],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.125
-24.333333333333300,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.333333333333300
-24.458333333333300,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.458333333333300
+24.33333333,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.333333333
+24.45833333,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.458333333
 24.5,<music21.chord.Chord B5 C#3 C#4>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.5
 24.625,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.625
-24.666666666666700,<music21.chord.Chord F6 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.666666666666700
-24.791666666666700,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.791666666666700
+24.66666667,<music21.chord.Chord F6 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.666666667
+24.79166667,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.791666667
 24.875,<music21.chord.Chord B6 G2 G3>,"[0, 4]","[7, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,8,3.875
-25.0,<music21.chord.Chord C7 C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.0
+25,<music21.chord.Chord C7 C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1
 25.125,<music21.chord.Chord E6 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.125
 25.25,<music21.chord.Chord C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.25
-25.333333333333300,<music21.chord.Chord C6 G2 G3>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.333333333333300
-25.458333333333300,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.458333333333300
+25.33333333,<music21.chord.Chord C6 G2 G3>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.333333333
+25.45833333,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.458333333
 25.5,<music21.chord.Chord C6 G2 G3>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.5
 25.625,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.625
-25.666666666666700,<music21.chord.Chord G6 C2 C3>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.666666666666700
-25.791666666666700,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.791666666666700
+25.66666667,<music21.chord.Chord G6 C2 C3>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.666666667
+25.79166667,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.791666667
 25.875,<music21.chord.Chord G5 C2 C3>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,1.875
-26.0,<music21.chord.Chord C6 G1 G2>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.0
+26,<music21.chord.Chord C6 G1 G2>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,2
 26.125,<music21.chord.Chord E5 G1 G2>,"[0, 3]","[4, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.125
 26.25,<music21.chord.Chord G1 G2>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.25
-26.333333333333300,<music21.chord.Chord C5 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.333333333333300
-26.458333333333300,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.458333333333300
+26.33333333,<music21.chord.Chord C5 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.333333333
+26.45833333,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.458333333
 26.5,<music21.chord.Chord C5 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.5
 26.625,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.625
-26.666666666666700,<music21.chord.Chord G5 C3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.666666666666700
-26.791666666666700,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.791666666666700
+26.66666667,<music21.chord.Chord G5 C3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.666666667
+26.79166667,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.791666667
 26.875,<music21.chord.Chord G4 C3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,2.875
-27.0,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.0
+27,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3
 27.125,<music21.chord.Chord E4 C3 C4>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.125
 27.25,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.25
-27.333333333333300,<music21.chord.Chord C4 B2 B3>,"[0, 1]","[11, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.333333333333300
-27.458333333333300,<music21.chord.Chord B2 B3>,[0],[11],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.458333333333300
+27.33333333,<music21.chord.Chord C4 B2 B3>,"[0, 1]","[11, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.333333333
+27.45833333,<music21.chord.Chord B2 B3>,[0],[11],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.458333333
 27.5,<music21.chord.Chord C4 B2 B3>,"[0, 1]","[11, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.5
 27.625,<music21.chord.Chord B2 B3>,[0],[11],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.625
-27.666666666666700,<music21.chord.Chord G4 B-2 B-3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.666666666666700
-27.791666666666700,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.791666666666700
+27.66666667,<music21.chord.Chord G4 B-2 B-3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.666666667
+27.79166667,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.791666667
 27.875,<music21.chord.Chord G3 B-2 B-3>,"[0, 3]","[7, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,9,3.875
-28.0,<music21.chord.Chord C7 C#3 G#2 G#3>,"[0, 4, 5]","[8, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.0
+28,<music21.chord.Chord C7 C#3 G#2 G#3>,"[0, 4, 5]","[8, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1
 28.125,<music21.chord.Chord F6 C#3 G#2 G#3>,"[0, 4, 7]","[1, 5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.125
 28.25,<music21.chord.Chord C#3 G#2 G#3>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.25
-28.333333333333300,<music21.chord.Chord C6 G2 G3 C#3>,"[0, 5, 6]","[7, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.333333333333300
-28.458333333333300,<music21.chord.Chord C#3 G2 G3>,"[0, 6]","[1, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.458333333333300
+28.33333333,<music21.chord.Chord C6 G2 G3 C#3>,"[0, 5, 6]","[7, 0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.333333333
+28.45833333,<music21.chord.Chord C#3 G2 G3>,"[0, 6]","[1, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.458333333
 28.5,<music21.chord.Chord C#6 C#3 G2 G3>,"[0, 6]","[1, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.5
 28.625,<music21.chord.Chord C#3 G2 G3>,"[0, 6]","[1, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.625
-28.666666666666700,<music21.chord.Chord G#6 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.666666666666700
-28.791666666666700,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.791666666666700
+28.66666667,<music21.chord.Chord G#6 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.666666667
+28.79166667,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.791666667
 28.875,<music21.chord.Chord G#5 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,1.875
-29.0,<music21.chord.Chord C6 G#2 G#1>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.0
+29,<music21.chord.Chord C6 G#2 G#1>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,2
 29.125,<music21.chord.Chord F5 G#2 G#1>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.125
 29.25,<music21.chord.Chord G#2 G#1>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.25
-29.333333333333300,<music21.chord.Chord C5 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.333333333333300
-29.458333333333300,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.458333333333300
+29.33333333,<music21.chord.Chord C5 C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.333333333
+29.45833333,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.458333333
 29.5,<music21.chord.Chord C#5 C1 C2>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.5
 29.625,<music21.chord.Chord C1 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.625
-29.666666666666700,<music21.chord.Chord G#5>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.666666666666700
+29.66666667,<music21.chord.Chord G#5>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.666666667
 29.875,<music21.chord.Chord G#4>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,10,2.875
-30.0,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.0
+30,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3
 30.125,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.125
-30.333333333333300,<music21.chord.Chord C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.333333333333300
+30.33333333,<music21.chord.Chord C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.333333333
 30.5,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.5
-30.666666666666700,<music21.chord.Chord G#4>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.666666666666700
+30.66666667,<music21.chord.Chord G#4>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.666666667
 30.875,<music21.chord.Chord G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,10,3.875
-31.0,<music21.chord.Chord F7 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.0
+31,<music21.chord.Chord F7 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1
 31.125,<music21.chord.Chord A6 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.125
 31.25,<music21.chord.Chord F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.25
-31.333333333333300,<music21.chord.Chord F6 C4 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.333333333333300
-31.458333333333300,<music21.chord.Chord C4 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.458333333333300
+31.33333333,<music21.chord.Chord F6 C4 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.333333333
+31.45833333,<music21.chord.Chord C4 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.458333333
 31.5,<music21.chord.Chord F6 C4 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.5
 31.625,<music21.chord.Chord C4 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.625
-31.666666666666700,<music21.chord.Chord C7 F3 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.666666666666700
-31.791666666666700,<music21.chord.Chord F3 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.791666666666700
+31.66666667,<music21.chord.Chord C7 F3 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.666666667
+31.79166667,<music21.chord.Chord F3 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.791666667
 31.875,<music21.chord.Chord C6 F3 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,1.875
-32.0,<music21.chord.Chord F6 C3 C2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.0
+32,<music21.chord.Chord F6 C3 C2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2
 32.125,<music21.chord.Chord A5 C3 C2>,"[0, 3]","[9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.125
 32.25,<music21.chord.Chord C3 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.25
-32.333333333333300,<music21.chord.Chord F5 C2 C1>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.333333333333300
-32.458333333333300,<music21.chord.Chord C2 C1>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.458333333333300
+32.33333333,<music21.chord.Chord F5 C2 C1>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.333333333
+32.45833333,<music21.chord.Chord C2 C1>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.458333333
 32.5,<music21.chord.Chord F5 C2 C1>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.5
 32.625,<music21.chord.Chord C2 C1>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.625
-32.666666666666700,<music21.chord.Chord C6 F4 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.666666666666700
-32.791666666666700,<music21.chord.Chord F4 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.791666666666700
+32.66666667,<music21.chord.Chord C6 F4 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.666666667
+32.79166667,<music21.chord.Chord F4 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.791666667
 32.875,<music21.chord.Chord C5 F4 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,2.875
-33.0,<music21.chord.Chord F5 F4 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.0
+33,<music21.chord.Chord F5 F4 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3
 33.125,<music21.chord.Chord A4 F4 F3>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.125
 33.25,<music21.chord.Chord F4 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.25
-33.333333333333300,<music21.chord.Chord F4 E4 E3>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.333333333333300
-33.458333333333300,<music21.chord.Chord E4 E3>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.458333333333300
+33.33333333,<music21.chord.Chord F4 E4 E3>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.333333333
+33.45833333,<music21.chord.Chord E4 E3>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.458333333
 33.5,<music21.chord.Chord F4 E4 E3>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.5
 33.625,<music21.chord.Chord E4 E3>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.625
-33.666666666666700,<music21.chord.Chord C5 E-4 E-3>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.666666666666700
-33.791666666666700,<music21.chord.Chord E-4 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.791666666666700
+33.66666667,<music21.chord.Chord C5 E-4 E-3>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.666666667
+33.79166667,<music21.chord.Chord E-4 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.791666667
 33.875,<music21.chord.Chord C4 E-4 E-3>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,11,3.875
-34.0,<music21.chord.Chord F7 C#3 C#4 F#3>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.0
+34,<music21.chord.Chord F7 C#3 C#4 F#3>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1
 34.125,<music21.chord.Chord B-6 C#3 C#4 F#3>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.125
 34.25,<music21.chord.Chord C#3 C#4 F#3>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.25
-34.333333333333300,<music21.chord.Chord F6 C3 C4 F#3>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.333333333333300
-34.458333333333300,<music21.chord.Chord F#3 C3 C4>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.458333333333300
+34.33333333,<music21.chord.Chord F6 C3 C4 F#3>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.333333333
+34.45833333,<music21.chord.Chord F#3 C3 C4>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.458333333
 34.5,<music21.chord.Chord F#6 F#3 C3 C4>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.5
 34.625,<music21.chord.Chord F#3 C3 C4>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.625
-34.666666666666700,<music21.chord.Chord C#7 B-3 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.666666666666700
-34.791666666666700,<music21.chord.Chord B-3 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.791666666666700
+34.66666667,<music21.chord.Chord C#7 B-3 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.666666667
+34.79166667,<music21.chord.Chord B-3 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.791666667
 34.875,<music21.chord.Chord C#6 B-3 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,1.875
-35.0,<music21.chord.Chord F6 C#3 C#2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.0
+35,<music21.chord.Chord F6 C#3 C#2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,2
 35.125,<music21.chord.Chord B-5 C#3 C#2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.125
 35.25,<music21.chord.Chord C#3 C#2>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.25
-35.333333333333300,<music21.chord.Chord F5 C2 C1>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.333333333333300
-35.458333333333300,<music21.chord.Chord C2 C1>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.458333333333300
+35.33333333,<music21.chord.Chord F5 C2 C1>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.333333333
+35.45833333,<music21.chord.Chord C2 C1>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.458333333
 35.5,<music21.chord.Chord F#5 C2 C1>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.5
 35.625,<music21.chord.Chord C2 C1>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.625
-35.666666666666700,<music21.chord.Chord C#6>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.666666666666700
+35.66666667,<music21.chord.Chord C#6>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.666666667
 35.875,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,12,2.875
-36.0,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.0
+36,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3
 36.125,<music21.chord.Chord B-4>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.125
-36.333333333333300,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.333333333333300
+36.33333333,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.333333333
 36.5,<music21.chord.Chord F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.5
-36.666666666666700,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.666666666666700
+36.66666667,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.666666667
 36.875,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,12,3.875
-37.0,<music21.chord.Chord F5 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.0
+37,<music21.chord.Chord F5 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,1
 37.125,<music21.chord.Chord A4 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.125
 37.25,<music21.chord.Chord F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.25
-37.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.333333333333300
-37.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.458333333333300
+37.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.333333333
+37.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.458333333
 37.5,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.5
 37.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.625
-37.666666666666700,<music21.chord.Chord C5 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.666666666666700
-37.791666666666700,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.791666666666700
+37.66666667,<music21.chord.Chord C5 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.666666667
+37.79166667,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.791666667
 37.875,<music21.chord.Chord C4 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,13,1.875
-38.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.0
+38,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2
 38.125,<music21.chord.Chord B-4 F3 C#4 F4>,"[0, 3, 7]","[10, 1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.125
 38.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.25
-38.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.333333333333300
-38.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.458333333333300
+38.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.333333333
+38.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.458333333
 38.5,<music21.chord.Chord F#4 F2 F3>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.5
 38.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.625
-38.666666666666700,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.666666666666700
-38.791666666666700,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.791666666666700
+38.66666667,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.666666667
+38.79166667,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.791666667
 38.875,<music21.chord.Chord C#4 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,2.875
-39.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.0
+39,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3
 39.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.125
 39.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.25
-39.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.333333333333300
-39.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.458333333333300
+39.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.333333333
+39.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.458333333
 39.5,<music21.chord.Chord G4 F2 F3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.5
 39.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.625
-39.666666666666700,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.666666666666700
-39.791666666666700,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.791666666666700
+39.66666667,<music21.chord.Chord C#5 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.666666667
+39.79166667,<music21.chord.Chord B-1 B-2>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.791666667
 39.875,<music21.chord.Chord C#4 B-1 B-2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,13,3.875
-40.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.0
+40,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1
 40.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.125
 40.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.25
-40.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.333333333333300
-40.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.458333333333300
+40.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.333333333
+40.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.458333333
 40.5,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.5
 40.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.625
-40.666666666666700,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.666666666666700
-40.791666666666700,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.791666666666700
+40.66666667,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.666666667
+40.79166667,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.791666667
 40.875,<music21.chord.Chord C#4 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,1.875
-41.0,<music21.chord.Chord G#5 F3 C#4 F4>,"[0, 4, 7]","[1, 5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.0
+41,<music21.chord.Chord G#5 F3 C#4 F4>,"[0, 4, 7]","[1, 5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2
 41.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.125
 41.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.25
-41.333333333333300,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.333333333333300
-41.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.458333333333300
+41.33333333,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.333333333
+41.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.458333333
 41.5,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.5
 41.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.625
-41.666666666666700,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.666666666666700
-41.791666666666700,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.791666666666700
+41.66666667,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.666666667
+41.79166667,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.791666667
 41.875,<music21.chord.Chord C#4 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,2.875
-42.0,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.0
+42,<music21.chord.Chord F5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3
 42.125,<music21.chord.Chord C#5 F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.125
 42.25,<music21.chord.Chord F3 C#4 F4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.25
-42.333333333333300,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.333333333333300
-42.458333333333300,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.458333333333300
+42.33333333,<music21.chord.Chord F4 F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.333333333
+42.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.458333333
 42.5,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.5
 42.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.625
-42.666666666666700,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.666666666666700
-42.791666666666700,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.791666666666700
+42.66666667,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.666666667
+42.79166667,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.791666667
 42.875,<music21.chord.Chord C#4 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,14,3.875
-43.0,<music21.chord.Chord G#5 G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.0
+43,<music21.chord.Chord G#5 G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1
 43.125,<music21.chord.Chord C#5 G#1 G#2>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.125
 43.25,<music21.chord.Chord G#1 G#2>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.25
-43.333333333333300,<music21.chord.Chord G#4 E-2 E-3>,"[0, 5]","[3, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.333333333333300
-43.458333333333300,<music21.chord.Chord E-2 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.458333333333300
+43.33333333,<music21.chord.Chord G#4 E-2 E-3>,"[0, 5]","[3, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.333333333
+43.45833333,<music21.chord.Chord E-2 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.458333333
 43.5,<music21.chord.Chord F#4 E-2 E-3>,"[0, 3]","[3, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.5
 43.625,<music21.chord.Chord E-2 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.625
-43.666666666666700,<music21.chord.Chord C#5 B-2 B-3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.666666666666700
-43.791666666666700,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.791666666666700
+43.66666667,<music21.chord.Chord C#5 B-2 B-3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.666666667
+43.79166667,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.791666667
 43.875,<music21.chord.Chord C#4 B-2 B-3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,1.875
-44.0,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.0
+44,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2
 44.125,<music21.chord.Chord C5 G#2 G#3>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.125
 44.25,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.25
-44.333333333333300,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.333333333333300
-44.458333333333300,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.458333333333300
+44.33333333,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.333333333
+44.45833333,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.458333333
 44.5,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.5
 44.625,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.625
-44.666666666666700,<music21.chord.Chord C5 G#2 G#3>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.666666666666700
-44.791666666666700,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.791666666666700
+44.66666667,<music21.chord.Chord C5 G#2 G#3>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.666666667
+44.79166667,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.791666667
 44.875,<music21.chord.Chord C4 G#2 G#3>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,2.875
-45.0,<music21.chord.Chord E5 G#2 G#3>,"[0, 4]","[4, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.0
+45,<music21.chord.Chord E5 G#2 G#3>,"[0, 4]","[4, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3
 45.125,<music21.chord.Chord C5 G#2 G#3>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.125
 45.25,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.25
-45.333333333333300,<music21.chord.Chord E4 G#2 G#3>,"[0, 4]","[4, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.333333333333300
-45.458333333333300,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.458333333333300
+45.33333333,<music21.chord.Chord E4 G#2 G#3>,"[0, 4]","[4, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.333333333
+45.45833333,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.458333333
 45.5,<music21.chord.Chord E4 G#2 G#3>,"[0, 4]","[4, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.5
 45.625,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.625
-45.666666666666700,<music21.chord.Chord C5 G#2 G#3>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.666666666666700
+45.66666667,<music21.chord.Chord C5 G#2 G#3>,"[0, 4]","[8, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.666666667
 45.75,<music21.chord.Chord C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.75
 45.875,<music21.chord.Chord C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,15,3.875
-46.0,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.0
+46,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1
 46.125,<music21.chord.Chord C#5 G#2 G#3>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.125
 46.25,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.25
-46.333333333333300,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.333333333333300
-46.458333333333300,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.458333333333300
+46.33333333,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.333333333
+46.45833333,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.458333333
 46.5,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.5
 46.625,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.625
-46.666666666666700,<music21.chord.Chord C#5 B-2 B-3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.666666666666700
-46.791666666666700,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.791666666666700
+46.66666667,<music21.chord.Chord C#5 B-2 B-3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.666666667
+46.79166667,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.791666667
 46.875,<music21.chord.Chord C#4 B-2 B-3>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,1.875
-47.0,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.0
+47,<music21.chord.Chord F5 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2
 47.125,<music21.chord.Chord C#5 G#2 G#3>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.125
 47.25,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.25
-47.333333333333300,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.333333333333300
-47.458333333333300,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.458333333333300
+47.33333333,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.333333333
+47.45833333,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.458333333
 47.5,<music21.chord.Chord G#4 G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.5
 47.625,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.625
-47.666666666666700,<music21.chord.Chord C#5 F#2 F#3>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.666666666666700
-47.791666666666700,<music21.chord.Chord F#2 F#3>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.791666666666700
+47.66666667,<music21.chord.Chord C#5 F#2 F#3>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.666666667
+47.79166667,<music21.chord.Chord F#2 F#3>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.791666667
 47.875,<music21.chord.Chord C#4 F#2 F#3>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,2.875
-48.0,<music21.chord.Chord G#5 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.0
+48,<music21.chord.Chord G#5 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3
 48.125,<music21.chord.Chord C#5 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.125
 48.25,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.25
-48.333333333333300,<music21.chord.Chord G#4 E-2 E-3>,"[0, 5]","[3, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.333333333333300
-48.458333333333300,<music21.chord.Chord E-2 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.458333333333300
+48.33333333,<music21.chord.Chord G#4 E-2 E-3>,"[0, 5]","[3, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.333333333
+48.45833333,<music21.chord.Chord E-2 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.458333333
 48.5,<music21.chord.Chord G#4 E-2 E-3>,"[0, 5]","[3, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.5
 48.625,<music21.chord.Chord E-2 E-3>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.625
-48.666666666666700,<music21.chord.Chord F5 C#2 C#3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.666666666666700
-48.791666666666700,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.791666666666700
+48.66666667,<music21.chord.Chord F5 C#2 C#3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.666666667
+48.79166667,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.791666667
 48.875,<music21.chord.Chord F4 C#2 C#3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,16,3.875
-49.0,<music21.chord.Chord B5 C#2 C#3>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.0
+49,<music21.chord.Chord B5 C#2 C#3>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1
 49.125,<music21.chord.Chord F5 C#2 C#3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.125
 49.25,<music21.chord.Chord C#2 C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.25
-49.333333333333300,<music21.chord.Chord B4 G#2 G#3>,"[0, 3]","[8, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.333333333333300
-49.458333333333300,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.458333333333300
+49.33333333,<music21.chord.Chord B4 G#2 G#3>,"[0, 3]","[8, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.333333333
+49.45833333,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.458333333
 49.5,<music21.chord.Chord B4 G#2 G#3>,"[0, 3]","[8, 11]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.5
 49.625,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.625
-49.666666666666700,<music21.chord.Chord F5 E-3 E-4>,"[0, 2]","[3, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.666666666666700
-49.791666666666700,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.791666666666700
+49.66666667,<music21.chord.Chord F5 E-3 E-4>,"[0, 2]","[3, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.666666667
+49.79166667,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.791666667
 49.875,<music21.chord.Chord F4 E-3 E-4>,"[0, 2]","[3, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,1.875
-50.0,<music21.chord.Chord B-5 C#3 C#4>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.0
+50,<music21.chord.Chord B-5 C#3 C#4>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2
 50.125,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.125
 50.25,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.25
-50.333333333333300,<music21.chord.Chord B-4 C#3 C#4>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.333333333333300
-50.458333333333300,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.458333333333300
+50.33333333,<music21.chord.Chord B-4 C#3 C#4>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.333333333
+50.45833333,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.458333333
 50.5,<music21.chord.Chord B-4 C#3 C#4>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.5
 50.625,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.625
-50.666666666666700,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.666666666666700
-50.791666666666700,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.791666666666700
+50.66666667,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.666666667
+50.79166667,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.791666667
 50.875,<music21.chord.Chord F4 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,2.875
-51.0,<music21.chord.Chord B5 C#3 C#4>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.0
+51,<music21.chord.Chord B5 C#3 C#4>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3
 51.125,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.125
 51.25,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.25
-51.333333333333300,<music21.chord.Chord B4 C#3 C#4>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.333333333333300
-51.458333333333300,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.458333333333300
+51.33333333,<music21.chord.Chord B4 C#3 C#4>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.333333333
+51.45833333,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.458333333
 51.5,<music21.chord.Chord B4 C#3 C#4>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.5
 51.625,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.625
-51.666666666666700,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.666666666666700
+51.66666667,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.666666667
 51.75,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.75
 51.875,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,17,3.875
-52.0,<music21.chord.Chord C6 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.0
+52,<music21.chord.Chord C6 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1
 52.125,<music21.chord.Chord F5 C3 C4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.125
 52.25,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.25
-52.333333333333300,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.333333333333300
-52.458333333333300,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.458333333333300
+52.33333333,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.333333333
+52.45833333,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.458333333
 52.5,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.5
 52.625,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.625
-52.666666666666700,<music21.chord.Chord F5 C2 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.666666666666700
-52.791666666666700,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.791666666666700
+52.66666667,<music21.chord.Chord F5 C2 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.666666667
+52.79166667,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.791666667
 52.875,<music21.chord.Chord F4 C2 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,1.875
-53.0,<music21.chord.Chord F5 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.0
+53,<music21.chord.Chord F5 G2 G3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2
 53.125,<music21.chord.Chord C5 G2 G3>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.125
 53.25,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.25
-53.333333333333300,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.333333333333300
-53.458333333333300,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.458333333333300
+53.33333333,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.333333333
+53.45833333,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.458333333
 53.5,<music21.chord.Chord F4 G#2 G#3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.5
 53.625,<music21.chord.Chord G#2 G#3>,[0],[8],Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.625
-53.666666666666700,<music21.chord.Chord C5 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.666666666666700
-53.791666666666700,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.791666666666700
+53.66666667,<music21.chord.Chord C5 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.666666667
+53.79166667,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.791666667
 53.875,<music21.chord.Chord C4 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,2.875
-54.0,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.0
+54,<music21.chord.Chord F5 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,3
 54.125,<music21.chord.Chord B4 C#3 C#4>,"[0, 2]","[11, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.125
 54.25,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.25
-54.333333333333300,<music21.chord.Chord F4 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.333333333333300
-54.458333333333300,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.458333333333300
+54.33333333,<music21.chord.Chord F4 C#3 C#4>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.333333333
+54.45833333,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.458333333
 54.5,<music21.chord.Chord G#4 C#3 C#4>,"[0, 5]","[8, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.5
 54.625,<music21.chord.Chord C#3 C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.625
-54.666666666666700,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.666666666666700
-54.791666666666700,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.791666666666700
+54.66666667,<music21.chord.Chord C5 C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.666666667
+54.79166667,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.791666667
 54.875,<music21.chord.Chord F4 C3 C4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,18,3.875
-55.0,<music21.chord.Chord C#6 C2 C3>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.0
+55,<music21.chord.Chord C#6 C2 C3>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,1
 55.125,<music21.chord.Chord F5 C2 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.125
 55.25,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.25
-55.333333333333300,<music21.chord.Chord C#5 G2 G3>,"[0, 6]","[1, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.333333333333300
-55.458333333333300,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.458333333333300
+55.33333333,<music21.chord.Chord C#5 G2 G3>,"[0, 6]","[1, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.333333333
+55.45833333,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.458333333
 55.5,<music21.chord.Chord C#5 G2 G3>,"[0, 6]","[1, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.5
 55.625,<music21.chord.Chord G2 G3>,[0],[7],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.625
-55.666666666666700,<music21.chord.Chord F5 F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.666666666666700
-55.791666666666700,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.791666666666700
+55.66666667,<music21.chord.Chord F5 F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.666666667
+55.79166667,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.791666667
 55.875,<music21.chord.Chord F4 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,19,1.875
-56.0,<music21.chord.Chord C6 C#4 C#5>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.0
+56,<music21.chord.Chord C6 C#4 C#5>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2
 56.125,<music21.chord.Chord F5 C#4 C#5>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.125
 56.25,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.25
-56.333333333333300,<music21.chord.Chord C5 C#4 C#5>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.333333333333300
-56.458333333333300,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.458333333333300
+56.33333333,<music21.chord.Chord C5 C#4 C#5>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.333333333
+56.45833333,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.458333333
 56.5,<music21.chord.Chord C5 C#4 C#5>,"[0, 1]","[0, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.5
 56.625,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.625
-56.666666666666700,<music21.chord.Chord F5 C#4 C#5>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.666666666666700
-56.791666666666700,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.791666666666700
+56.66666667,<music21.chord.Chord F5 C#4 C#5>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.666666667
+56.79166667,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.791666667
 56.875,<music21.chord.Chord F4 C#4 C#5>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,2.875
-57.0,<music21.chord.Chord B-5 C#4 C#5>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.0
+57,<music21.chord.Chord B-5 C#4 C#5>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3
 57.125,<music21.chord.Chord F5 C#4 C#5>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.125
 57.25,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.25
-57.333333333333300,<music21.chord.Chord B-4 C#4 C#5>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.333333333333300
-57.458333333333300,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.458333333333300
+57.33333333,<music21.chord.Chord B-4 C#4 C#5>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.333333333
+57.45833333,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.458333333
 57.5,<music21.chord.Chord B-4 C#4 C#5>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.5
 57.625,<music21.chord.Chord C#4 C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.625
-57.666666666666700,<music21.chord.Chord F5 C#4 C#5>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.666666666666700
+57.66666667,<music21.chord.Chord F5 C#4 C#5>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.666666667
 57.75,<music21.chord.Chord F5>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.75
 57.875,<music21.chord.Chord F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,19,3.875
-58.0,<music21.chord.Chord C6 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.0
+58,<music21.chord.Chord C6 C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1
 58.125,<music21.chord.Chord E5 C2 C3>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.125
 58.25,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.25
-58.333333333333300,<music21.chord.Chord C5 B-2 B-3>,"[0, 2]","[10, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.333333333333300
-58.458333333333300,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.458333333333300
+58.33333333,<music21.chord.Chord C5 B-2 B-3>,"[0, 2]","[10, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.333333333
+58.45833333,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.458333333
 58.5,<music21.chord.Chord C5 B-2 B-3>,"[0, 2]","[10, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.5
 58.625,<music21.chord.Chord B-2 B-3>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.625
-58.666666666666700,<music21.chord.Chord E5 E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.666666666666700
-58.791666666666700,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.791666666666700
+58.66666667,<music21.chord.Chord E5 E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.666666667
+58.79166667,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.791666667
 58.875,<music21.chord.Chord E4 E3>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,20,1.875
-59.0,<music21.chord.Chord E6 C4 C5>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.0
+59,<music21.chord.Chord E6 C4 C5>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,2
 59.125,<music21.chord.Chord C6 C4 C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.125
 59.25,<music21.chord.Chord C4 C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.25
-59.333333333333300,<music21.chord.Chord E5 C4 C5>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.333333333333300
-59.458333333333300,<music21.chord.Chord C4 C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.458333333333300
+59.33333333,<music21.chord.Chord E5 C4 C5>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.333333333
+59.45833333,<music21.chord.Chord C4 C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.458333333
 59.5,<music21.chord.Chord E5 C4 C5>,"[0, 4]","[0, 4]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.5
 59.625,<music21.chord.Chord C4 C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.625
-59.666666666666700,<music21.chord.Chord B-5 C4 C5>,"[0, 2]","[10, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.666666666666700
-59.791666666666700,<music21.chord.Chord C4 C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.791666666666700
+59.66666667,<music21.chord.Chord B-5 C4 C5>,"[0, 2]","[10, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.666666667
+59.79166667,<music21.chord.Chord C4 C5>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.791666667
 59.875,<music21.chord.Chord B-4>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,20,2.875
-60.0,<music21.chord.Chord E5 F#3 F#4>,"[0, 2]","[4, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.0
+60,<music21.chord.Chord E5 F#3 F#4>,"[0, 2]","[4, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3
 60.125,<music21.chord.Chord B-5 F#3 F#4>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.125
 60.25,<music21.chord.Chord F#3 F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.25
-60.333333333333300,<music21.chord.Chord E6 F#3 F#4>,"[0, 2]","[4, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.333333333333300
-60.458333333333300,<music21.chord.Chord F#3 F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.458333333333300
+60.33333333,<music21.chord.Chord E6 F#3 F#4>,"[0, 2]","[4, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.333333333
+60.45833333,<music21.chord.Chord F#3 F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.458333333
 60.5,<music21.chord.Chord E6 F#3 F#4>,"[0, 2]","[4, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.5
 60.625,<music21.chord.Chord F#3 F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.625
-60.666666666666700,<music21.chord.Chord B-6 F#3 F#4>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.666666666666700
-60.791666666666700,<music21.chord.Chord F#3 F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.791666666666700
+60.66666667,<music21.chord.Chord B-6 F#3 F#4>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.666666667
+60.79166667,<music21.chord.Chord F#3 F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.791666667
 60.875,<music21.chord.Chord E7>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,20,3.875
-61.0,<music21.chord.Chord F6 F7 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.0
+61,<music21.chord.Chord F6 F7 F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1
 61.125,<music21.chord.Chord A6 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.125
 61.25,<music21.chord.Chord F3 C4 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.25
-61.333333333333300,<music21.chord.Chord F6 C3 C4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.333333333333300
-61.458333333333300,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.458333333333300
+61.33333333,<music21.chord.Chord F6 C3 C4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.333333333
+61.45833333,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.458333333
 61.5,<music21.chord.Chord F6 C3 C4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.5
 61.625,<music21.chord.Chord C3 C4>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.625
-61.666666666666700,<music21.chord.Chord C7 F2 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.666666666666700
-61.791666666666700,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.791666666666700
+61.66666667,<music21.chord.Chord C7 F2 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.666666667
+61.79166667,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.791666667
 61.875,<music21.chord.Chord C6 F2 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,1.875
-62.0,<music21.chord.Chord F6 C2 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.0
+62,<music21.chord.Chord F6 C2 C3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,2
 62.125,<music21.chord.Chord A5 C2 C3>,"[0, 3]","[9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.125
 62.25,<music21.chord.Chord C2 C3>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.25
-62.333333333333300,<music21.chord.Chord F5 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.333333333333300
-62.458333333333300,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.458333333333300
+62.33333333,<music21.chord.Chord F5 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.333333333
+62.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.458333333
 62.5,<music21.chord.Chord F5 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.5
 62.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.625
-62.666666666666700,<music21.chord.Chord C6 F3 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.666666666666700
-62.791666666666700,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.791666666666700
+62.66666667,<music21.chord.Chord C6 F3 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.666666667
+62.79166667,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.791666667
 62.875,<music21.chord.Chord C5 F3 F4>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,2.875
-63.0,<music21.chord.Chord F5 F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.0
+63,<music21.chord.Chord F5 F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3
 63.125,<music21.chord.Chord A4 F3 F4>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.125
 63.25,<music21.chord.Chord F3 F4>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.25
-63.333333333333300,<music21.chord.Chord F4 E3 E4>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.333333333333300
-63.458333333333300,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.458333333333300
+63.33333333,<music21.chord.Chord F4 E3 E4>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.333333333
+63.45833333,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.458333333
 63.5,<music21.chord.Chord F4 E3 E4>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.5
 63.625,<music21.chord.Chord E3 E4>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.625
-63.666666666666700,<music21.chord.Chord C5 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.666666666666700
-63.791666666666700,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.791666666666700
+63.66666667,<music21.chord.Chord C5 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.666666667
+63.79166667,<music21.chord.Chord E-3 E-4>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.791666667
 63.875,<music21.chord.Chord C4 E-3 E-4>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,21,3.875
-64.0,<music21.chord.Chord F7 F#3 C#3 C#4>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.0
+64,<music21.chord.Chord F7 F#3 C#3 C#4>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1
 64.125,<music21.chord.Chord B-6 F#3 C#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.125
 64.25,<music21.chord.Chord F#3 C#3 C#4>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.25
-64.33333333333330,<music21.chord.Chord F6 C4 C3 F#3>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.33333333333330
-64.45833333333330,<music21.chord.Chord F#3 C4 C3>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.45833333333330
+64.33333333,<music21.chord.Chord F6 C4 C3 F#3>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.333333333
+64.45833333,<music21.chord.Chord F#3 C4 C3>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.458333333
 64.5,<music21.chord.Chord F#6 F#3 C4 C3>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.5
 64.625,<music21.chord.Chord F#3 C4 C3>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.625
-64.66666666666670,<music21.chord.Chord C#7 B-2 B-3 F#3>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.66666666666670
-64.79166666666670,<music21.chord.Chord F#3 B-2 B-3>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.79166666666670
+64.66666667,<music21.chord.Chord C#7 B-2 B-3 F#3>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.666666667
+64.79166667,<music21.chord.Chord F#3 B-2 B-3>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.791666667
 64.875,<music21.chord.Chord C#6 F#3 B-2 B-3>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,1.875
-65.0,<music21.chord.Chord F6 C#3 C#2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.0
+65,<music21.chord.Chord F6 C#3 C#2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,2
 65.125,<music21.chord.Chord B-5 C#3 C#2>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.125
 65.25,<music21.chord.Chord C#3 C#2>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.25
-65.33333333333330,<music21.chord.Chord F5 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.33333333333330
-65.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.45833333333330
+65.33333333,<music21.chord.Chord F5 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.333333333
+65.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.458333333
 65.5,<music21.chord.Chord F#5 F1 F2>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.5
 65.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.625
-65.66666666666670,<music21.chord.Chord C#6>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.66666666666670
+65.66666667,<music21.chord.Chord C#6>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.666666667
 65.875,<music21.chord.Chord C#5>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,22,2.875
-66.0,<music21.chord.Chord E5>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.0
+66,<music21.chord.Chord E5>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3
 66.125,<music21.chord.Chord F#4>,[0],[6],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.125
-66.33333333333330,<music21.chord.Chord B-4>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.33333333333330
+66.33333333,<music21.chord.Chord B-4>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.333333333
 66.5,<music21.chord.Chord E5>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.5
-66.66666666666670,<music21.chord.Chord B-5>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.66666666666670
+66.66666667,<music21.chord.Chord B-5>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.666666667
 66.875,<music21.chord.Chord E6>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,22,3.875
-67.0,<music21.chord.Chord F6 F2 C3 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.0
+67,<music21.chord.Chord F6 F2 C3 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1
 67.125,<music21.chord.Chord A5 F2 C3 F3>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.125
 67.25,<music21.chord.Chord F2 C3 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.25
-67.33333333333330,<music21.chord.Chord F5 F2 C3 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.33333333333330
-67.45833333333330,<music21.chord.Chord F2 C3 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.45833333333330
+67.33333333,<music21.chord.Chord F5 F2 C3 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.333333333
+67.45833333,<music21.chord.Chord F2 C3 F3>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.458333333
 67.5,<music21.chord.Chord F5 C3 C2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.5
 67.625,<music21.chord.Chord C3 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.625
-67.66666666666670,<music21.chord.Chord C6 C3 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.66666666666670
-67.79166666666670,<music21.chord.Chord C3 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.79166666666670
+67.66666667,<music21.chord.Chord C6 C3 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.666666667
+67.79166667,<music21.chord.Chord C3 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.791666667
 67.875,<music21.chord.Chord C5 C3 C2>,[0],[0],Seven Preludes Op17No5 F minor.mid,Scriabin,23,1.875
-68.0,<music21.chord.Chord F5 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.0
+68,<music21.chord.Chord F5 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2
 68.125,<music21.chord.Chord A4 F2 F1>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.125
 68.25,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.25
-68.33333333333330,<music21.chord.Chord F4 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.33333333333330
-68.45833333333330,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.45833333333330
+68.33333333,<music21.chord.Chord F4 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.333333333
+68.45833333,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.458333333
 68.5,<music21.chord.Chord F4 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.5
 68.625,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.625
-68.66666666666670,<music21.chord.Chord C5 F3 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.66666666666670
-68.79166666666670,<music21.chord.Chord F3 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.79166666666670
+68.66666667,<music21.chord.Chord C5 F3 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.666666667
+68.79166667,<music21.chord.Chord F3 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.791666667
 68.875,<music21.chord.Chord C4 F3 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,2.875
-69.0,<music21.chord.Chord F4 F3 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.0
+69,<music21.chord.Chord F4 F3 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3
 69.125,<music21.chord.Chord A3 F3 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.125
 69.25,<music21.chord.Chord F3 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.25
-69.33333333333330,<music21.chord.Chord F3 E3 E2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.33333333333330
-69.45833333333330,<music21.chord.Chord E3 E2>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.45833333333330
+69.33333333,<music21.chord.Chord F3 E3 E2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.333333333
+69.45833333,<music21.chord.Chord E3 E2>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.458333333
 69.5,<music21.chord.Chord F3 E3 E2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.5
 69.625,<music21.chord.Chord E3 E2>,[0],[4],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.625
-69.66666666666670,<music21.chord.Chord C4 E-3 E-2>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.66666666666670
-69.79166666666670,<music21.chord.Chord E-3 E-2>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.79166666666670
+69.66666667,<music21.chord.Chord C4 E-3 E-2>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.666666667
+69.79166667,<music21.chord.Chord E-3 E-2>,[0],[3],Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.791666667
 69.875,<music21.chord.Chord C3 E-3 E-2>,"[0, 3]","[0, 3]",Seven Preludes Op17No5 F minor.mid,Scriabin,23,3.875
-70.0,<music21.chord.Chord F6 C#2 C#3 F#2>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.0
+70,<music21.chord.Chord F6 C#2 C#3 F#2>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1
 70.125,<music21.chord.Chord B-5 C#2 C#3 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.125
 70.25,<music21.chord.Chord C#2 C#3 F#2>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.25
-70.33333333333330,<music21.chord.Chord F5 C3 C2 F#2>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.33333333333330
-70.45833333333330,<music21.chord.Chord C3 C2 F#2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.45833333333330
+70.33333333,<music21.chord.Chord F5 C3 C2 F#2>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.333333333
+70.45833333,<music21.chord.Chord C3 C2 F#2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.458333333
 70.5,<music21.chord.Chord F#5 C3 C2 F#2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.5
 70.625,<music21.chord.Chord C3 C2 F#2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.625
-70.66666666666670,<music21.chord.Chord C#6 B-1 B-2 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.66666666666670
-70.79166666666670,<music21.chord.Chord B-1 B-2 F#2>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.79166666666670
+70.66666667,<music21.chord.Chord C#6 B-1 B-2 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.666666667
+70.79166667,<music21.chord.Chord B-1 B-2 F#2>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.791666667
 70.875,<music21.chord.Chord C#5 B-1 B-2 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,1.875
-71.0,<music21.chord.Chord F5 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.0
+71,<music21.chord.Chord F5 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2
 71.125,<music21.chord.Chord B-4 F1 F2>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.125
 71.25,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.25
-71.33333333333330,<music21.chord.Chord F4 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.33333333333330
-71.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.45833333333330
+71.33333333,<music21.chord.Chord F4 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.333333333
+71.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.458333333
 71.5,<music21.chord.Chord F#4 F1 F2>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.5
 71.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.625
-71.66666666666670,<music21.chord.Chord C#5 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.66666666666670
-71.79166666666670,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.79166666666670
+71.66666667,<music21.chord.Chord C#5 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.666666667
+71.79166667,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.791666667
 71.875,<music21.chord.Chord C#4 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,2.875
-72.0,<music21.chord.Chord E4 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.0
+72,<music21.chord.Chord E4 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3
 72.125,<music21.chord.Chord B-3 F1 F2>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.125
 72.25,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.25
-72.33333333333330,<music21.chord.Chord E3 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.33333333333330
-72.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.45833333333330
+72.33333333,<music21.chord.Chord E3 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.333333333
+72.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.458333333
 72.5,<music21.chord.Chord F#3 F1 F2>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.5
 72.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.625
-72.66666666666670,<music21.chord.Chord C#4 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.66666666666670
+72.66666667,<music21.chord.Chord C#4 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.666666667
 72.75,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.75
 72.875,<music21.chord.Chord C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,24,3.875
-73.0,<music21.chord.Chord F5 F#2 C#2 C#3>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.0
+73,<music21.chord.Chord F5 F#2 C#2 C#3>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1
 73.125,<music21.chord.Chord B-4 F#2 C#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.125
 73.25,<music21.chord.Chord F#2 C#2 C#3>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.25
-73.33333333333330,<music21.chord.Chord F4 C3 C2 F#2>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.33333333333330
-73.45833333333330,<music21.chord.Chord F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.45833333333330
+73.33333333,<music21.chord.Chord F4 C3 C2 F#2>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.333333333
+73.45833333,<music21.chord.Chord F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.458333333
 73.5,<music21.chord.Chord F#4 F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.5
 73.625,<music21.chord.Chord F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.625
-73.66666666666670,<music21.chord.Chord C#5 B-1 B-2 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.66666666666670
-73.79166666666670,<music21.chord.Chord F#2 B-1 B-2>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.79166666666670
+73.66666667,<music21.chord.Chord C#5 B-1 B-2 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.666666667
+73.79166667,<music21.chord.Chord F#2 B-1 B-2>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.791666667
 73.875,<music21.chord.Chord C#4 F#2 B-1 B-2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,1.875
-74.0,<music21.chord.Chord F4 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.0
+74,<music21.chord.Chord F4 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2
 74.125,<music21.chord.Chord B-3 F2 F1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.125
 74.25,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.25
-74.33333333333330,<music21.chord.Chord F3 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.33333333333330
-74.45833333333330,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.45833333333330
+74.33333333,<music21.chord.Chord F3 F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.333333333
+74.45833333,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.458333333
 74.5,<music21.chord.Chord F#3 F2 F1>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.5
 74.625,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.625
-74.66666666666670,<music21.chord.Chord C#4 F2 F1>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.66666666666670
-74.79166666666670,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.79166666666670
+74.66666667,<music21.chord.Chord C#4 F2 F1>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.666666667
+74.79166667,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.791666667
 74.875,<music21.chord.Chord C#3 F2 F1>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,2.875
-75.0,<music21.chord.Chord E4 F2 F1>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.0
+75,<music21.chord.Chord E4 F2 F1>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3
 75.125,<music21.chord.Chord B-3 F2 F1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.125
 75.25,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.25
-75.33333333333330,<music21.chord.Chord E3 F2 F1>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.33333333333330
-75.45833333333330,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.45833333333330
+75.33333333,<music21.chord.Chord E3 F2 F1>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.333333333
+75.45833333,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.458333333
 75.5,<music21.chord.Chord F#3 F2 F1>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.5
 75.625,<music21.chord.Chord F2 F1>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.625
-75.66666666666670,<music21.chord.Chord C#4 F2 F1>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.66666666666670
+75.66666667,<music21.chord.Chord C#4 F2 F1>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.666666667
 75.75,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.75
 75.875,<music21.chord.Chord C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,25,3.875
-76.0,<music21.chord.Chord F4 F#2 C#2 C#3>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.0
+76,<music21.chord.Chord F4 F#2 C#2 C#3>,"[0, 4, 5]","[1, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1
 76.125,<music21.chord.Chord B-3 F#2 C#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.125
 76.25,<music21.chord.Chord F#2 C#2 C#3>,"[0, 5]","[1, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.25
-76.33333333333330,<music21.chord.Chord F3 C3 C2 F#2>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.33333333333330
-76.45833333333330,<music21.chord.Chord F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.45833333333330
+76.33333333,<music21.chord.Chord F3 C3 C2 F#2>,"[0, 5, 6]","[0, 5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.333333333
+76.45833333,<music21.chord.Chord F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.458333333
 76.5,<music21.chord.Chord F#3 F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.5
 76.625,<music21.chord.Chord F#2 C3 C2>,"[0, 6]","[0, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.625
-76.66666666666670,<music21.chord.Chord C#4 B-1 B-2 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.66666666666670
-76.79166666666670,<music21.chord.Chord F#2 B-1 B-2>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.79166666666670
+76.66666667,<music21.chord.Chord C#4 B-1 B-2 F#2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.666666667
+76.79166667,<music21.chord.Chord F#2 B-1 B-2>,"[0, 4]","[6, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.791666667
 76.875,<music21.chord.Chord C#3 F#2 B-1 B-2>,"[0, 4, 7]","[6, 10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,1.875
-77.0,<music21.chord.Chord F4 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.0
+77,<music21.chord.Chord F4 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2
 77.125,<music21.chord.Chord B-3 F1 F2>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.125
 77.25,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.25
-77.33333333333330,<music21.chord.Chord F3 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.33333333333330
-77.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.45833333333330
+77.33333333,<music21.chord.Chord F3 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.333333333
+77.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.458333333
 77.5,<music21.chord.Chord F#3 F1 F2>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.5
 77.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.625
-77.66666666666670,<music21.chord.Chord C#4 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.66666666666670
-77.79166666666670,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.79166666666670
+77.66666667,<music21.chord.Chord C#4 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.666666667
+77.79166667,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.791666667
 77.875,<music21.chord.Chord C#3 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,2.875
-78.0,<music21.chord.Chord E4 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.0
+78,<music21.chord.Chord E4 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3
 78.125,<music21.chord.Chord B-3 F1 F2>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.125
 78.25,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.25
-78.33333333333330,<music21.chord.Chord E3 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.33333333333330
-78.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.45833333333330
+78.33333333,<music21.chord.Chord E3 F1 F2>,"[0, 1]","[4, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.333333333
+78.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.458333333
 78.5,<music21.chord.Chord F#3 F1 F2>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.5
 78.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.625
-78.66666666666670,<music21.chord.Chord C#4 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.66666666666670
+78.66666667,<music21.chord.Chord C#4 F1 F2>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.666666667
 78.75,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.75
 78.875,<music21.chord.Chord C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,26,3.875
-79.0,<music21.chord.Chord F4 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.0
+79,<music21.chord.Chord F4 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,1
 79.125,<music21.chord.Chord B-3 B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.125
 79.25,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.25
-79.33333333333330,<music21.chord.Chord F3 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.33333333333330
-79.45833333333330,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.45833333333330
+79.33333333,<music21.chord.Chord F3 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.333333333
+79.45833333,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.458333333
 79.5,<music21.chord.Chord B-3 B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.5
 79.625,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.625
-79.66666666666670,<music21.chord.Chord C#4 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.66666666666670
-79.79166666666670,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.79166666666670
+79.66666667,<music21.chord.Chord C#4 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.666666667
+79.79166667,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.791666667
 79.875,<music21.chord.Chord C#3 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,1.875
-80.0,<music21.chord.Chord E4 B-0 B-1>,"[0, 6]","[4, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.0
+80,<music21.chord.Chord E4 B-0 B-1>,"[0, 6]","[4, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,2
 80.125,<music21.chord.Chord B-3 B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.125
 80.25,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.25
-80.33333333333330,<music21.chord.Chord E3 B-0 B-1>,"[0, 6]","[4, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.33333333333330
-80.45833333333330,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.45833333333330
+80.33333333,<music21.chord.Chord E3 B-0 B-1>,"[0, 6]","[4, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.333333333
+80.45833333,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.458333333
 80.5,<music21.chord.Chord B-3 B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.5
 80.625,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.625
-80.66666666666670,<music21.chord.Chord C#4 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.66666666666670
-80.79166666666670,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.79166666666670
+80.66666667,<music21.chord.Chord C#4 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.666666667
+80.79166667,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.791666667
 80.875,<music21.chord.Chord C#3 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,2.875
-81.0,<music21.chord.Chord F4 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.0
+81,<music21.chord.Chord F4 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,3
 81.125,<music21.chord.Chord B-3 B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.125
 81.25,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.25
-81.33333333333330,<music21.chord.Chord F3 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.33333333333330
-81.45833333333330,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.45833333333330
+81.33333333,<music21.chord.Chord F3 B-0 B-1>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.333333333
+81.45833333,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.458333333
 81.5,<music21.chord.Chord B-3 B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.5
 81.625,<music21.chord.Chord B-0 B-1>,[0],[10],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.625
-81.66666666666670,<music21.chord.Chord C#4 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.66666666666670
+81.66666667,<music21.chord.Chord C#4 B-0 B-1>,"[0, 3]","[10, 1]",Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.666666667
 81.75,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.75
 81.875,<music21.chord.Chord C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,27,3.875
-82.0,<music21.chord.Chord F#4 F2 F3>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.0
+82,<music21.chord.Chord F#4 F2 F3>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1
 82.125,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.125
 82.25,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.25
-82.33333333333330,<music21.chord.Chord F#3 F2 F3>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.33333333333330
-82.45833333333330,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.45833333333330
+82.33333333,<music21.chord.Chord F#3 F2 F3>,"[0, 1]","[5, 6]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.333333333
+82.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.458333333
 82.5,<music21.chord.Chord B-3 F2 F3>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.5
 82.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.625
-82.66666666666670,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.66666666666670
-82.79166666666670,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.79166666666670
+82.66666667,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.666666667
+82.79166667,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.791666667
 82.875,<music21.chord.Chord C#3 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,1.875
-83.0,<music21.chord.Chord G4 F2 F3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.0
+83,<music21.chord.Chord G4 F2 F3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2
 83.125,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.125
 83.25,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.25
-83.33333333333330,<music21.chord.Chord G3 F2 F3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.33333333333330
-83.45833333333330,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.45833333333330
+83.33333333,<music21.chord.Chord G3 F2 F3>,"[0, 2]","[5, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.333333333
+83.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.458333333
 83.5,<music21.chord.Chord B-3 F2 F3>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.5
 83.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.625
-83.66666666666670,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.66666666666670
-83.79166666666670,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.79166666666670
+83.66666667,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.666666667
+83.79166667,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.791666667
 83.875,<music21.chord.Chord C#3 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,2.875
-84.0,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.0
+84,<music21.chord.Chord G#4 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3
 84.125,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.125
 84.25,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.25
-84.33333333333330,<music21.chord.Chord G#3 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.33333333333330
-84.45833333333330,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.45833333333330
+84.33333333,<music21.chord.Chord G#3 F2 F3>,"[0, 3]","[5, 8]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.333333333
+84.45833333,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.458333333
 84.5,<music21.chord.Chord B-3 F2 F3>,"[0, 5]","[5, 10]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.5
 84.625,<music21.chord.Chord F2 F3>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.625
-84.66666666666670,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.66666666666670
+84.66666667,<music21.chord.Chord C#4 F2 F3>,"[0, 4]","[1, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.666666667
 84.75,<music21.chord.Chord C#4>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.75
 84.875,<music21.chord.Chord C#3>,[0],[1],Seven Preludes Op17No5 F minor.mid,Scriabin,28,3.875
-85.0,<music21.chord.Chord A4 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.0
+85,<music21.chord.Chord A4 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1
 85.125,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.125
 85.25,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.25
-85.33333333333330,<music21.chord.Chord A3 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.33333333333330
-85.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.45833333333330
+85.33333333,<music21.chord.Chord A3 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.333333333
+85.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.458333333
 85.5,<music21.chord.Chord F3 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.5
 85.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.625
-85.66666666666670,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.66666666666670
-85.79166666666670,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.79166666666670
+85.66666667,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.666666667
+85.79166667,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.791666667
 85.875,<music21.chord.Chord C3 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,1.875
-86.0,<music21.chord.Chord A4 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.0
+86,<music21.chord.Chord A4 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2
 86.125,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.125
 86.25,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.25
-86.33333333333330,<music21.chord.Chord A3 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.33333333333330
-86.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.45833333333330
+86.33333333,<music21.chord.Chord A3 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.333333333
+86.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.458333333
 86.5,<music21.chord.Chord F3 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.5
 86.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.625
-86.66666666666670,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.66666666666670
-86.79166666666670,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.79166666666670
+86.66666667,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.666666667
+86.79166667,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.791666667
 86.875,<music21.chord.Chord C3 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,2.875
-87.0,<music21.chord.Chord A4 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.0
+87,<music21.chord.Chord A4 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3
 87.125,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.125
 87.25,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.25
-87.33333333333330,<music21.chord.Chord A3 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.33333333333330
-87.45833333333330,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.45833333333330
+87.33333333,<music21.chord.Chord A3 F1 F2>,"[0, 4]","[5, 9]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.333333333
+87.45833333,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.458333333
 87.5,<music21.chord.Chord F3 F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.5
 87.625,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.625
-87.66666666666670,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.66666666666670
-87.79166666666670,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.79166666666670
+87.66666667,<music21.chord.Chord C4 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.666666667
+87.79166667,<music21.chord.Chord F1 F2>,[0],[5],Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.791666667
 87.875,<music21.chord.Chord C3 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,29,3.875
-88.0,<music21.chord.Chord C3 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,30,1.0
+88,<music21.chord.Chord C3 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,30,1
 88.125,<music21.chord.Chord C3 F1 F2>,"[0, 5]","[0, 5]",Seven Preludes Op17No5 F minor.mid,Scriabin,30,1.125
 88.25,<music21.chord.Chord A3 C3 F1 F2>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,30,1.25
 88.375,<music21.chord.Chord F4 C3 A3 F1 F2>,"[0, 4, 7]","[5, 9, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,30,1.375

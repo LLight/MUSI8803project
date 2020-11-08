@@ -1,4 +1,4 @@
-offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
 3,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,0,4
 4,<music21.chord.Chord C5 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,1,1
 4.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,1,1.5
@@ -31,9 +31,9 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 16.75,<music21.chord.Chord B4>,[0],[11],Nocturne 55 1 F Minor.mid,Chopin,4,1.75
 17,<music21.chord.Chord C5 C4 G#4>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,4,2
 17.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,4,2.5
-17.6666666667,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,4,2.6666666667
+17.66666667,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,4,2.666666667
 17.75,<music21.chord.Chord C#5 E-5>,"[0, 2]","[1, 3]",Nocturne 55 1 F Minor.mid,Chopin,4,2.75
-17.7916666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,4,2.7916666667
+17.79166667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,4,2.791666667
 18,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,4,3
 18.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,4,3.5
 19,<music21.chord.Chord C5 B-3 C4 G4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,4,4
@@ -53,14 +53,14 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 26,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,6,3
 26.125,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,6,3.125
 26.25,<music21.chord.Chord B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,6,3.25
-26.3333333333,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,6,3.3333333333
+26.33333333,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,6,3.333333333
 26.375,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,6,3.375
-26.4583333333,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,6,3.4583333333
+26.45833333,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,6,3.458333333
 26.5,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,6,3.5
 26.625,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,6,3.625
-26.6666666667,<music21.chord.Chord B-4 C5>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,6,3.6666666667
+26.66666667,<music21.chord.Chord B-4 C5>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,6,3.666666667
 26.75,<music21.chord.Chord A4 B-4>,"[0, 1]","[9, 10]",Nocturne 55 1 F Minor.mid,Chopin,6,3.75
-26.7916666667,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,6,3.7916666667
+26.79166667,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,6,3.791666667
 26.875,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,6,3.875
 27,<music21.chord.Chord C5 F#3 C#4 F#4>,"[0, 1, 6]","[0, 1, 6]",Nocturne 55 1 F Minor.mid,Chopin,6,4
 27.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,6,4.5
@@ -74,7 +74,7 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 30,<music21.chord.Chord G#4 B-3 E4 C2>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Nocturne 55 1 F Minor.mid,Chopin,7,3
 30.5,<music21.chord.Chord B-3 E4 G#4>,"[0, 4, 6]","[4, 8, 10]",Nocturne 55 1 F Minor.mid,Chopin,7,3.5
 31,<music21.chord.Chord G4 B-3 E4 C3 C4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,7,4
-31.4166666667,<music21.chord.Chord B-3 G4 C3 C4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,7,4.4166666667
+31.41666667,<music21.chord.Chord B-3 G4 C3 C4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,7,4.416666667
 31.5,<music21.chord.Chord G4>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,7,4.5
 31.75,<music21.chord.Chord F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,7,4.75
 31.875,<music21.chord.Chord G#3 F4>,"[0, 3]","[5, 8]",Nocturne 55 1 F Minor.mid,Chopin,7,4.875
@@ -135,14 +135,14 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 56.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,14,1.5
 57,<music21.chord.Chord C5 C4 G#4>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,14,2
 57.5,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,14,2.5
-57.6666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,14,2.6666666667
+57.66666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,14,2.666666667
 57.875,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,14,2.875
 58,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,14,3
 58.125,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,14,3.125
 58.25,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,14,3.25
-58.3333333333,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,14,3.3333333333
+58.33333333,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,14,3.333333333
 58.375,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,14,3.375
-58.4583333333,<music21.chord.Chord B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,14,3.4583333333
+58.45833333,<music21.chord.Chord B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,14,3.458333333
 58.5,<music21.chord.Chord B-4 C5>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,14,3.5
 58.625,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,14,3.625
 58.75,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,14,3.75
@@ -152,7 +152,7 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 59.25,<music21.chord.Chord A4 F#3 C#4 F#4>,"[0, 3, 7]","[6, 9, 1]",Nocturne 55 1 F Minor.mid,Chopin,14,4.25
 59.375,<music21.chord.Chord B-4 F#3 C#4 F#4>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,14,4.375
 59.625,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,14,4.625
-59.6666666667,<music21.chord.Chord E-5 C5>,"[0, 3]","[0, 3]",Nocturne 55 1 F Minor.mid,Chopin,14,4.6666666667
+59.66666667,<music21.chord.Chord E-5 C5>,"[0, 3]","[0, 3]",Nocturne 55 1 F Minor.mid,Chopin,14,4.666666667
 59.75,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,14,4.75
 59.875,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,14,4.875
 60,<music21.chord.Chord G#4 C3>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,15,1
@@ -263,25 +263,25 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 108,<music21.chord.Chord C5 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,27,1
 108.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,27,1.5
 109,<music21.chord.Chord E5 G#3 C4 F4>,"[0, 1, 4, 8]","[4, 5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,27,2
-109.333333333,<music21.chord.Chord G5 G#3 C4 F4>,"[0, 2, 3, 7]","[5, 7, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,27,2.333333333
+109.3333333,<music21.chord.Chord G5 G#3 C4 F4>,"[0, 2, 3, 7]","[5, 7, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,27,2.333333333
 109.5,<music21.chord.Chord G5>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,27,2.5
-109.666666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,27,2.666666667
+109.6666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,27,2.666666667
 110,<music21.chord.Chord E-5 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,27,3
-110.333333333,<music21.chord.Chord E-4 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,27,3.333333333
+110.3333333,<music21.chord.Chord E-4 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,27,3.333333333
 110.5,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,27,3.5
-110.666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,27,3.666666667
+110.6666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,27,3.666666667
 111,<music21.chord.Chord C5 E-3 B-3 E-4>,"[0, 2, 5]","[10, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,27,4
-111.333333333,<music21.chord.Chord E-5 E-3 B-3 E-4>,"[0, 5]","[10, 3]",Nocturne 55 1 F Minor.mid,Chopin,27,4.333333333
+111.3333333,<music21.chord.Chord E-5 E-3 B-3 E-4>,"[0, 5]","[10, 3]",Nocturne 55 1 F Minor.mid,Chopin,27,4.333333333
 111.5,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,27,4.5
-111.666666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,27,4.666666667
+111.6666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,27,4.666666667
 112,<music21.chord.Chord C5 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,28,1
-112.333333333,<music21.chord.Chord C4 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,28,1.333333333
+112.3333333,<music21.chord.Chord C4 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,28,1.333333333
 112.5,<music21.chord.Chord C4>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,28,1.5
-112.666666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,28,1.666666667
+112.6666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,28,1.666666667
 113,<music21.chord.Chord G#4 E-3 G#3 E-4>,"[0, 5]","[3, 8]",Nocturne 55 1 F Minor.mid,Chopin,28,2
-113.333333333,<music21.chord.Chord B4 E-3 G#3 E-4>,"[0, 3, 7]","[8, 11, 3]",Nocturne 55 1 F Minor.mid,Chopin,28,2.333333333
+113.3333333,<music21.chord.Chord B4 E-3 G#3 E-4>,"[0, 3, 7]","[8, 11, 3]",Nocturne 55 1 F Minor.mid,Chopin,28,2.333333333
 113.5,<music21.chord.Chord B4>,[0],[11],Nocturne 55 1 F Minor.mid,Chopin,28,2.5
-113.666666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,28,2.666666667
+113.6666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,28,2.666666667
 114,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,28,3
 114.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,28,3.5
 115,<music21.chord.Chord C5 B-3 C4 G4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,28,4
@@ -298,14 +298,14 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 120.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,30,1.5
 121,<music21.chord.Chord C5 E-3 G#3 C4 E-4>,"[0, 4, 7]","[8, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,30,2
 121.5,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,30,2.5
-121.666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,30,2.666666667
+121.6666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,30,2.666666667
 121.875,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,30,2.875
 122,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,30,3
 122.125,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,30,3.125
 122.25,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,30,3.25
-122.333333333,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,30,3.333333333
+122.3333333,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,30,3.333333333
 122.375,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,30,3.375
-122.458333333,<music21.chord.Chord B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,30,3.458333333
+122.4583333,<music21.chord.Chord B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,30,3.458333333
 122.5,<music21.chord.Chord B-4 C5>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,30,3.5
 122.625,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,30,3.625
 122.75,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,30,3.75
@@ -425,27 +425,27 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 172,<music21.chord.Chord C5 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,43,1
 172.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,43,1.5
 173,<music21.chord.Chord E5 G#3 C4 F4>,"[0, 1, 4, 8]","[4, 5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,43,2
-173.333333333,<music21.chord.Chord G5 G#3 C4 F4>,"[0, 2, 3, 7]","[5, 7, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,43,2.333333333
+173.3333333,<music21.chord.Chord G5 G#3 C4 F4>,"[0, 2, 3, 7]","[5, 7, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,43,2.333333333
 173.5,<music21.chord.Chord G5>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,43,2.5
-173.666666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,43,2.666666667
+173.6666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,43,2.666666667
 174,<music21.chord.Chord E-5 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,43,3
-174.333333333,<music21.chord.Chord E-4 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,43,3.333333333
+174.3333333,<music21.chord.Chord E-4 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,43,3.333333333
 174.5,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,43,3.5
-174.666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,43,3.666666667
+174.6666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,43,3.666666667
 175,<music21.chord.Chord C5 E-3 B-3 E-4>,"[0, 2, 5]","[10, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,43,4
-175.333333333,<music21.chord.Chord E-5 E-3 B-3 E-4>,"[0, 5]","[10, 3]",Nocturne 55 1 F Minor.mid,Chopin,43,4.333333333
+175.3333333,<music21.chord.Chord E-5 E-3 B-3 E-4>,"[0, 5]","[10, 3]",Nocturne 55 1 F Minor.mid,Chopin,43,4.333333333
 175.5,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,43,4.5
-175.666666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,43,4.666666667
+175.6666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,43,4.666666667
 176,<music21.chord.Chord C5 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,44,1
-176.333333333,<music21.chord.Chord C4 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,44,1.333333333
+176.3333333,<music21.chord.Chord C4 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,44,1.333333333
 176.5,<music21.chord.Chord C4>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,44,1.5
-176.666666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,44,1.666666667
+176.6666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,44,1.666666667
 177,<music21.chord.Chord G#4 E-3 G#3 E-4>,"[0, 5]","[3, 8]",Nocturne 55 1 F Minor.mid,Chopin,44,2
 177.25,<music21.chord.Chord B4 E-3 G#3 E-4>,"[0, 3, 7]","[8, 11, 3]",Nocturne 55 1 F Minor.mid,Chopin,44,2.25
 177.5,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,44,2.5
-177.666666667,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,44,2.666666667
+177.6666667,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,44,2.666666667
 177.75,<music21.chord.Chord C#5 E-5>,"[0, 2]","[1, 3]",Nocturne 55 1 F Minor.mid,Chopin,44,2.75
-177.791666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,44,2.791666667
+177.7916667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,44,2.791666667
 178,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,44,3
 178.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,44,3.5
 179,<music21.chord.Chord C5 B-3 C4 G4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,44,4
@@ -462,14 +462,14 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 184.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,46,1.5
 185,<music21.chord.Chord C5 E-3 G#3 C4 E-4>,"[0, 4, 7]","[8, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,46,2
 185.5,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,46,2.5
-185.666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,46,2.666666667
+185.6666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,46,2.666666667
 185.875,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,46,2.875
 186,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,46,3
 186.125,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,46,3.125
 186.25,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,46,3.25
-186.333333333,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,46,3.333333333
+186.3333333,<music21.chord.Chord C5 B-4 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,46,3.333333333
 186.375,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,46,3.375
-186.458333333,<music21.chord.Chord B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,46,3.458333333
+186.4583333,<music21.chord.Chord B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,46,3.458333333
 186.5,<music21.chord.Chord B-4 C5>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,46,3.5
 186.625,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,46,3.625
 186.75,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,46,3.75
@@ -495,27 +495,27 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 191.75,<music21.chord.Chord F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,47,4.75
 192,<music21.chord.Chord G#3 F4 F3 C4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,48,1
 193,<music21.chord.Chord B3 B2>,[0],[11],Nocturne 55 1 F Minor.mid,Chopin,48,2
-193.333333333,<music21.chord.Chord C4 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,48,2.333333333
-193.666666667,<music21.chord.Chord C#4 C#3>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,48,2.666666667
+193.3333333,<music21.chord.Chord C4 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,48,2.333333333
+193.6666667,<music21.chord.Chord C#4 C#3>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,48,2.666666667
 194,<music21.chord.Chord C4 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,48,3
-194.333333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,48,3.333333333
-194.666666667,<music21.chord.Chord B-3 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,48,3.666666667
+194.3333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,48,3.333333333
+194.6666667,<music21.chord.Chord B-3 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,48,3.666666667
 195,<music21.chord.Chord G#3 G#2>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,48,4
-195.333333333,<music21.chord.Chord E3 E2>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,48,4.333333333
-195.666666667,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,48,4.666666667
+195.3333333,<music21.chord.Chord E3 E2>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,48,4.333333333
+195.6666667,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,48,4.666666667
 196,<music21.chord.Chord F3 F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,49,1
 197,<music21.chord.Chord G#4 F5 F3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,49,2
 199,<music21.chord.Chord G4 B-4 F5 F3 C#4 F4>,"[0, 2, 5, 8]","[5, 7, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,49,4
 200,<music21.chord.Chord G#4 C5 F5 F3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,50,1
 201,<music21.chord.Chord B3 B2>,[0],[11],Nocturne 55 1 F Minor.mid,Chopin,50,2
-201.333333333,<music21.chord.Chord C4 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,50,2.333333333
-201.666666667,<music21.chord.Chord C#4 C#3>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,50,2.666666667
+201.3333333,<music21.chord.Chord C4 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,50,2.333333333
+201.6666667,<music21.chord.Chord C#4 C#3>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,50,2.666666667
 202,<music21.chord.Chord C4 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,50,3
-202.333333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,50,3.333333333
-202.666666667,<music21.chord.Chord B-3 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,50,3.666666667
+202.3333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,50,3.333333333
+202.6666667,<music21.chord.Chord B-3 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,50,3.666666667
 203,<music21.chord.Chord G#3 G#2>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,50,4
-203.333333333,<music21.chord.Chord E3 E2>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,50,4.333333333
-203.666666667,<music21.chord.Chord F3 F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,50,4.666666667
+203.3333333,<music21.chord.Chord E3 E2>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,50,4.333333333
+203.6666667,<music21.chord.Chord F3 F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,50,4.666666667
 204,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,51,1
 205,<music21.chord.Chord E-4 G4 E-5 G3 C4>,"[0, 3, 7]","[0, 3, 7]",Nocturne 55 1 F Minor.mid,Chopin,51,2
 207,<music21.chord.Chord F4 G4 D5 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Nocturne 55 1 F Minor.mid,Chopin,51,4
@@ -524,29 +524,29 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 208.75,<music21.chord.Chord F4 G4 B4 C3 G3 D4>,"[0, 1, 3, 6, 8]","[11, 0, 2, 5, 7]",Nocturne 55 1 F Minor.mid,Chopin,52,1.75
 209,<music21.chord.Chord E-4 G4 C5 C3 G3 C4>,"[0, 3, 7]","[0, 3, 7]",Nocturne 55 1 F Minor.mid,Chopin,52,2
 210,<music21.chord.Chord F#3 F#2>,[0],[6],Nocturne 55 1 F Minor.mid,Chopin,52,3
-210.333333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,52,3.333333333
-210.666666667,<music21.chord.Chord G#3 G#2>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,52,3.666666667
+210.3333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,52,3.333333333
+210.6666667,<music21.chord.Chord G#3 G#2>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,52,3.666666667
 211,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,52,4
-211.333333333,<music21.chord.Chord D3 D2>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,52,4.333333333
-211.666666667,<music21.chord.Chord E-3 E-2>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,52,4.666666667
+211.3333333,<music21.chord.Chord D3 D2>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,52,4.333333333
+211.6666667,<music21.chord.Chord E-3 E-2>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,52,4.666666667
 212,<music21.chord.Chord C3 C2>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,53,1
 213,<music21.chord.Chord E-4 C5 C3 G3 C4>,"[0, 3, 7]","[0, 3, 7]",Nocturne 55 1 F Minor.mid,Chopin,53,2
 215,<music21.chord.Chord D4 F4 C5 C3 G#3 C4>,"[0, 2, 5, 8]","[0, 2, 5, 8]",Nocturne 55 1 F Minor.mid,Chopin,53,4
 216,<music21.chord.Chord E-4 G4 C5 C3 G3 C4>,"[0, 3, 7]","[0, 3, 7]",Nocturne 55 1 F Minor.mid,Chopin,54,1
 217,<music21.chord.Chord F#3 F#2>,[0],[6],Nocturne 55 1 F Minor.mid,Chopin,54,2
-217.333333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,54,2.333333333
-217.666666667,<music21.chord.Chord G#3 G#2>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,54,2.666666667
+217.3333333,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,54,2.333333333
+217.6666667,<music21.chord.Chord G#3 G#2>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,54,2.666666667
 218,<music21.chord.Chord G3 G2>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,54,3
-218.333333333,<music21.chord.Chord D3 D2>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,54,3.333333333
-218.666666667,<music21.chord.Chord F3 F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,54,3.666666667
+218.3333333,<music21.chord.Chord D3 D2>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,54,3.333333333
+218.6666667,<music21.chord.Chord F3 F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,54,3.666666667
 219,<music21.chord.Chord E-3 E-2>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,54,4
-219.333333333,<music21.chord.Chord B2 B1>,[0],[11],Nocturne 55 1 F Minor.mid,Chopin,54,4.333333333
-219.666666667,<music21.chord.Chord C3 C2>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,54,4.666666667
+219.3333333,<music21.chord.Chord B2 B1>,[0],[11],Nocturne 55 1 F Minor.mid,Chopin,54,4.333333333
+219.6666667,<music21.chord.Chord C3 C2>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,54,4.666666667
 220,<music21.chord.Chord D3 D2>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,55,1
 221,<music21.chord.Chord B-3 D4 B-4 D3 G3>,"[0, 3, 7]","[7, 10, 2]",Nocturne 55 1 F Minor.mid,Chopin,55,2
 223,<music21.chord.Chord C4 D4 A4 D3 F#3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Nocturne 55 1 F Minor.mid,Chopin,55,4
-223.666666667,<music21.chord.Chord A4 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Nocturne 55 1 F Minor.mid,Chopin,55,4.666666667
-223.791666667,<music21.chord.Chord D3 F#3>,"[0, 4]","[2, 6]",Nocturne 55 1 F Minor.mid,Chopin,55,4.791666667
+223.6666667,<music21.chord.Chord A4 D3 F#3>,"[0, 4, 7]","[2, 6, 9]",Nocturne 55 1 F Minor.mid,Chopin,55,4.666666667
+223.7916667,<music21.chord.Chord D3 F#3>,"[0, 4]","[2, 6]",Nocturne 55 1 F Minor.mid,Chopin,55,4.791666667
 223.875,<music21.chord.Chord B-3 D4 D3 F#3>,"[0, 4, 8]","[2, 6, 10]",Nocturne 55 1 F Minor.mid,Chopin,55,4.875
 224,<music21.chord.Chord G4 B-3 D4 G2 D3 G3>,"[0, 3, 7]","[7, 10, 2]",Nocturne 55 1 F Minor.mid,Chopin,56,1
 224.75,<music21.chord.Chord C4 D4 F#4 G2 D3 A3>,"[0, 1, 3, 6, 8]","[6, 7, 9, 0, 2]",Nocturne 55 1 F Minor.mid,Chopin,56,1.75
@@ -554,109 +554,109 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 226,<music21.chord.Chord G4>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,56,3
 227,<music21.chord.Chord G4>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,56,4
 228,<music21.chord.Chord C#5 E2>,"[0, 3]","[1, 4]",Nocturne 55 1 F Minor.mid,Chopin,57,1
-228.333333333,<music21.chord.Chord C#3 C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,57,1.333333333
-228.666666667,<music21.chord.Chord C#5 B-2>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,57,1.666666667
+228.3333333,<music21.chord.Chord C#3 C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,57,1.333333333
+228.6666667,<music21.chord.Chord C#5 B-2>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,57,1.666666667
 229,<music21.chord.Chord C#5 G3>,"[0, 6]","[1, 7]",Nocturne 55 1 F Minor.mid,Chopin,57,2
 230,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,57,3
-230.333333333,<music21.chord.Chord C#5 C#3>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,57,3.333333333
-230.666666667,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,57,3.666666667
+230.3333333,<music21.chord.Chord C#5 C#3>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,57,3.333333333
+230.6666667,<music21.chord.Chord C5 B-2>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,57,3.666666667
 231,<music21.chord.Chord C#5 G3>,"[0, 6]","[1, 7]",Nocturne 55 1 F Minor.mid,Chopin,57,4
-231.333333333,<music21.chord.Chord E-5 G3>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,57,4.333333333
-231.666666667,<music21.chord.Chord C#5 G3>,"[0, 6]","[1, 7]",Nocturne 55 1 F Minor.mid,Chopin,57,4.666666667
+231.3333333,<music21.chord.Chord E-5 G3>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,57,4.333333333
+231.6666667,<music21.chord.Chord C#5 G3>,"[0, 6]","[1, 7]",Nocturne 55 1 F Minor.mid,Chopin,57,4.666666667
 232,<music21.chord.Chord C5 B-4 F2>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,58,1
-232.333333333,<music21.chord.Chord C3 C5 B-4>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,58,1.333333333
-232.666666667,<music21.chord.Chord C5 B-4 G#2>,"[0, 2, 4]","[8, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,58,1.666666667
+232.3333333,<music21.chord.Chord C3 C5 B-4>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,58,1.333333333
+232.6666667,<music21.chord.Chord C5 B-4 G#2>,"[0, 2, 4]","[8, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,58,1.666666667
 233,<music21.chord.Chord F5 G#4 G#3>,"[0, 3]","[5, 8]",Nocturne 55 1 F Minor.mid,Chopin,58,2
 234,<music21.chord.Chord F5 G4 G#2>,"[0, 2, 3]","[5, 7, 8]",Nocturne 55 1 F Minor.mid,Chopin,58,3
-234.333333333,<music21.chord.Chord F3 F5 G4>,"[0, 2]","[5, 7]",Nocturne 55 1 F Minor.mid,Chopin,58,3.333333333
-234.666666667,<music21.chord.Chord F5 G4 C3>,"[0, 2, 7]","[5, 7, 0]",Nocturne 55 1 F Minor.mid,Chopin,58,3.666666667
+234.3333333,<music21.chord.Chord F3 F5 G4>,"[0, 2]","[5, 7]",Nocturne 55 1 F Minor.mid,Chopin,58,3.333333333
+234.6666667,<music21.chord.Chord F5 G4 C3>,"[0, 2, 7]","[5, 7, 0]",Nocturne 55 1 F Minor.mid,Chopin,58,3.666666667
 235,<music21.chord.Chord F4 F5 C4>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,58,4
 236,<music21.chord.Chord C#5 F4 G2>,"[0, 4, 6]","[1, 5, 7]",Nocturne 55 1 F Minor.mid,Chopin,59,1
-236.333333333,<music21.chord.Chord F3 C#5 F4>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,59,1.333333333
-236.666666667,<music21.chord.Chord C#5 F4 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,59,1.666666667
+236.3333333,<music21.chord.Chord F3 C#5 F4>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,59,1.333333333
+236.6666667,<music21.chord.Chord C#5 F4 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,59,1.666666667
 237,<music21.chord.Chord C#5 F4 B-3>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,59,2
 238,<music21.chord.Chord C5 E4 G2>,"[0, 4, 7]","[0, 4, 7]",Nocturne 55 1 F Minor.mid,Chopin,59,3
-238.333333333,<music21.chord.Chord C#5 E3 E4>,"[0, 3]","[1, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,3.333333333
-238.666666667,<music21.chord.Chord C5 E4 C3>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,3.666666667
+238.3333333,<music21.chord.Chord C#5 E3 E4>,"[0, 3]","[1, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,3.333333333
+238.6666667,<music21.chord.Chord C5 E4 C3>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,3.666666667
 239,<music21.chord.Chord C#5 E4 B-3>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,4
-239.333333333,<music21.chord.Chord E-5 E4 B-3>,"[0, 5, 6]","[10, 3, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,4.333333333
-239.666666667,<music21.chord.Chord C#5 E4 B-3>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,4.666666667
+239.3333333,<music21.chord.Chord E-5 E4 B-3>,"[0, 5, 6]","[10, 3, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,4.333333333
+239.6666667,<music21.chord.Chord C#5 E4 B-3>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,59,4.666666667
 240,<music21.chord.Chord C5 G4 G#2>,"[0, 1, 5]","[7, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,60,1
-240.333333333,<music21.chord.Chord G3 C5 G4>,"[0, 5]","[7, 0]",Nocturne 55 1 F Minor.mid,Chopin,60,1.333333333
-240.666666667,<music21.chord.Chord C5 G4 C3>,"[0, 5]","[7, 0]",Nocturne 55 1 F Minor.mid,Chopin,60,1.666666667
+240.3333333,<music21.chord.Chord G3 C5 G4>,"[0, 5]","[7, 0]",Nocturne 55 1 F Minor.mid,Chopin,60,1.333333333
+240.6666667,<music21.chord.Chord C5 G4 C3>,"[0, 5]","[7, 0]",Nocturne 55 1 F Minor.mid,Chopin,60,1.666666667
 241,<music21.chord.Chord F5 G4 C4>,"[0, 2, 7]","[5, 7, 0]",Nocturne 55 1 F Minor.mid,Chopin,60,2
 242,<music21.chord.Chord F5 F4 G#2>,"[0, 3]","[5, 8]",Nocturne 55 1 F Minor.mid,Chopin,60,3
-242.333333333,<music21.chord.Chord F3 F5 F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,60,3.333333333
-242.666666667,<music21.chord.Chord F5 F4 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,60,3.666666667
+242.3333333,<music21.chord.Chord F3 F5 F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,60,3.333333333
+242.6666667,<music21.chord.Chord F5 F4 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,60,3.666666667
 243,<music21.chord.Chord F5 F4 C4>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,60,4
 244,<music21.chord.Chord F#5 E-5 A2>,"[0, 3, 6]","[3, 6, 9]",Nocturne 55 1 F Minor.mid,Chopin,61,1
-244.333333333,<music21.chord.Chord F#3 F#5 E-5>,"[0, 3]","[3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,1.333333333
-244.666666667,<music21.chord.Chord F#5 E-5 E-3>,"[0, 3]","[3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,1.666666667
+244.3333333,<music21.chord.Chord F#3 F#5 E-5>,"[0, 3]","[3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,1.333333333
+244.6666667,<music21.chord.Chord F#5 E-5 E-3>,"[0, 3]","[3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,1.666666667
 245,<music21.chord.Chord F#5 E-5 C4>,"[0, 3, 6]","[0, 3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,2
 246,<music21.chord.Chord F5 E-5 A2>,"[0, 2, 6]","[3, 5, 9]",Nocturne 55 1 F Minor.mid,Chopin,61,3
-246.333333333,<music21.chord.Chord F#5 F#3 E-5>,"[0, 3]","[3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,3.333333333
-246.666666667,<music21.chord.Chord F5 E-5 E-3>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,61,3.666666667
+246.3333333,<music21.chord.Chord F#5 F#3 E-5>,"[0, 3]","[3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,3.333333333
+246.6666667,<music21.chord.Chord F5 E-5 E-3>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,61,3.666666667
 247,<music21.chord.Chord F#5 E-5 C4>,"[0, 3, 6]","[0, 3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,4
-247.333333333,<music21.chord.Chord G#5 E-5 C4>,"[0, 4, 7]","[8, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,61,4.333333333
-247.666666667,<music21.chord.Chord F#5 E-5 C4>,"[0, 3, 6]","[0, 3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,4.666666667
+247.3333333,<music21.chord.Chord G#5 E-5 C4>,"[0, 4, 7]","[8, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,61,4.333333333
+247.6666667,<music21.chord.Chord F#5 E-5 C4>,"[0, 3, 6]","[0, 3, 6]",Nocturne 55 1 F Minor.mid,Chopin,61,4.666666667
 248,<music21.chord.Chord F5 E-5 B-2>,"[0, 2, 7]","[3, 5, 10]",Nocturne 55 1 F Minor.mid,Chopin,62,1
-248.333333333,<music21.chord.Chord F3 F5 E-5>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,62,1.333333333
-248.666666667,<music21.chord.Chord F5 E-5 C#3>,"[0, 2, 4]","[1, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,62,1.666666667
+248.3333333,<music21.chord.Chord F3 F5 E-5>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,62,1.333333333
+248.6666667,<music21.chord.Chord F5 E-5 C#3>,"[0, 2, 4]","[1, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,62,1.666666667
 249,<music21.chord.Chord B-5 C#5 C#4>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,62,2
 250,<music21.chord.Chord B-5 C5 C#3>,"[0, 2, 3]","[10, 0, 1]",Nocturne 55 1 F Minor.mid,Chopin,62,3
-250.333333333,<music21.chord.Chord B-3 B-5 C5>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,62,3.333333333
-250.666666667,<music21.chord.Chord B-5 C5 F3>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,62,3.666666667
+250.3333333,<music21.chord.Chord B-3 B-5 C5>,"[0, 2]","[10, 0]",Nocturne 55 1 F Minor.mid,Chopin,62,3.333333333
+250.6666667,<music21.chord.Chord B-5 C5 F3>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,62,3.666666667
 251,<music21.chord.Chord B-4 B-5 F4>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,62,4
 252,<music21.chord.Chord F#5 B-4 C3>,"[0, 4, 6]","[6, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,63,1
-252.333333333,<music21.chord.Chord B-3 F#5 B-4>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,63,1.333333333
-252.666666667,<music21.chord.Chord F#5 B-4 F#3>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,63,1.666666667
+252.3333333,<music21.chord.Chord B-3 F#5 B-4>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,63,1.333333333
+252.6666667,<music21.chord.Chord F#5 B-4 F#3>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,63,1.666666667
 253,<music21.chord.Chord F#5 B-4 E-4>,"[0, 3, 7]","[3, 6, 10]",Nocturne 55 1 F Minor.mid,Chopin,63,2
 254,<music21.chord.Chord F5 A4 C3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,63,3
-254.333333333,<music21.chord.Chord F#5 A3 A4>,"[0, 3]","[6, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,3.333333333
-254.666666667,<music21.chord.Chord F5 A4 F3>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,3.666666667
+254.3333333,<music21.chord.Chord F#5 A3 A4>,"[0, 3]","[6, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,3.333333333
+254.6666667,<music21.chord.Chord F5 A4 F3>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,3.666666667
 255,<music21.chord.Chord F#5 A4 E-4>,"[0, 3, 6]","[3, 6, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,4
-255.333333333,<music21.chord.Chord G#5 A4 E-4>,"[0, 5, 6]","[3, 8, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,4.333333333
-255.666666667,<music21.chord.Chord F#5 A4 E-4>,"[0, 3, 6]","[3, 6, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,4.666666667
+255.3333333,<music21.chord.Chord G#5 A4 E-4>,"[0, 5, 6]","[3, 8, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,4.333333333
+255.6666667,<music21.chord.Chord F#5 A4 E-4>,"[0, 3, 6]","[3, 6, 9]",Nocturne 55 1 F Minor.mid,Chopin,63,4.666666667
 256,<music21.chord.Chord F5 C5 C#3>,"[0, 1, 5]","[0, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,64,1
-256.333333333,<music21.chord.Chord F5 C5 C4>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,64,1.333333333
-256.666666667,<music21.chord.Chord F3 F5 C5>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,64,1.666666667
+256.3333333,<music21.chord.Chord F5 C5 C4>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,64,1.333333333
+256.6666667,<music21.chord.Chord F3 F5 C5>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,64,1.666666667
 257,<music21.chord.Chord B-5 C5 F4>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,64,2
 258,<music21.chord.Chord B-5 B-4 C#3>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,64,3
-258.333333333,<music21.chord.Chord B-5 B-4 B-3>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,64,3.333333333
-258.666666667,<music21.chord.Chord F3 B-5 B-4>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,64,3.666666667
+258.3333333,<music21.chord.Chord B-5 B-4 B-3>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,64,3.333333333
+258.6666667,<music21.chord.Chord F3 B-5 B-4>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,64,3.666666667
 259,<music21.chord.Chord B-5 B-4 F4>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,64,4
 260,<music21.chord.Chord B-5 B-4 C#5 C#2>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,1
-260.333333333,<music21.chord.Chord B-5 B-4 C#5 B-3>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,1.333333333
-260.666666667,<music21.chord.Chord F#3 B-5 B-4 C#5>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,1.666666667
+260.3333333,<music21.chord.Chord B-5 B-4 C#5 B-3>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,1.333333333
+260.6666667,<music21.chord.Chord F#3 B-5 B-4 C#5>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,1.666666667
 261,<music21.chord.Chord B-5 B-4 C#5 F#4>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,2
 262,<music21.chord.Chord G#5 B-4 C#5 C#3>,"[0, 2, 5]","[8, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,3
-262.333333333,<music21.chord.Chord G#5 B-4 C#5 B-3>,"[0, 2, 5]","[8, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,3.333333333
-262.666666667,<music21.chord.Chord F#3 G#5 B-4 C#5>,"[0, 2, 4, 7]","[6, 8, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,3.666666667
+262.3333333,<music21.chord.Chord G#5 B-4 C#5 B-3>,"[0, 2, 5]","[8, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,3.333333333
+262.6666667,<music21.chord.Chord F#3 G#5 B-4 C#5>,"[0, 2, 4, 7]","[6, 8, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,3.666666667
 263,<music21.chord.Chord G#5 B-4 C#5 F#4>,"[0, 2, 4, 7]","[6, 8, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,4
 263.5,<music21.chord.Chord F#5 B-4 C#5 F#4>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,65,4.5
 264,<music21.chord.Chord F#4 F#5 B-4 C#3>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,66,1
-264.333333333,<music21.chord.Chord F#4 F#5 B-4 B-3>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,1.333333333
-264.666666667,<music21.chord.Chord F#3 F#4 F#5 B-4>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,1.666666667
+264.3333333,<music21.chord.Chord F#4 F#5 B-4 B-3>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,1.333333333
+264.6666667,<music21.chord.Chord F#3 F#4 F#5 B-4>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,1.666666667
 265,<music21.chord.Chord F#4 F#5 B-4 C#4>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,66,2
 266,<music21.chord.Chord F4 F5 B-4 C#3>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,66,3
-266.333333333,<music21.chord.Chord F4 F5 B-4 B-3>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,3.333333333
-266.666666667,<music21.chord.Chord F#3 F4 F5 B-4>,"[0, 1, 5]","[5, 6, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,3.666666667
+266.3333333,<music21.chord.Chord F4 F5 B-4 B-3>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,3.333333333
+266.6666667,<music21.chord.Chord F#3 F4 F5 B-4>,"[0, 1, 5]","[5, 6, 10]",Nocturne 55 1 F Minor.mid,Chopin,66,3.666666667
 267,<music21.chord.Chord F4 F5 B-4 C#4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,66,4
 268,<music21.chord.Chord F4 F5 B-4 C#3>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,67,1
-268.333333333,<music21.chord.Chord F4 F5 B-4 B-3>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,1.333333333
-268.666666667,<music21.chord.Chord G3 F4 F5 B-4>,"[0, 2, 5]","[5, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,1.666666667
+268.3333333,<music21.chord.Chord F4 F5 B-4 B-3>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,1.333333333
+268.6666667,<music21.chord.Chord G3 F4 F5 B-4>,"[0, 2, 5]","[5, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,1.666666667
 269,<music21.chord.Chord F4 F5 B-4 C#4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,67,2
 270,<music21.chord.Chord E4 E5 B-4 C#3>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,67,3
-270.333333333,<music21.chord.Chord E4 E5 B-4 B-3>,"[0, 6]","[4, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,3.333333333
-270.666666667,<music21.chord.Chord G3 E4 E5 B-4>,"[0, 3, 6]","[4, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,3.666666667
+270.3333333,<music21.chord.Chord E4 E5 B-4 B-3>,"[0, 6]","[4, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,3.333333333
+270.6666667,<music21.chord.Chord G3 E4 E5 B-4>,"[0, 3, 6]","[4, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,67,3.666666667
 271,<music21.chord.Chord E4 E5 B-4 C#4>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,67,4
 272,<music21.chord.Chord E4 E5 B-4 C#3>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,68,1
-272.333333333,<music21.chord.Chord E4 E5 B-4 B-3>,"[0, 6]","[4, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,1.333333333
-272.666666667,<music21.chord.Chord G3 E4 E5 B-4>,"[0, 3, 6]","[4, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,1.666666667
+272.3333333,<music21.chord.Chord E4 E5 B-4 B-3>,"[0, 6]","[4, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,1.333333333
+272.6666667,<music21.chord.Chord G3 E4 E5 B-4>,"[0, 3, 6]","[4, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,1.666666667
 273,<music21.chord.Chord E4 E5 B-4 C#4>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,68,2
 274,<music21.chord.Chord E4 E5 B-4 C#3>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,68,3
-274.333333333,<music21.chord.Chord E4 E5 B-4 B-3>,"[0, 6]","[4, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,3.333333333
-274.666666667,<music21.chord.Chord G3 E4 E5 B-4>,"[0, 3, 6]","[4, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,3.666666667
+274.3333333,<music21.chord.Chord E4 E5 B-4 B-3>,"[0, 6]","[4, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,3.333333333
+274.6666667,<music21.chord.Chord G3 E4 E5 B-4>,"[0, 3, 6]","[4, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,68,3.666666667
 275,<music21.chord.Chord E4 E5 B-4 C#4>,"[0, 3, 6]","[10, 1, 4]",Nocturne 55 1 F Minor.mid,Chopin,68,4
 275.5,<music21.chord.Chord F4 F5 B-4 C#4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,68,4.5
 276,<music21.chord.Chord F4 G#4 F5 C#3 G#3 B3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Nocturne 55 1 F Minor.mid,Chopin,69,1
@@ -728,25 +728,25 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 302,<music21.chord.Chord C5 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,75,3
 302.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,75,3.5
 303,<music21.chord.Chord E5 G#3 C4 F4>,"[0, 1, 4, 8]","[4, 5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,75,4
-303.333333333,<music21.chord.Chord G5 G#3 C4 F4>,"[0, 2, 3, 7]","[5, 7, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,75,4.333333333
+303.3333333,<music21.chord.Chord G5 G#3 C4 F4>,"[0, 2, 3, 7]","[5, 7, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,75,4.333333333
 303.5,<music21.chord.Chord G5>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,75,4.5
-303.666666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,75,4.666666667
+303.6666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,75,4.666666667
 304,<music21.chord.Chord E-5 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,76,1
-304.333333333,<music21.chord.Chord E-4 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,76,1.333333333
+304.3333333,<music21.chord.Chord E-4 G2>,"[0, 4]","[3, 7]",Nocturne 55 1 F Minor.mid,Chopin,76,1.333333333
 304.5,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,76,1.5
-304.666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,76,1.666666667
+304.6666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,76,1.666666667
 305,<music21.chord.Chord C5 E-3 B-3 E-4>,"[0, 2, 5]","[10, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,76,2
-305.333333333,<music21.chord.Chord E-5 E-3 B-3 E-4>,"[0, 5]","[10, 3]",Nocturne 55 1 F Minor.mid,Chopin,76,2.333333333
+305.3333333,<music21.chord.Chord E-5 E-3 B-3 E-4>,"[0, 5]","[10, 3]",Nocturne 55 1 F Minor.mid,Chopin,76,2.333333333
 305.5,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,76,2.5
-305.666666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,76,2.666666667
+305.6666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,76,2.666666667
 306,<music21.chord.Chord C5 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,76,3
-306.333333333,<music21.chord.Chord C4 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,76,3.333333333
+306.3333333,<music21.chord.Chord C4 G#2>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,76,3.333333333
 306.5,<music21.chord.Chord C4>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,76,3.5
-306.666666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,76,3.666666667
+306.6666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,76,3.666666667
 307,<music21.chord.Chord G#4 E-3 G#3 E-4>,"[0, 5]","[3, 8]",Nocturne 55 1 F Minor.mid,Chopin,76,4
-307.333333333,<music21.chord.Chord B4 E-3 G#3 E-4>,"[0, 3, 7]","[8, 11, 3]",Nocturne 55 1 F Minor.mid,Chopin,76,4.333333333
+307.3333333,<music21.chord.Chord B4 E-3 G#3 E-4>,"[0, 3, 7]","[8, 11, 3]",Nocturne 55 1 F Minor.mid,Chopin,76,4.333333333
 307.5,<music21.chord.Chord B4>,[0],[11],Nocturne 55 1 F Minor.mid,Chopin,76,4.5
-307.666666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,76,4.666666667
+307.6666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,76,4.666666667
 308,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,77,1
 308.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,77,1.5
 309,<music21.chord.Chord C5 B-3 C4 G4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,77,2
@@ -754,267 +754,267 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 310,<music21.chord.Chord C5 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,77,3
 310.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,77,3.5
 311,<music21.chord.Chord F5 C4 G#4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,77,4
-311.333333333,<music21.chord.Chord F6 C4 G#4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,77,4.333333333
+311.3333333,<music21.chord.Chord F6 C4 G#4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,77,4.333333333
 311.5,<music21.chord.Chord F6>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,77,4.5
-311.666666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,77,4.666666667
+311.6666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,77,4.666666667
 312,<music21.chord.Chord E6 F3>,"[0, 1]","[4, 5]",Nocturne 55 1 F Minor.mid,Chopin,78,1
-312.333333333,<music21.chord.Chord G5 F3>,"[0, 2]","[5, 7]",Nocturne 55 1 F Minor.mid,Chopin,78,1.333333333
+312.3333333,<music21.chord.Chord G5 F3>,"[0, 2]","[5, 7]",Nocturne 55 1 F Minor.mid,Chopin,78,1.333333333
 312.5,<music21.chord.Chord G5>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,78,1.5
-312.666666667,<music21.chord.Chord E6>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,78,1.666666667
+312.6666667,<music21.chord.Chord E6>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,78,1.666666667
 313,<music21.chord.Chord G#5 C4 F4 C5>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,78,2
-313.333333333,<music21.chord.Chord E-6 C4 F4 C5>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,78,2.333333333
+313.3333333,<music21.chord.Chord E-6 C4 F4 C5>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,78,2.333333333
 313.5,<music21.chord.Chord E-6>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,78,2.5
-313.666666667,<music21.chord.Chord A5>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,78,2.666666667
+313.6666667,<music21.chord.Chord A5>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,78,2.666666667
 314,<music21.chord.Chord D6 B-2>,"[0, 4]","[10, 2]",Nocturne 55 1 F Minor.mid,Chopin,78,3
-314.333333333,<music21.chord.Chord B-5 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,78,3.333333333
+314.3333333,<music21.chord.Chord B-5 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,78,3.333333333
 314.5,<music21.chord.Chord B-5>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,78,3.5
-314.666666667,<music21.chord.Chord D6>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,78,3.666666667
+314.6666667,<music21.chord.Chord D6>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,78,3.666666667
 315,<music21.chord.Chord C#6 C#4 F4 B-4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,78,4
-315.333333333,<music21.chord.Chord C#5 C#4 F4 B-4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,78,4.333333333
+315.3333333,<music21.chord.Chord C#5 C#4 F4 B-4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,78,4.333333333
 315.5,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,78,4.5
-315.666666667,<music21.chord.Chord C#6>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,78,4.666666667
+315.6666667,<music21.chord.Chord C#6>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,78,4.666666667
 316,<music21.chord.Chord C6 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,79,1
-316.333333333,<music21.chord.Chord D5 C3>,"[0, 2]","[0, 2]",Nocturne 55 1 F Minor.mid,Chopin,79,1.333333333
+316.3333333,<music21.chord.Chord D5 C3>,"[0, 2]","[0, 2]",Nocturne 55 1 F Minor.mid,Chopin,79,1.333333333
 316.5,<music21.chord.Chord D5>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,79,1.5
-316.666666667,<music21.chord.Chord C6>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,79,1.666666667
+316.6666667,<music21.chord.Chord C6>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,79,1.666666667
 317,<music21.chord.Chord E-5 C4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,79,2
-317.333333333,<music21.chord.Chord B-5 C4 G4 B-4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,79,2.333333333
+317.3333333,<music21.chord.Chord B-5 C4 G4 B-4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,79,2.333333333
 317.5,<music21.chord.Chord B-5>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,79,2.5
-317.666666667,<music21.chord.Chord E5>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,79,2.666666667
+317.6666667,<music21.chord.Chord E5>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,79,2.666666667
 318,<music21.chord.Chord A5 C#3>,"[0, 4]","[9, 1]",Nocturne 55 1 F Minor.mid,Chopin,79,3
-318.333333333,<music21.chord.Chord F5 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,79,3.333333333
+318.3333333,<music21.chord.Chord F5 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,79,3.333333333
 318.5,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,79,3.5
-318.666666667,<music21.chord.Chord A5>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,79,3.666666667
+318.6666667,<music21.chord.Chord A5>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,79,3.666666667
 319,<music21.chord.Chord G#5 G#3 C#4 F4>,"[0, 4, 7]","[1, 5, 8]",Nocturne 55 1 F Minor.mid,Chopin,79,4
-319.333333333,<music21.chord.Chord G#4 G#3 C#4 F4>,"[0, 4, 7]","[1, 5, 8]",Nocturne 55 1 F Minor.mid,Chopin,79,4.333333333
+319.3333333,<music21.chord.Chord G#4 G#3 C#4 F4>,"[0, 4, 7]","[1, 5, 8]",Nocturne 55 1 F Minor.mid,Chopin,79,4.333333333
 319.5,<music21.chord.Chord G#4>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,79,4.5
-319.666666667,<music21.chord.Chord G#5>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,79,4.666666667
+319.6666667,<music21.chord.Chord G#5>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,79,4.666666667
 320,<music21.chord.Chord G5 B-2>,"[0, 3]","[7, 10]",Nocturne 55 1 F Minor.mid,Chopin,80,1
-320.333333333,<music21.chord.Chord C#5 B-2>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,80,1.333333333
+320.3333333,<music21.chord.Chord C#5 B-2>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,80,1.333333333
 320.5,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,80,1.5
-320.666666667,<music21.chord.Chord G5>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,80,1.666666667
+320.6666667,<music21.chord.Chord G5>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,80,1.666666667
 321,<music21.chord.Chord F#5 B-3 C#4>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,80,2
-321.333333333,<music21.chord.Chord F#4 B-3 C#4>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,80,2.333333333
+321.3333333,<music21.chord.Chord F#4 B-3 C#4>,"[0, 4, 7]","[6, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,80,2.333333333
 321.5,<music21.chord.Chord F#4>,[0],[6],Nocturne 55 1 F Minor.mid,Chopin,80,2.5
-321.666666667,<music21.chord.Chord F#5>,[0],[6],Nocturne 55 1 F Minor.mid,Chopin,80,2.666666667
+321.6666667,<music21.chord.Chord F#5>,[0],[6],Nocturne 55 1 F Minor.mid,Chopin,80,2.666666667
 322,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,80,3
-322.333333333,<music21.chord.Chord F4 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,80,3.333333333
+322.3333333,<music21.chord.Chord F4 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,80,3.333333333
 322.5,<music21.chord.Chord F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,80,3.5
-322.666666667,<music21.chord.Chord G#4>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,80,3.666666667
+322.6666667,<music21.chord.Chord G#4>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,80,3.666666667
 323,<music21.chord.Chord C5 G#3 C4>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,80,4
-323.333333333,<music21.chord.Chord E-5 G#3 C4>,"[0, 4, 7]","[8, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,80,4.333333333
+323.3333333,<music21.chord.Chord E-5 G#3 C4>,"[0, 4, 7]","[8, 0, 3]",Nocturne 55 1 F Minor.mid,Chopin,80,4.333333333
 323.5,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,80,4.5
-323.666666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,80,4.666666667
+323.6666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,80,4.666666667
 324,<music21.chord.Chord C5 C2>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,81,1
-324.333333333,<music21.chord.Chord E4 C2>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,81,1.333333333
+324.3333333,<music21.chord.Chord E4 C2>,"[0, 4]","[0, 4]",Nocturne 55 1 F Minor.mid,Chopin,81,1.333333333
 324.5,<music21.chord.Chord E4>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,81,1.5
-324.666666667,<music21.chord.Chord G4>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,81,1.666666667
+324.6666667,<music21.chord.Chord G4>,[0],[7],Nocturne 55 1 F Minor.mid,Chopin,81,1.666666667
 325,<music21.chord.Chord B4 G3 C4>,"[0, 4, 5]","[7, 11, 0]",Nocturne 55 1 F Minor.mid,Chopin,81,2
-325.333333333,<music21.chord.Chord C5 G3 C4>,"[0, 5]","[7, 0]",Nocturne 55 1 F Minor.mid,Chopin,81,2.333333333
+325.3333333,<music21.chord.Chord C5 G3 C4>,"[0, 5]","[7, 0]",Nocturne 55 1 F Minor.mid,Chopin,81,2.333333333
 325.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,81,2.5
-325.666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,81,2.666666667
+325.6666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,81,2.666666667
 326,<music21.chord.Chord A4 F2>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,81,3
-326.333333333,<music21.chord.Chord G#4 F2>,"[0, 3]","[5, 8]",Nocturne 55 1 F Minor.mid,Chopin,81,3.333333333
+326.3333333,<music21.chord.Chord G#4 F2>,"[0, 3]","[5, 8]",Nocturne 55 1 F Minor.mid,Chopin,81,3.333333333
 326.5,<music21.chord.Chord G#4>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,81,3.5
-326.666666667,<music21.chord.Chord F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,81,3.666666667
+326.6666667,<music21.chord.Chord F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,81,3.666666667
 327,<music21.chord.Chord F5 C3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,81,4
-327.333333333,<music21.chord.Chord F4 C3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,81,4.333333333
+327.3333333,<music21.chord.Chord F4 C3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,81,4.333333333
 327.5,<music21.chord.Chord F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,81,4.5
-327.666666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,81,4.666666667
+327.6666667,<music21.chord.Chord F5>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,81,4.666666667
 328,<music21.chord.Chord G4 F2>,"[0, 2]","[5, 7]",Nocturne 55 1 F Minor.mid,Chopin,82,1
-328.333333333,<music21.chord.Chord E5 F2>,"[0, 1]","[4, 5]",Nocturne 55 1 F Minor.mid,Chopin,82,1.333333333
+328.3333333,<music21.chord.Chord E5 F2>,"[0, 1]","[4, 5]",Nocturne 55 1 F Minor.mid,Chopin,82,1.333333333
 328.5,<music21.chord.Chord E5>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,82,1.5
-328.666666667,<music21.chord.Chord G#4>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,82,1.666666667
+328.6666667,<music21.chord.Chord G#4>,[0],[8],Nocturne 55 1 F Minor.mid,Chopin,82,1.666666667
 329,<music21.chord.Chord E-5 F3 C4 F4>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,82,2
-329.333333333,<music21.chord.Chord A4 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,82,2.333333333
+329.3333333,<music21.chord.Chord A4 F3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,82,2.333333333
 329.5,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,82,2.5
-329.666666667,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,82,2.666666667
+329.6666667,<music21.chord.Chord E-5>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,82,2.666666667
 330,<music21.chord.Chord D5 B-2>,"[0, 4]","[10, 2]",Nocturne 55 1 F Minor.mid,Chopin,82,3
-330.333333333,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,82,3.333333333
+330.3333333,<music21.chord.Chord B-4 B-2>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,82,3.333333333
 330.5,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,82,3.5
-330.666666667,<music21.chord.Chord D5>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,82,3.666666667
+330.6666667,<music21.chord.Chord D5>,[0],[2],Nocturne 55 1 F Minor.mid,Chopin,82,3.666666667
 331,<music21.chord.Chord C#5 F3 B-3 F4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,82,4
-331.333333333,<music21.chord.Chord C#4 F3 B-3 F4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,82,4.333333333
+331.3333333,<music21.chord.Chord C#4 F3 B-3 F4>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,82,4.333333333
 331.5,<music21.chord.Chord C#4>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,82,4.5
-331.666666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,82,4.666666667
+331.6666667,<music21.chord.Chord C#5>,[0],[1],Nocturne 55 1 F Minor.mid,Chopin,82,4.666666667
 332,<music21.chord.Chord D4 C3>,"[0, 2]","[0, 2]",Nocturne 55 1 F Minor.mid,Chopin,83,1
-332.333333333,<music21.chord.Chord C5 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,83,1.333333333
+332.3333333,<music21.chord.Chord C5 C3>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,83,1.333333333
 332.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,83,1.5
-332.666666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,83,1.666666667
+332.6666667,<music21.chord.Chord E-4>,[0],[3],Nocturne 55 1 F Minor.mid,Chopin,83,1.666666667
 333,<music21.chord.Chord B-4 G3 C4>,"[0, 3, 5]","[7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,83,2
-333.333333333,<music21.chord.Chord E4 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Nocturne 55 1 F Minor.mid,Chopin,83,2.333333333
+333.3333333,<music21.chord.Chord E4 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Nocturne 55 1 F Minor.mid,Chopin,83,2.333333333
 333.5,<music21.chord.Chord E4>,[0],[4],Nocturne 55 1 F Minor.mid,Chopin,83,2.5
-333.666666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,83,2.666666667
+333.6666667,<music21.chord.Chord B-4>,[0],[10],Nocturne 55 1 F Minor.mid,Chopin,83,2.666666667
 334,<music21.chord.Chord A4 C#2>,"[0, 4]","[9, 1]",Nocturne 55 1 F Minor.mid,Chopin,83,3
-334.333333333,<music21.chord.Chord F4 C#2>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,83,3.333333333
+334.3333333,<music21.chord.Chord F4 C#2>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,83,3.333333333
 334.5,<music21.chord.Chord F4>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,83,3.5
-334.666666667,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,83,3.666666667
+334.6666667,<music21.chord.Chord A4>,[0],[9],Nocturne 55 1 F Minor.mid,Chopin,83,3.666666667
 335,<music21.chord.Chord G#4 C#3 G#3>,"[0, 5]","[8, 1]",Nocturne 55 1 F Minor.mid,Chopin,83,4
-335.333333333,<music21.chord.Chord C#4 C#3 G#3>,"[0, 5]","[8, 1]",Nocturne 55 1 F Minor.mid,Chopin,83,4.333333333
-335.666666667,<music21.chord.Chord G#4 C#3 G#3>,"[0, 5]","[8, 1]",Nocturne 55 1 F Minor.mid,Chopin,83,4.666666667
+335.3333333,<music21.chord.Chord C#4 C#3 G#3>,"[0, 5]","[8, 1]",Nocturne 55 1 F Minor.mid,Chopin,83,4.333333333
+335.6666667,<music21.chord.Chord G#4 C#3 G#3>,"[0, 5]","[8, 1]",Nocturne 55 1 F Minor.mid,Chopin,83,4.666666667
 336,<music21.chord.Chord F#4 B-2 B-3>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,84,1
-336.333333333,<music21.chord.Chord C#4 B-2 B-3>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,1.333333333
-336.666666667,<music21.chord.Chord F#4 B-2 B-3>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,84,1.666666667
+336.3333333,<music21.chord.Chord C#4 B-2 B-3>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,1.333333333
+336.6666667,<music21.chord.Chord F#4 B-2 B-3>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,84,1.666666667
 337,<music21.chord.Chord F4 B2 G#3>,"[0, 3, 6]","[5, 8, 11]",Nocturne 55 1 F Minor.mid,Chopin,84,2
-337.333333333,<music21.chord.Chord C#4 B2 G#3>,"[0, 3, 5]","[8, 11, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,2.333333333
-337.666666667,<music21.chord.Chord F4 B2 G#3>,"[0, 3, 6]","[5, 8, 11]",Nocturne 55 1 F Minor.mid,Chopin,84,2.666666667
+337.3333333,<music21.chord.Chord C#4 B2 G#3>,"[0, 3, 5]","[8, 11, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,2.333333333
+337.6666667,<music21.chord.Chord F4 B2 G#3>,"[0, 3, 6]","[5, 8, 11]",Nocturne 55 1 F Minor.mid,Chopin,84,2.666666667
 338,<music21.chord.Chord F#4 B-3 B-2>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,84,3
-338.333333333,<music21.chord.Chord C#4 B-3 B-2>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,3.333333333
-338.666666667,<music21.chord.Chord F#4 B-3 B-2>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,84,3.666666667
+338.3333333,<music21.chord.Chord C#4 B-3 B-2>,"[0, 3]","[10, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,3.333333333
+338.6666667,<music21.chord.Chord F#4 B-3 B-2>,"[0, 4]","[6, 10]",Nocturne 55 1 F Minor.mid,Chopin,84,3.666666667
 339,<music21.chord.Chord F4 G#3 B2>,"[0, 3, 6]","[5, 8, 11]",Nocturne 55 1 F Minor.mid,Chopin,84,4
-339.333333333,<music21.chord.Chord C#4 G#3 B2>,"[0, 3, 5]","[8, 11, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,4.333333333
-339.666666667,<music21.chord.Chord F4 G#3 B2>,"[0, 3, 6]","[5, 8, 11]",Nocturne 55 1 F Minor.mid,Chopin,84,4.666666667
+339.3333333,<music21.chord.Chord C#4 G#3 B2>,"[0, 3, 5]","[8, 11, 1]",Nocturne 55 1 F Minor.mid,Chopin,84,4.333333333
+339.6666667,<music21.chord.Chord F4 G#3 B2>,"[0, 3, 6]","[5, 8, 11]",Nocturne 55 1 F Minor.mid,Chopin,84,4.666666667
 340,<music21.chord.Chord C5 G#3 C3>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,1
-340.333333333,<music21.chord.Chord C4 C5 G#3 C3>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,1.333333333
-340.666666667,<music21.chord.Chord F4 C5 C4 G#3 C3>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,1.666666667
+340.3333333,<music21.chord.Chord C4 C5 G#3 C3>,"[0, 4]","[8, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,1.333333333
+340.6666667,<music21.chord.Chord F4 C5 C4 G#3 C3>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,1.666666667
 341,<music21.chord.Chord E4 C4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Nocturne 55 1 F Minor.mid,Chopin,85,2
-341.333333333,<music21.chord.Chord B-3 E4 G3 C3>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,2.333333333
-341.666666667,<music21.chord.Chord C4 E4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Nocturne 55 1 F Minor.mid,Chopin,85,2.666666667
+341.3333333,<music21.chord.Chord B-3 E4 G3 C3>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,2.333333333
+341.6666667,<music21.chord.Chord C4 E4 G3 C3>,"[0, 4, 7]","[0, 4, 7]",Nocturne 55 1 F Minor.mid,Chopin,85,2.666666667
 342,<music21.chord.Chord F4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,85,3
-342.333333333,<music21.chord.Chord G#3 F2 C3>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,3.333333333
-342.666666667,<music21.chord.Chord C4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,85,3.666666667
+342.3333333,<music21.chord.Chord G#3 F2 C3>,"[0, 3, 7]","[5, 8, 0]",Nocturne 55 1 F Minor.mid,Chopin,85,3.333333333
+342.6666667,<music21.chord.Chord C4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,85,3.666666667
 343,<music21.chord.Chord A3 F#3 F2>,"[0, 1, 4]","[5, 6, 9]",Nocturne 55 1 F Minor.mid,Chopin,85,4
-343.333333333,<music21.chord.Chord C4 F2 F#3>,"[0, 5, 6]","[0, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,85,4.333333333
-343.666666667,<music21.chord.Chord E-4 F2 F#3>,"[0, 2, 3]","[3, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,85,4.666666667
+343.3333333,<music21.chord.Chord C4 F2 F#3>,"[0, 5, 6]","[0, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,85,4.333333333
+343.6666667,<music21.chord.Chord E-4 F2 F#3>,"[0, 2, 3]","[3, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,85,4.666666667
 344,<music21.chord.Chord F#4 F3 F2>,"[0, 1]","[5, 6]",Nocturne 55 1 F Minor.mid,Chopin,86,1
-344.333333333,<music21.chord.Chord A4 F2 F3>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,86,1.333333333
-344.666666667,<music21.chord.Chord C5 F2 F3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,1.666666667
+344.3333333,<music21.chord.Chord A4 F2 F3>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,86,1.333333333
+344.6666667,<music21.chord.Chord C5 F2 F3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,1.666666667
 345,<music21.chord.Chord E-5 E-3 F2>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,2
-345.333333333,<music21.chord.Chord F#5 F2 E-3>,"[0, 2, 3]","[3, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,86,2.333333333
-345.666666667,<music21.chord.Chord A5 F2 E-3>,"[0, 2, 6]","[3, 5, 9]",Nocturne 55 1 F Minor.mid,Chopin,86,2.666666667
+345.3333333,<music21.chord.Chord F#5 F2 E-3>,"[0, 2, 3]","[3, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,86,2.333333333
+345.6666667,<music21.chord.Chord A5 F2 E-3>,"[0, 2, 6]","[3, 5, 9]",Nocturne 55 1 F Minor.mid,Chopin,86,2.666666667
 346,<music21.chord.Chord F#6 E-3 F2>,"[0, 2, 3]","[3, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,86,3
-346.333333333,<music21.chord.Chord C6 F2 E-3>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,3.333333333
-346.666666667,<music21.chord.Chord E-6 F2 E-3>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,3.666666667
+346.3333333,<music21.chord.Chord C6 F2 E-3>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,3.333333333
+346.6666667,<music21.chord.Chord E-6 F2 E-3>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,3.666666667
 347,<music21.chord.Chord A5 F2 E-3>,"[0, 2, 6]","[3, 5, 9]",Nocturne 55 1 F Minor.mid,Chopin,86,4
-347.333333333,<music21.chord.Chord F#5 F2 E-3>,"[0, 2, 3]","[3, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,86,4.333333333
-347.666666667,<music21.chord.Chord C5 F2 E-3>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,4.666666667
+347.3333333,<music21.chord.Chord F#5 F2 E-3>,"[0, 2, 3]","[3, 5, 6]",Nocturne 55 1 F Minor.mid,Chopin,86,4.333333333
+347.6666667,<music21.chord.Chord C5 F2 E-3>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,86,4.666666667
 348,<music21.chord.Chord E-5 F3 F2>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,1
-348.333333333,<music21.chord.Chord A4 F2 F3>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,87,1.333333333
-348.666666667,<music21.chord.Chord F#4 F2 F3>,"[0, 1]","[5, 6]",Nocturne 55 1 F Minor.mid,Chopin,87,1.666666667
+348.3333333,<music21.chord.Chord A4 F2 F3>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,87,1.333333333
+348.6666667,<music21.chord.Chord F#4 F2 F3>,"[0, 1]","[5, 6]",Nocturne 55 1 F Minor.mid,Chopin,87,1.666666667
 349,<music21.chord.Chord C4 E-3 F2>,"[0, 3, 5]","[0, 3, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,2
-349.333333333,<music21.chord.Chord E-4 F2 E-3>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,2.333333333
-349.666666667,<music21.chord.Chord A3 F2 E-3>,"[0, 2, 6]","[3, 5, 9]",Nocturne 55 1 F Minor.mid,Chopin,87,2.666666667
+349.3333333,<music21.chord.Chord E-4 F2 E-3>,"[0, 2]","[3, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,2.333333333
+349.6666667,<music21.chord.Chord A3 F2 E-3>,"[0, 2, 6]","[3, 5, 9]",Nocturne 55 1 F Minor.mid,Chopin,87,2.666666667
 350,<music21.chord.Chord B-3 C#3 F2>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,3
-350.333333333,<music21.chord.Chord F3 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,3.333333333
-350.666666667,<music21.chord.Chord G3 F2 C#3>,"[0, 4, 6]","[1, 5, 7]",Nocturne 55 1 F Minor.mid,Chopin,87,3.666666667
+350.3333333,<music21.chord.Chord F3 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,3.333333333
+350.6666667,<music21.chord.Chord G3 F2 C#3>,"[0, 4, 6]","[1, 5, 7]",Nocturne 55 1 F Minor.mid,Chopin,87,3.666666667
 351,<music21.chord.Chord B-3 F2 C#3>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,4
-351.333333333,<music21.chord.Chord C#4 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,4.333333333
-351.666666667,<music21.chord.Chord F4 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,4.666666667
+351.3333333,<music21.chord.Chord C#4 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,4.333333333
+351.6666667,<music21.chord.Chord F4 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,87,4.666666667
 352,<music21.chord.Chord G4 C3 F2>,"[0, 2, 7]","[5, 7, 0]",Nocturne 55 1 F Minor.mid,Chopin,88,1
-352.333333333,<music21.chord.Chord B-4 F2 C3>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,1.333333333
-352.666666667,<music21.chord.Chord C#5 F2 C3>,"[0, 1, 5]","[0, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,1.666666667
+352.3333333,<music21.chord.Chord B-4 F2 C3>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,1.333333333
+352.6666667,<music21.chord.Chord C#5 F2 C3>,"[0, 1, 5]","[0, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,1.666666667
 353,<music21.chord.Chord F5 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,2
-353.333333333,<music21.chord.Chord G5 F2 C3>,"[0, 2, 7]","[5, 7, 0]",Nocturne 55 1 F Minor.mid,Chopin,88,2.333333333
+353.3333333,<music21.chord.Chord G5 F2 C3>,"[0, 2, 7]","[5, 7, 0]",Nocturne 55 1 F Minor.mid,Chopin,88,2.333333333
 353.5,<music21.chord.Chord G5 B-2 F2>,"[0, 2, 5]","[5, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,2.5
-353.666666667,<music21.chord.Chord B-5 F2 B-2>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,2.666666667
+353.6666667,<music21.chord.Chord B-5 F2 B-2>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,2.666666667
 354,<music21.chord.Chord C#6 B-2 F2>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,3
-354.333333333,<music21.chord.Chord G5 F2 B-2>,"[0, 2, 5]","[5, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,3.333333333
-354.666666667,<music21.chord.Chord B-5 F2 B-2>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,3.666666667
+354.3333333,<music21.chord.Chord G5 F2 B-2>,"[0, 2, 5]","[5, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,3.333333333
+354.6666667,<music21.chord.Chord B-5 F2 B-2>,"[0, 5]","[5, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,3.666666667
 355,<music21.chord.Chord E5 F2 B-2>,"[0, 1, 6]","[4, 5, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,4
-355.333333333,<music21.chord.Chord C#5 F2 B-2>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,4.333333333
-355.666666667,<music21.chord.Chord G4 F2 B-2>,"[0, 2, 5]","[5, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,4.666666667
+355.3333333,<music21.chord.Chord C#5 F2 B-2>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,88,4.333333333
+355.6666667,<music21.chord.Chord G4 F2 B-2>,"[0, 2, 5]","[5, 7, 10]",Nocturne 55 1 F Minor.mid,Chopin,88,4.666666667
 356,<music21.chord.Chord B-4 C#3 F2>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,1
-356.333333333,<music21.chord.Chord E4 F2 C#3>,"[0, 3, 4]","[1, 4, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,1.333333333
-356.666666667,<music21.chord.Chord C#4 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,1.666666667
+356.3333333,<music21.chord.Chord E4 F2 C#3>,"[0, 3, 4]","[1, 4, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,1.333333333
+356.6666667,<music21.chord.Chord C#4 F2 C#3>,"[0, 4]","[1, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,1.666666667
 357,<music21.chord.Chord G3 F2 C#3>,"[0, 4, 6]","[1, 5, 7]",Nocturne 55 1 F Minor.mid,Chopin,89,2
-357.333333333,<music21.chord.Chord B-3 F2 C#3>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,2.333333333
-357.666666667,<music21.chord.Chord E3 F2 C#3>,"[0, 3, 4]","[1, 4, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,2.666666667
+357.3333333,<music21.chord.Chord B-3 F2 C#3>,"[0, 3, 7]","[10, 1, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,2.333333333
+357.6666667,<music21.chord.Chord E3 F2 C#3>,"[0, 3, 4]","[1, 4, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,2.666666667
 358,<music21.chord.Chord F3 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,3
-358.333333333,<music21.chord.Chord A3 F2 C3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,89,3.333333333
-358.666666667,<music21.chord.Chord C4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,3.666666667
+358.3333333,<music21.chord.Chord A3 F2 C3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,89,3.333333333
+358.6666667,<music21.chord.Chord C4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,3.666666667
 359,<music21.chord.Chord F4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,4
-359.333333333,<music21.chord.Chord B-3 F2 C3>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,4.333333333
-359.666666667,<music21.chord.Chord C4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,4.666666667
+359.3333333,<music21.chord.Chord B-3 F2 C3>,"[0, 2, 7]","[10, 0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,4.333333333
+359.6666667,<music21.chord.Chord C4 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,89,4.666666667
 360,<music21.chord.Chord A3 F2 C3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,1
-360.333333333,<music21.chord.Chord C4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,1.333333333
-360.666666667,<music21.chord.Chord F4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,1.666666667
+360.3333333,<music21.chord.Chord C4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,1.333333333
+360.6666667,<music21.chord.Chord F4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,1.666666667
 361,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,2
-361.333333333,<music21.chord.Chord D4 F2 C3 A3>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Nocturne 55 1 F Minor.mid,Chopin,90,2.333333333
-361.666666667,<music21.chord.Chord F4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,2.666666667
+361.3333333,<music21.chord.Chord D4 F2 C3 A3>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Nocturne 55 1 F Minor.mid,Chopin,90,2.333333333
+361.6666667,<music21.chord.Chord F4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,2.666666667
 362,<music21.chord.Chord C4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,3
-362.333333333,<music21.chord.Chord F4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,3.333333333
-362.666666667,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,3.666666667
+362.3333333,<music21.chord.Chord F4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,3.333333333
+362.6666667,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,3.666666667
 363,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,4
-363.333333333,<music21.chord.Chord G4 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,4.333333333
-363.666666667,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,4.666666667
+363.3333333,<music21.chord.Chord G4 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,4.333333333
+363.6666667,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,90,4.666666667
 364,<music21.chord.Chord F4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,1
-364.333333333,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,1.333333333
-364.666666667,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,1.666666667
+364.3333333,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,1.333333333
+364.6666667,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,1.666666667
 365,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,2
-365.333333333,<music21.chord.Chord B-4 F2 C3 A3>,"[0, 4, 5, 7]","[5, 9, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,2.333333333
-365.666666667,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,2.666666667
+365.3333333,<music21.chord.Chord B-4 F2 C3 A3>,"[0, 4, 5, 7]","[5, 9, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,2.333333333
+365.6666667,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,2.666666667
 366,<music21.chord.Chord A4 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,3
-366.333333333,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,3.333333333
-366.666666667,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,3.666666667
+366.3333333,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,3.333333333
+366.6666667,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,3.666666667
 367,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,4
-367.333333333,<music21.chord.Chord D5 F2 C3 A3>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Nocturne 55 1 F Minor.mid,Chopin,91,4.333333333
-367.666666667,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,4.666666667
+367.3333333,<music21.chord.Chord D5 F2 C3 A3>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Nocturne 55 1 F Minor.mid,Chopin,91,4.333333333
+367.6666667,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,91,4.666666667
 368,<music21.chord.Chord C5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,1
-368.333333333,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,1.333333333
-368.666666667,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,1.666666667
+368.3333333,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,1.333333333
+368.6666667,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,1.666666667
 369,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,2
-369.333333333,<music21.chord.Chord G5 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,2.333333333
-369.666666667,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,2.666666667
+369.3333333,<music21.chord.Chord G5 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,2.333333333
+369.6666667,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,2.666666667
 370,<music21.chord.Chord F5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,3
-370.333333333,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,3.333333333
-370.666666667,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,3.666666667
+370.3333333,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,3.333333333
+370.6666667,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,3.666666667
 371,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,4
-371.333333333,<music21.chord.Chord B-5 F2 C3 A3>,"[0, 4, 5, 7]","[5, 9, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,4.333333333
-371.666666667,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,4.666666667
+371.3333333,<music21.chord.Chord B-5 F2 C3 A3>,"[0, 4, 5, 7]","[5, 9, 10, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,4.333333333
+371.6666667,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,92,4.666666667
 372,<music21.chord.Chord A5 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,1
-372.333333333,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,1.333333333
-372.666666667,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,1.666666667
+372.3333333,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,1.333333333
+372.6666667,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,1.666666667
 373,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,2
-373.333333333,<music21.chord.Chord D6 F2 C3 A3>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Nocturne 55 1 F Minor.mid,Chopin,93,2.333333333
-373.666666667,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,2.666666667
+373.3333333,<music21.chord.Chord D6 F2 C3 A3>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Nocturne 55 1 F Minor.mid,Chopin,93,2.333333333
+373.6666667,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,2.666666667
 374,<music21.chord.Chord C6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,3
-374.333333333,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,3.333333333
-374.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,3.666666667
+374.3333333,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,3.333333333
+374.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,3.666666667
 375,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,4
-375.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,4.333333333
-375.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,4.666666667
+375.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,4.333333333
+375.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,93,4.666666667
 376,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,1
-376.333333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,1.333333333
-376.666666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,1.666666667
+376.3333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,1.333333333
+376.6666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,1.666666667
 377,<music21.chord.Chord F7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,2
-377.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,2.333333333
-377.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,2.666666667
+377.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,2.333333333
+377.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,2.666666667
 378,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,3
-378.333333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,3.333333333
-378.666666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,3.666666667
+378.3333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,3.333333333
+378.6666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,3.666666667
 379,<music21.chord.Chord F7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,4
-379.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,4.333333333
-379.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,4.666666667
+379.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,4.333333333
+379.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,94,4.666666667
 380,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,1
-380.333333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,1.333333333
-380.666666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,1.666666667
+380.3333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,1.333333333
+380.6666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,1.666666667
 381,<music21.chord.Chord F7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,2
-381.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,2.333333333
-381.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,2.666666667
+381.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,2.333333333
+381.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,2.666666667
 382,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,3
-382.333333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,3.333333333
-382.666666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,3.666666667
+382.3333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,3.333333333
+382.6666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,3.666666667
 383,<music21.chord.Chord F7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,4
-383.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,4.333333333
-383.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,4.666666667
+383.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,4.333333333
+383.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,95,4.666666667
 384,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,1
-384.333333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,1.333333333
-384.666666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,1.666666667
+384.3333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,1.333333333
+384.6666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,1.666666667
 385,<music21.chord.Chord F7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,2
-385.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,2.333333333
-385.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,2.666666667
+385.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,2.333333333
+385.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,2.666666667
 386,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,3
-386.333333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,3.333333333
-386.666666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,3.666666667
+386.3333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,3.333333333
+386.6666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,3.666666667
 387,<music21.chord.Chord F7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,4
-387.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,4.333333333
-387.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,4.666666667
+387.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,4.333333333
+387.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,96,4.666666667
 388,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,1
-388.333333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,1.333333333
-388.666666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,1.666666667
+388.3333333,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,1.333333333
+388.6666667,<music21.chord.Chord C7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,1.666666667
 389,<music21.chord.Chord F7 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,2
-389.333333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,2.333333333
-389.666666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,2.666666667
+389.3333333,<music21.chord.Chord G6 F2 C3 A3>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,2.333333333
+389.6666667,<music21.chord.Chord A6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,2.666666667
 390,<music21.chord.Chord F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,97,3
 394,<music21.chord.Chord C#4 F4 G4 C#5 B-1 B-2>,"[0, 2, 5, 8]","[5, 7, 10, 1]",Nocturne 55 1 F Minor.mid,Chopin,98,3
 396,<music21.chord.Chord B-3 E4 C5 C2 C3>,"[0, 2, 6]","[10, 0, 4]",Nocturne 55 1 F Minor.mid,Chopin,99,1
@@ -1025,8 +1025,8 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 397.75,<music21.chord.Chord C4 F3 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,99,2.75
 397.875,<music21.chord.Chord F4 F3 F2 C3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,99,2.875
 398,<music21.chord.Chord A4 F3 F2 C3 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,99,3
-401.166666667,<music21.chord.Chord F2 C3 A3 C4 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,2.166666667
-401.208333333,<music21.chord.Chord F2 C3 A3 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,2.208333333
+401.1666667,<music21.chord.Chord F2 C3 A3 C4 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,2.166666667
+401.2083333,<music21.chord.Chord F2 C3 A3 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,2.208333333
 401.25,<music21.chord.Chord F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,100,2.25
 401.375,<music21.chord.Chord C3 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,100,2.375
 401.5,<music21.chord.Chord F3 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,100,2.5
@@ -1034,8 +1034,8 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 401.75,<music21.chord.Chord C4 F2 C3 F3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,2.75
 401.875,<music21.chord.Chord F4 F2 C3 F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,2.875
 402,<music21.chord.Chord A4 F2 C3 F3 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,3
-403.166666667,<music21.chord.Chord F2 C3 A3 C4 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,4.166666667
-403.208333333,<music21.chord.Chord F2 C3 A3 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,4.208333333
+403.1666667,<music21.chord.Chord F2 C3 A3 C4 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,4.166666667
+403.2083333,<music21.chord.Chord F2 C3 A3 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,4.208333333
 403.25,<music21.chord.Chord F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,100,4.25
 403.375,<music21.chord.Chord C3 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,100,4.375
 403.5,<music21.chord.Chord F3 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,100,4.5
@@ -1043,8 +1043,8 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 403.75,<music21.chord.Chord C4 F2 C3 F3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,4.75
 403.875,<music21.chord.Chord F4 F2 C3 F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,100,4.875
 404,<music21.chord.Chord A4 F2 C3 F3 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,101,1
-405.041666667,<music21.chord.Chord F2 F3 A3 C4 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,101,2.041666667
-405.083333333,<music21.chord.Chord F2 F3 A3 F4 A4>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,101,2.083333333
+405.0416667,<music21.chord.Chord F2 F3 A3 C4 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,101,2.041666667
+405.0833333,<music21.chord.Chord F2 F3 A3 F4 A4>,"[0, 4]","[5, 9]",Nocturne 55 1 F Minor.mid,Chopin,101,2.083333333
 405.125,<music21.chord.Chord F2>,[0],[5],Nocturne 55 1 F Minor.mid,Chopin,101,2.125
 405.25,<music21.chord.Chord C3 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,101,2.25
 405.375,<music21.chord.Chord F3 F2 C3>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,101,2.375
@@ -1052,5 +1052,5 @@ offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Cou
 405.625,<music21.chord.Chord C4 F2 C3 F3 A3>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,101,2.625
 405.75,<music21.chord.Chord F4 F2 C3 F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,101,2.75
 406,<music21.chord.Chord A4 F2 C3 F3 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,101,3
-409.291666667,<music21.chord.Chord F2 C3 F3 A3 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,102,2.291666667
-409.333333333,<music21.chord.Chord F2 C3 F3 A3 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,102,2.333333333
+409.2916667,<music21.chord.Chord F2 C3 F3 A3 F4 A4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,102,2.291666667
+409.3333333,<music21.chord.Chord F2 C3 F3 A3 F4>,"[0, 4, 7]","[5, 9, 0]",Nocturne 55 1 F Minor.mid,Chopin,102,2.333333333

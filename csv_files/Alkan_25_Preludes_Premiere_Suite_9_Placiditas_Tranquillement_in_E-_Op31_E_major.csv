@@ -1,553 +1,553 @@
-offset,Chord,NormalForm,PCsinNormalForm,Measure Number,Measure Count
-0.0,<music21.chord.Chord G-1>,[0],[7],,
-5.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-6.0,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,
-7.0,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-8.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-9.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,
-10.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-11.0,<music21.chord.Chord G-1>,[0],[7],,
-13.0,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-14.0,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-15.0,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,
-16.0,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-17.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-18.0,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-19.0,<music21.chord.Chord G-1>,[0],[7],,
-23.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-23.75,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-24.0,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,
-24.5,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-25.0,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-25.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-26.0,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-26.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-27.0,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,
-27.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,
-28.0,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,
-29.0,<music21.chord.Chord E3 G-1>,"[0, 3]","[4, 7]",,
-30.0,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,
-31.0,<music21.chord.Chord F#3 F#2 G-1>,"[0, 1]","[6, 7]",,
-32.0,<music21.chord.Chord F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-35.0,<music21.chord.Chord G-1>,[0],[7],,
-37.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-38.0,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,
-39.0,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-40.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-41.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,
-42.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-43.0,<music21.chord.Chord G-1>,[0],[7],,
-43.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-44.0,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-45.0,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-46.0,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-47.0,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,
-48.0,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-49.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-50.0,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-51.0,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-51.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-52.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-53.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-54.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-55.0,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-55.75,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-56.0,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-56.5,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-57.0,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-57.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-58.0,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-58.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-59.0,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,
-59.5,<music21.chord.Chord E5 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,
-59.75,<music21.chord.Chord F#5 C#4 G-1>,"[0, 5, 6]","[1, 6, 7]",,
-60.0,<music21.chord.Chord A5 B3 G-1>,"[0, 2, 4]","[7, 9, 11]",,
-60.5,<music21.chord.Chord G#5 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-61.0,<music21.chord.Chord F#5 E3 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-61.5,<music21.chord.Chord E5 E3 G-1>,"[0, 3]","[4, 7]",,
-62.0,<music21.chord.Chord F#5 F#3 G-1>,"[0, 1]","[6, 7]",,
-62.5,<music21.chord.Chord E5 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-63.0,<music21.chord.Chord E-5 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,
-63.5,<music21.chord.Chord C#5 F#3 G-1 F#2>,"[0, 5, 6]","[1, 6, 7]",,
-64.0,<music21.chord.Chord B4 F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-67.0,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,
-67.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,
-67.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,
-68.0,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,
-68.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,
-69.0,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,
-69.5,<music21.chord.Chord C#5 G#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,
-70.0,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,
-71.0,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,
-72.0,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,
-73.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,
-74.0,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-75.0,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-75.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,
-76.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-77.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-78.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-79.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-80.0,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-81.5,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-82.0,<music21.chord.Chord B4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-83.0,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-83.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-84.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-85.0,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,
-86.0,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-87.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-88.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-89.0,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-90.0,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-91.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-91.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,
-91.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,
-92.0,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,
-92.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,
-93.0,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,
-93.5,<music21.chord.Chord E5 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-94.0,<music21.chord.Chord F#5 B3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-94.5,<music21.chord.Chord E5 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-95.0,<music21.chord.Chord E-5 B3 B2 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-95.5,<music21.chord.Chord C#5 B3 G-1 B2>,"[0, 4, 6]","[7, 11, 1]",,
-96.0,<music21.chord.Chord B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-97.0,<music21.chord.Chord B4 B3 G-1 E3>,"[0, 3, 7]","[4, 7, 11]",,
-99.0,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,
-99.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,
-99.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,
-100.0,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,
-100.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,
-101.0,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,
-101.5,<music21.chord.Chord C#5 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,
-102.0,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,
-103.0,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,
-104.0,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,
-105.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,
-106.0,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-107.0,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,
-107.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,
-108.0,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,
-109.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-110.0,<music21.chord.Chord C#5 E-3 G-1>,"[0, 2, 6]","[1, 3, 7]",,
-111.0,<music21.chord.Chord G#4 E-3 G-1>,"[0, 4, 5]","[3, 7, 8]",,
-112.0,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-113.5,<music21.chord.Chord B-4 E-3 G-1>,"[0, 4, 7]","[3, 7, 10]",,
-114.0,<music21.chord.Chord A4 E3 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-115.0,<music21.chord.Chord G-1>,[0],[7],,
-117.0,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,
-118.0,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-119.0,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-120.0,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,
-121.0,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,
-121.5,<music21.chord.Chord G4 E4 G-1 G#3>,"[0, 3, 4]","[4, 7, 8]",,
-122.0,<music21.chord.Chord G#4 E4 A3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,
-123.0,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-123.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-124.0,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-125.0,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,
-125.5,<music21.chord.Chord B4 F#4 G-1 A3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,
-126.0,<music21.chord.Chord B4 G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-127.0,<music21.chord.Chord G#4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,
-127.75,<music21.chord.Chord B4 F#4 G-1 B3>,"[0, 1, 5]","[6, 7, 11]",,
-128.0,<music21.chord.Chord E5 F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-130.0,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-131.0,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,
-131.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,
-132.0,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,
-132.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,
-133.0,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-133.5,<music21.chord.Chord F#5 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-134.0,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,
-135.0,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,
-136.0,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,
-137.5,<music21.chord.Chord E-5 C#4 G-1>,"[0, 2, 6]","[1, 3, 7]",,
-138.0,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-139.0,<music21.chord.Chord G-1>,[0],[7],,
-141.0,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-141.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-142.0,<music21.chord.Chord C#5 B4 F#4 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,
-142.125,<music21.chord.Chord C#5 A4 F#4 G-1>,"[0, 1, 3, 7]","[6, 7, 9, 1]",,
-143.0,<music21.chord.Chord G#4 A4 G-1>,"[0, 1, 2]","[7, 8, 9]",,
-143.125,<music21.chord.Chord G#4 C#5 A4 G-1>,"[0, 1, 2, 6]","[7, 8, 9, 1]",,
-144.0,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,
-144.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-145.5,<music21.chord.Chord B-4 B4 E4 G-1>,"[0, 3, 6, 7]","[4, 7, 10, 11]",,
-145.625,<music21.chord.Chord B-4 G#4 E4 G-1>,"[0, 3, 4, 6]","[4, 7, 8, 10]",,
-146.0,<music21.chord.Chord A4 G#4 G-1>,"[0, 1, 2]","[7, 8, 9]",,
-146.125,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,
-147.0,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-147.125,<music21.chord.Chord G-1>,[0],[7],,
-149.0,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,
-150.0,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-151.0,<music21.chord.Chord F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-151.125,<music21.chord.Chord F#4 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,
-151.75,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,
-151.875,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,
-152.0,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,
-152.125,<music21.chord.Chord A4 B4 G-1>,"[0, 2, 4]","[7, 9, 11]",,
-152.5,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,
-153.0,<music21.chord.Chord A4 B4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,
-153.125,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,
-153.5,<music21.chord.Chord G4 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-153.625,<music21.chord.Chord G4 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-154.0,<music21.chord.Chord G#4 F#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,
-154.125,<music21.chord.Chord G#4 A4 F#4 G-1>,"[0, 1, 2, 3]","[6, 7, 8, 9]",,
-154.5,<music21.chord.Chord G#4 A4 E4 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,
-154.625,<music21.chord.Chord G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-155.0,<music21.chord.Chord E4 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,
-155.125,<music21.chord.Chord E4 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,
-155.5,<music21.chord.Chord E4 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,
-155.625,<music21.chord.Chord E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,
-155.75,<music21.chord.Chord G#4 E4 C#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,
-156.0,<music21.chord.Chord B4 E4 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-156.125,<music21.chord.Chord B4 E-4 B3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-157.0,<music21.chord.Chord B4 E-4 E3 G-1>,"[0, 1, 4, 8]","[3, 4, 7, 11]",,
-157.125,<music21.chord.Chord B4 E4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-158.0,<music21.chord.Chord B4 E4 F#3 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,
-158.125,<music21.chord.Chord B4 E-4 F#4 F#3 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,
-159.0,<music21.chord.Chord G#4 E-4 F#4 F#3 F#2 G-1>,"[0, 3, 4, 5]","[3, 6, 7, 8]",,
-159.125,<music21.chord.Chord G#4 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6, 7]","[1, 4, 6, 7, 8]",,
-159.75,<music21.chord.Chord B4 C#4 E4 F#3 G-1 F#2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,
-160.0,<music21.chord.Chord E5 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,
-160.125,<music21.chord.Chord E5 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,
-162.125,<music21.chord.Chord E5 B3 E-4 F#3 G-1 B2>,"[0, 1, 3, 4, 8]","[3, 4, 6, 7, 11]",,
-163.0,<music21.chord.Chord F#5 B3 E-4 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,
-163.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,
-163.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,
-164.0,<music21.chord.Chord B5 G-1>,"[0, 4]","[7, 11]",,
-164.5,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,
-165.0,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-165.125,<music21.chord.Chord G#5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-165.5,<music21.chord.Chord F#5 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,
-166.0,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,
-166.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,
-167.0,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,
-167.125,<music21.chord.Chord E-5 A4 F#4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,
-168.0,<music21.chord.Chord E-5 A4 E4 G-1>,"[0, 1, 4, 6]","[3, 4, 7, 9]",,
-168.125,<music21.chord.Chord E-5 G#4 E4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,
-169.5,<music21.chord.Chord E-5 G#4 C#4 G-1>,"[0, 2, 6, 7]","[1, 3, 7, 8]",,
-169.625,<music21.chord.Chord E-5 E4 C#4 G-1>,"[0, 2, 3, 6]","[1, 3, 4, 7]",,
-170.0,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-170.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-171.0,<music21.chord.Chord E4 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-171.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-171.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-172.0,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-173.0,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-173.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-174.0,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-174.125,<music21.chord.Chord B4 A4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,
-175.0,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,
-175.125,<music21.chord.Chord B4 C#5 A4 G-1>,"[0, 2, 4, 6]","[7, 9, 11, 1]",,
-176.0,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,
-176.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-177.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-177.625,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,
-178.0,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-178.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-179.0,<music21.chord.Chord G#4 B4 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-179.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-179.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-180.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-181.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-182.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-183.0,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-183.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-183.75,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,
-183.875,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,
-184.0,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-184.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,
-184.5,<music21.chord.Chord E5 C#5 G#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,
-184.625,<music21.chord.Chord E5 B4 G#4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,
-185.0,<music21.chord.Chord E5 B4 F#4 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,
-185.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,
-185.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-185.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-186.0,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,
-186.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,
-186.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-186.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-187.0,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,
-187.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,
-187.5,<music21.chord.Chord E5 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,
-187.625,<music21.chord.Chord E5 E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,
-187.75,<music21.chord.Chord F#5 E4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,
-188.0,<music21.chord.Chord A5 E4 B3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,
-188.125,<music21.chord.Chord A5 F#4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,
-188.5,<music21.chord.Chord G#5 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,
-188.625,<music21.chord.Chord G#5 E-4 B3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,
-189.0,<music21.chord.Chord F#5 E-4 E3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,
-189.125,<music21.chord.Chord F#5 G#4 E3 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,
-189.5,<music21.chord.Chord E5 G#4 E3 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-189.625,<music21.chord.Chord E5 E4 E3 G-1>,"[0, 3]","[4, 7]",,
-190.0,<music21.chord.Chord F#5 E4 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-190.125,<music21.chord.Chord F#5 E-4 F#3 G-1>,"[0, 3, 4]","[3, 6, 7]",,
-190.5,<music21.chord.Chord E5 E-4 F#3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,
-191.0,<music21.chord.Chord E-5 E-4 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,
-191.125,<music21.chord.Chord E-5 C#4 E4 F#3 G-1 F#2>,"[0, 2, 3, 5, 6]","[1, 3, 4, 6, 7]",,
-191.5,<music21.chord.Chord C#5 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,
-192.0,<music21.chord.Chord B4 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,
-192.125,<music21.chord.Chord B4 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,
-194.125,<music21.chord.Chord B4 B3 E-4 F#3 G-1 B2>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,
-195.0,<music21.chord.Chord B4 B3 E-4 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-195.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,
-195.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,
-195.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,
-196.0,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,
-196.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,
-197.0,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,
-197.125,<music21.chord.Chord G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,
-197.5,<music21.chord.Chord C#5 G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,
-198.0,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,
-198.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,
-199.0,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,
-199.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,
-200.0,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,
-200.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,
-201.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,
-202.0,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,
-203.0,<music21.chord.Chord E4 C#4 A3 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,
-203.125,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-203.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,
-204.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-205.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-205.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-206.0,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-206.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-207.0,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-207.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-208.0,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-208.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-209.5,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-210.0,<music21.chord.Chord B4 B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,
-211.0,<music21.chord.Chord G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,
-211.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-211.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-212.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-213.0,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,
-213.125,<music21.chord.Chord E5 F#4 A4 E-4 G-1>,"[0, 1, 3, 4, 6]","[3, 4, 6, 7, 9]",,
-214.0,<music21.chord.Chord E5 F#4 A4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,
-214.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-215.0,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-215.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-216.0,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-217.0,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-217.125,<music21.chord.Chord E5 B4 D5 G#4 G-1>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,
-218.0,<music21.chord.Chord E5 B4 D5 A4 G-1>,"[0, 2, 4, 7, 9]","[7, 9, 11, 2, 4]",,
-218.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,
-219.0,<music21.chord.Chord E5 C#5 G-1>,"[0, 3, 6]","[1, 4, 7]",,
-219.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,
-219.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,
-219.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,
-220.0,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,
-220.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,
-221.0,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,
-221.125,<music21.chord.Chord F#5 A4 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,
-221.5,<music21.chord.Chord E5 A4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-222.0,<music21.chord.Chord F#5 A4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,
-222.125,<music21.chord.Chord F#5 G#4 B4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,
-222.5,<music21.chord.Chord E5 G#4 B4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,
-223.0,<music21.chord.Chord E-5 G#4 B4 B3 B2 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,
-223.125,<music21.chord.Chord E-5 F#4 A4 B3 G-1 B2>,"[0, 3, 4, 6, 8]","[3, 6, 7, 9, 11]",,
-223.5,<music21.chord.Chord C#5 F#4 A4 B3 G-1 B2>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,
-224.0,<music21.chord.Chord F#4 A4 B3 E3 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,
-224.125,<music21.chord.Chord F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,
-225.0,<music21.chord.Chord B4 F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,
-226.125,<music21.chord.Chord B4 E4 G#4 B3 G-1 E3>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,
-227.0,<music21.chord.Chord B4 E4 G#4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,
-227.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,
-227.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,
-227.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,
-228.0,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,
-228.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,
-229.0,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,
-229.125,<music21.chord.Chord E5 C#4 F3 G-1>,"[0, 3, 4, 6]","[1, 4, 5, 7]",,
-229.5,<music21.chord.Chord C#5 C#4 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,
-230.0,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,
-230.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,
-231.0,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,
-231.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,
-232.0,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,
-232.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,
-233.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,
-234.0,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,
-235.0,<music21.chord.Chord C#4 A3 G-1>,"[0, 2, 6]","[7, 9, 1]",,
-235.125,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,
-235.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,
-236.0,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,
-237.0,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-237.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,
-238.0,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,
-238.125,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,
-239.0,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,
-239.125,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,
-240.0,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-240.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,
-241.5,<music21.chord.Chord B-4 B3 E-3 G-1>,"[0, 4, 7, 8]","[3, 7, 10, 11]",,
-242.0,<music21.chord.Chord A4 B3 E3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,
-243.0,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,
-243.125,<music21.chord.Chord G-1>,[0],[7],,
-245.0,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,
-245.125,<music21.chord.Chord A4 F#4 E-4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,
-246.0,<music21.chord.Chord B4 F#4 A4 E4 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,
-246.125,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,
-247.0,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,
-247.125,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,
-248.0,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,
-249.0,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,
-249.125,<music21.chord.Chord A4 B4 D5 E4 G-1 G#3>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,
-249.5,<music21.chord.Chord G4 B4 D5 E4 G-1 G#3>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,
-250.0,<music21.chord.Chord G#4 B4 D5 E4 A3 G-1>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,
-250.125,<music21.chord.Chord G#4 A4 C#5 E4 G-1 A3>,"[0, 3, 6, 7, 8]","[1, 4, 7, 8, 9]",,
-251.0,<music21.chord.Chord E4 A4 C#5 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,
-251.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,
-251.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-252.0,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,
-253.0,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,
-253.125,<music21.chord.Chord B4 C#5 E4 G-1 A3>,"[0, 2, 4, 6, 9]","[7, 9, 11, 1, 4]",,
-253.5,<music21.chord.Chord B4 C#5 F#4 G-1 A3>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,
-254.0,<music21.chord.Chord B4 C#5 G#4 B3 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,
-254.125,<music21.chord.Chord B4 G#4 G-1 B3>,"[0, 1, 4]","[7, 8, 11]",,
-255.0,<music21.chord.Chord G#4 B4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,
-255.125,<music21.chord.Chord G#4 A4 F#4 G-1 B3>,"[0, 1, 2, 3, 5]","[6, 7, 8, 9, 11]",,
-255.75,<music21.chord.Chord B4 A4 F#4 G-1 B3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,
-256.0,<music21.chord.Chord E5 A4 F#4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,
-256.125,<music21.chord.Chord E5 A4 F#4 G-1 E4>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,
-258.0,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,
-258.125,<music21.chord.Chord E5 G#4 G-1 E4>,"[0, 3, 4]","[4, 7, 8]",,
-259.0,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,
-259.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,
-259.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,
-260.0,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,
-260.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,
-261.0,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,
-261.125,<music21.chord.Chord G#5 G#4 G-1>,"[0, 1]","[7, 8]",,
-261.5,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,
-262.0,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-262.125,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,
-263.0,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,
-263.125,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,
-264.0,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,
-264.125,<music21.chord.Chord E-5 G#4 G-1>,"[0, 4, 5]","[3, 7, 8]",,
-265.625,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,
-266.0,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,
-266.125,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,
-267.0,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,
-267.125,<music21.chord.Chord G-1>,[0],[7],,
-269.0,<music21.chord.Chord B4>,[0],[11],,
-269.125,<music21.chord.Chord B4>,[0],[11],,
-270.0,<music21.chord.Chord C#5 B4>,"[0, 2]","[11, 1]",,
-270.125,<music21.chord.Chord C#5 A4>,"[0, 4]","[9, 1]",,
-271.0,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,
-271.125,<music21.chord.Chord G#4 C#5>,"[0, 5]","[8, 1]",,
-272.0,<music21.chord.Chord B4 C#5>,"[0, 2]","[11, 1]",,
-272.125,<music21.chord.Chord B4>,[0],[11],,
-273.5,<music21.chord.Chord B-4 B4>,"[0, 1]","[10, 11]",,
-273.625,<music21.chord.Chord B-4 G#4>,"[0, 2]","[8, 10]",,
-274.0,<music21.chord.Chord A4 G#4>,"[0, 1]","[8, 9]",,
-274.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,
-275.0,<music21.chord.Chord B4>,[0],[11],,
-277.0,<music21.chord.Chord A4>,[0],[9],,
-278.0,<music21.chord.Chord B4>,[0],[11],,
-279.0,<music21.chord.Chord F#4>,[0],[6],,
-279.125,<music21.chord.Chord F#4 G#4>,"[0, 2]","[6, 8]",,
-279.875,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,
-280.0,<music21.chord.Chord A4>,[0],[9],,
-280.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,
-281.125,<music21.chord.Chord A4>,[0],[9],,
-281.5,<music21.chord.Chord G4 A4>,"[0, 2]","[7, 9]",,
-281.625,<music21.chord.Chord G4 G#4>,"[0, 1]","[7, 8]",,
-282.0,<music21.chord.Chord G#4>,[0],[8],,
-282.125,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,
-282.625,<music21.chord.Chord G#4>,[0],[8],,
-283.0,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,
-283.125,<music21.chord.Chord E4 F#4>,"[0, 2]","[4, 6]",,
-283.625,<music21.chord.Chord E4>,[0],[4],,
-283.75,<music21.chord.Chord G#4 E4>,"[0, 4]","[4, 8]",,
-284.0,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,
-284.125,<music21.chord.Chord B4 E-4>,"[0, 4]","[11, 3]",,
-285.125,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,
-286.125,<music21.chord.Chord B4 E-4 F#4>,"[0, 4, 7]","[11, 3, 6]",,
-287.0,<music21.chord.Chord G#4 E-4 F#4>,"[0, 3, 5]","[3, 6, 8]",,
-287.125,<music21.chord.Chord G#4 C#4 E4>,"[0, 3, 7]","[1, 4, 8]",,
-287.75,<music21.chord.Chord B4 C#4 E4>,"[0, 2, 5]","[11, 1, 4]",,
-288.0,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,
-288.125,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,
-290.125,<music21.chord.Chord E5 B3 E-4>,"[0, 4, 5]","[11, 3, 4]",,
-291.0,<music21.chord.Chord F#5 B3 E-4>,"[0, 4, 7]","[11, 3, 6]",,
-291.125,<music21.chord.Chord F#5>,[0],[6],,
-291.75,<music21.chord.Chord G#5>,[0],[8],,
-292.0,<music21.chord.Chord B5>,[0],[11],,
-292.5,<music21.chord.Chord A5>,[0],[9],,
-293.0,<music21.chord.Chord G#5>,[0],[8],,
-293.125,<music21.chord.Chord G#5 G#4>,[0],[8],,
-293.5,<music21.chord.Chord F#5 G#4>,"[0, 2]","[6, 8]",,
-294.0,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,
-294.125,<music21.chord.Chord E5 F#4>,"[0, 2]","[4, 6]",,
-295.0,<music21.chord.Chord E-5 F#4>,"[0, 3]","[3, 6]",,
-295.125,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,
-296.0,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,
-296.125,<music21.chord.Chord E-5 G#4>,"[0, 5]","[3, 8]",,
-297.625,<music21.chord.Chord E-5 E4>,"[0, 1]","[3, 4]",,
-298.0,<music21.chord.Chord E5 E4>,[0],[4],,
-298.125,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,
-299.0,<music21.chord.Chord G#4>,[0],[8],,
-301.125,<music21.chord.Chord B4>,[0],[11],,
-302.125,<music21.chord.Chord A4>,[0],[9],,
-303.125,<music21.chord.Chord C#5>,[0],[1],,
-304.125,<music21.chord.Chord B4>,[0],[11],,
-305.625,<music21.chord.Chord G#4>,[0],[8],,
-306.125,<music21.chord.Chord B4>,[0],[11],,
-311.125,<music21.chord.Chord G#4>,[0],[8],,
-311.875,<music21.chord.Chord A4>,[0],[9],,
-312.125,<music21.chord.Chord C#5>,[0],[1],,
-312.625,<music21.chord.Chord B4>,[0],[11],,
-313.125,<music21.chord.Chord A4>,[0],[9],,
-313.625,<music21.chord.Chord G#4>,[0],[8],,
-314.125,<music21.chord.Chord A4>,[0],[9],,
-314.625,<music21.chord.Chord G#4>,[0],[8],,
-315.125,<music21.chord.Chord F#4>,[0],[6],,
-315.625,<music21.chord.Chord E4>,[0],[4],,
-316.125,<music21.chord.Chord F#4>,[0],[6],,
-316.625,<music21.chord.Chord E-4>,[0],[3],,
-317.125,<music21.chord.Chord G#4>,[0],[8],,
-317.625,<music21.chord.Chord E4>,[0],[4],,
-318.125,<music21.chord.Chord E-4>,[0],[3],,
-319.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,
-320.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,
-322.125,<music21.chord.Chord B3 E-4>,"[0, 4]","[11, 3]",,
-325.125,<music21.chord.Chord C#4>,[0],[1],,
-326.125,<music21.chord.Chord C#4>,[0],[1],,
-327.125,<music21.chord.Chord C#4>,[0],[1],,
-328.125,<music21.chord.Chord C#4>,[0],[1],,
-333.125,<music21.chord.Chord B3>,[0],[11],,
-334.125,<music21.chord.Chord B3>,[0],[11],,
-335.125,<music21.chord.Chord B3>,[0],[11],,
-336.125,<music21.chord.Chord B3>,[0],[11],,
-341.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,
-342.125,<music21.chord.Chord G#4>,[0],[8],,
-345.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,
-346.125,<music21.chord.Chord C#5>,[0],[1],,
-349.125,<music21.chord.Chord A4>,[0],[9],,
-350.125,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",,
-351.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,
-352.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,
-354.125,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,
-357.125,<music21.chord.Chord C#4>,[0],[1],,
-358.125,<music21.chord.Chord C#4>,[0],[1],,
-359.125,<music21.chord.Chord C#4>,[0],[1],,
-360.125,<music21.chord.Chord C#4>,[0],[1],,
-365.125,<music21.chord.Chord B3>,[0],[11],,
-366.125,<music21.chord.Chord B3>,[0],[11],,
-367.125,<music21.chord.Chord B3>,[0],[11],,
-368.125,<music21.chord.Chord B3>,[0],[11],,
-373.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,
-374.125,<music21.chord.Chord G#4>,[0],[8],,
-377.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,
-378.125,<music21.chord.Chord A4 C#5>,"[0, 4]","[9, 1]",,
-381.125,<music21.chord.Chord C#5>,[0],[1],,
-382.125,<music21.chord.Chord B4>,[0],[11],,
-383.125,<music21.chord.Chord A4>,[0],[9],,
-384.125,<music21.chord.Chord A4>,[0],[9],,
-386.125,<music21.chord.Chord G#4>,[0],[8],,
+Offset,Chord,NormalForm,PCsInNormalForm,measureNumber,Measure Count,Composer
+0,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+6,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan
+7,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+8,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+9.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan
+10,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+11,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+13,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+14,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+15,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
+16,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+17.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+18,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+19,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+23,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+23.75,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+24,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
+24.5,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+25,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+25.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+26,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+26.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+27,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan
+27.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan
+28,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
+29,<music21.chord.Chord E3 G-1>,"[0, 3]","[4, 7]",,,Alkan
+30,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
+31,<music21.chord.Chord F#3 F#2 G-1>,"[0, 1]","[6, 7]",,,Alkan
+32,<music21.chord.Chord F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+35,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+37,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+38,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan
+39,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+40,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+41.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan
+42,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+43,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+43.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+44,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+45,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+46,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+47,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
+48,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+49.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+50,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+51,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+51.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+52,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+53,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+54,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+55,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+55.75,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+56,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+56.5,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+57,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+57.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+58,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+58.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+59,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
+59.5,<music21.chord.Chord E5 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
+59.75,<music21.chord.Chord F#5 C#4 G-1>,"[0, 5, 6]","[1, 6, 7]",,,Alkan
+60,<music21.chord.Chord A5 B3 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
+60.5,<music21.chord.Chord G#5 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+61,<music21.chord.Chord F#5 E3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+61.5,<music21.chord.Chord E5 E3 G-1>,"[0, 3]","[4, 7]",,,Alkan
+62,<music21.chord.Chord F#5 F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
+62.5,<music21.chord.Chord E5 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+63,<music21.chord.Chord E-5 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
+63.5,<music21.chord.Chord C#5 F#3 G-1 F#2>,"[0, 5, 6]","[1, 6, 7]",,,Alkan
+64,<music21.chord.Chord B4 F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+67,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
+67.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
+67.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
+68,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
+68.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
+69,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,,Alkan
+69.5,<music21.chord.Chord C#5 G#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan
+70,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
+71,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,,Alkan
+72,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,,Alkan
+73.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,,Alkan
+74,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+75,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+75.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
+76,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+77,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+78,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+79,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+80,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+81.5,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+82,<music21.chord.Chord B4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+83,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+83.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+84,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+85,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
+86,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+87,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+88,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+89,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+90,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+91,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+91.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
+91.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
+92,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
+92.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
+93,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
+93.5,<music21.chord.Chord E5 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+94,<music21.chord.Chord F#5 B3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+94.5,<music21.chord.Chord E5 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+95,<music21.chord.Chord E-5 B3 B2 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+95.5,<music21.chord.Chord C#5 B3 G-1 B2>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
+96,<music21.chord.Chord B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+97,<music21.chord.Chord B4 B3 G-1 E3>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+99,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
+99.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
+99.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
+100,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
+100.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
+101,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,,Alkan
+101.5,<music21.chord.Chord C#5 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,,Alkan
+102,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
+103,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,,Alkan
+104,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,,Alkan
+105.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,,Alkan
+106,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+107,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,,Alkan
+107.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
+108,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,,Alkan
+109,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+110,<music21.chord.Chord C#5 E-3 G-1>,"[0, 2, 6]","[1, 3, 7]",,,Alkan
+111,<music21.chord.Chord G#4 E-3 G-1>,"[0, 4, 5]","[3, 7, 8]",,,Alkan
+112,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+113.5,<music21.chord.Chord B-4 E-3 G-1>,"[0, 4, 7]","[3, 7, 10]",,,Alkan
+114,<music21.chord.Chord A4 E3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+115,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+117,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
+118,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+119,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+120,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
+121,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
+121.5,<music21.chord.Chord G4 E4 G-1 G#3>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+122,<music21.chord.Chord G#4 E4 A3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
+123,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+123.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+124,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+125,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
+125.5,<music21.chord.Chord B4 F#4 G-1 A3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
+126,<music21.chord.Chord B4 G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+127,<music21.chord.Chord G#4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
+127.75,<music21.chord.Chord B4 F#4 G-1 B3>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+128,<music21.chord.Chord E5 F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+130,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+131,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
+131.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
+132,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
+132.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,,Alkan
+133,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+133.5,<music21.chord.Chord F#5 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+134,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
+135,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
+136,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
+137.5,<music21.chord.Chord E-5 C#4 G-1>,"[0, 2, 6]","[1, 3, 7]",,,Alkan
+138,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+139,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+141,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+141.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+142,<music21.chord.Chord C#5 B4 F#4 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan
+142.125,<music21.chord.Chord C#5 A4 F#4 G-1>,"[0, 1, 3, 7]","[6, 7, 9, 1]",,,Alkan
+143,<music21.chord.Chord G#4 A4 G-1>,"[0, 1, 2]","[7, 8, 9]",,,Alkan
+143.125,<music21.chord.Chord G#4 C#5 A4 G-1>,"[0, 1, 2, 6]","[7, 8, 9, 1]",,,Alkan
+144,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan
+144.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+145.5,<music21.chord.Chord B-4 B4 E4 G-1>,"[0, 3, 6, 7]","[4, 7, 10, 11]",,,Alkan
+145.625,<music21.chord.Chord B-4 G#4 E4 G-1>,"[0, 3, 4, 6]","[4, 7, 8, 10]",,,Alkan
+146,<music21.chord.Chord A4 G#4 G-1>,"[0, 1, 2]","[7, 8, 9]",,,Alkan
+146.125,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,,Alkan
+147,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+147.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+149,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
+150,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+151,<music21.chord.Chord F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+151.125,<music21.chord.Chord F#4 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
+151.75,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
+151.875,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
+152,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
+152.125,<music21.chord.Chord A4 B4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
+152.5,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,,Alkan
+153,<music21.chord.Chord A4 B4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
+153.125,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
+153.5,<music21.chord.Chord G4 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+153.625,<music21.chord.Chord G4 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+154,<music21.chord.Chord G#4 F#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
+154.125,<music21.chord.Chord G#4 A4 F#4 G-1>,"[0, 1, 2, 3]","[6, 7, 8, 9]",,,Alkan
+154.5,<music21.chord.Chord G#4 A4 E4 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
+154.625,<music21.chord.Chord G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+155,<music21.chord.Chord E4 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
+155.125,<music21.chord.Chord E4 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
+155.5,<music21.chord.Chord E4 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
+155.625,<music21.chord.Chord E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
+155.75,<music21.chord.Chord G#4 E4 C#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,,Alkan
+156,<music21.chord.Chord B4 E4 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+156.125,<music21.chord.Chord B4 E-4 B3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+157,<music21.chord.Chord B4 E-4 E3 G-1>,"[0, 1, 4, 8]","[3, 4, 7, 11]",,,Alkan
+157.125,<music21.chord.Chord B4 E4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+158,<music21.chord.Chord B4 E4 F#3 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,,Alkan
+158.125,<music21.chord.Chord B4 E-4 F#4 F#3 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan
+159,<music21.chord.Chord G#4 E-4 F#4 F#3 F#2 G-1>,"[0, 3, 4, 5]","[3, 6, 7, 8]",,,Alkan
+159.125,<music21.chord.Chord G#4 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6, 7]","[1, 4, 6, 7, 8]",,,Alkan
+159.75,<music21.chord.Chord B4 C#4 E4 F#3 G-1 F#2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
+160,<music21.chord.Chord E5 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
+160.125,<music21.chord.Chord E5 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
+162.125,<music21.chord.Chord E5 B3 E-4 F#3 G-1 B2>,"[0, 1, 3, 4, 8]","[3, 4, 6, 7, 11]",,,Alkan
+163,<music21.chord.Chord F#5 B3 E-4 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan
+163.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
+163.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
+164,<music21.chord.Chord B5 G-1>,"[0, 4]","[7, 11]",,,Alkan
+164.5,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
+165,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+165.125,<music21.chord.Chord G#5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+165.5,<music21.chord.Chord F#5 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
+166,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
+166.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
+167,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
+167.125,<music21.chord.Chord E-5 A4 F#4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,,Alkan
+168,<music21.chord.Chord E-5 A4 E4 G-1>,"[0, 1, 4, 6]","[3, 4, 7, 9]",,,Alkan
+168.125,<music21.chord.Chord E-5 G#4 E4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
+169.5,<music21.chord.Chord E-5 G#4 C#4 G-1>,"[0, 2, 6, 7]","[1, 3, 7, 8]",,,Alkan
+169.625,<music21.chord.Chord E-5 E4 C#4 G-1>,"[0, 2, 3, 6]","[1, 3, 4, 7]",,,Alkan
+170,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+170.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+171,<music21.chord.Chord E4 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+171.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+171.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+172,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+173,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+173.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+174,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+174.125,<music21.chord.Chord B4 A4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
+175,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
+175.125,<music21.chord.Chord B4 C#5 A4 G-1>,"[0, 2, 4, 6]","[7, 9, 11, 1]",,,Alkan
+176,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan
+176.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+177.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+177.625,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
+178,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+178.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+179,<music21.chord.Chord G#4 B4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+179.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+179.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+180,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+181,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+182,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+183,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+183.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+183.75,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
+183.875,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
+184,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+184.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
+184.5,<music21.chord.Chord E5 C#5 G#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,,Alkan
+184.625,<music21.chord.Chord E5 B4 G#4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
+185,<music21.chord.Chord E5 B4 F#4 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,,Alkan
+185.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
+185.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+185.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+186,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
+186.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
+186.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+186.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+187,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
+187.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
+187.5,<music21.chord.Chord E5 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
+187.625,<music21.chord.Chord E5 E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
+187.75,<music21.chord.Chord F#5 E4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
+188,<music21.chord.Chord A5 E4 B3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
+188.125,<music21.chord.Chord A5 F#4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
+188.5,<music21.chord.Chord G#5 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
+188.625,<music21.chord.Chord G#5 E-4 B3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
+189,<music21.chord.Chord F#5 E-4 E3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
+189.125,<music21.chord.Chord F#5 G#4 E3 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
+189.5,<music21.chord.Chord E5 G#4 E3 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+189.625,<music21.chord.Chord E5 E4 E3 G-1>,"[0, 3]","[4, 7]",,,Alkan
+190,<music21.chord.Chord F#5 E4 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+190.125,<music21.chord.Chord F#5 E-4 F#3 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
+190.5,<music21.chord.Chord E5 E-4 F#3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
+191,<music21.chord.Chord E-5 E-4 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
+191.125,<music21.chord.Chord E-5 C#4 E4 F#3 G-1 F#2>,"[0, 2, 3, 5, 6]","[1, 3, 4, 6, 7]",,,Alkan
+191.5,<music21.chord.Chord C#5 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
+192,<music21.chord.Chord B4 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
+192.125,<music21.chord.Chord B4 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
+194.125,<music21.chord.Chord B4 B3 E-4 F#3 G-1 B2>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan
+195,<music21.chord.Chord B4 B3 E-4 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+195.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
+195.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
+195.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
+196,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
+196.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
+197,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,,Alkan
+197.125,<music21.chord.Chord G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan
+197.5,<music21.chord.Chord C#5 G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan
+198,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
+198.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
+199,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
+199.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
+200,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
+200.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
+201.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,,Alkan
+202,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan
+203,<music21.chord.Chord E4 C#4 A3 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
+203.125,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+203.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
+204,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+205,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+205.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+206,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+206.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+207,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+207.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+208,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+208.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+209.5,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+210,<music21.chord.Chord B4 B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
+211,<music21.chord.Chord G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+211.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+211.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+212,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+213,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
+213.125,<music21.chord.Chord E5 F#4 A4 E-4 G-1>,"[0, 1, 3, 4, 6]","[3, 4, 6, 7, 9]",,,Alkan
+214,<music21.chord.Chord E5 F#4 A4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
+214.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+215,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+215.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+216,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+217,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+217.125,<music21.chord.Chord E5 B4 D5 G#4 G-1>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,,Alkan
+218,<music21.chord.Chord E5 B4 D5 A4 G-1>,"[0, 2, 4, 7, 9]","[7, 9, 11, 2, 4]",,,Alkan
+218.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
+219,<music21.chord.Chord E5 C#5 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
+219.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
+219.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
+219.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
+220,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
+220.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
+221,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
+221.125,<music21.chord.Chord F#5 A4 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
+221.5,<music21.chord.Chord E5 A4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+222,<music21.chord.Chord F#5 A4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
+222.125,<music21.chord.Chord F#5 G#4 B4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
+222.5,<music21.chord.Chord E5 G#4 B4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
+223,<music21.chord.Chord E-5 G#4 B4 B3 B2 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
+223.125,<music21.chord.Chord E-5 F#4 A4 B3 G-1 B2>,"[0, 3, 4, 6, 8]","[3, 6, 7, 9, 11]",,,Alkan
+223.5,<music21.chord.Chord C#5 F#4 A4 B3 G-1 B2>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,,Alkan
+224,<music21.chord.Chord F#4 A4 B3 E3 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
+224.125,<music21.chord.Chord F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
+225,<music21.chord.Chord B4 F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
+226.125,<music21.chord.Chord B4 E4 G#4 B3 G-1 E3>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
+227,<music21.chord.Chord B4 E4 G#4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
+227.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
+227.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
+227.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
+228,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
+228.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
+229,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,,Alkan
+229.125,<music21.chord.Chord E5 C#4 F3 G-1>,"[0, 3, 4, 6]","[1, 4, 5, 7]",,,Alkan
+229.5,<music21.chord.Chord C#5 C#4 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,,Alkan
+230,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
+230.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
+231,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
+231.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
+232,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
+232.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
+233.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,,Alkan
+234,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan
+235,<music21.chord.Chord C#4 A3 G-1>,"[0, 2, 6]","[7, 9, 1]",,,Alkan
+235.125,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,,Alkan
+235.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
+236,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,,Alkan
+237,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+237.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
+238,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,,Alkan
+238.125,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,,Alkan
+239,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
+239.125,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
+240,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+240.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
+241.5,<music21.chord.Chord B-4 B3 E-3 G-1>,"[0, 4, 7, 8]","[3, 7, 10, 11]",,,Alkan
+242,<music21.chord.Chord A4 B3 E3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
+243,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
+243.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+245,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
+245.125,<music21.chord.Chord A4 F#4 E-4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,,Alkan
+246,<music21.chord.Chord B4 F#4 A4 E4 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
+246.125,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
+247,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
+247.125,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
+248,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
+249,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
+249.125,<music21.chord.Chord A4 B4 D5 E4 G-1 G#3>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,,Alkan
+249.5,<music21.chord.Chord G4 B4 D5 E4 G-1 G#3>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,,Alkan
+250,<music21.chord.Chord G#4 B4 D5 E4 A3 G-1>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,,Alkan
+250.125,<music21.chord.Chord G#4 A4 C#5 E4 G-1 A3>,"[0, 3, 6, 7, 8]","[1, 4, 7, 8, 9]",,,Alkan
+251,<music21.chord.Chord E4 A4 C#5 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
+251.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+251.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+252,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
+253,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
+253.125,<music21.chord.Chord B4 C#5 E4 G-1 A3>,"[0, 2, 4, 6, 9]","[7, 9, 11, 1, 4]",,,Alkan
+253.5,<music21.chord.Chord B4 C#5 F#4 G-1 A3>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,,Alkan
+254,<music21.chord.Chord B4 C#5 G#4 B3 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan
+254.125,<music21.chord.Chord B4 G#4 G-1 B3>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
+255,<music21.chord.Chord G#4 B4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
+255.125,<music21.chord.Chord G#4 A4 F#4 G-1 B3>,"[0, 1, 2, 3, 5]","[6, 7, 8, 9, 11]",,,Alkan
+255.75,<music21.chord.Chord B4 A4 F#4 G-1 B3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
+256,<music21.chord.Chord E5 A4 F#4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
+256.125,<music21.chord.Chord E5 A4 F#4 G-1 E4>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
+258,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
+258.125,<music21.chord.Chord E5 G#4 G-1 E4>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+259,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
+259.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
+259.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
+260,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
+260.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,,Alkan
+261,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
+261.125,<music21.chord.Chord G#5 G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+261.5,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
+262,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+262.125,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
+263,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
+263.125,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
+264,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
+264.125,<music21.chord.Chord E-5 G#4 G-1>,"[0, 4, 5]","[3, 7, 8]",,,Alkan
+265.625,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
+266,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
+266.125,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
+267,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
+267.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan
+269,<music21.chord.Chord B4>,[0],[11],,,Alkan
+269.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
+270,<music21.chord.Chord C#5 B4>,"[0, 2]","[11, 1]",,,Alkan
+270.125,<music21.chord.Chord C#5 A4>,"[0, 4]","[9, 1]",,,Alkan
+271,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,,Alkan
+271.125,<music21.chord.Chord G#4 C#5>,"[0, 5]","[8, 1]",,,Alkan
+272,<music21.chord.Chord B4 C#5>,"[0, 2]","[11, 1]",,,Alkan
+272.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
+273.5,<music21.chord.Chord B-4 B4>,"[0, 1]","[10, 11]",,,Alkan
+273.625,<music21.chord.Chord B-4 G#4>,"[0, 2]","[8, 10]",,,Alkan
+274,<music21.chord.Chord A4 G#4>,"[0, 1]","[8, 9]",,,Alkan
+274.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,,Alkan
+275,<music21.chord.Chord B4>,[0],[11],,,Alkan
+277,<music21.chord.Chord A4>,[0],[9],,,Alkan
+278,<music21.chord.Chord B4>,[0],[11],,,Alkan
+279,<music21.chord.Chord F#4>,[0],[6],,,Alkan
+279.125,<music21.chord.Chord F#4 G#4>,"[0, 2]","[6, 8]",,,Alkan
+279.875,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
+280,<music21.chord.Chord A4>,[0],[9],,,Alkan
+280.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,,Alkan
+281.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
+281.5,<music21.chord.Chord G4 A4>,"[0, 2]","[7, 9]",,,Alkan
+281.625,<music21.chord.Chord G4 G#4>,"[0, 1]","[7, 8]",,,Alkan
+282,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+282.125,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,,Alkan
+282.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+283,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,,Alkan
+283.125,<music21.chord.Chord E4 F#4>,"[0, 2]","[4, 6]",,,Alkan
+283.625,<music21.chord.Chord E4>,[0],[4],,,Alkan
+283.75,<music21.chord.Chord G#4 E4>,"[0, 4]","[4, 8]",,,Alkan
+284,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,,Alkan
+284.125,<music21.chord.Chord B4 E-4>,"[0, 4]","[11, 3]",,,Alkan
+285.125,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,,Alkan
+286.125,<music21.chord.Chord B4 E-4 F#4>,"[0, 4, 7]","[11, 3, 6]",,,Alkan
+287,<music21.chord.Chord G#4 E-4 F#4>,"[0, 3, 5]","[3, 6, 8]",,,Alkan
+287.125,<music21.chord.Chord G#4 C#4 E4>,"[0, 3, 7]","[1, 4, 8]",,,Alkan
+287.75,<music21.chord.Chord B4 C#4 E4>,"[0, 2, 5]","[11, 1, 4]",,,Alkan
+288,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
+288.125,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
+290.125,<music21.chord.Chord E5 B3 E-4>,"[0, 4, 5]","[11, 3, 4]",,,Alkan
+291,<music21.chord.Chord F#5 B3 E-4>,"[0, 4, 7]","[11, 3, 6]",,,Alkan
+291.125,<music21.chord.Chord F#5>,[0],[6],,,Alkan
+291.75,<music21.chord.Chord G#5>,[0],[8],,,Alkan
+292,<music21.chord.Chord B5>,[0],[11],,,Alkan
+292.5,<music21.chord.Chord A5>,[0],[9],,,Alkan
+293,<music21.chord.Chord G#5>,[0],[8],,,Alkan
+293.125,<music21.chord.Chord G#5 G#4>,[0],[8],,,Alkan
+293.5,<music21.chord.Chord F#5 G#4>,"[0, 2]","[6, 8]",,,Alkan
+294,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,,Alkan
+294.125,<music21.chord.Chord E5 F#4>,"[0, 2]","[4, 6]",,,Alkan
+295,<music21.chord.Chord E-5 F#4>,"[0, 3]","[3, 6]",,,Alkan
+295.125,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,,Alkan
+296,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,,Alkan
+296.125,<music21.chord.Chord E-5 G#4>,"[0, 5]","[3, 8]",,,Alkan
+297.625,<music21.chord.Chord E-5 E4>,"[0, 1]","[3, 4]",,,Alkan
+298,<music21.chord.Chord E5 E4>,[0],[4],,,Alkan
+298.125,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,,Alkan
+299,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+301.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
+302.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
+303.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
+304.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
+305.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+306.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
+311.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+311.875,<music21.chord.Chord A4>,[0],[9],,,Alkan
+312.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
+312.625,<music21.chord.Chord B4>,[0],[11],,,Alkan
+313.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
+313.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+314.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
+314.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+315.125,<music21.chord.Chord F#4>,[0],[6],,,Alkan
+315.625,<music21.chord.Chord E4>,[0],[4],,,Alkan
+316.125,<music21.chord.Chord F#4>,[0],[6],,,Alkan
+316.625,<music21.chord.Chord E-4>,[0],[3],,,Alkan
+317.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+317.625,<music21.chord.Chord E4>,[0],[4],,,Alkan
+318.125,<music21.chord.Chord E-4>,[0],[3],,,Alkan
+319.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
+320.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
+322.125,<music21.chord.Chord B3 E-4>,"[0, 4]","[11, 3]",,,Alkan
+325.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+326.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+327.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+328.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+333.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+334.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+335.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+336.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+341.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
+342.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+345.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,,Alkan
+346.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
+349.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
+350.125,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",,,Alkan
+351.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
+352.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
+354.125,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,,Alkan
+357.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+358.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+359.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+360.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
+365.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+366.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+367.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+368.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
+373.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
+374.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+377.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,,Alkan
+378.125,<music21.chord.Chord A4 C#5>,"[0, 4]","[9, 1]",,,Alkan
+381.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
+382.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
+383.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
+384.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
+386.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan

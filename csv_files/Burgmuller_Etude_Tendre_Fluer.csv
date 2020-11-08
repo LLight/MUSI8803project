@@ -1,4 +1,4 @@
-offset,Chord,NormalForm,PCsInNormalForm,file,Composer,Measure Number,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
 0,<music21.chord.Chord D4>,[0],[2],Etudes Tendre Fleur Op100No10 D major ,Burgmuller,1,1
 0.5,<music21.chord.Chord F#4>,[0],[6],Etudes Tendre Fleur Op100No10 D major ,Burgmuller,1,1.5
 1,<music21.chord.Chord F#4>,[0],[6],Etudes Tendre Fleur Op100No10 D major ,Burgmuller,1,2
