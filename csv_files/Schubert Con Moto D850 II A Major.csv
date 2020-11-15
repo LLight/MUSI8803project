@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Beat Number
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord C#4 E4 E3 A2>,"[0, 4, 7]","[9, 1, 4]",Con moto D850 II A Major.mid,Schubert,,
 0.5,<music21.chord.Chord D4 F#4 F#3 A2>,"[0, 4, 7]","[2, 6, 9]",Con moto D850 II A Major.mid,Schubert,,
 1,<music21.chord.Chord C4 E-4 E-3 A2>,"[0, 3, 6]","[9, 0, 3]",Con moto D850 II A Major.mid,Schubert,,

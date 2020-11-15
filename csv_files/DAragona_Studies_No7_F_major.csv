@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord F5 F3>,[0],[5],Studies No7 F major.mid,DAragona,,
 0.25,<music21.chord.Chord G5 F3>,"[0, 2]","[5, 7]",Studies No7 F major.mid,DAragona,,
 0.5,<music21.chord.Chord F5 C4>,"[0, 5]","[0, 5]",Studies No7 F major.mid,DAragona,,

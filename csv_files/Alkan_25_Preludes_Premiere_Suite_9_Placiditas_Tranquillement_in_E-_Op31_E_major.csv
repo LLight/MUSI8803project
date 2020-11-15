@@ -1,553 +1,553 @@
-Offset,Chord,NormalForm,PCsInNormalForm,measureNumber,Measure Count,Composer
-0,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-6,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan
-7,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-8,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-9.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan
-10,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-11,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-13,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-14,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-15,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
-16,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-17.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-18,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-19,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-23,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-23.75,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-24,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
-24.5,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-25,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-25.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-26,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-26.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-27,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan
-27.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan
-28,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
-29,<music21.chord.Chord E3 G-1>,"[0, 3]","[4, 7]",,,Alkan
-30,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
-31,<music21.chord.Chord F#3 F#2 G-1>,"[0, 1]","[6, 7]",,,Alkan
-32,<music21.chord.Chord F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-35,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-37,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-38,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan
-39,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-40,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-41.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan
-42,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-43,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-43.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-44,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-45,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-46,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-47,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
-48,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-49.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-50,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-51,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-51.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-52,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-53,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-54,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-55,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-55.75,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-56,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-56.5,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-57,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-57.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-58,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-58.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-59,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
-59.5,<music21.chord.Chord E5 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
-59.75,<music21.chord.Chord F#5 C#4 G-1>,"[0, 5, 6]","[1, 6, 7]",,,Alkan
-60,<music21.chord.Chord A5 B3 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
-60.5,<music21.chord.Chord G#5 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-61,<music21.chord.Chord F#5 E3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-61.5,<music21.chord.Chord E5 E3 G-1>,"[0, 3]","[4, 7]",,,Alkan
-62,<music21.chord.Chord F#5 F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
-62.5,<music21.chord.Chord E5 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-63,<music21.chord.Chord E-5 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
-63.5,<music21.chord.Chord C#5 F#3 G-1 F#2>,"[0, 5, 6]","[1, 6, 7]",,,Alkan
-64,<music21.chord.Chord B4 F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-67,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
-67.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
-67.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
-68,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
-68.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
-69,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,,Alkan
-69.5,<music21.chord.Chord C#5 G#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan
-70,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
-71,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,,Alkan
-72,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,,Alkan
-73.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,,Alkan
-74,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-75,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-75.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
-76,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-77,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-78,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-79,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-80,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-81.5,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-82,<music21.chord.Chord B4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-83,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-83.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-84,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-85,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
-86,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-87,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-88,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-89,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-90,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-91,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-91.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
-91.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
-92,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
-92.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
-93,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
-93.5,<music21.chord.Chord E5 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-94,<music21.chord.Chord F#5 B3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-94.5,<music21.chord.Chord E5 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-95,<music21.chord.Chord E-5 B3 B2 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-95.5,<music21.chord.Chord C#5 B3 G-1 B2>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
-96,<music21.chord.Chord B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-97,<music21.chord.Chord B4 B3 G-1 E3>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-99,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
-99.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
-99.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
-100,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
-100.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
-101,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,,Alkan
-101.5,<music21.chord.Chord C#5 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,,Alkan
-102,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
-103,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,,Alkan
-104,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,,Alkan
-105.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,,Alkan
-106,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-107,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,,Alkan
-107.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
-108,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,,Alkan
-109,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-110,<music21.chord.Chord C#5 E-3 G-1>,"[0, 2, 6]","[1, 3, 7]",,,Alkan
-111,<music21.chord.Chord G#4 E-3 G-1>,"[0, 4, 5]","[3, 7, 8]",,,Alkan
-112,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-113.5,<music21.chord.Chord B-4 E-3 G-1>,"[0, 4, 7]","[3, 7, 10]",,,Alkan
-114,<music21.chord.Chord A4 E3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-115,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-117,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
-118,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-119,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-120,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
-121,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
-121.5,<music21.chord.Chord G4 E4 G-1 G#3>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-122,<music21.chord.Chord G#4 E4 A3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
-123,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-123.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-124,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-125,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
-125.5,<music21.chord.Chord B4 F#4 G-1 A3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
-126,<music21.chord.Chord B4 G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-127,<music21.chord.Chord G#4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
-127.75,<music21.chord.Chord B4 F#4 G-1 B3>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-128,<music21.chord.Chord E5 F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-130,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-131,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
-131.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
-132,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
-132.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,,Alkan
-133,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-133.5,<music21.chord.Chord F#5 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-134,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
-135,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
-136,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
-137.5,<music21.chord.Chord E-5 C#4 G-1>,"[0, 2, 6]","[1, 3, 7]",,,Alkan
-138,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-139,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-141,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-141.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-142,<music21.chord.Chord C#5 B4 F#4 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan
-142.125,<music21.chord.Chord C#5 A4 F#4 G-1>,"[0, 1, 3, 7]","[6, 7, 9, 1]",,,Alkan
-143,<music21.chord.Chord G#4 A4 G-1>,"[0, 1, 2]","[7, 8, 9]",,,Alkan
-143.125,<music21.chord.Chord G#4 C#5 A4 G-1>,"[0, 1, 2, 6]","[7, 8, 9, 1]",,,Alkan
-144,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan
-144.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-145.5,<music21.chord.Chord B-4 B4 E4 G-1>,"[0, 3, 6, 7]","[4, 7, 10, 11]",,,Alkan
-145.625,<music21.chord.Chord B-4 G#4 E4 G-1>,"[0, 3, 4, 6]","[4, 7, 8, 10]",,,Alkan
-146,<music21.chord.Chord A4 G#4 G-1>,"[0, 1, 2]","[7, 8, 9]",,,Alkan
-146.125,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,,Alkan
-147,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-147.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-149,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
-150,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-151,<music21.chord.Chord F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-151.125,<music21.chord.Chord F#4 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
-151.75,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
-151.875,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
-152,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
-152.125,<music21.chord.Chord A4 B4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
-152.5,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,,Alkan
-153,<music21.chord.Chord A4 B4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
-153.125,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
-153.5,<music21.chord.Chord G4 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-153.625,<music21.chord.Chord G4 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-154,<music21.chord.Chord G#4 F#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
-154.125,<music21.chord.Chord G#4 A4 F#4 G-1>,"[0, 1, 2, 3]","[6, 7, 8, 9]",,,Alkan
-154.5,<music21.chord.Chord G#4 A4 E4 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
-154.625,<music21.chord.Chord G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-155,<music21.chord.Chord E4 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
-155.125,<music21.chord.Chord E4 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
-155.5,<music21.chord.Chord E4 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
-155.625,<music21.chord.Chord E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
-155.75,<music21.chord.Chord G#4 E4 C#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,,Alkan
-156,<music21.chord.Chord B4 E4 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-156.125,<music21.chord.Chord B4 E-4 B3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-157,<music21.chord.Chord B4 E-4 E3 G-1>,"[0, 1, 4, 8]","[3, 4, 7, 11]",,,Alkan
-157.125,<music21.chord.Chord B4 E4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-158,<music21.chord.Chord B4 E4 F#3 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,,Alkan
-158.125,<music21.chord.Chord B4 E-4 F#4 F#3 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan
-159,<music21.chord.Chord G#4 E-4 F#4 F#3 F#2 G-1>,"[0, 3, 4, 5]","[3, 6, 7, 8]",,,Alkan
-159.125,<music21.chord.Chord G#4 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6, 7]","[1, 4, 6, 7, 8]",,,Alkan
-159.75,<music21.chord.Chord B4 C#4 E4 F#3 G-1 F#2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
-160,<music21.chord.Chord E5 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
-160.125,<music21.chord.Chord E5 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
-162.125,<music21.chord.Chord E5 B3 E-4 F#3 G-1 B2>,"[0, 1, 3, 4, 8]","[3, 4, 6, 7, 11]",,,Alkan
-163,<music21.chord.Chord F#5 B3 E-4 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan
-163.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
-163.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
-164,<music21.chord.Chord B5 G-1>,"[0, 4]","[7, 11]",,,Alkan
-164.5,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
-165,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-165.125,<music21.chord.Chord G#5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-165.5,<music21.chord.Chord F#5 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
-166,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
-166.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
-167,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
-167.125,<music21.chord.Chord E-5 A4 F#4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,,Alkan
-168,<music21.chord.Chord E-5 A4 E4 G-1>,"[0, 1, 4, 6]","[3, 4, 7, 9]",,,Alkan
-168.125,<music21.chord.Chord E-5 G#4 E4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
-169.5,<music21.chord.Chord E-5 G#4 C#4 G-1>,"[0, 2, 6, 7]","[1, 3, 7, 8]",,,Alkan
-169.625,<music21.chord.Chord E-5 E4 C#4 G-1>,"[0, 2, 3, 6]","[1, 3, 4, 7]",,,Alkan
-170,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-170.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-171,<music21.chord.Chord E4 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-171.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-171.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-172,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-173,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-173.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-174,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-174.125,<music21.chord.Chord B4 A4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
-175,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan
-175.125,<music21.chord.Chord B4 C#5 A4 G-1>,"[0, 2, 4, 6]","[7, 9, 11, 1]",,,Alkan
-176,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan
-176.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-177.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-177.625,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
-178,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-178.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-179,<music21.chord.Chord G#4 B4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-179.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-179.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-180,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-181,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-182,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-183,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-183.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-183.75,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
-183.875,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
-184,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-184.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
-184.5,<music21.chord.Chord E5 C#5 G#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,,Alkan
-184.625,<music21.chord.Chord E5 B4 G#4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
-185,<music21.chord.Chord E5 B4 F#4 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,,Alkan
-185.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
-185.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-185.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-186,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
-186.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
-186.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-186.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-187,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan
-187.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
-187.5,<music21.chord.Chord E5 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
-187.625,<music21.chord.Chord E5 E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
-187.75,<music21.chord.Chord F#5 E4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
-188,<music21.chord.Chord A5 E4 B3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
-188.125,<music21.chord.Chord A5 F#4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
-188.5,<music21.chord.Chord G#5 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
-188.625,<music21.chord.Chord G#5 E-4 B3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
-189,<music21.chord.Chord F#5 E-4 E3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
-189.125,<music21.chord.Chord F#5 G#4 E3 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan
-189.5,<music21.chord.Chord E5 G#4 E3 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-189.625,<music21.chord.Chord E5 E4 E3 G-1>,"[0, 3]","[4, 7]",,,Alkan
-190,<music21.chord.Chord F#5 E4 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-190.125,<music21.chord.Chord F#5 E-4 F#3 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
-190.5,<music21.chord.Chord E5 E-4 F#3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan
-191,<music21.chord.Chord E-5 E-4 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
-191.125,<music21.chord.Chord E-5 C#4 E4 F#3 G-1 F#2>,"[0, 2, 3, 5, 6]","[1, 3, 4, 6, 7]",,,Alkan
-191.5,<music21.chord.Chord C#5 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan
-192,<music21.chord.Chord B4 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
-192.125,<music21.chord.Chord B4 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan
-194.125,<music21.chord.Chord B4 B3 E-4 F#3 G-1 B2>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan
-195,<music21.chord.Chord B4 B3 E-4 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-195.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
-195.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
-195.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
-196,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
-196.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
-197,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,,Alkan
-197.125,<music21.chord.Chord G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan
-197.5,<music21.chord.Chord C#5 G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan
-198,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
-198.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
-199,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
-199.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
-200,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
-200.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
-201.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,,Alkan
-202,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan
-203,<music21.chord.Chord E4 C#4 A3 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
-203.125,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-203.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
-204,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-205,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-205.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-206,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-206.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-207,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-207.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-208,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-208.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-209.5,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-210,<music21.chord.Chord B4 B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan
-211,<music21.chord.Chord G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-211.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-211.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-212,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-213,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
-213.125,<music21.chord.Chord E5 F#4 A4 E-4 G-1>,"[0, 1, 3, 4, 6]","[3, 4, 6, 7, 9]",,,Alkan
-214,<music21.chord.Chord E5 F#4 A4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
-214.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-215,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-215.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-216,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-217,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-217.125,<music21.chord.Chord E5 B4 D5 G#4 G-1>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,,Alkan
-218,<music21.chord.Chord E5 B4 D5 A4 G-1>,"[0, 2, 4, 7, 9]","[7, 9, 11, 2, 4]",,,Alkan
-218.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
-219,<music21.chord.Chord E5 C#5 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan
-219.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan
-219.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
-219.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
-220,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
-220.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
-221,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
-221.125,<music21.chord.Chord F#5 A4 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan
-221.5,<music21.chord.Chord E5 A4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-222,<music21.chord.Chord F#5 A4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
-222.125,<music21.chord.Chord F#5 G#4 B4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
-222.5,<music21.chord.Chord E5 G#4 B4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
-223,<music21.chord.Chord E-5 G#4 B4 B3 B2 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
-223.125,<music21.chord.Chord E-5 F#4 A4 B3 G-1 B2>,"[0, 3, 4, 6, 8]","[3, 6, 7, 9, 11]",,,Alkan
-223.5,<music21.chord.Chord C#5 F#4 A4 B3 G-1 B2>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,,Alkan
-224,<music21.chord.Chord F#4 A4 B3 E3 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
-224.125,<music21.chord.Chord F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
-225,<music21.chord.Chord B4 F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
-226.125,<music21.chord.Chord B4 E4 G#4 B3 G-1 E3>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
-227,<music21.chord.Chord B4 E4 G#4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
-227.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
-227.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan
-227.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan
-228,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan
-228.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan
-229,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,,Alkan
-229.125,<music21.chord.Chord E5 C#4 F3 G-1>,"[0, 3, 4, 6]","[1, 4, 5, 7]",,,Alkan
-229.5,<music21.chord.Chord C#5 C#4 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,,Alkan
-230,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
-230.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan
-231,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
-231.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan
-232,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
-232.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan
-233.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,,Alkan
-234,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan
-235,<music21.chord.Chord C#4 A3 G-1>,"[0, 2, 6]","[7, 9, 1]",,,Alkan
-235.125,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,,Alkan
-235.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan
-236,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,,Alkan
-237,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-237.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan
-238,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,,Alkan
-238.125,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,,Alkan
-239,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
-239.125,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan
-240,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-240.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan
-241.5,<music21.chord.Chord B-4 B3 E-3 G-1>,"[0, 4, 7, 8]","[3, 7, 10, 11]",,,Alkan
-242,<music21.chord.Chord A4 B3 E3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
-243,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,,Alkan
-243.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-245,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
-245.125,<music21.chord.Chord A4 F#4 E-4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,,Alkan
-246,<music21.chord.Chord B4 F#4 A4 E4 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan
-246.125,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan
-247,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
-247.125,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan
-248,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan
-249,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan
-249.125,<music21.chord.Chord A4 B4 D5 E4 G-1 G#3>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,,Alkan
-249.5,<music21.chord.Chord G4 B4 D5 E4 G-1 G#3>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,,Alkan
-250,<music21.chord.Chord G#4 B4 D5 E4 A3 G-1>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,,Alkan
-250.125,<music21.chord.Chord G#4 A4 C#5 E4 G-1 A3>,"[0, 3, 6, 7, 8]","[1, 4, 7, 8, 9]",,,Alkan
-251,<music21.chord.Chord E4 A4 C#5 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan
-251.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-251.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-252,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan
-253,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan
-253.125,<music21.chord.Chord B4 C#5 E4 G-1 A3>,"[0, 2, 4, 6, 9]","[7, 9, 11, 1, 4]",,,Alkan
-253.5,<music21.chord.Chord B4 C#5 F#4 G-1 A3>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,,Alkan
-254,<music21.chord.Chord B4 C#5 G#4 B3 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan
-254.125,<music21.chord.Chord B4 G#4 G-1 B3>,"[0, 1, 4]","[7, 8, 11]",,,Alkan
-255,<music21.chord.Chord G#4 B4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan
-255.125,<music21.chord.Chord G#4 A4 F#4 G-1 B3>,"[0, 1, 2, 3, 5]","[6, 7, 8, 9, 11]",,,Alkan
-255.75,<music21.chord.Chord B4 A4 F#4 G-1 B3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan
-256,<music21.chord.Chord E5 A4 F#4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
-256.125,<music21.chord.Chord E5 A4 F#4 G-1 E4>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan
-258,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan
-258.125,<music21.chord.Chord E5 G#4 G-1 E4>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-259,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
-259.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan
-259.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
-260,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan
-260.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,,Alkan
-261,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan
-261.125,<music21.chord.Chord G#5 G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-261.5,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan
-262,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-262.125,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan
-263,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan
-263.125,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
-264,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan
-264.125,<music21.chord.Chord E-5 G#4 G-1>,"[0, 4, 5]","[3, 7, 8]",,,Alkan
-265.625,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan
-266,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan
-266.125,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan
-267,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan
-267.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan
-269,<music21.chord.Chord B4>,[0],[11],,,Alkan
-269.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
-270,<music21.chord.Chord C#5 B4>,"[0, 2]","[11, 1]",,,Alkan
-270.125,<music21.chord.Chord C#5 A4>,"[0, 4]","[9, 1]",,,Alkan
-271,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,,Alkan
-271.125,<music21.chord.Chord G#4 C#5>,"[0, 5]","[8, 1]",,,Alkan
-272,<music21.chord.Chord B4 C#5>,"[0, 2]","[11, 1]",,,Alkan
-272.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
-273.5,<music21.chord.Chord B-4 B4>,"[0, 1]","[10, 11]",,,Alkan
-273.625,<music21.chord.Chord B-4 G#4>,"[0, 2]","[8, 10]",,,Alkan
-274,<music21.chord.Chord A4 G#4>,"[0, 1]","[8, 9]",,,Alkan
-274.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,,Alkan
-275,<music21.chord.Chord B4>,[0],[11],,,Alkan
-277,<music21.chord.Chord A4>,[0],[9],,,Alkan
-278,<music21.chord.Chord B4>,[0],[11],,,Alkan
-279,<music21.chord.Chord F#4>,[0],[6],,,Alkan
-279.125,<music21.chord.Chord F#4 G#4>,"[0, 2]","[6, 8]",,,Alkan
-279.875,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
-280,<music21.chord.Chord A4>,[0],[9],,,Alkan
-280.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,,Alkan
-281.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
-281.5,<music21.chord.Chord G4 A4>,"[0, 2]","[7, 9]",,,Alkan
-281.625,<music21.chord.Chord G4 G#4>,"[0, 1]","[7, 8]",,,Alkan
-282,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-282.125,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,,Alkan
-282.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-283,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,,Alkan
-283.125,<music21.chord.Chord E4 F#4>,"[0, 2]","[4, 6]",,,Alkan
-283.625,<music21.chord.Chord E4>,[0],[4],,,Alkan
-283.75,<music21.chord.Chord G#4 E4>,"[0, 4]","[4, 8]",,,Alkan
-284,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,,Alkan
-284.125,<music21.chord.Chord B4 E-4>,"[0, 4]","[11, 3]",,,Alkan
-285.125,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,,Alkan
-286.125,<music21.chord.Chord B4 E-4 F#4>,"[0, 4, 7]","[11, 3, 6]",,,Alkan
-287,<music21.chord.Chord G#4 E-4 F#4>,"[0, 3, 5]","[3, 6, 8]",,,Alkan
-287.125,<music21.chord.Chord G#4 C#4 E4>,"[0, 3, 7]","[1, 4, 8]",,,Alkan
-287.75,<music21.chord.Chord B4 C#4 E4>,"[0, 2, 5]","[11, 1, 4]",,,Alkan
-288,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
-288.125,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
-290.125,<music21.chord.Chord E5 B3 E-4>,"[0, 4, 5]","[11, 3, 4]",,,Alkan
-291,<music21.chord.Chord F#5 B3 E-4>,"[0, 4, 7]","[11, 3, 6]",,,Alkan
-291.125,<music21.chord.Chord F#5>,[0],[6],,,Alkan
-291.75,<music21.chord.Chord G#5>,[0],[8],,,Alkan
-292,<music21.chord.Chord B5>,[0],[11],,,Alkan
-292.5,<music21.chord.Chord A5>,[0],[9],,,Alkan
-293,<music21.chord.Chord G#5>,[0],[8],,,Alkan
-293.125,<music21.chord.Chord G#5 G#4>,[0],[8],,,Alkan
-293.5,<music21.chord.Chord F#5 G#4>,"[0, 2]","[6, 8]",,,Alkan
-294,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,,Alkan
-294.125,<music21.chord.Chord E5 F#4>,"[0, 2]","[4, 6]",,,Alkan
-295,<music21.chord.Chord E-5 F#4>,"[0, 3]","[3, 6]",,,Alkan
-295.125,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,,Alkan
-296,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,,Alkan
-296.125,<music21.chord.Chord E-5 G#4>,"[0, 5]","[3, 8]",,,Alkan
-297.625,<music21.chord.Chord E-5 E4>,"[0, 1]","[3, 4]",,,Alkan
-298,<music21.chord.Chord E5 E4>,[0],[4],,,Alkan
-298.125,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,,Alkan
-299,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-301.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
-302.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
-303.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
-304.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
-305.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-306.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
-311.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-311.875,<music21.chord.Chord A4>,[0],[9],,,Alkan
-312.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
-312.625,<music21.chord.Chord B4>,[0],[11],,,Alkan
-313.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
-313.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-314.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
-314.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-315.125,<music21.chord.Chord F#4>,[0],[6],,,Alkan
-315.625,<music21.chord.Chord E4>,[0],[4],,,Alkan
-316.125,<music21.chord.Chord F#4>,[0],[6],,,Alkan
-316.625,<music21.chord.Chord E-4>,[0],[3],,,Alkan
-317.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-317.625,<music21.chord.Chord E4>,[0],[4],,,Alkan
-318.125,<music21.chord.Chord E-4>,[0],[3],,,Alkan
-319.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
-320.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,,Alkan
-322.125,<music21.chord.Chord B3 E-4>,"[0, 4]","[11, 3]",,,Alkan
-325.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-326.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-327.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-328.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-333.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-334.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-335.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-336.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-341.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
-342.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-345.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,,Alkan
-346.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
-349.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
-350.125,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",,,Alkan
-351.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
-352.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
-354.125,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,,Alkan
-357.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-358.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-359.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-360.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan
-365.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-366.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-367.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-368.125,<music21.chord.Chord B3>,[0],[11],,,Alkan
-373.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan
-374.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
-377.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,,Alkan
-378.125,<music21.chord.Chord A4 C#5>,"[0, 4]","[9, 1]",,,Alkan
-381.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan
-382.125,<music21.chord.Chord B4>,[0],[11],,,Alkan
-383.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
-384.125,<music21.chord.Chord A4>,[0],[9],,,Alkan
-386.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan
+Offset,Chord,NormalForm,PCsInNormalForm,measureNumber,beatNumber,Composer,File
+0,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+6,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+7,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+8,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+9.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+10,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+11,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+13,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+14,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+15,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+16,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+17.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+18,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+19,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+23,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+23.75,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+24,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+24.5,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+25,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+25.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+26,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+26.5,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+27,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+27.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+28,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+29,<music21.chord.Chord E3 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+30,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+31,<music21.chord.Chord F#3 F#2 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+32,<music21.chord.Chord F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+35,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+37,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+38,<music21.chord.Chord E-4 G-1>,"[0, 4]","[3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+39,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+40,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+41.5,<music21.chord.Chord C#4 G-1>,"[0, 6]","[1, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+42,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+43,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+43.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+44,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+45,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+46,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+47,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+48,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+49.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+50,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+51,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+51.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+52,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+53,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+54,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+55,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+55.75,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+56,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+56.5,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+57,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+57.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+58,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+58.5,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+59,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+59.5,<music21.chord.Chord E5 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+59.75,<music21.chord.Chord F#5 C#4 G-1>,"[0, 5, 6]","[1, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+60,<music21.chord.Chord A5 B3 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+60.5,<music21.chord.Chord G#5 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+61,<music21.chord.Chord F#5 E3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+61.5,<music21.chord.Chord E5 E3 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+62,<music21.chord.Chord F#5 F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+62.5,<music21.chord.Chord E5 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+63,<music21.chord.Chord E-5 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+63.5,<music21.chord.Chord C#5 F#3 G-1 F#2>,"[0, 5, 6]","[1, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+64,<music21.chord.Chord B4 F#3 B2 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+67,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+67.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+67.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+68,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+68.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+69,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+69.5,<music21.chord.Chord C#5 G#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+70,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+71,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+72,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+73.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+74,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+75,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+75.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+76,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+77,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+78,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+79,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+80,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+81.5,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+82,<music21.chord.Chord B4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+83,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+83.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+84,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+85,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+86,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+87,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+88,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+89,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+90,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+91,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+91.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+91.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+92,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+92.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+93,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+93.5,<music21.chord.Chord E5 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+94,<music21.chord.Chord F#5 B3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+94.5,<music21.chord.Chord E5 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+95,<music21.chord.Chord E-5 B3 B2 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+95.5,<music21.chord.Chord C#5 B3 G-1 B2>,"[0, 4, 6]","[7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+96,<music21.chord.Chord B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+97,<music21.chord.Chord B4 B3 G-1 E3>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+99,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+99.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+99.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+100,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+100.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+101,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+101.5,<music21.chord.Chord C#5 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+102,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+103,<music21.chord.Chord B-4 F3 G-1>,"[0, 2, 5]","[5, 7, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+104,<music21.chord.Chord B-4 G#3 G-1>,"[0, 1, 3]","[7, 8, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+105.5,<music21.chord.Chord B-4 G3 G-1>,"[0, 3]","[7, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+106,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+107,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+107.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+108,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+109,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+110,<music21.chord.Chord C#5 E-3 G-1>,"[0, 2, 6]","[1, 3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+111,<music21.chord.Chord G#4 E-3 G-1>,"[0, 4, 5]","[3, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+112,<music21.chord.Chord B4 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+113.5,<music21.chord.Chord B-4 E-3 G-1>,"[0, 4, 7]","[3, 7, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+114,<music21.chord.Chord A4 E3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+115,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+117,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+118,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+119,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+120,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+121,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+121.5,<music21.chord.Chord G4 E4 G-1 G#3>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+122,<music21.chord.Chord G#4 E4 A3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+123,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+123.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+124,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+125,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+125.5,<music21.chord.Chord B4 F#4 G-1 A3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+126,<music21.chord.Chord B4 G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+127,<music21.chord.Chord G#4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+127.75,<music21.chord.Chord B4 F#4 G-1 B3>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+128,<music21.chord.Chord E5 F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+130,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+131,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+131.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+132,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+132.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+133,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+133.5,<music21.chord.Chord F#5 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+134,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+135,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+136,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+137.5,<music21.chord.Chord E-5 C#4 G-1>,"[0, 2, 6]","[1, 3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+138,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+139,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+141,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+141.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+142,<music21.chord.Chord C#5 B4 F#4 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+142.125,<music21.chord.Chord C#5 A4 F#4 G-1>,"[0, 1, 3, 7]","[6, 7, 9, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+143,<music21.chord.Chord G#4 A4 G-1>,"[0, 1, 2]","[7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+143.125,<music21.chord.Chord G#4 C#5 A4 G-1>,"[0, 1, 2, 6]","[7, 8, 9, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+144,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+144.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+145.5,<music21.chord.Chord B-4 B4 E4 G-1>,"[0, 3, 6, 7]","[4, 7, 10, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+145.625,<music21.chord.Chord B-4 G#4 E4 G-1>,"[0, 3, 4, 6]","[4, 7, 8, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+146,<music21.chord.Chord A4 G#4 G-1>,"[0, 1, 2]","[7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+146.125,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+147,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+147.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+149,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+150,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+151,<music21.chord.Chord F#4 E4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+151.125,<music21.chord.Chord F#4 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+151.75,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+151.875,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+152,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+152.125,<music21.chord.Chord A4 B4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+152.5,<music21.chord.Chord A4 B4 G#4 G-1>,"[0, 1, 2, 4]","[7, 8, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+153,<music21.chord.Chord A4 B4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+153.125,<music21.chord.Chord A4 F#4 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+153.5,<music21.chord.Chord G4 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+153.625,<music21.chord.Chord G4 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+154,<music21.chord.Chord G#4 F#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+154.125,<music21.chord.Chord G#4 A4 F#4 G-1>,"[0, 1, 2, 3]","[6, 7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+154.5,<music21.chord.Chord G#4 A4 E4 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+154.625,<music21.chord.Chord G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+155,<music21.chord.Chord E4 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+155.125,<music21.chord.Chord E4 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+155.5,<music21.chord.Chord E4 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+155.625,<music21.chord.Chord E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+155.75,<music21.chord.Chord G#4 E4 C#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+156,<music21.chord.Chord B4 E4 B3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+156.125,<music21.chord.Chord B4 E-4 B3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+157,<music21.chord.Chord B4 E-4 E3 G-1>,"[0, 1, 4, 8]","[3, 4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+157.125,<music21.chord.Chord B4 E4 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+158,<music21.chord.Chord B4 E4 F#3 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+158.125,<music21.chord.Chord B4 E-4 F#4 F#3 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+159,<music21.chord.Chord G#4 E-4 F#4 F#3 F#2 G-1>,"[0, 3, 4, 5]","[3, 6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+159.125,<music21.chord.Chord G#4 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6, 7]","[1, 4, 6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+159.75,<music21.chord.Chord B4 C#4 E4 F#3 G-1 F#2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+160,<music21.chord.Chord E5 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+160.125,<music21.chord.Chord E5 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+162.125,<music21.chord.Chord E5 B3 E-4 F#3 G-1 B2>,"[0, 1, 3, 4, 8]","[3, 4, 6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+163,<music21.chord.Chord F#5 B3 E-4 G-1>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+163.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+163.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+164,<music21.chord.Chord B5 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+164.5,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+165,<music21.chord.Chord G#5 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+165.125,<music21.chord.Chord G#5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+165.5,<music21.chord.Chord F#5 G#4 E4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+166,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+166.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+167,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+167.125,<music21.chord.Chord E-5 A4 F#4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+168,<music21.chord.Chord E-5 A4 E4 G-1>,"[0, 1, 4, 6]","[3, 4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+168.125,<music21.chord.Chord E-5 G#4 E4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+169.5,<music21.chord.Chord E-5 G#4 C#4 G-1>,"[0, 2, 6, 7]","[1, 3, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+169.625,<music21.chord.Chord E-5 E4 C#4 G-1>,"[0, 2, 3, 6]","[1, 3, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+170,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+170.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+171,<music21.chord.Chord E4 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+171.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+171.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+172,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+173,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+173.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+174,<music21.chord.Chord B4 F#4 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+174.125,<music21.chord.Chord B4 A4 F#4 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+175,<music21.chord.Chord B4 A4 G-1>,"[0, 2, 4]","[7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+175.125,<music21.chord.Chord B4 C#5 A4 G-1>,"[0, 2, 4, 6]","[7, 9, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+176,<music21.chord.Chord B4 C#5 G#4 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+176.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+177.5,<music21.chord.Chord B4 E4 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+177.625,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+178,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+178.125,<music21.chord.Chord B4 G#4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+179,<music21.chord.Chord G#4 B4 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+179.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+179.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+180,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+181,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+182,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+183,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+183.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+183.75,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+183.875,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+184,<music21.chord.Chord E5 A4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+184.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+184.5,<music21.chord.Chord E5 C#5 G#4 G-1>,"[0, 3, 6, 7]","[1, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+184.625,<music21.chord.Chord E5 B4 G#4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+185,<music21.chord.Chord E5 B4 F#4 G-1>,"[0, 2, 3, 7]","[4, 6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+185.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+185.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+185.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+186,<music21.chord.Chord E5 G#4 F#4 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+186.125,<music21.chord.Chord E5 A4 F#4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+186.5,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+186.625,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+187,<music21.chord.Chord E5 G#4 E-4 G-1>,"[0, 1, 4, 5]","[3, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+187.125,<music21.chord.Chord E5 F#4 E-4 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+187.5,<music21.chord.Chord E5 F#4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+187.625,<music21.chord.Chord E5 E4 C#4 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+187.75,<music21.chord.Chord F#5 E4 C#4 G-1>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+188,<music21.chord.Chord A5 E4 B3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+188.125,<music21.chord.Chord A5 F#4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+188.5,<music21.chord.Chord G#5 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+188.625,<music21.chord.Chord G#5 E-4 B3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+189,<music21.chord.Chord F#5 E-4 E3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+189.125,<music21.chord.Chord F#5 G#4 E3 G-1>,"[0, 2, 3, 4]","[4, 6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+189.5,<music21.chord.Chord E5 G#4 E3 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+189.625,<music21.chord.Chord E5 E4 E3 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+190,<music21.chord.Chord F#5 E4 F#3 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+190.125,<music21.chord.Chord F#5 E-4 F#3 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+190.5,<music21.chord.Chord E5 E-4 F#3 G-1>,"[0, 1, 3, 4]","[3, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+191,<music21.chord.Chord E-5 E-4 F#3 F#2 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+191.125,<music21.chord.Chord E-5 C#4 E4 F#3 G-1 F#2>,"[0, 2, 3, 5, 6]","[1, 3, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+191.5,<music21.chord.Chord C#5 C#4 E4 F#3 G-1 F#2>,"[0, 3, 5, 6]","[1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+192,<music21.chord.Chord B4 C#4 E4 F#3 B2 G-1>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+192.125,<music21.chord.Chord B4 C#4 E4 F#3 G-1 B2>,"[0, 2, 5, 7, 8]","[11, 1, 4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+194.125,<music21.chord.Chord B4 B3 E-4 F#3 G-1 B2>,"[0, 4, 7, 8]","[11, 3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+195,<music21.chord.Chord B4 B3 E-4 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+195.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+195.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+195.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+196,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+196.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+197,<music21.chord.Chord G#4 F3 G-1>,"[0, 2, 3]","[5, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+197.125,<music21.chord.Chord G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+197.5,<music21.chord.Chord C#5 G#4 C#4 F3 G-1>,"[0, 4, 6, 7]","[1, 5, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+198,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+198.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+199,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+199.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+200,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+200.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+201.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+202,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+203,<music21.chord.Chord E4 C#4 A3 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+203.125,<music21.chord.Chord E4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+203.75,<music21.chord.Chord G#4 F#3 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+204,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+205,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+205.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+206,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+206.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+207,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+207.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+208,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+208.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+209.5,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+210,<music21.chord.Chord B4 B3 E3 G-1>,"[0, 3, 7]","[4, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+211,<music21.chord.Chord G#4 B3 G-1>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+211.125,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+211.75,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+212,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+213,<music21.chord.Chord E5 E-4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+213.125,<music21.chord.Chord E5 F#4 A4 E-4 G-1>,"[0, 1, 3, 4, 6]","[3, 4, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+214,<music21.chord.Chord E5 F#4 A4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+214.125,<music21.chord.Chord E5 G#4 E4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+215,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+215.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+216,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+217,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+217.125,<music21.chord.Chord E5 B4 D5 G#4 G-1>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+218,<music21.chord.Chord E5 B4 D5 A4 G-1>,"[0, 2, 4, 7, 9]","[7, 9, 11, 2, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+218.125,<music21.chord.Chord E5 C#5 A4 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+219,<music21.chord.Chord E5 C#5 G-1>,"[0, 3, 6]","[1, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+219.125,<music21.chord.Chord E5 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+219.75,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+219.875,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+220,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+220.5,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+221,<music21.chord.Chord F#5 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+221.125,<music21.chord.Chord F#5 A4 A3 G-1>,"[0, 1, 3]","[6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+221.5,<music21.chord.Chord E5 A4 A3 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+222,<music21.chord.Chord F#5 A4 B3 G-1>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+222.125,<music21.chord.Chord F#5 G#4 B4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+222.5,<music21.chord.Chord E5 G#4 B4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+223,<music21.chord.Chord E-5 G#4 B4 B3 B2 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+223.125,<music21.chord.Chord E-5 F#4 A4 B3 G-1 B2>,"[0, 3, 4, 6, 8]","[3, 6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+223.5,<music21.chord.Chord C#5 F#4 A4 B3 G-1 B2>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+224,<music21.chord.Chord F#4 A4 B3 E3 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+224.125,<music21.chord.Chord F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+225,<music21.chord.Chord B4 F#4 A4 B3 G-1 E3>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+226.125,<music21.chord.Chord B4 E4 G#4 B3 G-1 E3>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+227,<music21.chord.Chord B4 E4 G#4 B3 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+227.125,<music21.chord.Chord B4 B3 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+227.5,<music21.chord.Chord C#5 B3 G-1>,"[0, 4, 6]","[7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+227.75,<music21.chord.Chord C#5 G#3 G-1>,"[0, 1, 6]","[7, 8, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+228,<music21.chord.Chord E-5 F3 G-1>,"[0, 2, 4]","[3, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+228.5,<music21.chord.Chord B4 F3 G-1>,"[0, 2, 6]","[5, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+229,<music21.chord.Chord E5 F3 G-1>,"[0, 1, 3]","[4, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+229.125,<music21.chord.Chord E5 C#4 F3 G-1>,"[0, 3, 4, 6]","[1, 4, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+229.5,<music21.chord.Chord C#5 C#4 F3 G-1>,"[0, 4, 6]","[1, 5, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+230,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+230.125,<music21.chord.Chord B4 C#4 F3 G-1>,"[0, 2, 6, 8]","[5, 7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+231,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+231.125,<music21.chord.Chord B-4 C#4 F3 G-1>,"[0, 2, 5, 8]","[5, 7, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+232,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+232.125,<music21.chord.Chord B-4 C#4 G#3 G-1>,"[0, 1, 3, 6]","[7, 8, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+233.5,<music21.chord.Chord B-4 C#4 G3 G-1>,"[0, 3, 6]","[7, 10, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+234,<music21.chord.Chord B4 C#4 F#3 G-1>,"[0, 1, 5, 7]","[6, 7, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+235,<music21.chord.Chord C#4 A3 G-1>,"[0, 2, 6]","[7, 9, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+235.125,<music21.chord.Chord A3 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+235.75,<music21.chord.Chord F#3 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+236,<music21.chord.Chord E-3 G-1>,"[0, 4]","[3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+237,<music21.chord.Chord B4 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+237.125,<music21.chord.Chord B4 B3 E-3 G-1>,"[0, 4, 8]","[3, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+238,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+238.125,<music21.chord.Chord C#5 B3 E-3 G-1>,"[0, 2, 4, 8]","[11, 1, 3, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+239,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+239.125,<music21.chord.Chord G#4 B3 E-3 G-1>,"[0, 1, 4, 8]","[7, 8, 11, 3]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+240,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+240.125,<music21.chord.Chord B4 B3 F#3 G-1>,"[0, 1, 5]","[6, 7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+241.5,<music21.chord.Chord B-4 B3 E-3 G-1>,"[0, 4, 7, 8]","[3, 7, 10, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+242,<music21.chord.Chord A4 B3 E3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+243,<music21.chord.Chord B3 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+243.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+245,<music21.chord.Chord A4 E-4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+245.125,<music21.chord.Chord A4 F#4 E-4 G-1>,"[0, 3, 4, 6]","[3, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+246,<music21.chord.Chord B4 F#4 A4 E4 G-1>,"[0, 2, 3, 5, 7]","[4, 6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+246.125,<music21.chord.Chord B4 G#4 E4 G-1>,"[0, 3, 4, 7]","[4, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+247,<music21.chord.Chord F#4 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+247.125,<music21.chord.Chord F#4 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+248,<music21.chord.Chord A4 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+249,<music21.chord.Chord A4 E4 G#3 G-1>,"[0, 3, 4, 5]","[4, 7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+249.125,<music21.chord.Chord A4 B4 D5 E4 G-1 G#3>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+249.5,<music21.chord.Chord G4 B4 D5 E4 G-1 G#3>,"[0, 3, 5, 8, 9]","[11, 2, 4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+250,<music21.chord.Chord G#4 B4 D5 E4 A3 G-1>,"[0, 1, 2, 4, 7, 9]","[7, 8, 9, 11, 2, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+250.125,<music21.chord.Chord G#4 A4 C#5 E4 G-1 A3>,"[0, 3, 6, 7, 8]","[1, 4, 7, 8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+251,<music21.chord.Chord E4 A4 C#5 G-1>,"[0, 3, 6, 8]","[1, 4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+251.125,<music21.chord.Chord E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+251.75,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+252,<music21.chord.Chord B4 G-1>,"[0, 4]","[7, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+253,<music21.chord.Chord B4 E4 A3 G-1>,"[0, 3, 5, 7]","[4, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+253.125,<music21.chord.Chord B4 C#5 E4 G-1 A3>,"[0, 2, 4, 6, 9]","[7, 9, 11, 1, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+253.5,<music21.chord.Chord B4 C#5 F#4 G-1 A3>,"[0, 1, 3, 5, 7]","[6, 7, 9, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+254,<music21.chord.Chord B4 C#5 G#4 B3 G-1>,"[0, 1, 4, 6]","[7, 8, 11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+254.125,<music21.chord.Chord B4 G#4 G-1 B3>,"[0, 1, 4]","[7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+255,<music21.chord.Chord G#4 B4 F#4 B3 G-1>,"[0, 1, 2, 5]","[6, 7, 8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+255.125,<music21.chord.Chord G#4 A4 F#4 G-1 B3>,"[0, 1, 2, 3, 5]","[6, 7, 8, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+255.75,<music21.chord.Chord B4 A4 F#4 G-1 B3>,"[0, 1, 3, 5]","[6, 7, 9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+256,<music21.chord.Chord E5 A4 F#4 E4 G-1>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+256.125,<music21.chord.Chord E5 A4 F#4 G-1 E4>,"[0, 2, 3, 5]","[4, 6, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+258,<music21.chord.Chord E5 A4 E4 G-1>,"[0, 3, 5]","[4, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+258.125,<music21.chord.Chord E5 G#4 G-1 E4>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+259,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+259.125,<music21.chord.Chord F#5 G-1>,"[0, 1]","[6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+259.75,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+260,<music21.chord.Chord A5 G-1>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+260.5,<music21.chord.Chord C#5 G-1>,"[0, 6]","[1, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+261,<music21.chord.Chord G#5 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+261.125,<music21.chord.Chord G#5 G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+261.5,<music21.chord.Chord F#5 G#4 G-1>,"[0, 1, 2]","[6, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+262,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+262.125,<music21.chord.Chord E5 F#4 G-1>,"[0, 2, 3]","[4, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+263,<music21.chord.Chord E-5 F#4 G-1>,"[0, 3, 4]","[3, 6, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+263.125,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+264,<music21.chord.Chord E-5 A4 G-1>,"[0, 4, 6]","[3, 7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+264.125,<music21.chord.Chord E-5 G#4 G-1>,"[0, 4, 5]","[3, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+265.625,<music21.chord.Chord E-5 E4 G-1>,"[0, 1, 4]","[3, 4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+266,<music21.chord.Chord E5 E4 G-1>,"[0, 3]","[4, 7]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+266.125,<music21.chord.Chord E5 G#4 G-1>,"[0, 3, 4]","[4, 7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+267,<music21.chord.Chord G#4 G-1>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+267.125,<music21.chord.Chord G-1>,[0],[7],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+269,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+269.125,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+270,<music21.chord.Chord C#5 B4>,"[0, 2]","[11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+270.125,<music21.chord.Chord C#5 A4>,"[0, 4]","[9, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+271,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+271.125,<music21.chord.Chord G#4 C#5>,"[0, 5]","[8, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+272,<music21.chord.Chord B4 C#5>,"[0, 2]","[11, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+272.125,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+273.5,<music21.chord.Chord B-4 B4>,"[0, 1]","[10, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+273.625,<music21.chord.Chord B-4 G#4>,"[0, 2]","[8, 10]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+274,<music21.chord.Chord A4 G#4>,"[0, 1]","[8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+274.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+275,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+277,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+278,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+279,<music21.chord.Chord F#4>,[0],[6],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+279.125,<music21.chord.Chord F#4 G#4>,"[0, 2]","[6, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+279.875,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+280,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+280.125,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+281.125,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+281.5,<music21.chord.Chord G4 A4>,"[0, 2]","[7, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+281.625,<music21.chord.Chord G4 G#4>,"[0, 1]","[7, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+282,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+282.125,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+282.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+283,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+283.125,<music21.chord.Chord E4 F#4>,"[0, 2]","[4, 6]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+283.625,<music21.chord.Chord E4>,[0],[4],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+283.75,<music21.chord.Chord G#4 E4>,"[0, 4]","[4, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+284,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+284.125,<music21.chord.Chord B4 E-4>,"[0, 4]","[11, 3]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+285.125,<music21.chord.Chord B4 E4>,"[0, 5]","[11, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+286.125,<music21.chord.Chord B4 E-4 F#4>,"[0, 4, 7]","[11, 3, 6]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+287,<music21.chord.Chord G#4 E-4 F#4>,"[0, 3, 5]","[3, 6, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+287.125,<music21.chord.Chord G#4 C#4 E4>,"[0, 3, 7]","[1, 4, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+287.75,<music21.chord.Chord B4 C#4 E4>,"[0, 2, 5]","[11, 1, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+288,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+288.125,<music21.chord.Chord E5 C#4 E4>,"[0, 3]","[1, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+290.125,<music21.chord.Chord E5 B3 E-4>,"[0, 4, 5]","[11, 3, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+291,<music21.chord.Chord F#5 B3 E-4>,"[0, 4, 7]","[11, 3, 6]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+291.125,<music21.chord.Chord F#5>,[0],[6],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+291.75,<music21.chord.Chord G#5>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+292,<music21.chord.Chord B5>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+292.5,<music21.chord.Chord A5>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+293,<music21.chord.Chord G#5>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+293.125,<music21.chord.Chord G#5 G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+293.5,<music21.chord.Chord F#5 G#4>,"[0, 2]","[6, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+294,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+294.125,<music21.chord.Chord E5 F#4>,"[0, 2]","[4, 6]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+295,<music21.chord.Chord E-5 F#4>,"[0, 3]","[3, 6]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+295.125,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+296,<music21.chord.Chord E-5 A4>,"[0, 6]","[3, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+296.125,<music21.chord.Chord E-5 G#4>,"[0, 5]","[3, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+297.625,<music21.chord.Chord E-5 E4>,"[0, 1]","[3, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+298,<music21.chord.Chord E5 E4>,[0],[4],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+298.125,<music21.chord.Chord E5 G#4>,"[0, 4]","[4, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+299,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+301.125,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+302.125,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+303.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+304.125,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+305.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+306.125,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+311.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+311.875,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+312.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+312.625,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+313.125,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+313.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+314.125,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+314.625,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+315.125,<music21.chord.Chord F#4>,[0],[6],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+315.625,<music21.chord.Chord E4>,[0],[4],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+316.125,<music21.chord.Chord F#4>,[0],[6],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+316.625,<music21.chord.Chord E-4>,[0],[3],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+317.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+317.625,<music21.chord.Chord E4>,[0],[4],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+318.125,<music21.chord.Chord E-4>,[0],[3],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+319.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+320.125,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+322.125,<music21.chord.Chord B3 E-4>,"[0, 4]","[11, 3]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+325.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+326.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+327.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+328.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+333.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+334.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+335.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+336.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+341.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+342.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+345.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+346.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+349.125,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+350.125,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+351.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+352.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+354.125,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+357.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+358.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+359.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+360.125,<music21.chord.Chord C#4>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+365.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+366.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+367.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+368.125,<music21.chord.Chord B3>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+373.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+374.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+377.125,<music21.chord.Chord B4 D5>,"[0, 3]","[11, 2]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+378.125,<music21.chord.Chord A4 C#5>,"[0, 4]","[9, 1]",,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+381.125,<music21.chord.Chord C#5>,[0],[1],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+382.125,<music21.chord.Chord B4>,[0],[11],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+383.125,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+384.125,<music21.chord.Chord A4>,[0],[9],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+386.125,<music21.chord.Chord G#4>,[0],[8],,,Alkan,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major

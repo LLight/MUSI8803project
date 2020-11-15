@@ -1,165 +1,165 @@
 measureNumber,beatNumber,Offset,Chord,NormalForm,PCsInNormalForm,File,Composer
-0,2 2/3,0,<music21.chord.Chord B3>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-1,1,0.5,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-1,1 1/2,1.25,<music21.chord.Chord E3 G3 B3 F#4>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-1,1 2/3,1.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-1,2,2,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-1,2 1/2,2.75,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-1,2 2/3,3,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-2,1,3.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-2,1 1/3,4,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-2,2,5,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-2,2 2/3,6,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-3,1,6.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-3,1 1/2,7.25,<music21.chord.Chord E3 G3 B3 A4>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-3,1 2/3,7.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-3,2,8,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-3,2 1/2,8.75,<music21.chord.Chord E3 A3 C#4 D5>,"[0, 4, 5, 7]","[9, 1, 2, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-3,2 2/3,9,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-4,1,9.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-4,2,11,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-4,2 1/3,11.5,<music21.chord.Chord E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-4,2 2/3,12,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-5,1,12.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-5,1 1/3,13,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-5,1 2/3,13.5,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-5,2,14,<music21.chord.Chord C4 C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-5,2 1/3,14.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-5,2 2/3,15,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-6,1,15.5,<music21.chord.Chord E3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-6,1 1/3,16,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-6,1 2/3,16.5,<music21.chord.Chord E4 B4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-6,2,17,<music21.chord.Chord B3 B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-6,2 1/3,17.5,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-6,2 2/3,18,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,1,18.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,1 1/3,19,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,1 1/2,19.25,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,1 2/3,19.5,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,2,20,<music21.chord.Chord A3 D4>,"[0, 5]","[9, 2]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,2 1/3,20.5,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,2 1/2,20.75,<music21.chord.Chord F4>,[0],[5],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-7,2 2/3,21,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-8,1,21.5,<music21.chord.Chord E3 G#3 E4>,"[0, 4]","[4, 8]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-8,1 1/3,22,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-8,1 2/3,22.5,<music21.chord.Chord B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-8,2,23,<music21.chord.Chord E2 E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-8,2 2/3,24,<music21.chord.Chord B3>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-9,1,24.5,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-9,1 1/2,25.25,<music21.chord.Chord E3 G3 B3 F#4>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-9,1 2/3,25.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-9,2,26,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-9,2 1/2,26.75,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-9,2 2/3,27,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-10,1,27.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-10,1 1/3,28,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-10,2,29,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-10,2 2/3,30,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-11,1,30.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-11,1 1/2,31.25,<music21.chord.Chord E3 G3 B3 A4>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-11,1 2/3,31.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-11,2,32,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-11,2 1/2,32.75,<music21.chord.Chord E3 A3 C#4 D5>,"[0, 4, 5, 7]","[9, 1, 2, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-11,2 2/3,33,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-12,1,33.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-12,2,35,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-12,2 1/3,35.5,<music21.chord.Chord E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-12,2 2/3,36,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-13,1,36.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-13,1 1/3,37,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-13,1 2/3,37.5,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-13,2,38,<music21.chord.Chord C4 C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-13,2 1/3,38.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-13,2 2/3,39,<music21.chord.Chord D5>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-14,1,39.5,<music21.chord.Chord E3 B3 G5>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-14,1 1/3,40,<music21.chord.Chord E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-14,1 2/3,40.5,<music21.chord.Chord E4 E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-14,2,41,<music21.chord.Chord B3 E5>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-14,2 1/3,41.5,<music21.chord.Chord E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-14,2 2/3,42,<music21.chord.Chord E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,1,42.5,<music21.chord.Chord F3 A3 D5>,"[0, 3, 7]","[2, 5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,1 1/3,43,<music21.chord.Chord D5>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,1 1/2,43.25,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,1 2/3,43.5,<music21.chord.Chord C4 D5>,"[0, 2]","[0, 2]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,2,44,<music21.chord.Chord A3 C5>,"[0, 3]","[9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,2 1/3,44.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,2 1/2,44.75,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-15,2 2/3,45,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-16,1,45.5,<music21.chord.Chord E3 G#3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-16,1 1/3,46,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-16,1 2/3,46.5,<music21.chord.Chord B2 B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-16,2,47,<music21.chord.Chord E2 B4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-16,2 1/3,47.5,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-16,2 2/3,48,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-17,1,48.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-17,1 1/3,49,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-17,1 2/3,49.5,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-17,2,50,<music21.chord.Chord C4 C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-17,2 1/3,50.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-17,2 2/3,51,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-18,1,51.5,<music21.chord.Chord E3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-18,1 1/3,52,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-18,1 2/3,52.5,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-18,2,53,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-18,2 2/3,54,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,1,54.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,1 1/3,55,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,1 1/2,55.25,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,1 2/3,55.5,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,2,56,<music21.chord.Chord A3 D4>,"[0, 5]","[9, 2]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,2 1/3,56.5,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,2 1/2,56.75,<music21.chord.Chord F4>,[0],[5],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-19,2 2/3,57,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-20,1,57.5,<music21.chord.Chord E3 G#3 E4>,"[0, 4]","[4, 8]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-20,1 1/3,58,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-20,1 2/3,58.5,<music21.chord.Chord B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-20,2,59,<music21.chord.Chord E2 E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-20,2 2/3,60,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-21,1,60.5,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-21,2,62,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-21,2 2/3,63,<music21.chord.Chord F2 E3 A3 C4 D4>,"[0, 3, 5, 7, 8]","[9, 0, 2, 4, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-22,1,63.5,<music21.chord.Chord E2 B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-22,1 1/3,64,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-22,1 2/3,64.5,<music21.chord.Chord E3 E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-22,2,65,<music21.chord.Chord B3 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-22,2 2/3,66,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-23,1,66.5,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-23,2,68,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-23,2 2/3,69,<music21.chord.Chord F2 E3 A3 C4 D4>,"[0, 3, 5, 7, 8]","[9, 0, 2, 4, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-24,1,69.5,<music21.chord.Chord E2 B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-24,1 2/3,70.5,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-24,2,71,<music21.chord.Chord B4 E5 B5>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-25,1,72.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-25,1 2/3,73.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-25,2,74,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-25,2 1/2,74.75,<music21.chord.Chord E3 G#3 B3 F#4>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-25,2 2/3,75,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-26,1,75.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-26,1 1/3,76,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-26,2,77,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-26,2 2/3,78,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-27,1,78.5,<music21.chord.Chord E3 A#3 C#4 D#5>,"[0, 3, 5, 6]","[10, 1, 3, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-27,1 1/2,79.25,<music21.chord.Chord E3 A#3 C#4 C#5>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-27,1 2/3,79.5,<music21.chord.Chord E3 A#3 C#4 D#5>,"[0, 3, 5, 6]","[10, 1, 3, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-27,2,80,<music21.chord.Chord E3 G#3 B3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-27,2 2/3,81,<music21.chord.Chord E3 G#3 B3 A#4>,"[0, 4, 6, 7]","[4, 8, 10, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-28,1,81.5,<music21.chord.Chord E3 A#3 C#4 C#5>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-28,2,83,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-28,2 1/3,83.5,<music21.chord.Chord C#5>,[0],[1],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-28,2 2/3,84,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-29,1,84.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-29,1 2/3,85.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-29,2,86,<music21.chord.Chord E3 G#3 B3 G4>,"[0, 3, 4, 7]","[4, 7, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-29,2 1/2,86.75,<music21.chord.Chord E3 G#3 B3 F#4>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-29,2 2/3,87,<music21.chord.Chord E3 G#3 B3 G4>,"[0, 3, 4, 7]","[4, 7, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-30,1,87.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-30,1 1/3,88,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-30,2,89,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-30,2 2/3,90,<music21.chord.Chord E3 G#3 B3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-31,1,90.5,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-31,1 2/3,91.5,<music21.chord.Chord E3 A#3 C#4 E4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-31,2,92,<music21.chord.Chord E3 G#3 B3 A#4>,"[0, 4, 6, 7]","[4, 8, 10, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-31,2 1/3,92.5,<music21.chord.Chord E3 G#3 B3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-32,1,93.5,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
-32,2,95,<music21.chord.Chord F#3 F#4>,[0],[6],Sculthorpe_Sea_Chant.mxl,Sculthorpe
-32,2 2/3,96,<music21.chord.Chord B3>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+0,2.667,0,<music21.chord.Chord B3>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+1,1.000,0.5,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+1,1.500,1.25,<music21.chord.Chord E3 G3 B3 F#4>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+1,1.667,1.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+1,2.000,2,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+1,2.500,2.75,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+1,2.667,3,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+2,1.000,3.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+2,1.333,4,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+2,2.000,5,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+2,2.667,6,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+3,1.000,6.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+3,1.500,7.25,<music21.chord.Chord E3 G3 B3 A4>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+3,1.667,7.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+3,2.000,8,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+3,2.500,8.75,<music21.chord.Chord E3 A3 C#4 D5>,"[0, 4, 5, 7]","[9, 1, 2, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+3,2.667,9,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+4,1.000,9.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+4,2.000,11,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+4,2.333,11.5,<music21.chord.Chord E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+4,2.667,12,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+5,1.000,12.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+5,1.333,13,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+5,1.667,13.5,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+5,2.000,14,<music21.chord.Chord C4 C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+5,2.333,14.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+5,2.667,15,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+6,1.000,15.5,<music21.chord.Chord E3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+6,1.333,16,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+6,1.667,16.5,<music21.chord.Chord E4 B4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+6,2.000,17,<music21.chord.Chord B3 B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+6,2.333,17.5,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+6,2.667,18,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,1.000,18.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,1.333,19,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,1.500,19.25,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,1.667,19.5,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,2.000,20,<music21.chord.Chord A3 D4>,"[0, 5]","[9, 2]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,2.333,20.5,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,2.500,20.75,<music21.chord.Chord F4>,[0],[5],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+7,2.667,21,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+8,1.000,21.5,<music21.chord.Chord E3 G#3 E4>,"[0, 4]","[4, 8]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+8,1.333,22,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+8,1.667,22.5,<music21.chord.Chord B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+8,2.000,23,<music21.chord.Chord E2 E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+8,2.667,24,<music21.chord.Chord B3>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+9,1.000,24.5,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+9,1.500,25.25,<music21.chord.Chord E3 G3 B3 F#4>,"[0, 2, 3, 7]","[4, 6, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+9,1.667,25.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+9,2.000,26,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+9,2.500,26.75,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+9,2.667,27,<music21.chord.Chord E3 A3 C#4 A4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+10,1.000,27.5,<music21.chord.Chord E3 G3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+10,1.333,28,<music21.chord.Chord E3 G3 B3 E4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+10,2.000,29,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+10,2.667,30,<music21.chord.Chord E3 A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+11,1.000,30.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+11,1.500,31.25,<music21.chord.Chord E3 G3 B3 A4>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+11,1.667,31.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+11,2.000,32,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+11,2.500,32.75,<music21.chord.Chord E3 A3 C#4 D5>,"[0, 4, 5, 7]","[9, 1, 2, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+11,2.667,33,<music21.chord.Chord E3 A3 C#4 E5>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+12,1.000,33.5,<music21.chord.Chord E3 G3 B3 B4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+12,2.000,35,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+12,2.333,35.5,<music21.chord.Chord E3 A3 C#4>,"[0, 4, 7]","[9, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+12,2.667,36,<music21.chord.Chord E3 A3 C#4 B4>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+13,1.000,36.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+13,1.333,37,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+13,1.667,37.5,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+13,2.000,38,<music21.chord.Chord C4 C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+13,2.333,38.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+13,2.667,39,<music21.chord.Chord D5>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+14,1.000,39.5,<music21.chord.Chord E3 B3 G5>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+14,1.333,40,<music21.chord.Chord E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+14,1.667,40.5,<music21.chord.Chord E4 E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+14,2.000,41,<music21.chord.Chord B3 E5>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+14,2.333,41.5,<music21.chord.Chord E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+14,2.667,42,<music21.chord.Chord E5>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,1.000,42.5,<music21.chord.Chord F3 A3 D5>,"[0, 3, 7]","[2, 5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,1.333,43,<music21.chord.Chord D5>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,1.500,43.25,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,1.667,43.5,<music21.chord.Chord C4 D5>,"[0, 2]","[0, 2]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,2.000,44,<music21.chord.Chord A3 C5>,"[0, 3]","[9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,2.333,44.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,2.500,44.75,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+15,2.667,45,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+16,1.000,45.5,<music21.chord.Chord E3 G#3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+16,1.333,46,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+16,1.667,46.5,<music21.chord.Chord B2 B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+16,2.000,47,<music21.chord.Chord E2 B4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+16,2.333,47.5,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+16,2.667,48,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+17,1.000,48.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+17,1.333,49,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+17,1.667,49.5,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+17,2.000,50,<music21.chord.Chord C4 C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+17,2.333,50.5,<music21.chord.Chord C5>,[0],[0],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+17,2.667,51,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+18,1.000,51.5,<music21.chord.Chord E3 B3 G4>,"[0, 3, 7]","[4, 7, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+18,1.333,52,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+18,1.667,52.5,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+18,2.000,53,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+18,2.667,54,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,1.000,54.5,<music21.chord.Chord F3 A3 A4>,"[0, 4]","[5, 9]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,1.333,55,<music21.chord.Chord A4>,[0],[9],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,1.500,55.25,<music21.chord.Chord G4>,[0],[7],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,1.667,55.5,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,2.000,56,<music21.chord.Chord A3 D4>,"[0, 5]","[9, 2]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,2.333,56.5,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,2.500,56.75,<music21.chord.Chord F4>,[0],[5],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+19,2.667,57,<music21.chord.Chord D4>,[0],[2],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+20,1.000,57.5,<music21.chord.Chord E3 G#3 E4>,"[0, 4]","[4, 8]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+20,1.333,58,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+20,1.667,58.5,<music21.chord.Chord B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+20,2.000,59,<music21.chord.Chord E2 E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+20,2.667,60,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+21,1.000,60.5,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+21,2.000,62,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+21,2.667,63,<music21.chord.Chord F2 E3 A3 C4 D4>,"[0, 3, 5, 7, 8]","[9, 0, 2, 4, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+22,1.000,63.5,<music21.chord.Chord E2 B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+22,1.333,64,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+22,1.667,64.5,<music21.chord.Chord E3 E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+22,2.000,65,<music21.chord.Chord B3 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+22,2.667,66,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+23,1.000,66.5,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+23,2.000,68,<music21.chord.Chord F2 E3 A3 C4 E4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+23,2.667,69,<music21.chord.Chord F2 E3 A3 C4 D4>,"[0, 3, 5, 7, 8]","[9, 0, 2, 4, 5]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+24,1.000,69.5,<music21.chord.Chord E2 B2 E4>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+24,1.667,70.5,<music21.chord.Chord E4>,[0],[4],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+24,2.000,71,<music21.chord.Chord B4 E5 B5>,"[0, 5]","[11, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+25,1.000,72.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+25,1.667,73.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+25,2.000,74,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+25,2.500,74.75,<music21.chord.Chord E3 G#3 B3 F#4>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+25,2.667,75,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+26,1.000,75.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+26,1.333,76,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+26,2.000,77,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+26,2.667,78,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+27,1.000,78.5,<music21.chord.Chord E3 A#3 C#4 D#5>,"[0, 3, 5, 6]","[10, 1, 3, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+27,1.500,79.25,<music21.chord.Chord E3 A#3 C#4 C#5>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+27,1.667,79.5,<music21.chord.Chord E3 A#3 C#4 D#5>,"[0, 3, 5, 6]","[10, 1, 3, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+27,2.000,80,<music21.chord.Chord E3 G#3 B3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+27,2.667,81,<music21.chord.Chord E3 G#3 B3 A#4>,"[0, 4, 6, 7]","[4, 8, 10, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+28,1.000,81.5,<music21.chord.Chord E3 A#3 C#4 C#5>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+28,2.000,83,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+28,2.333,83.5,<music21.chord.Chord C#5>,[0],[1],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+28,2.667,84,<music21.chord.Chord B4>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+29,1.000,84.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+29,1.667,85.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+29,2.000,86,<music21.chord.Chord E3 G#3 B3 G4>,"[0, 3, 4, 7]","[4, 7, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+29,2.500,86.75,<music21.chord.Chord E3 G#3 B3 F#4>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+29,2.667,87,<music21.chord.Chord E3 G#3 B3 G4>,"[0, 3, 4, 7]","[4, 7, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+30,1.000,87.5,<music21.chord.Chord E3 A#3 C#4 A#4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+30,1.333,88,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+30,2.000,89,<music21.chord.Chord E3 G#3 B3 G#4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+30,2.667,90,<music21.chord.Chord E3 G#3 B3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+31,1.000,90.5,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+31,1.667,91.5,<music21.chord.Chord E3 A#3 C#4 E4>,"[0, 3, 6]","[10, 1, 4]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+31,2.000,92,<music21.chord.Chord E3 G#3 B3 A#4>,"[0, 4, 6, 7]","[4, 8, 10, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+31,2.333,92.5,<music21.chord.Chord E3 G#3 B3 B4>,"[0, 4, 7]","[4, 8, 11]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+32,1.000,93.5,<music21.chord.Chord E3 A#3 C#4 F#4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",Sculthorpe_Sea_Chant.mxl,Sculthorpe
+32,2.000,95,<music21.chord.Chord F#3 F#4>,[0],[6],Sculthorpe_Sea_Chant.mxl,Sculthorpe
+32,2.667,96,<music21.chord.Chord B3>,[0],[11],Sculthorpe_Sea_Chant.mxl,Sculthorpe

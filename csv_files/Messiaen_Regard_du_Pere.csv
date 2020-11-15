@@ -1,454 +1,454 @@
 measureNumber,beatNumber,Offset,Chord,NormalForm,PCsInNormalForm,File,Composer
-1,1,0,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,1 1/3,0.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,1 2/3,0.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,2,0.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,2 1/3,0.666666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,2 2/3,0.833333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,3,1,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,3 1/3,1.166666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,3 2/3,1.333333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,4,1.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,4 1/3,1.666666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,4 2/3,1.833333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,5,2,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,5 1/3,2.166666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,5 2/3,2.333333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,6,2.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,6 1/3,2.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,6 2/3,2.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,7,3,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,7 1/3,3.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-1,7 2/3,3.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,1,3.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,1 1/6,3.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,1 1/3,3.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,1 1/2,4,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,1 2/3,4.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,1 5/6,4.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,2,4.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,2 1/6,4.666666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,2 1/3,4.833333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,2 1/2,5,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,2 2/3,5.166666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,2 5/6,5.333333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,3,5.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,3 1/6,5.666666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,3 1/3,5.833333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,3 1/2,6,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,3 2/3,6.166666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,3 5/6,6.333333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,4,6.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,4 1/6,6.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,4 1/3,6.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,4 1/2,7,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,4 2/3,7.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-2,4 5/6,7.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,1,7.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,1 1/6,7.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,1 1/3,7.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,1 1/2,8,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,1 2/3,8.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,1 5/6,8.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,2,8.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,2 1/6,8.666666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,2 1/3,8.833333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,2 1/2,9,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,2 2/3,9.166666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,2 5/6,9.333333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,3,9.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,3 1/6,9.666666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,3 1/3,9.833333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,3 1/2,10,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,3 2/3,10.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,3 5/6,10.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,4,10.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,4 1/6,10.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,4 1/3,10.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,4 1/2,11,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,4 2/3,11.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-3,4 5/6,11.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,1,11.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,1 1/6,11.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,1 1/3,11.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,1 1/2,12,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,1 2/3,12.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,1 5/6,12.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,2,12.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,2 1/6,12.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,2 1/3,12.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,2 1/2,13,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,2 2/3,13.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,2 5/6,13.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,3,13.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,3 1/6,13.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,3 1/3,13.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,3 1/2,14,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,3 2/3,14.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,3 5/6,14.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,4,14.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,4 1/6,14.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,4 1/3,14.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,4 1/2,15,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,4 2/3,15.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-4,4 5/6,15.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,1,15.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,1 1/6,15.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,1 1/3,15.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,1 1/2,16,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,1 2/3,16.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,1 5/6,16.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,2,16.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,2 1/6,16.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,2 1/3,16.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,2 1/2,17,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,2 2/3,17.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 F#4 A#4>,"[0, 2, 4, 6, 7]","[4, 6, 8, 10, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,2 5/6,17.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 F#4 G#4 G#5>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,3,17.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,3 1/6,17.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,3 1/3,17.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,3 1/2,18,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,3 2/3,18.16666667,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,3 5/6,18.33333333,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,4,18.5,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,4 1/6,18.66666667,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,4 1/3,18.83333333,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4 E5>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,4 1/2,19,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,4 2/3,19.16666667,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-5,4 5/6,19.33333333,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4 F5>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,1,19.5,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,1 1/6,19.66666667,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,1 1/3,19.83333333,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4 G#5>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,1 1/2,20,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,1 2/3,20.16666667,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,1 5/6,20.33333333,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4 A#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,2,20.5,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,2 1/6,20.66666667,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,2 1/3,20.83333333,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5 G6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,2 1/2,21,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,2 2/3,21.16666667,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,2 5/6,21.33333333,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5 C#6>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,3,21.5,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,3 1/6,21.66666667,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,3 1/3,21.83333333,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,3 1/2,22,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,3 2/3,22.16666667,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,3 5/6,22.33333333,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,4,22.5,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,4 1/6,22.66666667,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,4 1/3,22.83333333,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,4 1/2,23,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,4 2/3,23.16666667,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-6,4 5/6,23.33333333,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,1,23.5,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,1 1/6,23.66666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,1 1/3,23.83333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,1 1/2,24,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,1 2/3,24.16666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,1 5/6,24.33333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,2,24.5,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,2 1/6,24.66666667,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,2 1/3,24.83333333,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,2 1/2,25,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,2 2/3,25.16666667,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,2 5/6,25.33333333,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,3,25.5,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,3 1/6,25.66666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,3 1/3,25.83333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,3 1/2,26,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,3 2/3,26.16666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,3 5/6,26.33333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,4,26.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,4 1/6,26.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,4 1/3,26.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,4 1/2,27,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,4 2/3,27.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-7,4 5/6,27.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,1,27.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,1 1/6,27.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,1 1/3,27.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,1 1/2,28,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,1 2/3,28.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,1 5/6,28.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,2,28.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,2 1/6,28.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,2 1/3,28.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,2 1/2,29,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,2 2/3,29.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-8,2 5/6,29.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,1,29.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,1 1/6,29.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,1 1/3,29.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,1 1/2,30,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,1 2/3,30.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,1 5/6,30.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,2,30.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,2 1/6,30.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,2 1/3,30.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,2 1/2,31,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,2 2/3,31.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-9,2 5/6,31.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,1,31.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,1 1/6,31.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,1 1/3,31.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,1 1/2,32,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,1 2/3,32.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,1 5/6,32.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,2,32.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,2 1/6,32.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,2 1/3,32.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,2 1/2,33,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,2 2/3,33.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,2 5/6,33.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,3,33.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,3 1/6,33.66666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,3 1/3,33.83333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,3 1/2,34,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,3 2/3,34.16666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,3 5/6,34.33333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,4,34.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,4 1/6,34.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,4 1/3,34.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,4 1/2,35,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,4 2/3,35.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-10,4 5/6,35.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,1,35.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,1 1/6,35.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,1 1/3,35.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,1 1/2,36,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,1 2/3,36.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,1 5/6,36.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,2,36.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,2 1/6,36.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,2 1/3,36.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,2 1/2,37,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,2 2/3,37.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,2 5/6,37.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,3,37.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,3 1/6,37.66666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,3 1/3,37.83333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,3 1/2,38,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,3 2/3,38.16666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,3 5/6,38.33333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,4,38.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,4 1/6,38.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,4 1/3,38.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,4 1/2,39,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,4 2/3,39.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-11,4 5/6,39.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,1,39.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,1 1/6,39.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,1 1/3,39.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,1 1/2,40,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,1 2/3,40.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,1 5/6,40.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,2,40.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,2 1/6,40.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,2 1/3,40.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,2 1/2,41,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,2 2/3,41.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-12,2 5/6,41.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,1,41.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,1 1/6,41.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,1 1/3,41.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,1 1/2,42,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,1 2/3,42.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,1 5/6,42.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,2,42.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,2 1/6,42.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,2 1/3,42.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,2 1/2,43,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,2 2/3,43.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-13,2 5/6,43.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,1,43.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,1 1/6,43.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,1 1/3,43.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,1 1/2,44,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,1 2/3,44.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,1 5/6,44.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,2,44.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,2 1/6,44.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,2 1/3,44.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,2 1/2,45,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,2 2/3,45.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,2 5/6,45.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,3,45.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,3 1/6,45.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,3 1/3,45.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,3 1/2,46,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,3 2/3,46.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,3 5/6,46.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,4,46.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,4 1/6,46.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,4 1/3,46.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,4 1/2,47,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,4 2/3,47.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-14,4 5/6,47.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,1,47.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,1 1/6,47.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,1 1/3,47.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,1 1/2,48,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,1 2/3,48.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,1 5/6,48.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,2,48.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,2 1/6,48.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,2 1/3,48.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,2 1/2,49,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,2 2/3,49.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,2 5/6,49.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,3,49.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,3 1/6,49.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,3 1/3,49.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,3 1/2,50,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,3 2/3,50.16666667,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,3 5/6,50.33333333,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,4,50.5,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,4 1/6,50.66666667,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,4 1/3,50.83333333,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4 E5>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,4 1/2,51,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,4 2/3,51.16666667,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-15,4 5/6,51.33333333,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4 F5>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,1,51.5,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,1 1/6,51.66666667,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,1 1/3,51.83333333,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4 G#5>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,1 1/2,52,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,1 2/3,52.16666667,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,1 5/6,52.33333333,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4 A#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,2,52.5,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,2 1/6,52.66666667,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,2 1/3,52.83333333,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5 G6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,2 1/2,53,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,2 2/3,53.16666667,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,2 5/6,53.33333333,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5 C#6>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,3,53.5,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 C#5 D#5>,"[0, 3, 5, 7]","[10, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,3 1/6,53.66666667,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,3 1/3,53.83333333,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,3 1/2,54,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,3 2/3,54.16666667,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,3 5/6,54.33333333,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,4,54.5,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,4 1/6,54.66666667,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,4 1/3,54.83333333,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,4 1/2,55,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,4 2/3,55.16666667,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-16,4 5/6,55.33333333,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,1,55.5,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,1 1/6,55.66666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,1 1/3,55.83333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,1 1/2,56,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,1 2/3,56.16666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,1 5/6,56.33333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,2,56.5,<music21.chord.Chord G1 G#1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,2 1/6,56.66666667,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,2 1/3,56.83333333,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,2 1/2,57,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,2 2/3,57.16666667,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,2 5/6,57.33333333,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,3,57.5,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,3 1/6,57.66666667,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,3 1/3,57.83333333,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,3 1/2,58,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,3 2/3,58.16666667,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,3 5/6,58.33333333,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,4,58.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,4 1/6,58.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,4 1/3,58.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,4 1/2,59,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,4 2/3,59.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-17,4 5/6,59.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,1,59.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,1 1/6,59.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,1 1/3,59.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,1 1/2,60,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,1 2/3,60.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,1 5/6,60.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,2,60.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,2 1/6,60.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,2 1/3,60.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,2 1/2,61,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,2 2/3,61.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,2 5/6,61.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,3,61.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,3 1/6,61.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,3 1/3,61.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,3 1/2,62,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,3 2/3,62.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,3 5/6,62.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,4,62.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,4 1/6,62.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,4 1/3,62.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,4 1/2,63,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,4 2/3,63.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-18,4 5/6,63.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,1,63.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,1 1/6,63.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,1 1/3,63.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,1 1/2,64,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,1 2/3,64.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,1 5/6,64.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,2,64.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,2 1/6,64.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,2 1/3,64.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,2 1/2,65,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,2 2/3,65.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,2 5/6,65.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,3,65.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,3 1/6,65.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,3 1/3,65.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,3 1/2,66,<music21.chord.Chord C#2 D2 E#2 G#2 B2 C#3 D3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8, 9]","[5, 8, 11, 1, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,3 2/3,66.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 B2 C#3 D3 E#3 G#3 B3 C#4 D4 E#4 G#4 B4 C#5>,"[0, 3, 6, 8, 9]","[5, 8, 11, 1, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,3 5/6,66.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 B2 C#3 D3 E#3 G#3 B3 C#4 D4 E#4 G#4 B4 C#5 C#6>,"[0, 3, 6, 8, 9]","[5, 8, 11, 1, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,4,66.5,<music21.chord.Chord A#1 C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,4 1/6,66.66666667,<music21.chord.Chord A#1 C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,4 1/3,66.83333333,<music21.chord.Chord A#1 C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 A#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,4 1/2,67,<music21.chord.Chord D1 F#1 A1 C2 D2 F#2 A2 C3 D3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,4 2/3,67.16666667,<music21.chord.Chord D1 F#1 A1 C2 D2 F#2 A2 C3 D3 F#3 A3 C4 D4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-19,4 5/6,67.33333333,<music21.chord.Chord D1 F#1 A1 C2 D2 F#2 A2 C3 D3 F#3 A3 C4 D4 D5>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,1,67.5,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,1 1/6,67.66666667,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,1 1/3,67.83333333,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,1 1/2,68,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,1 2/3,68.16666667,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,1 5/6,68.33333333,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,2,68.5,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G#3>,"[0, 2, 3, 4, 6, 8]","[6, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,2 1/6,68.66666667,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,2 1/3,68.83333333,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,2 1/2,69,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,2 2/3,69.16666667,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,2 5/6,69.33333333,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,3,69.5,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,3 1/6,69.66666667,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,3 1/3,69.83333333,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,3 1/2,70,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,3 2/3,70.16666667,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,3 5/6,70.33333333,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,4,70.5,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,4 1/6,70.66666667,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,4 1/3,70.83333333,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,4 1/2,71,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,4 2/3,71.16666667,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-20,4 5/6,71.33333333,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,1,71.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,1 1/6,71.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,1 1/3,71.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,1 1/2,72,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,1 2/3,72.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,1 5/6,72.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,2,72.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,2 1/6,72.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,2 1/3,72.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,2 1/2,73,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,2 2/3,73.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,2 5/6,73.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,3,73.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,3 1/6,73.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,3 1/3,73.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,3 1/2,74,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,3 2/3,74.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,3 5/6,74.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,4,74.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,4 1/6,74.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,4 1/3,74.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,4 1/2,75,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,4 2/3,75.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
-21,4 5/6,75.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,1.000,0,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,1.333,0.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,1.667,0.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,2.000,0.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,2.333,0.666666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,2.667,0.833333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,3.000,1,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,3.333,1.166666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,3.667,1.333333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,4.000,1.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,4.333,1.666666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,4.667,1.833333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,5.000,2,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,5.333,2.166666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,5.667,2.333333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,6.000,2.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,6.333,2.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,6.667,2.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,7.000,3,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,7.333,3.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+1,7.667,3.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,1.000,3.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,1.167,3.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,1.333,3.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,1.500,4,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,1.667,4.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,1.833,4.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,2.000,4.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,2.167,4.666666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,2.333,4.833333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,2.500,5,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,2.667,5.166666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,2.833,5.333333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,3.000,5.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,3.167,5.666666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,3.333,5.833333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,3.500,6,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,3.667,6.166666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,3.833,6.333333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,4.000,6.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,4.167,6.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,4.333,6.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,4.500,7,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,4.667,7.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+2,4.833,7.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,1.000,7.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,1.167,7.666666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,1.333,7.833333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,1.500,8,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,1.667,8.166666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,1.833,8.333333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,2.000,8.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,2.167,8.666666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,2.333,8.833333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,2.500,9,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,2.667,9.166666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,2.833,9.333333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,3.000,9.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,3.167,9.666666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,3.333,9.833333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,3.500,10,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,3.667,10.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,3.833,10.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,4.000,10.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,4.167,10.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,4.333,10.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,4.500,11,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,4.667,11.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+3,4.833,11.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,1.000,11.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,1.167,11.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,1.333,11.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,1.500,12,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,1.667,12.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,1.833,12.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,2.000,12.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,2.167,12.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,2.333,12.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,2.500,13,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,2.667,13.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,2.833,13.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,3.000,13.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,3.167,13.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,3.333,13.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,3.500,14,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,3.667,14.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,3.833,14.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,4.000,14.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,4.167,14.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,4.333,14.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,4.500,15,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,4.667,15.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+4,4.833,15.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,1.000,15.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,1.167,15.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,1.333,15.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,1.500,16,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,1.667,16.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,1.833,16.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,2.000,16.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,2.167,16.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,2.333,16.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,2.500,17,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,2.667,17.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 F#4 A#4>,"[0, 2, 4, 6, 7]","[4, 6, 8, 10, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,2.833,17.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 F#4 G#4 G#5>,"[0, 2, 4, 7]","[4, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,3.000,17.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,3.167,17.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,3.333,17.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,3.500,18,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,3.667,18.16666667,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,3.833,18.33333333,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,4.000,18.5,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,4.167,18.66666667,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,4.333,18.83333333,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4 E5>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,4.500,19,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,4.667,19.16666667,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+5,4.833,19.33333333,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4 F5>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,1.000,19.5,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,1.167,19.66666667,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,1.333,19.83333333,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4 G#5>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,1.500,20,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,1.667,20.16666667,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,1.833,20.33333333,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4 A#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,2.000,20.5,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,2.167,20.66666667,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,2.333,20.83333333,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5 G6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,2.500,21,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,2.667,21.16666667,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,2.833,21.33333333,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5 C#6>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,3.000,21.5,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,3.167,21.66666667,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,3.333,21.83333333,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,3.500,22,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,3.667,22.16666667,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,3.833,22.33333333,<music21.chord.Chord B#2 E3 A3 A#3 B#3 E4 A4 A#4 B#4 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,4.000,22.5,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,4.167,22.66666667,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,4.333,22.83333333,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,4.500,23,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,4.667,23.16666667,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+6,4.833,23.33333333,<music21.chord.Chord E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 G4 A#4 D#5 E5 E6>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,1.000,23.5,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,1.167,23.66666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,1.333,23.83333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,1.500,24,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,1.667,24.16666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,1.833,24.33333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,2.000,24.5,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,2.167,24.66666667,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,2.333,24.83333333,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,2.500,25,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,2.667,25.16666667,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,2.833,25.33333333,<music21.chord.Chord E1 G1 A#1 D#2 E2 G2 A#2 D#3 E3 G3 A#3 D#4 E4 E5>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,3.000,25.5,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,3.167,25.66666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,3.333,25.83333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,3.500,26,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,3.667,26.16666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,3.833,26.33333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,4.000,26.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,4.167,26.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,4.333,26.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,4.500,27,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,4.667,27.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+7,4.833,27.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,1.000,27.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,1.167,27.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,1.333,27.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,1.500,28,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,1.667,28.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,1.833,28.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,2.000,28.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,2.167,28.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,2.333,28.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,2.500,29,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,2.667,29.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+8,2.833,29.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,1.000,29.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,1.167,29.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,1.333,29.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,1.500,30,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,1.667,30.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,1.833,30.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,2.000,30.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,2.167,30.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,2.333,30.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,2.500,31,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,2.667,31.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+9,2.833,31.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,1.000,31.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,1.167,31.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,1.333,31.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,1.500,32,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,1.667,32.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,1.833,32.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,2.000,32.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,2.167,32.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,2.333,32.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,2.500,33,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,2.667,33.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,2.833,33.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,3.000,33.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,3.167,33.66666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,3.333,33.83333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,3.500,34,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,3.667,34.16666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,3.833,34.33333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,4.000,34.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,4.167,34.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,4.333,34.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,4.500,35,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,4.667,35.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+10,4.833,35.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,1.000,35.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,1.167,35.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,1.333,35.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,1.500,36,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,1.667,36.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,1.833,36.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,2.000,36.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,2.167,36.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,2.333,36.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,2.500,37,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,2.667,37.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,2.833,37.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,3.000,37.5,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,3.167,37.66666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,3.333,37.83333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,3.500,38,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,3.667,38.16666667,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,3.833,38.33333333,<music21.chord.Chord C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 C#5 C#6>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,4.000,38.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,4.167,38.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,4.333,38.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,4.500,39,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,4.667,39.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+11,4.833,39.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,1.000,39.5,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,1.167,39.66666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,1.333,39.83333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,1.500,40,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,1.667,40.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,1.833,40.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,2.000,40.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,2.167,40.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,2.333,40.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,2.500,41,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,2.667,41.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+12,2.833,41.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,1.000,41.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,1.167,41.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,1.333,41.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,1.500,42,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,1.667,42.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,1.833,42.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,2.000,42.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,2.167,42.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,2.333,42.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,2.500,43,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,2.667,43.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+13,2.833,43.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,1.000,43.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,1.167,43.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,1.333,43.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,1.500,44,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,1.667,44.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,1.833,44.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,2.000,44.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,2.167,44.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,2.333,44.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,2.500,45,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,2.667,45.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,2.833,45.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,3.000,45.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,3.167,45.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,3.333,45.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,3.500,46,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,3.667,46.16666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,3.833,46.33333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,4.000,46.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,4.167,46.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,4.333,46.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,4.500,47,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,4.667,47.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+14,4.833,47.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,1.000,47.5,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,1.167,47.66666667,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 D4 E#4 G#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,1.333,47.83333333,<music21.chord.Chord C#2 D2 E#2 G#2 C#3 D3 E#3 G#3 C#4 C#5 C#6>,"[0, 1, 4, 7]","[1, 2, 5, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,1.500,48,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,1.667,48.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,1.833,48.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,2.000,48.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,2.167,48.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,2.333,48.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,2.500,49,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,2.667,49.16666667,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,2.833,49.33333333,<music21.chord.Chord G#1 B1 E2 G#2 B2 E3 G#3 B3 E4 G#4 G#5>,"[0, 4, 7]","[4, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,3.000,49.5,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,3.167,49.66666667,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,3.333,49.83333333,<music21.chord.Chord G#1 A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 G#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,3.500,50,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,3.667,50.16666667,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,3.833,50.33333333,<music21.chord.Chord C#1 E#1 G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,4.000,50.5,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,4.167,50.66666667,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,4.333,50.83333333,<music21.chord.Chord E1 G#1 B1 D2 E2 G#2 B2 D3 E3 G#3 B3 D4 E4 E5>,"[0, 3, 6, 8]","[8, 11, 2, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,4.500,51,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,4.667,51.16666667,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+15,4.833,51.33333333,<music21.chord.Chord F1 A#1 D2 E2 F2 A#2 D3 E3 F3 A#3 D4 E4 F4 F5>,"[0, 4, 6, 7]","[10, 2, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,1.000,51.5,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,1.167,51.66666667,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,1.333,51.83333333,<music21.chord.Chord G#1 C#2 F2 G2 G#2 C#3 F3 G3 G#3 C#4 F4 G4 G#4 G#5>,"[0, 4, 6, 7]","[1, 5, 7, 8]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,1.500,52,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,1.667,52.16666667,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,1.833,52.33333333,<music21.chord.Chord A#1 D2 G2 G#2 A#2 D3 G3 G#3 A#3 D4 G4 G#4 A#4 A#5>,"[0, 1, 3, 7]","[7, 8, 10, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,2.000,52.5,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,2.167,52.66666667,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,2.333,52.83333333,<music21.chord.Chord G2 B2 D3 F3 G3 B3 D4 F4 G4 B4 D5 F5 G5 G6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,2.500,53,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,2.667,53.16666667,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,2.833,53.33333333,<music21.chord.Chord C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 B4 C#5 C#6>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,3.000,53.5,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 C#5 D#5>,"[0, 3, 5, 7]","[10, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,3.167,53.66666667,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,3.333,53.83333333,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,3.500,54,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,3.667,54.16666667,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,3.833,54.33333333,<music21.chord.Chord D#3 F3 A#3 C#4 D#4 F4 A#4 B#4 C#5 D#5 E5 A5 A#5 B#5 B#6>,"[0, 1, 3, 4, 6, 7, 8]","[9, 10, 0, 1, 3, 4, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,4.000,54.5,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,4.167,54.66666667,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,4.333,54.83333333,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,4.500,55,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,4.667,55.16666667,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+16,4.833,55.33333333,<music21.chord.Chord A2 C#3 E3 G3 A3 C#4 E4 G4 A4 A#4 D#5 E5 E6>,"[0, 2, 3, 6, 8, 9]","[1, 3, 4, 7, 9, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,1.000,55.5,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,1.167,55.66666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,1.333,55.83333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,1.500,56,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,1.667,56.16666667,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,1.833,56.33333333,<music21.chord.Chord A#1 B1 D2 E#2 A#2 B2 D3 E#3 A#3 B3 D4 E#4 A#4 A#5>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,2.000,56.5,<music21.chord.Chord G1 G#1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,2.167,56.66666667,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,2.333,56.83333333,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,2.500,57,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,2.667,57.16666667,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,2.833,57.33333333,<music21.chord.Chord G1 A1 C2 D2 F#2 G#2 A2 C3 D3 F#3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 6, 8]","[6, 7, 8, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,3.000,57.5,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,3.167,57.66666667,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,3.333,57.83333333,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,3.500,58,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,3.667,58.16666667,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,3.833,58.33333333,<music21.chord.Chord F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 F#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,4.000,58.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,4.167,58.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,4.333,58.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,4.500,59,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,4.667,59.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+17,4.833,59.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,1.000,59.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,1.167,59.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,1.333,59.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,1.500,60,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,1.667,60.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,1.833,60.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,2.000,60.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,2.167,60.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,2.333,60.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,2.500,61,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,2.667,61.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,2.833,61.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,3.000,61.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,3.167,61.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,3.333,61.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,3.500,62,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,3.667,62.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,3.833,62.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,4.000,62.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,4.167,62.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,4.333,62.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,4.500,63,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,4.667,63.16666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+18,4.833,63.33333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,1.000,63.5,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,1.167,63.66666667,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,1.333,63.83333333,<music21.chord.Chord C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 C#5 C#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,1.500,64,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,1.667,64.16666667,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,1.833,64.33333333,<music21.chord.Chord A#1 C#2 F#2 A#2 C#3 F#3 A#3 C#4 F#4 A#4 A#5>,"[0, 4, 7]","[6, 10, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,2.000,64.5,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,2.167,64.66666667,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,2.333,64.83333333,<music21.chord.Chord A#1 B#1 E2 A2 A#2 B#2 E3 A3 A#3 B#3 E4 A4 A#4 A#5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,2.500,65,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,2.667,65.16666667,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,2.833,65.33333333,<music21.chord.Chord A#1 D#2 G2 A#2 D#3 G3 A#3 D#4 G4 A#4 A#5>,"[0, 4, 7]","[3, 7, 10]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,3.000,65.5,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,3.167,65.66666667,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,3.333,65.83333333,<music21.chord.Chord G#1 B1 C#2 E#2 G#2 B2 C#3 E#3 G#3 B3 C#4 E#4 G#4 G#5>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,3.500,66,<music21.chord.Chord C#2 D2 E#2 G#2 B2 C#3 D3 E#3 G#3 B3 C#4>,"[0, 3, 6, 8, 9]","[5, 8, 11, 1, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,3.667,66.16666667,<music21.chord.Chord C#2 D2 E#2 G#2 B2 C#3 D3 E#3 G#3 B3 C#4 D4 E#4 G#4 B4 C#5>,"[0, 3, 6, 8, 9]","[5, 8, 11, 1, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,3.833,66.33333333,<music21.chord.Chord C#2 D2 E#2 G#2 B2 C#3 D3 E#3 G#3 B3 C#4 D4 E#4 G#4 B4 C#5 C#6>,"[0, 3, 6, 8, 9]","[5, 8, 11, 1, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,4.000,66.5,<music21.chord.Chord A#1 C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,4.167,66.66666667,<music21.chord.Chord A#1 C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,4.333,66.83333333,<music21.chord.Chord A#1 C#2 D#2 F#2 A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 A#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,4.500,67,<music21.chord.Chord D1 F#1 A1 C2 D2 F#2 A2 C3 D3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,4.667,67.16666667,<music21.chord.Chord D1 F#1 A1 C2 D2 F#2 A2 C3 D3 F#3 A3 C4 D4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+19,4.833,67.33333333,<music21.chord.Chord D1 F#1 A1 C2 D2 F#2 A2 C3 D3 F#3 A3 C4 D4 D5>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,1.000,67.5,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,1.167,67.66666667,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,1.333,67.83333333,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,1.500,68,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,1.667,68.16666667,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,1.833,68.33333333,<music21.chord.Chord F#1 G#1 B1 D#2 F#2 G#2 B2 D#3 F#3 G#3 B3 D#4 F#4 F#5>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,2.000,68.5,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G#3>,"[0, 2, 3, 4, 6, 8]","[6, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,2.167,68.66666667,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,2.333,68.83333333,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,2.500,69,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,2.667,69.16666667,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,2.833,69.33333333,<music21.chord.Chord G#1 A1 C2 D2 F#2 G#2 A#2 C3 D3 F#3 G3 G#3 A3 C4 D4 F#4 G#4 G#5>,"[0, 1, 2, 3, 4, 6, 8]","[6, 7, 8, 9, 10, 0, 2]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,3.000,69.5,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,3.167,69.66666667,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,3.333,69.83333333,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,3.500,70,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,3.667,70.16666667,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,3.833,70.33333333,<music21.chord.Chord C#2 D2 E#2 G2 B2 C#3 D3 E#3 G3 B3 C#4 D4 E#4 G4 B4 C#5 C#6>,"[0, 2, 3, 6, 8]","[11, 1, 2, 5, 7]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,4.000,70.5,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,4.167,70.66666667,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,4.333,70.83333333,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,4.500,71,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,4.667,71.16666667,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+20,4.833,71.33333333,<music21.chord.Chord D#2 E#2 A2 B#2 C#3 D#3 E#3 A3 B#3 C#4 D#4 E#4 A4 B#4 C#5 D#5 D#6>,"[0, 3, 4, 6, 8]","[9, 0, 1, 3, 5]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,1.000,71.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,1.167,71.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,1.333,71.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,1.500,72,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,1.667,72.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,1.833,72.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,2.000,72.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,2.167,72.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,2.333,72.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,2.500,73,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,2.667,73.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,2.833,73.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,3.000,73.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,3.167,73.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,3.333,73.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,3.500,74,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,3.667,74.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,3.833,74.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,4.000,74.5,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,4.167,74.66666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,4.333,74.83333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,4.500,75,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,4.667,75.16666667,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen
+21,4.833,75.33333333,<music21.chord.Chord A#2 C#3 D#3 F#3 A#3 C#4 D#4 F#4 A#4 C#5 D#5 F#5 A#5 A#6>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Messiaen_Regard_du_Pere.mxl,Messiaen

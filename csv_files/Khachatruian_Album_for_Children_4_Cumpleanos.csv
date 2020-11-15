@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord B4 B3>,[0],[11],Album for Children 4 Cumpleanos E major.mid,Khachatruian,,
 1.25,<music21.chord.Chord B3>,[0],[11],Album for Children 4 Cumpleanos E major.mid,Khachatruian,,
 1.5,<music21.chord.Chord B4 B3>,[0],[11],Album for Children 4 Cumpleanos E major.mid,Khachatruian,,

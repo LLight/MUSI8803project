@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord A5 C6 F6>,"[0, 4, 7]","[5, 9, 0]",Lighting the Tree S186 F Major.mid,Liszt,,
 0.5,<music21.chord.Chord A5 C6 F6 B-4>,"[0, 4, 5, 7]","[5, 9, 10, 0]",Lighting the Tree S186 F Major.mid,Liszt,,
 0.75,<music21.chord.Chord A5 C6 F6 B-4>,"[0, 4, 5, 7]","[5, 9, 10, 0]",Lighting the Tree S186 F Major.mid,Liszt,,

@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,measureNumber,Measure Count,Composer
+Offset,Chord,NormalForm,PCsInNormalForm,File,measureNumber,beatNumber,Composer
 16.125,<music21.chord.Chord F5>,[0],[5],6 Etudes for Piano Op 111 Prelude and Fugue Eb minor.mid,,,Saint-Saens
 16.25,<music21.chord.Chord B5 F5>,"[0, 6]","[5, 11]",6 Etudes for Piano Op 111 Prelude and Fugue Eb minor.mid,,,Saint-Saens
 16.625,<music21.chord.Chord F5 B5 F#3 B-3 E-4>,"[0, 1, 5, 7, 8]","[10, 11, 3, 5, 6]",6 Etudes for Piano Op 111 Prelude and Fugue Eb minor.mid,,,Saint-Saens

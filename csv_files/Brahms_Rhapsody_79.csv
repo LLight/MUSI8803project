@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord D4 D1 D2>,[0],[2],Rhapsody 79 2 G minor.mid,Brahms,0,4
 0.5,<music21.chord.Chord D3 D4 D2>,[0],[2],Rhapsody 79 2 G minor.mid,Brahms,0,4.5
 0.666666667,<music21.chord.Chord D4 D3>,[0],[2],Rhapsody 79 2 G minor.mid,Brahms,0,4.666666667

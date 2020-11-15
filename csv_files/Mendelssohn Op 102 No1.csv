@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Beat Number
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord E1 E2>,[0],[4],Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,1
 0.25,<music21.chord.Chord B3 E4 G4 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,1.25
 0.5,<music21.chord.Chord B3 E4 G4 E3 B2 E1 E2>,"[0, 3, 7]","[4, 7, 11]",Songs without Words Op102 No1 E minor.mid,Mendelssohn,1,1.5

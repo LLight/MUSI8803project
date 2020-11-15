@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Beat Number
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord C4>,[0],[0],Etudes Op299No9 C major ,Czerny,1,1
 0.25,<music21.chord.Chord D4>,[0],[2],Etudes Op299No9 C major ,Czerny,1,1.25
 0.5,<music21.chord.Chord E4>,[0],[4],Etudes Op299No9 C major ,Czerny,1,1.5

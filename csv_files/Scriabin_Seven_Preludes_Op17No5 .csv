@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 1,<music21.chord.Chord C7 C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1
 1.125,<music21.chord.Chord E6 C3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.125
 1.25,<music21.chord.Chord C3 G3 C4>,"[0, 5]","[7, 0]",Seven Preludes Op17No5 F minor.mid,Scriabin,1,1.25

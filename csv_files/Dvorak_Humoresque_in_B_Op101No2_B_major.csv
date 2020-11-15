@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord E-5 F#4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",Humoresque in B Op101No2 B major.mid,Dvorak,1,1
 0.5,<music21.chord.Chord F#5 E-4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",Humoresque in B Op101No2 B major.mid,Dvorak,1,1.5
 1,<music21.chord.Chord B4 E4 B2 F#3>,"[0, 2, 7]","[4, 6, 11]",Humoresque in B Op101No2 B major.mid,Dvorak,1,2

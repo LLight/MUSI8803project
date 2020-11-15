@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord F#5 F#6>,[0],[6],Pianoflage in C major.mid,Bargy,0,2
 0.25,<music21.chord.Chord G5 G6>,[0],[7],Pianoflage in C major.mid,Bargy,0,2.25
 1,<music21.chord.Chord G#5 G#6>,[0],[8],Pianoflage in C major.mid,Bargy,1,1

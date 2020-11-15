@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 7,<music21.chord.Chord B-5>,[0],[10],Six Bagatelles IV Rondo Op107 Bb Major.mid,Hummel,0,2.5
 7.25,<music21.chord.Chord C6>,[0],[0],Six Bagatelles IV Rondo Op107 Bb Major.mid,Hummel,0,2.75
 7.5,<music21.chord.Chord D6>,[0],[2],Six Bagatelles IV Rondo Op107 Bb Major.mid,Hummel,1,1

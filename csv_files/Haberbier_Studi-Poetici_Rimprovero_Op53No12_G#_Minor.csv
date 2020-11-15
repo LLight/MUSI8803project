@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 5.5,<music21.chord.Chord E-2>,[0],[3],Studi-Poetici Rimprovero Op53No12 G# Minor.mid,Haberbier,0,4.7
 6,<music21.chord.Chord G#1 G#2>,[0],[8],Studi-Poetici Rimprovero Op53No12 G# Minor.mid,Haberbier,1,1
 6.5,<music21.chord.Chord B3 E-4 G#4 G#1 G#2>,"[0, 3, 7]","[8, 11, 3]",Studi-Poetici Rimprovero Op53No12 G# Minor.mid,Haberbier,1,1.3

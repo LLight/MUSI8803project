@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,measureNumber,MeasureCount,Composer
+Offset,Chord,NormalForm,PCsInNormalForm,File,measureNumber,beatNumber,Composer
 0,<music21.chord.Chord A3 A1 A2>,[0],[9],Prelude in C#- Op3No2 C#-.mid,,,Rachmaninov
 2.75,<music21.chord.Chord A3 A1>,[0],[9],Prelude in C#- Op3No2 C#-.mid,,,Rachmaninov
 3.875,<music21.chord.Chord G#2 G#3 G#1>,[0],[8],Prelude in C#- Op3No2 C#-.mid,,,Rachmaninov

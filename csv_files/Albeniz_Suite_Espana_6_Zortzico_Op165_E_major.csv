@@ -1,784 +1,784 @@
-Offset,Chord,NormalForm,PCsInNormalForm,measureNumber,Measure Beat,Composer
-0,<music21.chord.Chord B3>,[0],[11],1,1,Albeniz
-0.5,<music21.chord.Chord B3>,[0],[11],1,2,Albeniz
-1.25,<music21.chord.Chord B3>,[0],[11],1,3.5,Albeniz
-1.5,<music21.chord.Chord B3>,[0],[11],1,4,Albeniz
-2.25,<music21.chord.Chord B3>,[0],[11],1,0.5,Albeniz
-2.5,<music21.chord.Chord B3>,[0],[11],2,1,Albeniz
-3,<music21.chord.Chord B3>,[0],[11],2,2,Albeniz
-3.75,<music21.chord.Chord B3>,[0],[11],2,3.5,Albeniz
-4,<music21.chord.Chord F4 G#4 B3>,"[0, 3, 6]","[5, 8, 11]",2,4,Albeniz
-4.666666667,<music21.chord.Chord F4 G#4>,"[0, 3]","[5, 8]",2,0.333333333,Albeniz
-4.75,<music21.chord.Chord F4 G#4 B3>,"[0, 3, 6]","[5, 8, 11]",2,0.5,Albeniz
-5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",3,1,Albeniz
-5.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",3,2,Albeniz
-6.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",3,3.5,Albeniz
-6.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",3,4,Albeniz
-7.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",3,0.5,Albeniz
-7.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",4,1,Albeniz
-8,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",4,2,Albeniz
-8.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",4,3.5,Albeniz
-9,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",4,4,Albeniz
-9.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",4,0.5,Albeniz
-10,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",5,1,Albeniz
-10.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",5,1.25,Albeniz
-10.25,<music21.chord.Chord B4 B3>,[0],[11],5,1.5,Albeniz
-10.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",5,1.666666667,Albeniz
-10.45833333,<music21.chord.Chord B4 B3>,[0],[11],5,1.916666667,Albeniz
-10.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",5,2,Albeniz
-11.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",5,3.5,Albeniz
-11.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",5,4,Albeniz
-12.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",5,0.5,Albeniz
-12.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",6,1,Albeniz
-13,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",6,2,Albeniz
-13.66666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",6,3.333333333,Albeniz
-13.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",6,3.5,Albeniz
-13.875,<music21.chord.Chord E4 E3>,[0],[4],6,3.75,Albeniz
-14,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",6,4,Albeniz
-14.66666667,<music21.chord.Chord E3>,[0],[4],6,0.333333333,Albeniz
-14.75,<music21.chord.Chord D4>,[0],[2],6,0.5,Albeniz
-15,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",7,1,Albeniz
-15.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",7,2,Albeniz
-16.16666667,<music21.chord.Chord C#4>,[0],[1],7,3.333333333,Albeniz
-16.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",7,3.5,Albeniz
-16.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",7,3.75,Albeniz
-16.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",7,4,Albeniz
-17.16666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",7,0.333333333,Albeniz
-17.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",7,0.5,Albeniz
-17.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",8,1,Albeniz
-18,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",8,2,Albeniz
-18.66666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",8,3.333333333,Albeniz
-18.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",8,3.5,Albeniz
-18.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",8,3.75,Albeniz
-19,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",8,4,Albeniz
-19.66666667,<music21.chord.Chord F#4>,[0],[6],8,0.333333333,Albeniz
-19.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",8,0.5,Albeniz
-20,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",9,1,Albeniz
-20.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",9,2,Albeniz
-21.16666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",9,3.333333333,Albeniz
-21.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",9,3.5,Albeniz
-21.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",9,3.75,Albeniz
-21.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",9,4,Albeniz
-22.16666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",9,0.333333333,Albeniz
-22.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",9,0.5,Albeniz
-22.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",10,1,Albeniz
-23,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",10,2,Albeniz
-23.66666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",10,3.333333333,Albeniz
-23.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",10,3.5,Albeniz
-23.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",10,3.75,Albeniz
-24,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",10,4,Albeniz
-24.5,<music21.chord.Chord B4 B5>,[0],[11],10,0,Albeniz
-24.66666667,<music21.chord.Chord B5>,[0],[11],10,0.333333333,Albeniz
-24.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",10,0.5,Albeniz
-25,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",11,1,Albeniz
-25.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",11,1.5,Albeniz
-25.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",11,2,Albeniz
-26.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",11,3.5,Albeniz
-26.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",11,4,Albeniz
-27.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",11,0.5,Albeniz
-27.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",12,1,Albeniz
-28,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",12,2,Albeniz
-28.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",12,3.5,Albeniz
-29,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",12,4,Albeniz
-29.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",12,0.5,Albeniz
-30,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",13,1,Albeniz
-30.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",13,1.25,Albeniz
-30.25,<music21.chord.Chord B4 B3>,[0],[11],13,1.5,Albeniz
-30.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",13,1.666666667,Albeniz
-30.45833333,<music21.chord.Chord B4 B3>,[0],[11],13,1.916666667,Albeniz
-30.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",13,2,Albeniz
-31.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",13,3.5,Albeniz
-31.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",13,4,Albeniz
-32.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",13,0.5,Albeniz
-32.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",14,1,Albeniz
-33,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",14,2,Albeniz
-33.66666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",14,3.333333333,Albeniz
-33.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",14,3.5,Albeniz
-33.875,<music21.chord.Chord E4>,[0],[4],14,3.75,Albeniz
-34,<music21.chord.Chord G#4>,[0],[8],14,4,Albeniz
-34.75,<music21.chord.Chord B4>,[0],[11],14,0.5,Albeniz
-35,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",15,1,Albeniz
-35.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",15,2,Albeniz
-36.16666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",15,3.333333333,Albeniz
-36.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",15,3.5,Albeniz
-36.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",15,3.75,Albeniz
-36.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",15,4,Albeniz
-37.16666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",15,0.333333333,Albeniz
-37.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",15,0.5,Albeniz
-37.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",16,1,Albeniz
-38,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",16,2,Albeniz
-38.66666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",16,3.333333333,Albeniz
-38.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",16,3.5,Albeniz
-38.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",16,3.75,Albeniz
-39,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",16,4,Albeniz
-39.66666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",16,0.333333333,Albeniz
-39.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",16,0.5,Albeniz
-40,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",17,1,Albeniz
-40.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",17,2,Albeniz
-41.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",17,3.5,Albeniz
-41.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",17,4,Albeniz
-42.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",18,1,Albeniz
-43,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",18,2,Albeniz
-43.66666667,<music21.chord.Chord B3>,[0],[11],18,3.333333333,Albeniz
-43.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",18,3.5,Albeniz
-43.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",18,3.75,Albeniz
-44,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",18,4,Albeniz
-45,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",19,1,Albeniz
-45.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",19,2,Albeniz
-46.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",19,3.5,Albeniz
-46.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",19,4,Albeniz
-47.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",19,0.5,Albeniz
-47.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",20,1,Albeniz
-48,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",20,2,Albeniz
-48.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",20,3.5,Albeniz
-49,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",20,4,Albeniz
-49.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",20,0.5,Albeniz
-50,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",21,1,Albeniz
-50.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",21,1.25,Albeniz
-50.25,<music21.chord.Chord B4 B3>,[0],[11],21,1.5,Albeniz
-50.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",21,1.666666667,Albeniz
-50.45833333,<music21.chord.Chord B4 B3>,[0],[11],21,1.916666667,Albeniz
-50.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",21,2,Albeniz
-51.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",21,3.5,Albeniz
-51.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",21,4,Albeniz
-52.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",21,0.5,Albeniz
-52.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",22,1,Albeniz
-53,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",22,2,Albeniz
-53.66666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",22,3.333333333,Albeniz
-53.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",22,3.5,Albeniz
-53.875,<music21.chord.Chord E4 E3>,[0],[4],22,3.75,Albeniz
-54,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",22,4,Albeniz
-54.66666667,<music21.chord.Chord E3>,[0],[4],22,0.333333333,Albeniz
-54.75,<music21.chord.Chord D4>,[0],[2],22,0.5,Albeniz
-55,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",23,1,Albeniz
-55.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",23,2,Albeniz
-56.16666667,<music21.chord.Chord C#4>,[0],[1],23,3.333333333,Albeniz
-56.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",23,3.5,Albeniz
-56.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",23,3.75,Albeniz
-56.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",23,4,Albeniz
-57.16666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",23,0.333333333,Albeniz
-57.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",23,0.5,Albeniz
-57.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",24,1,Albeniz
-58,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",24,2,Albeniz
-58.66666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",24,3.333333333,Albeniz
-58.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",24,3.5,Albeniz
-58.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",24,3.75,Albeniz
-59,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",24,4,Albeniz
-59.66666667,<music21.chord.Chord F#4>,[0],[6],24,0.333333333,Albeniz
-59.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",24,0.5,Albeniz
-60,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",25,1,Albeniz
-60.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",25,2,Albeniz
-61.16666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",25,3.333333333,Albeniz
-61.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",25,3.5,Albeniz
-61.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",25,3.75,Albeniz
-61.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",25,4,Albeniz
-62.16666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",25,0.333333333,Albeniz
-62.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",25,0.5,Albeniz
-62.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",26,1,Albeniz
-63,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",26,2,Albeniz
-63.66666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",26,3.333333333,Albeniz
-63.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",26,3.5,Albeniz
-63.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",26,3.75,Albeniz
-64,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",26,4,Albeniz
-64.5,<music21.chord.Chord B4 B5>,[0],[11],26,0,Albeniz
-64.66666667,<music21.chord.Chord B5>,[0],[11],26,0.333333333,Albeniz
-64.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",26,0.5,Albeniz
-65,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",27,1,Albeniz
-65.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",27,1.5,Albeniz
-65.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",27,2,Albeniz
-66.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",27,3.5,Albeniz
-66.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",27,4,Albeniz
-67.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",27,0.5,Albeniz
-67.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",28,1,Albeniz
-68,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",28,2,Albeniz
-68.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",28,3.5,Albeniz
-69,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",28,4,Albeniz
-69.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",28,0.5,Albeniz
-70,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",29,1,Albeniz
-70.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",29,1.25,Albeniz
-70.25,<music21.chord.Chord B4 B3>,[0],[11],29,1.5,Albeniz
-70.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",29,1.666666667,Albeniz
-70.45833333,<music21.chord.Chord B4 B3>,[0],[11],29,1.916666667,Albeniz
-70.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",29,2,Albeniz
-71.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",29,3.5,Albeniz
-71.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",29,4,Albeniz
-72.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",29,0.5,Albeniz
-72.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",30,1,Albeniz
-73,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",30,2,Albeniz
-73.66666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",30,3.333333333,Albeniz
-73.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",30,3.5,Albeniz
-73.875,<music21.chord.Chord E4>,[0],[4],30,3.75,Albeniz
-74,<music21.chord.Chord G#4>,[0],[8],30,4,Albeniz
-74.75,<music21.chord.Chord B4>,[0],[11],30,0.5,Albeniz
-75,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",31,1,Albeniz
-75.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",31,2,Albeniz
-76.16666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",31,3.333333333,Albeniz
-76.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",31,3.5,Albeniz
-76.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",31,3.75,Albeniz
-76.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",31,4,Albeniz
-77.16666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",31,0.333333333,Albeniz
-77.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",31,0.5,Albeniz
-77.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",32,1,Albeniz
-78,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",32,2,Albeniz
-78.66666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",32,3.333333333,Albeniz
-78.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",32,3.5,Albeniz
-78.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",32,3.75,Albeniz
-79,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",32,4,Albeniz
-79.66666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",32,0.333333333,Albeniz
-79.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",32,0.5,Albeniz
-80,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",33,1,Albeniz
-80.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",33,2,Albeniz
-81.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",33,3.5,Albeniz
-81.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",33,4,Albeniz
-82.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",34,1,Albeniz
-83,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",34,2,Albeniz
-83.66666667,<music21.chord.Chord B3>,[0],[11],34,3.333333333,Albeniz
-83.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",34,3.5,Albeniz
-83.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",34,3.75,Albeniz
-84,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",34,4,Albeniz
-85,<music21.chord.Chord B3>,[0],[11],35,1,Albeniz
-85.125,<music21.chord.Chord C#4>,[0],[1],35,1.25,Albeniz
-85.33333333,<music21.chord.Chord B3>,[0],[11],35,1.666666667,Albeniz
-85.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",35,2,Albeniz
-86.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",35,3.333333333,Albeniz
-86.25,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",35,3.5,Albeniz
-86.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",35,4,Albeniz
-87.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",35,0.333333333,Albeniz
-87.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",35,0.5,Albeniz
-87.5,<music21.chord.Chord G#3>,[0],[8],36,1,Albeniz
-87.66666667,<music21.chord.Chord B-3>,[0],[10],36,1.333333333,Albeniz
-87.875,<music21.chord.Chord G#3>,[0],[8],36,1.75,Albeniz
-88,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",36,2,Albeniz
-88.66666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",36,3.333333333,Albeniz
-88.75,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",36,3.5,Albeniz
-89,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",36,4,Albeniz
-89.66666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",36,0.333333333,Albeniz
-89.75,<music21.chord.Chord E-4 F#4 B4 E-5 B3>,"[0, 4, 7]","[11, 3, 6]",36,0.5,Albeniz
-90,<music21.chord.Chord B-3>,[0],[10],37,1,Albeniz
-90.125,<music21.chord.Chord B3>,[0],[11],37,1.25,Albeniz
-90.33333333,<music21.chord.Chord B-3>,[0],[10],37,1.666666667,Albeniz
-90.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",37,2,Albeniz
-91.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",37,3.333333333,Albeniz
-91.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",37,3.5,Albeniz
-91.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",37,4,Albeniz
-92.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",37,0.333333333,Albeniz
-92.25,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",37,0.5,Albeniz
-92.5,<music21.chord.Chord F#3>,[0],[6],38,1,Albeniz
-93,<music21.chord.Chord D4 F#3>,"[0, 4]","[2, 6]",38,2,Albeniz
-93.66666667,<music21.chord.Chord F#3>,[0],[6],38,3.333333333,Albeniz
-93.75,<music21.chord.Chord E-4 F#3>,"[0, 3]","[3, 6]",38,3.5,Albeniz
-93.875,<music21.chord.Chord E-4>,[0],[3],38,3.75,Albeniz
-94,<music21.chord.Chord F#4>,[0],[6],38,4,Albeniz
-94.75,<music21.chord.Chord B4>,[0],[11],38,0.5,Albeniz
-95,<music21.chord.Chord A4 F#5 E-3>,"[0, 3, 6]","[3, 6, 9]",39,1,Albeniz
-95.5,<music21.chord.Chord E5 A4 F#4 C4 E-3>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",39,2,Albeniz
-96,<music21.chord.Chord E-5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",39,3,Albeniz
-96.125,<music21.chord.Chord F#5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",39,3.25,Albeniz
-96.16666667,<music21.chord.Chord A4 F#5 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",39,3.333333333,Albeniz
-96.25,<music21.chord.Chord E-5 A4 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",39,3.5,Albeniz
-96.5,<music21.chord.Chord E5 A4 E-3 C4>,"[0, 3, 6, 7]","[9, 0, 3, 4]",39,4,Albeniz
-97.16666667,<music21.chord.Chord A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",39,0.333333333,Albeniz
-97.25,<music21.chord.Chord E-5 A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",39,0.5,Albeniz
-97.5,<music21.chord.Chord C5 G#4 E4>,"[0, 4, 8]","[0, 4, 8]",40,1,Albeniz
-98,<music21.chord.Chord C#5 G#4 C#4>,"[0, 5]","[8, 1]",40,2,Albeniz
-98.66666667,<music21.chord.Chord G#4>,[0],[8],40,3.333333333,Albeniz
-98.75,<music21.chord.Chord E5 G#3>,"[0, 4]","[4, 8]",40,3.5,Albeniz
-99,<music21.chord.Chord G#5 E3>,"[0, 4]","[4, 8]",40,4,Albeniz
-99.75,<music21.chord.Chord B5 C#3>,"[0, 2]","[11, 1]",40,0.5,Albeniz
-100,<music21.chord.Chord B5 E-6 F#2>,"[0, 4, 7]","[11, 3, 6]",41,1,Albeniz
-100.5,<music21.chord.Chord B-5 C#6 F3>,"[0, 3, 7]","[10, 1, 5]",41,2,Albeniz
-101.25,<music21.chord.Chord F#5 B-5 F#3>,"[0, 4]","[6, 10]",41,3.5,Albeniz
-101.5,<music21.chord.Chord E5 G#5 B-3>,"[0, 4, 6]","[4, 8, 10]",41,4,Albeniz
-102.25,<music21.chord.Chord D5 F5 F#4>,"[0, 3, 4]","[2, 5, 6]",41,0.5,Albeniz
-102.5,<music21.chord.Chord E-5 F#5 B2>,"[0, 4, 7]","[11, 3, 6]",42,1,Albeniz
-103,<music21.chord.Chord E-5 F#5 F3>,"[0, 2, 3]","[3, 5, 6]",42,2,Albeniz
-103.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",42,3.333333333,Albeniz
-103.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",42,3.5,Albeniz
-103.875,<music21.chord.Chord E-5 F#5 B-3 F#3>,"[0, 3, 7]","[3, 6, 10]",42,3.75,Albeniz
-104,<music21.chord.Chord E-5 F#5 G#3>,"[0, 3, 5]","[3, 6, 8]",42,4,Albeniz
-104.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",42,0.333333333,Albeniz
-104.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",42,0.5,Albeniz
-105,<music21.chord.Chord D4>,[0],[2],43,1,Albeniz
-105.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",43,2,Albeniz
-106.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",43,3.333333333,Albeniz
-106.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",43,3.5,Albeniz
-106.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",43,4,Albeniz
-107.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",43,0.333333333,Albeniz
-107.25,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",43,0.5,Albeniz
-107.5,<music21.chord.Chord C#4>,[0],[1],44,1,Albeniz
-107.6666667,<music21.chord.Chord D4>,[0],[2],44,1.333333333,Albeniz
-107.875,<music21.chord.Chord C#4>,[0],[1],44,1.75,Albeniz
-108,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",44,2,Albeniz
-108.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",44,3.333333333,Albeniz
-108.75,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",44,3.5,Albeniz
-109,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",44,4,Albeniz
-109.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",44,0.333333333,Albeniz
-109.75,<music21.chord.Chord F#4 B4 D5 F#5 E4>,"[0, 3, 5, 7]","[11, 2, 4, 6]",44,0.5,Albeniz
-110,<music21.chord.Chord D4>,[0],[2],45,1,Albeniz
-110.125,<music21.chord.Chord E-4>,[0],[3],45,1.25,Albeniz
-110.3333333,<music21.chord.Chord D4>,[0],[2],45,1.666666667,Albeniz
-110.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",45,2,Albeniz
-111.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",45,3.333333333,Albeniz
-111.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",45,3.5,Albeniz
-111.5,<music21.chord.Chord A5 C#5 E5 B-4 B3>,"[0, 1, 2, 4, 7]","[9, 10, 11, 1, 4]",45,4,Albeniz
-112.1666667,<music21.chord.Chord C#5 E5 B3 B-4>,"[0, 1, 3, 6]","[10, 11, 1, 4]",45,0.333333333,Albeniz
-112.25,<music21.chord.Chord G5 C#5 E5 B3 B-4>,"[0, 1, 3, 6, 9]","[10, 11, 1, 4, 7]",45,0.5,Albeniz
-112.5,<music21.chord.Chord E-5 F#5 B4>,"[0, 4, 7]","[11, 3, 6]",46,1,Albeniz
-113,<music21.chord.Chord E-5 F#5 F4>,"[0, 2, 3]","[3, 5, 6]",46,2,Albeniz
-113.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",46,3.333333333,Albeniz
-113.75,<music21.chord.Chord E-5 F#5 F#4>,"[0, 3]","[3, 6]",46,3.5,Albeniz
-113.875,<music21.chord.Chord A4 F#4>,"[0, 3]","[6, 9]",46,3.75,Albeniz
-114,<music21.chord.Chord G4>,[0],[7],46,4,Albeniz
-114.75,<music21.chord.Chord F#4>,[0],[6],46,0.5,Albeniz
-115,<music21.chord.Chord C5 F#5 A5 E-4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",47,1,Albeniz
-115.5,<music21.chord.Chord B4 E5 G#5 E4>,"[0, 4, 7]","[4, 8, 11]",47,2,Albeniz
-116.25,<music21.chord.Chord C#5 E5 G#5 B-3>,"[0, 2, 5, 8]","[8, 10, 1, 4]",47,3.5,Albeniz
-116.5,<music21.chord.Chord D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",47,4,Albeniz
-117.25,<music21.chord.Chord F#5 B5 A3>,"[0, 3, 5]","[6, 9, 11]",47,0.5,Albeniz
-117.5,<music21.chord.Chord B4 F5 B5 G#3>,"[0, 3, 6]","[5, 8, 11]",48,1,Albeniz
-118,<music21.chord.Chord B4 E5 B5 G3>,"[0, 3, 7]","[4, 7, 11]",48,2,Albeniz
-118.75,<music21.chord.Chord B4 C#5 B5 F3>,"[0, 2, 6]","[11, 1, 5]",48,3.5,Albeniz
-119,<music21.chord.Chord B4 D5 B5 F#3>,"[0, 3, 7]","[11, 2, 6]",48,4,Albeniz
-120,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",49,1,Albeniz
-120.5,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",49,2,Albeniz
-121.25,<music21.chord.Chord G4 B4 E-5 D4>,"[0, 4, 7, 8]","[7, 11, 2, 3]",49,3.5,Albeniz
-121.5,<music21.chord.Chord E5 G4 B4 C#4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",49,4,Albeniz
-122.1666667,<music21.chord.Chord G4 B4 C#4>,"[0, 4, 6]","[7, 11, 1]",49,0.333333333,Albeniz
-122.25,<music21.chord.Chord G#5 G4 B4 C#4>,"[0, 1, 4, 6]","[7, 8, 11, 1]",49,0.5,Albeniz
-122.5,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",50,1,Albeniz
-123,<music21.chord.Chord B-4 C#5 F#3 E4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",50,2,Albeniz
-123.75,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",50,3.5,Albeniz
-124,<music21.chord.Chord F#4 B4 B3 D4>,"[0, 3, 7]","[11, 2, 6]",50,4,Albeniz
-125,<music21.chord.Chord B3>,[0],[11],51,1,Albeniz
-125.125,<music21.chord.Chord C#4>,[0],[1],51,1.25,Albeniz
-125.3333333,<music21.chord.Chord B3>,[0],[11],51,1.666666667,Albeniz
-125.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",51,2,Albeniz
-126.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",51,3.333333333,Albeniz
-126.25,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",51,3.5,Albeniz
-126.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",51,4,Albeniz
-127.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",51,0.333333333,Albeniz
-127.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",51,0.5,Albeniz
-127.5,<music21.chord.Chord G#3>,[0],[8],52,1,Albeniz
-127.6666667,<music21.chord.Chord B-3>,[0],[10],52,1.333333333,Albeniz
-127.875,<music21.chord.Chord G#3>,[0],[8],52,1.75,Albeniz
-128,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",52,2,Albeniz
-128.6666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",52,3.333333333,Albeniz
-128.75,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",52,3.5,Albeniz
-129,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",52,4,Albeniz
-129.6666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",52,0.333333333,Albeniz
-129.75,<music21.chord.Chord E-4 F#4 B4 E-5 B3>,"[0, 4, 7]","[11, 3, 6]",52,0.5,Albeniz
-130,<music21.chord.Chord B-3>,[0],[10],53,1,Albeniz
-130.125,<music21.chord.Chord B3>,[0],[11],53,1.25,Albeniz
-130.3333333,<music21.chord.Chord B-3>,[0],[10],53,1.666666667,Albeniz
-130.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",53,2,Albeniz
-131.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",53,3.333333333,Albeniz
-131.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",53,3.5,Albeniz
-131.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",53,4,Albeniz
-132.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",53,0.333333333,Albeniz
-132.25,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",53,0.5,Albeniz
-132.5,<music21.chord.Chord F#3>,[0],[6],54,1,Albeniz
-133,<music21.chord.Chord D4 F#3>,"[0, 4]","[2, 6]",54,2,Albeniz
-133.6666667,<music21.chord.Chord F#3>,[0],[6],54,3.333333333,Albeniz
-133.75,<music21.chord.Chord E-4 F#3>,"[0, 3]","[3, 6]",54,3.5,Albeniz
-133.875,<music21.chord.Chord E-4>,[0],[3],54,3.75,Albeniz
-134,<music21.chord.Chord F#4>,[0],[6],54,4,Albeniz
-134.75,<music21.chord.Chord B4>,[0],[11],54,0.5,Albeniz
-135,<music21.chord.Chord A4 F#5 E-3>,"[0, 3, 6]","[3, 6, 9]",55,1,Albeniz
-135.5,<music21.chord.Chord E5 A4 F#4 C4 E-3>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",55,2,Albeniz
-136,<music21.chord.Chord E-5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",55,3,Albeniz
-136.125,<music21.chord.Chord F#5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",55,3.25,Albeniz
-136.1666667,<music21.chord.Chord A4 F#5 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",55,3.333333333,Albeniz
-136.25,<music21.chord.Chord E-5 A4 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",55,3.5,Albeniz
-136.5,<music21.chord.Chord E5 A4 E-3 C4>,"[0, 3, 6, 7]","[9, 0, 3, 4]",55,4,Albeniz
-137.1666667,<music21.chord.Chord A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",55,0.333333333,Albeniz
-137.25,<music21.chord.Chord E-5 A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",55,0.5,Albeniz
-137.5,<music21.chord.Chord C5 G#4 E4>,"[0, 4, 8]","[0, 4, 8]",56,1,Albeniz
-138,<music21.chord.Chord C#5 G#4 C#4>,"[0, 5]","[8, 1]",56,2,Albeniz
-138.6666667,<music21.chord.Chord G#4>,[0],[8],56,3.333333333,Albeniz
-138.75,<music21.chord.Chord E5 G#3>,"[0, 4]","[4, 8]",56,3.5,Albeniz
-139,<music21.chord.Chord G#5 E3>,"[0, 4]","[4, 8]",56,4,Albeniz
-139.75,<music21.chord.Chord B5 C#3>,"[0, 2]","[11, 1]",56,0.5,Albeniz
-140,<music21.chord.Chord B5 E-6 F#2>,"[0, 4, 7]","[11, 3, 6]",57,1,Albeniz
-140.5,<music21.chord.Chord B-5 C#6 F3>,"[0, 3, 7]","[10, 1, 5]",57,2,Albeniz
-141.25,<music21.chord.Chord F#5 B-5 F#3>,"[0, 4]","[6, 10]",57,3.5,Albeniz
-141.5,<music21.chord.Chord E5 G#5 B-3>,"[0, 4, 6]","[4, 8, 10]",57,4,Albeniz
-142.25,<music21.chord.Chord D5 F5 F#4>,"[0, 3, 4]","[2, 5, 6]",57,0.5,Albeniz
-142.5,<music21.chord.Chord E-5 F#5 B2>,"[0, 4, 7]","[11, 3, 6]",58,1,Albeniz
-143,<music21.chord.Chord E-5 F#5 F3>,"[0, 2, 3]","[3, 5, 6]",58,2,Albeniz
-143.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",58,3.333333333,Albeniz
-143.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",58,3.5,Albeniz
-143.875,<music21.chord.Chord E-5 F#5 B-3 F#3>,"[0, 3, 7]","[3, 6, 10]",58,3.75,Albeniz
-144,<music21.chord.Chord E-5 F#5 G#3>,"[0, 3, 5]","[3, 6, 8]",58,4,Albeniz
-144.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",58,0.333333333,Albeniz
-144.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",58,0.5,Albeniz
-145,<music21.chord.Chord D4>,[0],[2],59,1,Albeniz
-145.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",59,2,Albeniz
-146.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",59,3.333333333,Albeniz
-146.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",59,3.5,Albeniz
-146.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",59,4,Albeniz
-147.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",59,0.333333333,Albeniz
-147.25,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",59,0.5,Albeniz
-147.5,<music21.chord.Chord C#4>,[0],[1],60,1,Albeniz
-147.6666667,<music21.chord.Chord D4>,[0],[2],60,1.333333333,Albeniz
-147.875,<music21.chord.Chord C#4>,[0],[1],60,1.75,Albeniz
-148,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",60,2,Albeniz
-148.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",60,3.333333333,Albeniz
-148.75,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",60,3.5,Albeniz
-149,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",60,4,Albeniz
-149.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",60,0.333333333,Albeniz
-149.75,<music21.chord.Chord F#4 B4 D5 F#5 E4>,"[0, 3, 5, 7]","[11, 2, 4, 6]",60,0.5,Albeniz
-150,<music21.chord.Chord D4>,[0],[2],61,1,Albeniz
-150.125,<music21.chord.Chord E-4>,[0],[3],61,1.25,Albeniz
-150.3333333,<music21.chord.Chord D4>,[0],[2],61,1.666666667,Albeniz
-150.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",61,2,Albeniz
-151.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",61,3.333333333,Albeniz
-151.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",61,3.5,Albeniz
-151.5,<music21.chord.Chord A5 C#5 E5 B-4 B3>,"[0, 1, 2, 4, 7]","[9, 10, 11, 1, 4]",61,4,Albeniz
-152.1666667,<music21.chord.Chord C#5 E5 B3 B-4>,"[0, 1, 3, 6]","[10, 11, 1, 4]",61,0.333333333,Albeniz
-152.25,<music21.chord.Chord G5 C#5 E5 B3 B-4>,"[0, 1, 3, 6, 9]","[10, 11, 1, 4, 7]",61,0.5,Albeniz
-152.5,<music21.chord.Chord E-5 F#5 B4>,"[0, 4, 7]","[11, 3, 6]",62,1,Albeniz
-153,<music21.chord.Chord E-5 F#5 F4>,"[0, 2, 3]","[3, 5, 6]",62,2,Albeniz
-153.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",62,3.333333333,Albeniz
-153.75,<music21.chord.Chord E-5 F#5 F#4>,"[0, 3]","[3, 6]",62,3.5,Albeniz
-153.875,<music21.chord.Chord A4 F#4>,"[0, 3]","[6, 9]",62,3.75,Albeniz
-154,<music21.chord.Chord G4>,[0],[7],62,4,Albeniz
-154.75,<music21.chord.Chord F#4>,[0],[6],62,0.5,Albeniz
-155,<music21.chord.Chord C5 F#5 A5 E-4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",63,1,Albeniz
-155.5,<music21.chord.Chord B4 E5 G#5 E4>,"[0, 4, 7]","[4, 8, 11]",63,2,Albeniz
-156.25,<music21.chord.Chord C#5 E5 G#5 B-3>,"[0, 2, 5, 8]","[8, 10, 1, 4]",63,3.5,Albeniz
-156.5,<music21.chord.Chord D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",63,4,Albeniz
-157.25,<music21.chord.Chord F#5 B5 A3>,"[0, 3, 5]","[6, 9, 11]",63,0.5,Albeniz
-157.5,<music21.chord.Chord B4 F5 B5 G#3>,"[0, 3, 6]","[5, 8, 11]",64,1,Albeniz
-158,<music21.chord.Chord B4 E5 B5 G3>,"[0, 3, 7]","[4, 7, 11]",64,2,Albeniz
-158.75,<music21.chord.Chord B4 C#5 B5 F3>,"[0, 2, 6]","[11, 1, 5]",64,3.5,Albeniz
-159,<music21.chord.Chord B4 D5 B5 F#3>,"[0, 3, 7]","[11, 2, 6]",64,4,Albeniz
-160,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",65,1,Albeniz
-160.5,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",65,2,Albeniz
-161.25,<music21.chord.Chord G4 B4 E-5 D4>,"[0, 4, 7, 8]","[7, 11, 2, 3]",65,3.5,Albeniz
-161.5,<music21.chord.Chord E5 G4 B4 C#4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",65,4,Albeniz
-162.1666667,<music21.chord.Chord G4 B4 C#4>,"[0, 4, 6]","[7, 11, 1]",65,0.333333333,Albeniz
-162.25,<music21.chord.Chord G#5 G4 B4 C#4>,"[0, 1, 4, 6]","[7, 8, 11, 1]",65,0.5,Albeniz
-162.5,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",66,1,Albeniz
-163,<music21.chord.Chord B-4 C#5 F#3 E4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",66,2,Albeniz
-163.75,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",66,3.5,Albeniz
-164,<music21.chord.Chord F#4 B4 B3 D4>,"[0, 3, 7]","[11, 2, 6]",66,4,Albeniz
-165,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",67,1,Albeniz
-165.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",67,2,Albeniz
-166.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",67,3.5,Albeniz
-166.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",67,4,Albeniz
-167.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",67,0.5,Albeniz
-167.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",68,1,Albeniz
-168,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",68,2,Albeniz
-168.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",68,3.5,Albeniz
-169,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",68,4,Albeniz
-169.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",68,0.5,Albeniz
-170,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",69,1,Albeniz
-170.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",69,1.25,Albeniz
-170.25,<music21.chord.Chord B4 B3>,[0],[11],69,1.5,Albeniz
-170.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",69,1.666666667,Albeniz
-170.4583333,<music21.chord.Chord B4 B3>,[0],[11],69,1.916666667,Albeniz
-170.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",69,2,Albeniz
-171.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",69,3.5,Albeniz
-171.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",69,4,Albeniz
-172.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",69,0.5,Albeniz
-172.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",70,1,Albeniz
-173,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",70,2,Albeniz
-173.6666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",70,3.333333333,Albeniz
-173.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",70,3.5,Albeniz
-173.875,<music21.chord.Chord E4 E3>,[0],[4],70,3.75,Albeniz
-174,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",70,4,Albeniz
-174.6666667,<music21.chord.Chord E3>,[0],[4],70,0.333333333,Albeniz
-174.75,<music21.chord.Chord D4>,[0],[2],70,0.5,Albeniz
-175,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",71,1,Albeniz
-175.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",71,2,Albeniz
-176.1666667,<music21.chord.Chord C#4>,[0],[1],71,3.333333333,Albeniz
-176.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",71,3.5,Albeniz
-176.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",71,3.75,Albeniz
-176.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",71,4,Albeniz
-177.1666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",71,0.333333333,Albeniz
-177.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",71,0.5,Albeniz
-177.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",72,1,Albeniz
-178,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",72,2,Albeniz
-178.6666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",72,3.333333333,Albeniz
-178.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",72,3.5,Albeniz
-178.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",72,3.75,Albeniz
-179,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",72,4,Albeniz
-179.6666667,<music21.chord.Chord F#4>,[0],[6],72,0.333333333,Albeniz
-179.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",72,0.5,Albeniz
-180,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",73,1,Albeniz
-180.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",73,2,Albeniz
-181.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",73,3.333333333,Albeniz
-181.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",73,3.5,Albeniz
-181.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",73,3.75,Albeniz
-181.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",73,4,Albeniz
-182.1666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",73,0.333333333,Albeniz
-182.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",73,0.5,Albeniz
-182.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",74,1,Albeniz
-183,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",74,2,Albeniz
-183.6666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",74,3.333333333,Albeniz
-183.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",74,3.5,Albeniz
-183.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",74,3.75,Albeniz
-184,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",74,4,Albeniz
-184.5,<music21.chord.Chord B4 B5>,[0],[11],74,0,Albeniz
-184.6666667,<music21.chord.Chord B5>,[0],[11],74,0.333333333,Albeniz
-184.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",74,0.5,Albeniz
-185,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",75,1,Albeniz
-185.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",75,1.5,Albeniz
-185.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",75,2,Albeniz
-186.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",75,3.5,Albeniz
-186.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",75,4,Albeniz
-187.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",75,0.5,Albeniz
-187.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",76,1,Albeniz
-188,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",76,2,Albeniz
-188.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",76,3.5,Albeniz
-189,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",76,4,Albeniz
-189.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",76,0.5,Albeniz
-190,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",77,1,Albeniz
-190.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",77,1.25,Albeniz
-190.25,<music21.chord.Chord B4 B3>,[0],[11],77,1.5,Albeniz
-190.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",77,1.666666667,Albeniz
-190.4583333,<music21.chord.Chord B4 B3>,[0],[11],77,1.916666667,Albeniz
-190.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",77,2,Albeniz
-191.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",77,3.5,Albeniz
-191.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",77,4,Albeniz
-192.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",77,0.5,Albeniz
-192.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",78,1,Albeniz
-193,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",78,2,Albeniz
-193.6666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",78,3.333333333,Albeniz
-193.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",78,3.5,Albeniz
-193.875,<music21.chord.Chord E4>,[0],[4],78,3.75,Albeniz
-194,<music21.chord.Chord G#4>,[0],[8],78,4,Albeniz
-194.75,<music21.chord.Chord B4>,[0],[11],78,0.5,Albeniz
-195,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",79,1,Albeniz
-195.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",79,2,Albeniz
-196.1666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",79,3.333333333,Albeniz
-196.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",79,3.5,Albeniz
-196.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",79,3.75,Albeniz
-196.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",79,4,Albeniz
-197.1666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",79,0.333333333,Albeniz
-197.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",79,0.5,Albeniz
-197.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",80,1,Albeniz
-198,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",80,2,Albeniz
-198.6666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",80,3.333333333,Albeniz
-198.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",80,3.5,Albeniz
-198.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",80,3.75,Albeniz
-199,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",80,4,Albeniz
-199.6666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",80,0.333333333,Albeniz
-199.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",80,0.5,Albeniz
-200,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",81,1,Albeniz
-200.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",81,2,Albeniz
-201.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",81,3.5,Albeniz
-201.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",81,4,Albeniz
-202.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",82,1,Albeniz
-203,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",82,2,Albeniz
-203.6666667,<music21.chord.Chord B3>,[0],[11],82,3.333333333,Albeniz
-203.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",82,3.5,Albeniz
-203.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",82,3.75,Albeniz
-204,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",82,4,Albeniz
-205,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",83,1,Albeniz
-205.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",83,2,Albeniz
-206.25,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",83,3.5,Albeniz
-206.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",83,4,Albeniz
-207.25,<music21.chord.Chord F#4 C5 D5 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",83,0.5,Albeniz
-207.5,<music21.chord.Chord G4 B4 D5 G3>,"[0, 4, 7]","[7, 11, 2]",84,1,Albeniz
-208,<music21.chord.Chord A4 B4 E-5 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",84,2,Albeniz
-208.75,<music21.chord.Chord G4 B4 E5 E3>,"[0, 3, 7]","[4, 7, 11]",84,3.5,Albeniz
-209,<music21.chord.Chord B4 F5 G#5 D3>,"[0, 3, 6, 9]","[2, 5, 8, 11]",84,4,Albeniz
-209.75,<music21.chord.Chord B5 B2>,[0],[11],84,0.5,Albeniz
-210,<music21.chord.Chord E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",85,1,Albeniz
-210.5,<music21.chord.Chord C6 A2>,"[0, 3]","[9, 0]",85,2,Albeniz
-211.25,<music21.chord.Chord E6 F#2>,"[0, 2]","[4, 6]",85,3.5,Albeniz
-211.5,<music21.chord.Chord A5 E-6 B2>,"[0, 2, 6]","[9, 11, 3]",85,4,Albeniz
-212.25,<music21.chord.Chord B6 B1>,[0],[11],85,0.5,Albeniz
-212.5,<music21.chord.Chord G#5 G#6 E2>,"[0, 4]","[4, 8]",86,1,Albeniz
-213,<music21.chord.Chord G#5 G#6 B2>,"[0, 3]","[8, 11]",86,2,Albeniz
-213.6666667,<music21.chord.Chord G#5 G#6>,[0],[8],86,3.333333333,Albeniz
-213.75,<music21.chord.Chord G#5 G#6 E3>,"[0, 4]","[4, 8]",86,3.5,Albeniz
-213.875,<music21.chord.Chord E3>,[0],[4],86,3.75,Albeniz
-214,<music21.chord.Chord G#3>,[0],[8],86,4,Albeniz
-214.75,<music21.chord.Chord B3>,[0],[11],86,0.5,Albeniz
-215,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",87,1,Albeniz
-215.5,<music21.chord.Chord C#5 A4 E4 B3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",87,2,Albeniz
-216.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",87,3.333333333,Albeniz
-216.25,<music21.chord.Chord E-5 A4 F#4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",87,3.5,Albeniz
-216.375,<music21.chord.Chord E-5 B3 F#4>,"[0, 4, 7]","[11, 3, 6]",87,3.75,Albeniz
-216.5,<music21.chord.Chord B4 A4 E-4 B3>,"[0, 2, 6]","[9, 11, 3]",87,4,Albeniz
-217.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",87,0.333333333,Albeniz
-217.25,<music21.chord.Chord G#5 A4 B3>,"[0, 1, 3]","[8, 9, 11]",87,0.5,Albeniz
-217.5,<music21.chord.Chord B4 E5 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",88,1,Albeniz
-218,<music21.chord.Chord B4 E5 E-4 G#4>,"[0, 1, 5, 8]","[3, 4, 8, 11]",88,2,Albeniz
-218.6666667,<music21.chord.Chord B4 E5 G#4>,"[0, 4, 7]","[4, 8, 11]",88,3.333333333,Albeniz
-218.75,<music21.chord.Chord B4 E5 D4 G#4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",88,3.5,Albeniz
-218.875,<music21.chord.Chord D4>,[0],[2],88,3.75,Albeniz
-219,<music21.chord.Chord C#4>,[0],[1],88,4,Albeniz
-219.75,<music21.chord.Chord C4>,[0],[0],88,0.5,Albeniz
-220,<music21.chord.Chord A3 B3 B2 E-3>,"[0, 2, 6]","[9, 11, 3]",89,1,Albeniz
-220.5,<music21.chord.Chord C#4 A3 E3 B2>,"[0, 2, 4, 7]","[9, 11, 1, 4]",89,2,Albeniz
-221.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",89,3.333333333,Albeniz
-221.25,<music21.chord.Chord E-4 A3 F#3 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",89,3.5,Albeniz
-221.375,<music21.chord.Chord E-4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",89,3.75,Albeniz
-221.5,<music21.chord.Chord B3 A3 E-3 B2>,"[0, 2, 6]","[9, 11, 3]",89,4,Albeniz
-222.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",89,0.333333333,Albeniz
-222.25,<music21.chord.Chord G#4 A3 B2>,"[0, 1, 3]","[8, 9, 11]",89,0.5,Albeniz
-222.5,<music21.chord.Chord B3 E4 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",90,1,Albeniz
-223,<music21.chord.Chord E5 G#5 E6 E2 E3>,"[0, 4]","[4, 8]",90,2,Albeniz
-225,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",91,1,Albeniz
-225.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",91,2,Albeniz
-226.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",91,3.5,Albeniz
-226.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",91,4,Albeniz
-227.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",91,0.5,Albeniz
-227.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",92,1,Albeniz
-228,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",92,2,Albeniz
-228.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",92,3.5,Albeniz
-229,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",92,4,Albeniz
-229.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",92,0.5,Albeniz
-230,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",93,1,Albeniz
-230.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",93,1.25,Albeniz
-230.25,<music21.chord.Chord B4 B3>,[0],[11],93,1.5,Albeniz
-230.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",93,1.666666667,Albeniz
-230.4583333,<music21.chord.Chord B4 B3>,[0],[11],93,1.916666667,Albeniz
-230.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",93,2,Albeniz
-231.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",93,3.5,Albeniz
-231.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",93,4,Albeniz
-232.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",93,0.5,Albeniz
-232.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",94,1,Albeniz
-233,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",94,2,Albeniz
-233.6666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",94,3.333333333,Albeniz
-233.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",94,3.5,Albeniz
-233.875,<music21.chord.Chord E4 E3>,[0],[4],94,3.75,Albeniz
-234,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",94,4,Albeniz
-234.6666667,<music21.chord.Chord E3>,[0],[4],94,0.333333333,Albeniz
-234.75,<music21.chord.Chord D4>,[0],[2],94,0.5,Albeniz
-235,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",95,1,Albeniz
-235.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",95,2,Albeniz
-236.1666667,<music21.chord.Chord C#4>,[0],[1],95,3.333333333,Albeniz
-236.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",95,3.5,Albeniz
-236.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",95,3.75,Albeniz
-236.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",95,4,Albeniz
-237.1666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",95,0.333333333,Albeniz
-237.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",95,0.5,Albeniz
-237.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",96,1,Albeniz
-238,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",96,2,Albeniz
-238.6666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",96,3.333333333,Albeniz
-238.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",96,3.5,Albeniz
-238.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",96,3.75,Albeniz
-239,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",96,4,Albeniz
-239.6666667,<music21.chord.Chord F#4>,[0],[6],96,0.333333333,Albeniz
-239.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",96,0.5,Albeniz
-240,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",97,1,Albeniz
-240.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",97,2,Albeniz
-241.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",97,3.333333333,Albeniz
-241.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",97,3.5,Albeniz
-241.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",97,3.75,Albeniz
-241.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",97,4,Albeniz
-242.1666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",97,0.333333333,Albeniz
-242.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",97,0.5,Albeniz
-242.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",98,1,Albeniz
-243,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",98,2,Albeniz
-243.6666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",98,3.333333333,Albeniz
-243.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",98,3.5,Albeniz
-243.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",98,3.75,Albeniz
-244,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",98,4,Albeniz
-244.5,<music21.chord.Chord B4 B5>,[0],[11],98,0,Albeniz
-244.6666667,<music21.chord.Chord B5>,[0],[11],98,0.333333333,Albeniz
-244.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",98,0.5,Albeniz
-245,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",99,1,Albeniz
-245.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",99,1.5,Albeniz
-245.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",99,2,Albeniz
-246.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",99,3.5,Albeniz
-246.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",99,4,Albeniz
-247.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",99,0.5,Albeniz
-247.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",100,1,Albeniz
-248,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",100,2,Albeniz
-248.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",100,3.5,Albeniz
-249,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",100,4,Albeniz
-249.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",100,0.5,Albeniz
-250,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",101,1,Albeniz
-250.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",101,1.25,Albeniz
-250.25,<music21.chord.Chord B4 B3>,[0],[11],101,1.5,Albeniz
-250.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",101,1.666666667,Albeniz
-250.4583333,<music21.chord.Chord B4 B3>,[0],[11],101,1.916666667,Albeniz
-250.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",101,2,Albeniz
-251.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",101,3.5,Albeniz
-251.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",101,4,Albeniz
-252.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",101,0.5,Albeniz
-252.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",102,1,Albeniz
-253,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",102,2,Albeniz
-253.6666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",102,3.333333333,Albeniz
-253.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",102,3.5,Albeniz
-253.875,<music21.chord.Chord E4>,[0],[4],102,3.75,Albeniz
-254,<music21.chord.Chord G#4>,[0],[8],102,4,Albeniz
-254.75,<music21.chord.Chord B4>,[0],[11],102,0.5,Albeniz
-255,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",103,1,Albeniz
-255.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",103,2,Albeniz
-256.1666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",103,3.333333333,Albeniz
-256.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",103,3.5,Albeniz
-256.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",103,3.75,Albeniz
-256.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",103,4,Albeniz
-257.1666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",103,0.333333333,Albeniz
-257.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",103,0.5,Albeniz
-257.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",104,1,Albeniz
-258,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",104,2,Albeniz
-258.6666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",104,3.333333333,Albeniz
-258.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",104,3.5,Albeniz
-258.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",104,3.75,Albeniz
-259,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",104,4,Albeniz
-259.6666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",104,0.333333333,Albeniz
-259.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",104,0.5,Albeniz
-260,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",105,1,Albeniz
-260.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",105,2,Albeniz
-261.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",105,3.5,Albeniz
-261.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",105,4,Albeniz
-262.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",106,1,Albeniz
-263,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",106,2,Albeniz
-263.6666667,<music21.chord.Chord B3>,[0],[11],106,3.333333333,Albeniz
-263.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",106,3.5,Albeniz
-263.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",106,3.75,Albeniz
-264,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",106,4,Albeniz
-265,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",107,1,Albeniz
-265.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",107,2,Albeniz
-266.25,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",107,3.5,Albeniz
-266.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",107,4,Albeniz
-267.25,<music21.chord.Chord F#4 C5 D5 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",107,0.5,Albeniz
-267.5,<music21.chord.Chord G4 B4 D5 G3>,"[0, 4, 7]","[7, 11, 2]",108,1,Albeniz
-268,<music21.chord.Chord A4 B4 E-5 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",108,2,Albeniz
-268.75,<music21.chord.Chord G4 B4 E5 E3>,"[0, 3, 7]","[4, 7, 11]",108,3.5,Albeniz
-269,<music21.chord.Chord B4 F5 G#5 D3>,"[0, 3, 6, 9]","[2, 5, 8, 11]",108,4,Albeniz
-269.75,<music21.chord.Chord B5 B2>,[0],[11],108,0.5,Albeniz
-270,<music21.chord.Chord E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",109,1,Albeniz
-270.5,<music21.chord.Chord C6 A2>,"[0, 3]","[9, 0]",109,2,Albeniz
-271.25,<music21.chord.Chord E6 F#2>,"[0, 2]","[4, 6]",109,3.5,Albeniz
-271.5,<music21.chord.Chord A5 E-6 B2>,"[0, 2, 6]","[9, 11, 3]",109,4,Albeniz
-272.25,<music21.chord.Chord B6 B1>,[0],[11],109,0.5,Albeniz
-272.5,<music21.chord.Chord G#5 G#6 E2>,"[0, 4]","[4, 8]",110,1,Albeniz
-273,<music21.chord.Chord G#5 G#6 B2>,"[0, 3]","[8, 11]",110,2,Albeniz
-273.6666667,<music21.chord.Chord G#5 G#6>,[0],[8],110,3.333333333,Albeniz
-273.75,<music21.chord.Chord G#5 G#6 E3>,"[0, 4]","[4, 8]",110,3.5,Albeniz
-273.875,<music21.chord.Chord E3>,[0],[4],110,3.75,Albeniz
-274,<music21.chord.Chord G#3>,[0],[8],110,4,Albeniz
-274.75,<music21.chord.Chord B3>,[0],[11],110,0.5,Albeniz
-275,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",111,1,Albeniz
-275.5,<music21.chord.Chord C#5 A4 E4 B3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",111,2,Albeniz
-276.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",111,3.333333333,Albeniz
-276.25,<music21.chord.Chord E-5 A4 F#4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",111,3.5,Albeniz
-276.375,<music21.chord.Chord E-5 B3 F#4>,"[0, 4, 7]","[11, 3, 6]",111,3.75,Albeniz
-276.5,<music21.chord.Chord B4 A4 E-4 B3>,"[0, 2, 6]","[9, 11, 3]",111,4,Albeniz
-277.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",111,0.333333333,Albeniz
-277.25,<music21.chord.Chord G#5 A4 B3>,"[0, 1, 3]","[8, 9, 11]",111,0.5,Albeniz
-277.5,<music21.chord.Chord B4 E5 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",112,1,Albeniz
-278,<music21.chord.Chord B4 E5 E-4 G#4>,"[0, 1, 5, 8]","[3, 4, 8, 11]",112,2,Albeniz
-278.6666667,<music21.chord.Chord B4 E5 G#4>,"[0, 4, 7]","[4, 8, 11]",112,3.333333333,Albeniz
-278.75,<music21.chord.Chord B4 E5 D4 G#4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",112,3.5,Albeniz
-278.875,<music21.chord.Chord D4>,[0],[2],112,3.75,Albeniz
-279,<music21.chord.Chord C#4>,[0],[1],112,4,Albeniz
-279.75,<music21.chord.Chord C4>,[0],[0],112,0.5,Albeniz
-280,<music21.chord.Chord A3 B3 B2 E-3>,"[0, 2, 6]","[9, 11, 3]",113,1,Albeniz
-280.5,<music21.chord.Chord C#4 A3 E3 B2>,"[0, 2, 4, 7]","[9, 11, 1, 4]",113,2,Albeniz
-281.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",113,3.333333333,Albeniz
-281.25,<music21.chord.Chord E-4 A3 F#3 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",113,3.5,Albeniz
-281.375,<music21.chord.Chord E-4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",113,3.75,Albeniz
-281.5,<music21.chord.Chord B3 A3 E-3 B2>,"[0, 2, 6]","[9, 11, 3]",113,4,Albeniz
-282.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",113,0.333333333,Albeniz
-282.25,<music21.chord.Chord G#4 A3 B2>,"[0, 1, 3]","[8, 9, 11]",113,0.5,Albeniz
-282.5,<music21.chord.Chord B3 E4 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",114,1,Albeniz
-283,<music21.chord.Chord E5 G#5 E6 E2 E3>,"[0, 4]","[4, 8]",114,2,Albeniz
+Offset,Chord,NormalForm,PCsInNormalForm,measureNumber,beatNumber,Composer,File
+0,<music21.chord.Chord B3>,[0],[11],1,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+0.5,<music21.chord.Chord B3>,[0],[11],1,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+1.25,<music21.chord.Chord B3>,[0],[11],1,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+1.5,<music21.chord.Chord B3>,[0],[11],1,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+2.25,<music21.chord.Chord B3>,[0],[11],1,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+2.5,<music21.chord.Chord B3>,[0],[11],2,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+3,<music21.chord.Chord B3>,[0],[11],2,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+3.75,<music21.chord.Chord B3>,[0],[11],2,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+4,<music21.chord.Chord F4 G#4 B3>,"[0, 3, 6]","[5, 8, 11]",2,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+4.666666667,<music21.chord.Chord F4 G#4>,"[0, 3]","[5, 8]",2,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+4.75,<music21.chord.Chord F4 G#4 B3>,"[0, 3, 6]","[5, 8, 11]",2,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",3,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+5.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",3,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+6.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",3,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+6.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",3,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+7.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",3,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+7.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",4,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+8,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",4,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+8.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",4,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+9,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",4,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+9.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",4,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+10,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",5,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+10.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",5,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+10.25,<music21.chord.Chord B4 B3>,[0],[11],5,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+10.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",5,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+10.45833333,<music21.chord.Chord B4 B3>,[0],[11],5,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+10.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",5,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+11.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",5,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+11.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",5,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+12.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",5,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+12.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",6,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+13,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",6,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+13.66666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",6,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+13.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",6,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+13.875,<music21.chord.Chord E4 E3>,[0],[4],6,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+14,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",6,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+14.66666667,<music21.chord.Chord E3>,[0],[4],6,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+14.75,<music21.chord.Chord D4>,[0],[2],6,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+15,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",7,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+15.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",7,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+16.16666667,<music21.chord.Chord C#4>,[0],[1],7,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+16.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",7,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+16.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",7,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+16.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",7,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+17.16666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",7,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+17.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",7,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+17.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",8,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+18,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",8,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+18.66666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",8,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+18.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",8,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+18.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",8,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+19,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",8,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+19.66666667,<music21.chord.Chord F#4>,[0],[6],8,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+19.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",8,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+20,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",9,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+20.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",9,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+21.16666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",9,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+21.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",9,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+21.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",9,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+21.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",9,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+22.16666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",9,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+22.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",9,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+22.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",10,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+23,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",10,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+23.66666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",10,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+23.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",10,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+23.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",10,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+24,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",10,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+24.5,<music21.chord.Chord B4 B5>,[0],[11],10,0,Albeniz,Suite Espana 6 Zortzico Op165 E major
+24.66666667,<music21.chord.Chord B5>,[0],[11],10,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+24.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",10,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+25,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",11,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+25.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",11,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+25.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",11,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+26.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",11,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+26.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",11,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+27.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",11,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+27.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",12,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+28,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",12,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+28.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",12,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+29,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",12,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+29.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",12,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+30,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",13,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+30.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",13,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+30.25,<music21.chord.Chord B4 B3>,[0],[11],13,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+30.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",13,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+30.45833333,<music21.chord.Chord B4 B3>,[0],[11],13,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+30.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",13,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+31.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",13,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+31.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",13,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+32.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",13,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+32.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",14,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+33,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",14,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+33.66666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",14,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+33.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",14,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+33.875,<music21.chord.Chord E4>,[0],[4],14,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+34,<music21.chord.Chord G#4>,[0],[8],14,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+34.75,<music21.chord.Chord B4>,[0],[11],14,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+35,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",15,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+35.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",15,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+36.16666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",15,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+36.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",15,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+36.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",15,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+36.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",15,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+37.16666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",15,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+37.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",15,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+37.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",16,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+38,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",16,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+38.66666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",16,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+38.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",16,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+38.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",16,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+39,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",16,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+39.66666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",16,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+39.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",16,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+40,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",17,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+40.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",17,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+41.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",17,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+41.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",17,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+42.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",18,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+43,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",18,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+43.66666667,<music21.chord.Chord B3>,[0],[11],18,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+43.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",18,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+43.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",18,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+44,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",18,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+45,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",19,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+45.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",19,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+46.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",19,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+46.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",19,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+47.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",19,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+47.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",20,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+48,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",20,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+48.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",20,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+49,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",20,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+49.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",20,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+50,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",21,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+50.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",21,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+50.25,<music21.chord.Chord B4 B3>,[0],[11],21,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+50.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",21,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+50.45833333,<music21.chord.Chord B4 B3>,[0],[11],21,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+50.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",21,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+51.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",21,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+51.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",21,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+52.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",21,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+52.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",22,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+53,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",22,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+53.66666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",22,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+53.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",22,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+53.875,<music21.chord.Chord E4 E3>,[0],[4],22,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+54,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",22,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+54.66666667,<music21.chord.Chord E3>,[0],[4],22,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+54.75,<music21.chord.Chord D4>,[0],[2],22,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+55,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",23,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+55.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",23,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+56.16666667,<music21.chord.Chord C#4>,[0],[1],23,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+56.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",23,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+56.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",23,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+56.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",23,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+57.16666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",23,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+57.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",23,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+57.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",24,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+58,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",24,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+58.66666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",24,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+58.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",24,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+58.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",24,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+59,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",24,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+59.66666667,<music21.chord.Chord F#4>,[0],[6],24,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+59.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",24,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+60,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",25,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+60.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",25,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+61.16666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",25,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+61.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",25,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+61.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",25,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+61.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",25,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+62.16666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",25,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+62.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",25,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+62.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",26,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+63,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",26,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+63.66666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",26,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+63.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",26,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+63.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",26,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+64,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",26,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+64.5,<music21.chord.Chord B4 B5>,[0],[11],26,0,Albeniz,Suite Espana 6 Zortzico Op165 E major
+64.66666667,<music21.chord.Chord B5>,[0],[11],26,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+64.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",26,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+65,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",27,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+65.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",27,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+65.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",27,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+66.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",27,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+66.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",27,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+67.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",27,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+67.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",28,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+68,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",28,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+68.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",28,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+69,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",28,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+69.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",28,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+70,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",29,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+70.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",29,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+70.25,<music21.chord.Chord B4 B3>,[0],[11],29,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+70.33333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",29,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+70.45833333,<music21.chord.Chord B4 B3>,[0],[11],29,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+70.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",29,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+71.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",29,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+71.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",29,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+72.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",29,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+72.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",30,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+73,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",30,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+73.66666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",30,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+73.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",30,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+73.875,<music21.chord.Chord E4>,[0],[4],30,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+74,<music21.chord.Chord G#4>,[0],[8],30,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+74.75,<music21.chord.Chord B4>,[0],[11],30,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+75,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",31,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+75.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",31,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+76.16666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",31,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+76.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",31,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+76.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",31,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+76.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",31,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+77.16666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",31,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+77.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",31,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+77.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",32,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+78,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",32,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+78.66666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",32,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+78.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",32,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+78.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",32,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+79,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",32,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+79.66666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",32,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+79.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",32,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+80,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",33,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+80.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",33,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+81.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",33,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+81.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",33,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+82.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",34,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+83,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",34,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+83.66666667,<music21.chord.Chord B3>,[0],[11],34,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+83.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",34,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+83.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",34,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+84,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",34,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+85,<music21.chord.Chord B3>,[0],[11],35,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+85.125,<music21.chord.Chord C#4>,[0],[1],35,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+85.33333333,<music21.chord.Chord B3>,[0],[11],35,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+85.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",35,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+86.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",35,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+86.25,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",35,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+86.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",35,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+87.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",35,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+87.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",35,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+87.5,<music21.chord.Chord G#3>,[0],[8],36,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+87.66666667,<music21.chord.Chord B-3>,[0],[10],36,1.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+87.875,<music21.chord.Chord G#3>,[0],[8],36,1.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+88,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",36,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+88.66666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",36,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+88.75,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",36,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+89,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",36,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+89.66666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",36,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+89.75,<music21.chord.Chord E-4 F#4 B4 E-5 B3>,"[0, 4, 7]","[11, 3, 6]",36,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+90,<music21.chord.Chord B-3>,[0],[10],37,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+90.125,<music21.chord.Chord B3>,[0],[11],37,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+90.33333333,<music21.chord.Chord B-3>,[0],[10],37,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+90.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",37,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+91.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",37,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+91.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",37,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+91.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",37,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+92.16666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",37,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+92.25,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",37,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+92.5,<music21.chord.Chord F#3>,[0],[6],38,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+93,<music21.chord.Chord D4 F#3>,"[0, 4]","[2, 6]",38,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+93.66666667,<music21.chord.Chord F#3>,[0],[6],38,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+93.75,<music21.chord.Chord E-4 F#3>,"[0, 3]","[3, 6]",38,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+93.875,<music21.chord.Chord E-4>,[0],[3],38,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+94,<music21.chord.Chord F#4>,[0],[6],38,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+94.75,<music21.chord.Chord B4>,[0],[11],38,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+95,<music21.chord.Chord A4 F#5 E-3>,"[0, 3, 6]","[3, 6, 9]",39,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+95.5,<music21.chord.Chord E5 A4 F#4 C4 E-3>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",39,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+96,<music21.chord.Chord E-5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",39,3,Albeniz,Suite Espana 6 Zortzico Op165 E major
+96.125,<music21.chord.Chord F#5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",39,3.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+96.16666667,<music21.chord.Chord A4 F#5 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",39,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+96.25,<music21.chord.Chord E-5 A4 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",39,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+96.5,<music21.chord.Chord E5 A4 E-3 C4>,"[0, 3, 6, 7]","[9, 0, 3, 4]",39,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+97.16666667,<music21.chord.Chord A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",39,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+97.25,<music21.chord.Chord E-5 A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",39,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+97.5,<music21.chord.Chord C5 G#4 E4>,"[0, 4, 8]","[0, 4, 8]",40,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+98,<music21.chord.Chord C#5 G#4 C#4>,"[0, 5]","[8, 1]",40,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+98.66666667,<music21.chord.Chord G#4>,[0],[8],40,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+98.75,<music21.chord.Chord E5 G#3>,"[0, 4]","[4, 8]",40,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+99,<music21.chord.Chord G#5 E3>,"[0, 4]","[4, 8]",40,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+99.75,<music21.chord.Chord B5 C#3>,"[0, 2]","[11, 1]",40,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+100,<music21.chord.Chord B5 E-6 F#2>,"[0, 4, 7]","[11, 3, 6]",41,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+100.5,<music21.chord.Chord B-5 C#6 F3>,"[0, 3, 7]","[10, 1, 5]",41,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+101.25,<music21.chord.Chord F#5 B-5 F#3>,"[0, 4]","[6, 10]",41,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+101.5,<music21.chord.Chord E5 G#5 B-3>,"[0, 4, 6]","[4, 8, 10]",41,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+102.25,<music21.chord.Chord D5 F5 F#4>,"[0, 3, 4]","[2, 5, 6]",41,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+102.5,<music21.chord.Chord E-5 F#5 B2>,"[0, 4, 7]","[11, 3, 6]",42,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+103,<music21.chord.Chord E-5 F#5 F3>,"[0, 2, 3]","[3, 5, 6]",42,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+103.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",42,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+103.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",42,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+103.875,<music21.chord.Chord E-5 F#5 B-3 F#3>,"[0, 3, 7]","[3, 6, 10]",42,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+104,<music21.chord.Chord E-5 F#5 G#3>,"[0, 3, 5]","[3, 6, 8]",42,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+104.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",42,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+104.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",42,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+105,<music21.chord.Chord D4>,[0],[2],43,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+105.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",43,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+106.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",43,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+106.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",43,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+106.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",43,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+107.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",43,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+107.25,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",43,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+107.5,<music21.chord.Chord C#4>,[0],[1],44,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+107.6666667,<music21.chord.Chord D4>,[0],[2],44,1.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+107.875,<music21.chord.Chord C#4>,[0],[1],44,1.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+108,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",44,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+108.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",44,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+108.75,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",44,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+109,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",44,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+109.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",44,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+109.75,<music21.chord.Chord F#4 B4 D5 F#5 E4>,"[0, 3, 5, 7]","[11, 2, 4, 6]",44,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+110,<music21.chord.Chord D4>,[0],[2],45,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+110.125,<music21.chord.Chord E-4>,[0],[3],45,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+110.3333333,<music21.chord.Chord D4>,[0],[2],45,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+110.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",45,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+111.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",45,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+111.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",45,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+111.5,<music21.chord.Chord A5 C#5 E5 B-4 B3>,"[0, 1, 2, 4, 7]","[9, 10, 11, 1, 4]",45,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+112.1666667,<music21.chord.Chord C#5 E5 B3 B-4>,"[0, 1, 3, 6]","[10, 11, 1, 4]",45,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+112.25,<music21.chord.Chord G5 C#5 E5 B3 B-4>,"[0, 1, 3, 6, 9]","[10, 11, 1, 4, 7]",45,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+112.5,<music21.chord.Chord E-5 F#5 B4>,"[0, 4, 7]","[11, 3, 6]",46,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+113,<music21.chord.Chord E-5 F#5 F4>,"[0, 2, 3]","[3, 5, 6]",46,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+113.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",46,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+113.75,<music21.chord.Chord E-5 F#5 F#4>,"[0, 3]","[3, 6]",46,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+113.875,<music21.chord.Chord A4 F#4>,"[0, 3]","[6, 9]",46,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+114,<music21.chord.Chord G4>,[0],[7],46,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+114.75,<music21.chord.Chord F#4>,[0],[6],46,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+115,<music21.chord.Chord C5 F#5 A5 E-4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",47,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+115.5,<music21.chord.Chord B4 E5 G#5 E4>,"[0, 4, 7]","[4, 8, 11]",47,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+116.25,<music21.chord.Chord C#5 E5 G#5 B-3>,"[0, 2, 5, 8]","[8, 10, 1, 4]",47,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+116.5,<music21.chord.Chord D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",47,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+117.25,<music21.chord.Chord F#5 B5 A3>,"[0, 3, 5]","[6, 9, 11]",47,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+117.5,<music21.chord.Chord B4 F5 B5 G#3>,"[0, 3, 6]","[5, 8, 11]",48,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+118,<music21.chord.Chord B4 E5 B5 G3>,"[0, 3, 7]","[4, 7, 11]",48,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+118.75,<music21.chord.Chord B4 C#5 B5 F3>,"[0, 2, 6]","[11, 1, 5]",48,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+119,<music21.chord.Chord B4 D5 B5 F#3>,"[0, 3, 7]","[11, 2, 6]",48,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+120,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",49,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+120.5,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",49,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+121.25,<music21.chord.Chord G4 B4 E-5 D4>,"[0, 4, 7, 8]","[7, 11, 2, 3]",49,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+121.5,<music21.chord.Chord E5 G4 B4 C#4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",49,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+122.1666667,<music21.chord.Chord G4 B4 C#4>,"[0, 4, 6]","[7, 11, 1]",49,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+122.25,<music21.chord.Chord G#5 G4 B4 C#4>,"[0, 1, 4, 6]","[7, 8, 11, 1]",49,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+122.5,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",50,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+123,<music21.chord.Chord B-4 C#5 F#3 E4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",50,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+123.75,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",50,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+124,<music21.chord.Chord F#4 B4 B3 D4>,"[0, 3, 7]","[11, 2, 6]",50,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+125,<music21.chord.Chord B3>,[0],[11],51,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+125.125,<music21.chord.Chord C#4>,[0],[1],51,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+125.3333333,<music21.chord.Chord B3>,[0],[11],51,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+125.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",51,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+126.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",51,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+126.25,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",51,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+126.5,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",51,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+127.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",51,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+127.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",51,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+127.5,<music21.chord.Chord G#3>,[0],[8],52,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+127.6666667,<music21.chord.Chord B-3>,[0],[10],52,1.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+127.875,<music21.chord.Chord G#3>,[0],[8],52,1.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+128,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",52,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+128.6666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",52,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+128.75,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",52,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+129,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",52,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+129.6666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",52,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+129.75,<music21.chord.Chord E-4 F#4 B4 E-5 B3>,"[0, 4, 7]","[11, 3, 6]",52,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+130,<music21.chord.Chord B-3>,[0],[10],53,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+130.125,<music21.chord.Chord B3>,[0],[11],53,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+130.3333333,<music21.chord.Chord B-3>,[0],[10],53,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+130.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",53,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+131.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",53,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+131.25,<music21.chord.Chord E-4 F#4 B4 E-5 F#3>,"[0, 4, 7]","[11, 3, 6]",53,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+131.5,<music21.chord.Chord E-4 F#4 B4 E-5 G#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",53,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+132.1666667,<music21.chord.Chord E-4 F#4 B4 E-5>,"[0, 4, 7]","[11, 3, 6]",53,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+132.25,<music21.chord.Chord E-4 F#4 B4 E-5 B-3>,"[0, 1, 5, 8]","[10, 11, 3, 6]",53,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+132.5,<music21.chord.Chord F#3>,[0],[6],54,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+133,<music21.chord.Chord D4 F#3>,"[0, 4]","[2, 6]",54,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+133.6666667,<music21.chord.Chord F#3>,[0],[6],54,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+133.75,<music21.chord.Chord E-4 F#3>,"[0, 3]","[3, 6]",54,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+133.875,<music21.chord.Chord E-4>,[0],[3],54,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+134,<music21.chord.Chord F#4>,[0],[6],54,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+134.75,<music21.chord.Chord B4>,[0],[11],54,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+135,<music21.chord.Chord A4 F#5 E-3>,"[0, 3, 6]","[3, 6, 9]",55,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+135.5,<music21.chord.Chord E5 A4 F#4 C4 E-3>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",55,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+136,<music21.chord.Chord E-5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",55,3,Albeniz,Suite Espana 6 Zortzico Op165 E major
+136.125,<music21.chord.Chord F#5 A4 E5 E-3 F#4 C4>,"[0, 1, 3, 6, 9]","[3, 4, 6, 9, 0]",55,3.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+136.1666667,<music21.chord.Chord A4 F#5 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",55,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+136.25,<music21.chord.Chord E-5 A4 E-3 F#4 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",55,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+136.5,<music21.chord.Chord E5 A4 E-3 C4>,"[0, 3, 6, 7]","[9, 0, 3, 4]",55,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+137.1666667,<music21.chord.Chord A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",55,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+137.25,<music21.chord.Chord E-5 A4 E-3 C4>,"[0, 3, 6]","[9, 0, 3]",55,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+137.5,<music21.chord.Chord C5 G#4 E4>,"[0, 4, 8]","[0, 4, 8]",56,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+138,<music21.chord.Chord C#5 G#4 C#4>,"[0, 5]","[8, 1]",56,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+138.6666667,<music21.chord.Chord G#4>,[0],[8],56,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+138.75,<music21.chord.Chord E5 G#3>,"[0, 4]","[4, 8]",56,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+139,<music21.chord.Chord G#5 E3>,"[0, 4]","[4, 8]",56,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+139.75,<music21.chord.Chord B5 C#3>,"[0, 2]","[11, 1]",56,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+140,<music21.chord.Chord B5 E-6 F#2>,"[0, 4, 7]","[11, 3, 6]",57,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+140.5,<music21.chord.Chord B-5 C#6 F3>,"[0, 3, 7]","[10, 1, 5]",57,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+141.25,<music21.chord.Chord F#5 B-5 F#3>,"[0, 4]","[6, 10]",57,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+141.5,<music21.chord.Chord E5 G#5 B-3>,"[0, 4, 6]","[4, 8, 10]",57,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+142.25,<music21.chord.Chord D5 F5 F#4>,"[0, 3, 4]","[2, 5, 6]",57,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+142.5,<music21.chord.Chord E-5 F#5 B2>,"[0, 4, 7]","[11, 3, 6]",58,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+143,<music21.chord.Chord E-5 F#5 F3>,"[0, 2, 3]","[3, 5, 6]",58,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+143.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",58,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+143.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",58,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+143.875,<music21.chord.Chord E-5 F#5 B-3 F#3>,"[0, 3, 7]","[3, 6, 10]",58,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+144,<music21.chord.Chord E-5 F#5 G#3>,"[0, 3, 5]","[3, 6, 8]",58,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+144.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",58,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+144.75,<music21.chord.Chord E-5 F#5 F#3>,"[0, 3]","[3, 6]",58,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+145,<music21.chord.Chord D4>,[0],[2],59,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+145.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",59,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+146.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",59,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+146.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",59,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+146.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",59,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+147.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",59,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+147.25,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",59,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+147.5,<music21.chord.Chord C#4>,[0],[1],60,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+147.6666667,<music21.chord.Chord D4>,[0],[2],60,1.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+147.875,<music21.chord.Chord C#4>,[0],[1],60,1.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+148,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",60,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+148.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",60,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+148.75,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",60,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+149,<music21.chord.Chord F#4 B4 D5 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",60,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+149.6666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",60,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+149.75,<music21.chord.Chord F#4 B4 D5 F#5 E4>,"[0, 3, 5, 7]","[11, 2, 4, 6]",60,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+150,<music21.chord.Chord D4>,[0],[2],61,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+150.125,<music21.chord.Chord E-4>,[0],[3],61,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+150.3333333,<music21.chord.Chord D4>,[0],[2],61,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+150.5,<music21.chord.Chord F#4 B4 D5 F#5 C#4>,"[0, 2, 3, 7]","[11, 1, 2, 6]",61,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+151.1666667,<music21.chord.Chord F#4 B4 D5 F#5>,"[0, 3, 7]","[11, 2, 6]",61,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+151.25,<music21.chord.Chord F#4 B4 D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",61,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+151.5,<music21.chord.Chord A5 C#5 E5 B-4 B3>,"[0, 1, 2, 4, 7]","[9, 10, 11, 1, 4]",61,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+152.1666667,<music21.chord.Chord C#5 E5 B3 B-4>,"[0, 1, 3, 6]","[10, 11, 1, 4]",61,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+152.25,<music21.chord.Chord G5 C#5 E5 B3 B-4>,"[0, 1, 3, 6, 9]","[10, 11, 1, 4, 7]",61,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+152.5,<music21.chord.Chord E-5 F#5 B4>,"[0, 4, 7]","[11, 3, 6]",62,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+153,<music21.chord.Chord E-5 F#5 F4>,"[0, 2, 3]","[3, 5, 6]",62,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+153.6666667,<music21.chord.Chord E-5 F#5>,"[0, 3]","[3, 6]",62,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+153.75,<music21.chord.Chord E-5 F#5 F#4>,"[0, 3]","[3, 6]",62,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+153.875,<music21.chord.Chord A4 F#4>,"[0, 3]","[6, 9]",62,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+154,<music21.chord.Chord G4>,[0],[7],62,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+154.75,<music21.chord.Chord F#4>,[0],[6],62,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+155,<music21.chord.Chord C5 F#5 A5 E-4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",63,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+155.5,<music21.chord.Chord B4 E5 G#5 E4>,"[0, 4, 7]","[4, 8, 11]",63,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+156.25,<music21.chord.Chord C#5 E5 G#5 B-3>,"[0, 2, 5, 8]","[8, 10, 1, 4]",63,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+156.5,<music21.chord.Chord D5 F#5 B3>,"[0, 3, 7]","[11, 2, 6]",63,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+157.25,<music21.chord.Chord F#5 B5 A3>,"[0, 3, 5]","[6, 9, 11]",63,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+157.5,<music21.chord.Chord B4 F5 B5 G#3>,"[0, 3, 6]","[5, 8, 11]",64,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+158,<music21.chord.Chord B4 E5 B5 G3>,"[0, 3, 7]","[4, 7, 11]",64,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+158.75,<music21.chord.Chord B4 C#5 B5 F3>,"[0, 2, 6]","[11, 1, 5]",64,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+159,<music21.chord.Chord B4 D5 B5 F#3>,"[0, 3, 7]","[11, 2, 6]",64,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+160,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",65,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+160.5,<music21.chord.Chord G4 B4 C#5 E4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",65,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+161.25,<music21.chord.Chord G4 B4 E-5 D4>,"[0, 4, 7, 8]","[7, 11, 2, 3]",65,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+161.5,<music21.chord.Chord E5 G4 B4 C#4>,"[0, 2, 5, 8]","[11, 1, 4, 7]",65,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+162.1666667,<music21.chord.Chord G4 B4 C#4>,"[0, 4, 6]","[7, 11, 1]",65,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+162.25,<music21.chord.Chord G#5 G4 B4 C#4>,"[0, 1, 4, 6]","[7, 8, 11, 1]",65,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+162.5,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",66,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+163,<music21.chord.Chord B-4 C#5 F#3 E4>,"[0, 3, 6, 8]","[10, 1, 4, 6]",66,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+163.75,<music21.chord.Chord B-4 D5 F#3 E4>,"[0, 2, 4, 8]","[2, 4, 6, 10]",66,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+164,<music21.chord.Chord F#4 B4 B3 D4>,"[0, 3, 7]","[11, 2, 6]",66,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+165,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",67,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+165.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",67,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+166.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",67,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+166.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",67,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+167.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",67,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+167.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",68,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+168,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",68,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+168.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",68,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+169,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",68,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+169.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",68,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+170,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",69,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+170.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",69,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+170.25,<music21.chord.Chord B4 B3>,[0],[11],69,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+170.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",69,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+170.4583333,<music21.chord.Chord B4 B3>,[0],[11],69,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+170.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",69,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+171.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",69,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+171.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",69,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+172.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",69,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+172.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",70,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+173,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",70,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+173.6666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",70,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+173.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",70,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+173.875,<music21.chord.Chord E4 E3>,[0],[4],70,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+174,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",70,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+174.6666667,<music21.chord.Chord E3>,[0],[4],70,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+174.75,<music21.chord.Chord D4>,[0],[2],70,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+175,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",71,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+175.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",71,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+176.1666667,<music21.chord.Chord C#4>,[0],[1],71,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+176.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",71,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+176.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",71,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+176.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",71,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+177.1666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",71,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+177.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",71,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+177.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",72,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+178,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",72,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+178.6666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",72,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+178.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",72,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+178.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",72,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+179,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",72,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+179.6666667,<music21.chord.Chord F#4>,[0],[6],72,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+179.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",72,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+180,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",73,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+180.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",73,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+181.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",73,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+181.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",73,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+181.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",73,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+181.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",73,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+182.1666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",73,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+182.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",73,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+182.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",74,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+183,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",74,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+183.6666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",74,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+183.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",74,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+183.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",74,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+184,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",74,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+184.5,<music21.chord.Chord B4 B5>,[0],[11],74,0,Albeniz,Suite Espana 6 Zortzico Op165 E major
+184.6666667,<music21.chord.Chord B5>,[0],[11],74,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+184.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",74,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+185,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",75,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+185.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",75,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+185.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",75,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+186.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",75,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+186.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",75,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+187.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",75,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+187.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",76,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+188,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",76,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+188.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",76,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+189,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",76,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+189.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",76,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+190,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",77,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+190.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",77,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+190.25,<music21.chord.Chord B4 B3>,[0],[11],77,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+190.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",77,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+190.4583333,<music21.chord.Chord B4 B3>,[0],[11],77,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+190.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",77,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+191.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",77,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+191.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",77,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+192.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",77,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+192.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",78,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+193,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",78,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+193.6666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",78,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+193.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",78,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+193.875,<music21.chord.Chord E4>,[0],[4],78,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+194,<music21.chord.Chord G#4>,[0],[8],78,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+194.75,<music21.chord.Chord B4>,[0],[11],78,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+195,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",79,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+195.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",79,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+196.1666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",79,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+196.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",79,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+196.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",79,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+196.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",79,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+197.1666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",79,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+197.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",79,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+197.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",80,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+198,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",80,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+198.6666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",80,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+198.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",80,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+198.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",80,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+199,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",80,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+199.6666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",80,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+199.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",80,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+200,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",81,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+200.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",81,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+201.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",81,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+201.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",81,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+202.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",82,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+203,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",82,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+203.6666667,<music21.chord.Chord B3>,[0],[11],82,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+203.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",82,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+203.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",82,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+204,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",82,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+205,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",83,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+205.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",83,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+206.25,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",83,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+206.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",83,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+207.25,<music21.chord.Chord F#4 C5 D5 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",83,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+207.5,<music21.chord.Chord G4 B4 D5 G3>,"[0, 4, 7]","[7, 11, 2]",84,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+208,<music21.chord.Chord A4 B4 E-5 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",84,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+208.75,<music21.chord.Chord G4 B4 E5 E3>,"[0, 3, 7]","[4, 7, 11]",84,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+209,<music21.chord.Chord B4 F5 G#5 D3>,"[0, 3, 6, 9]","[2, 5, 8, 11]",84,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+209.75,<music21.chord.Chord B5 B2>,[0],[11],84,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+210,<music21.chord.Chord E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",85,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+210.5,<music21.chord.Chord C6 A2>,"[0, 3]","[9, 0]",85,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+211.25,<music21.chord.Chord E6 F#2>,"[0, 2]","[4, 6]",85,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+211.5,<music21.chord.Chord A5 E-6 B2>,"[0, 2, 6]","[9, 11, 3]",85,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+212.25,<music21.chord.Chord B6 B1>,[0],[11],85,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+212.5,<music21.chord.Chord G#5 G#6 E2>,"[0, 4]","[4, 8]",86,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+213,<music21.chord.Chord G#5 G#6 B2>,"[0, 3]","[8, 11]",86,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+213.6666667,<music21.chord.Chord G#5 G#6>,[0],[8],86,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+213.75,<music21.chord.Chord G#5 G#6 E3>,"[0, 4]","[4, 8]",86,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+213.875,<music21.chord.Chord E3>,[0],[4],86,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+214,<music21.chord.Chord G#3>,[0],[8],86,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+214.75,<music21.chord.Chord B3>,[0],[11],86,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+215,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",87,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+215.5,<music21.chord.Chord C#5 A4 E4 B3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",87,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+216.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",87,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+216.25,<music21.chord.Chord E-5 A4 F#4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",87,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+216.375,<music21.chord.Chord E-5 B3 F#4>,"[0, 4, 7]","[11, 3, 6]",87,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+216.5,<music21.chord.Chord B4 A4 E-4 B3>,"[0, 2, 6]","[9, 11, 3]",87,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+217.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",87,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+217.25,<music21.chord.Chord G#5 A4 B3>,"[0, 1, 3]","[8, 9, 11]",87,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+217.5,<music21.chord.Chord B4 E5 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",88,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+218,<music21.chord.Chord B4 E5 E-4 G#4>,"[0, 1, 5, 8]","[3, 4, 8, 11]",88,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+218.6666667,<music21.chord.Chord B4 E5 G#4>,"[0, 4, 7]","[4, 8, 11]",88,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+218.75,<music21.chord.Chord B4 E5 D4 G#4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",88,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+218.875,<music21.chord.Chord D4>,[0],[2],88,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+219,<music21.chord.Chord C#4>,[0],[1],88,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+219.75,<music21.chord.Chord C4>,[0],[0],88,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+220,<music21.chord.Chord A3 B3 B2 E-3>,"[0, 2, 6]","[9, 11, 3]",89,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+220.5,<music21.chord.Chord C#4 A3 E3 B2>,"[0, 2, 4, 7]","[9, 11, 1, 4]",89,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+221.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",89,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+221.25,<music21.chord.Chord E-4 A3 F#3 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",89,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+221.375,<music21.chord.Chord E-4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",89,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+221.5,<music21.chord.Chord B3 A3 E-3 B2>,"[0, 2, 6]","[9, 11, 3]",89,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+222.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",89,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+222.25,<music21.chord.Chord G#4 A3 B2>,"[0, 1, 3]","[8, 9, 11]",89,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+222.5,<music21.chord.Chord B3 E4 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",90,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+223,<music21.chord.Chord E5 G#5 E6 E2 E3>,"[0, 4]","[4, 8]",90,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+225,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",91,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+225.5,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",91,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+226.25,<music21.chord.Chord E4 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",91,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+226.5,<music21.chord.Chord E-4 B4 B3>,"[0, 4]","[11, 3]",91,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+227.25,<music21.chord.Chord E-4 G4 B3>,"[0, 4, 8]","[3, 7, 11]",91,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+227.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",92,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+228,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",92,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+228.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",92,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+229,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",92,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+229.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",92,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+230,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",93,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+230.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",93,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+230.25,<music21.chord.Chord B4 B3>,[0],[11],93,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+230.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",93,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+230.4583333,<music21.chord.Chord B4 B3>,[0],[11],93,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+230.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",93,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+231.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",93,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+231.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",93,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+232.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",93,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+232.5,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",94,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+233,<music21.chord.Chord G#4 B4 B3 E3>,"[0, 4, 7]","[4, 8, 11]",94,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+233.6666667,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",94,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+233.75,<music21.chord.Chord G#4 B4 E4 E3>,"[0, 4, 7]","[4, 8, 11]",94,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+233.875,<music21.chord.Chord E4 E3>,[0],[4],94,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+234,<music21.chord.Chord E-4 E3>,"[0, 1]","[3, 4]",94,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+234.6666667,<music21.chord.Chord E3>,[0],[4],94,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+234.75,<music21.chord.Chord D4>,[0],[2],94,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+235,<music21.chord.Chord F5 B4 C#4 G#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",95,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+235.5,<music21.chord.Chord F#5 C#5 A4 C#4>,"[0, 3, 7]","[6, 9, 1]",95,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+236.1666667,<music21.chord.Chord C#4>,[0],[1],95,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+236.25,<music21.chord.Chord G#5 D5 B4 C#4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",95,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+236.375,<music21.chord.Chord B5 G#5 D5 C#4 B4>,"[0, 3, 5, 6]","[8, 11, 1, 2]",95,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+236.5,<music21.chord.Chord A5 F5 C#5 C#4>,"[0, 4, 8]","[1, 5, 9]",95,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+237.1666667,<music21.chord.Chord F5 C#4>,"[0, 4]","[1, 5]",95,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+237.25,<music21.chord.Chord G#5 F5 B4 C#4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",95,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+237.5,<music21.chord.Chord C#5 C#6 G#5 B4 F#4>,"[0, 2, 5, 7]","[6, 8, 11, 1]",96,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+238,<music21.chord.Chord F#5 C#5 C#6 A4 F#4>,"[0, 3, 7]","[6, 9, 1]",96,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+238.6666667,<music21.chord.Chord C#5 C#6 F#4>,"[0, 5]","[1, 6]",96,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+238.75,<music21.chord.Chord F5 C#5 C#6 G#4 F#4>,"[0, 4, 5, 7]","[1, 5, 6, 8]",96,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+238.875,<music21.chord.Chord F5 G#4 F#4>,"[0, 1, 3]","[5, 6, 8]",96,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+239,<music21.chord.Chord F#5 A4 F#4>,"[0, 3]","[6, 9]",96,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+239.6666667,<music21.chord.Chord F#4>,[0],[6],96,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+239.75,<music21.chord.Chord C5 A4 E4>,"[0, 3, 7]","[9, 0, 4]",96,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+240,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",97,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+240.5,<music21.chord.Chord F5 A4 D4 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",97,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+241.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",97,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+241.25,<music21.chord.Chord F#5 A4 E-4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",97,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+241.375,<music21.chord.Chord F#5 E-4>,"[0, 3]","[3, 6]",97,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+241.5,<music21.chord.Chord A5 E-5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",97,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+242.1666667,<music21.chord.Chord E-5 B3>,"[0, 4]","[11, 3]",97,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+242.25,<music21.chord.Chord G#5 E-5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",97,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+242.5,<music21.chord.Chord F#5 B5 B4 A4 E4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",98,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+243,<music21.chord.Chord E5 B5 B4 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",98,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+243.6666667,<music21.chord.Chord B5 B4 E4>,"[0, 5]","[11, 4]",98,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+243.75,<music21.chord.Chord E-5 B5 B4 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",98,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+243.875,<music21.chord.Chord E-5 B5 G4 E4>,"[0, 1, 4, 8]","[3, 4, 7, 11]",98,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+244,<music21.chord.Chord B4 B5 E4>,"[0, 5]","[11, 4]",98,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+244.5,<music21.chord.Chord B4 B5>,[0],[11],98,0,Albeniz,Suite Espana 6 Zortzico Op165 E major
+244.6666667,<music21.chord.Chord B5>,[0],[11],98,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+244.75,<music21.chord.Chord E5 F4 G#4 B5>,"[0, 1, 4, 7]","[4, 5, 8, 11]",98,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+245,<music21.chord.Chord F#4 A4 E5 B5 B3>,"[0, 2, 5, 7]","[4, 6, 9, 11]",99,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+245.25,<music21.chord.Chord F#4 A4 B3>,"[0, 3, 5]","[6, 9, 11]",99,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+245.5,<music21.chord.Chord A4 F#4 B3>,"[0, 3, 5]","[6, 9, 11]",99,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+246.25,<music21.chord.Chord C#5 E4 B3>,"[0, 2, 5]","[11, 1, 4]",99,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+246.5,<music21.chord.Chord B4 E-4 B3>,"[0, 4]","[11, 3]",99,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+247.25,<music21.chord.Chord G4 E-4 B3>,"[0, 4, 8]","[3, 7, 11]",99,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+247.5,<music21.chord.Chord E4 G#4 B3>,"[0, 4, 7]","[4, 8, 11]",100,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+248,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",100,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+248.75,<music21.chord.Chord E5 G#5 B3>,"[0, 4, 7]","[4, 8, 11]",100,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+249,<music21.chord.Chord E-5 F#5 B3>,"[0, 4, 7]","[11, 3, 6]",100,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+249.75,<music21.chord.Chord C#5 E5 B3>,"[0, 2, 5]","[11, 1, 4]",100,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+250,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",101,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+250.125,<music21.chord.Chord E5 B4 B3>,"[0, 5]","[11, 4]",101,1.25,Albeniz,Suite Espana 6 Zortzico Op165 E major
+250.25,<music21.chord.Chord B4 B3>,[0],[11],101,1.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+250.3333333,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",101,1.666666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+250.4583333,<music21.chord.Chord B4 B3>,[0],[11],101,1.916666667,Albeniz,Suite Espana 6 Zortzico Op165 E major
+250.5,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",101,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+251.25,<music21.chord.Chord E-5 B4 B3>,"[0, 4]","[11, 3]",101,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+251.5,<music21.chord.Chord E5 C#5 B3>,"[0, 2, 5]","[11, 1, 4]",101,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+252.25,<music21.chord.Chord C#5 A4 B3>,"[0, 2, 4]","[9, 11, 1]",101,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+252.5,<music21.chord.Chord G#4 B4 E3>,"[0, 4, 7]","[4, 8, 11]",102,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+253,<music21.chord.Chord G#4 B4 B3>,"[0, 3]","[8, 11]",102,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+253.6666667,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",102,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+253.75,<music21.chord.Chord G#4 B4 E4>,"[0, 4, 7]","[4, 8, 11]",102,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+253.875,<music21.chord.Chord E4>,[0],[4],102,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+254,<music21.chord.Chord G#4>,[0],[8],102,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+254.75,<music21.chord.Chord B4>,[0],[11],102,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+255,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",103,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+255.5,<music21.chord.Chord G5 E5 C5 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",103,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+256.1666667,<music21.chord.Chord E5 C5 B-4>,"[0, 2, 6]","[10, 0, 4]",103,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+256.25,<music21.chord.Chord A5 E5 C5 B-4>,"[0, 1, 3, 7]","[9, 10, 0, 4]",103,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+256.375,<music21.chord.Chord A5 C5>,"[0, 3]","[9, 0]",103,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+256.5,<music21.chord.Chord C6 G5 A4 C5>,"[0, 2, 5]","[7, 9, 0]",103,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+257.1666667,<music21.chord.Chord C6 C5 A4>,"[0, 3]","[9, 0]",103,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+257.25,<music21.chord.Chord F5 C6 C5 A4>,"[0, 4, 7]","[5, 9, 0]",103,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+257.5,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",104,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+258,<music21.chord.Chord F#5 E-5 B4 A4>,"[0, 3, 6, 8]","[3, 6, 9, 11]",104,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+258.6666667,<music21.chord.Chord E-5 B4 A4>,"[0, 2, 6]","[9, 11, 3]",104,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+258.75,<music21.chord.Chord G#5 E-5 B4 A4>,"[0, 1, 3, 7]","[8, 9, 11, 3]",104,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+258.875,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",104,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+259,<music21.chord.Chord B5 F#5 G#4 B4>,"[0, 2, 5]","[6, 8, 11]",104,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+259.6666667,<music21.chord.Chord B5 B4 G#4>,"[0, 3]","[8, 11]",104,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+259.75,<music21.chord.Chord E5 B5 B4 G#4>,"[0, 4, 7]","[4, 8, 11]",104,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+260,<music21.chord.Chord D5 F5 B4>,"[0, 3, 6]","[11, 2, 5]",105,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+260.5,<music21.chord.Chord C#5 F#5 A4>,"[0, 3, 7]","[6, 9, 1]",105,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+261.25,<music21.chord.Chord D5 G#5 F4>,"[0, 3, 6]","[2, 5, 8]",105,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+261.5,<music21.chord.Chord C#5 A5 F#4>,"[0, 3, 7]","[6, 9, 1]",105,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+262.5,<music21.chord.Chord E-5 F#5 A4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",106,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+263,<music21.chord.Chord E-5 A5 C#5 B3>,"[0, 2, 4, 6]","[9, 11, 1, 3]",106,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+263.6666667,<music21.chord.Chord B3>,[0],[11],106,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+263.75,<music21.chord.Chord E-5 G#5 B4 B3>,"[0, 3, 7]","[8, 11, 3]",106,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+263.875,<music21.chord.Chord E-5 G#5 B4>,"[0, 3, 7]","[8, 11, 3]",106,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+264,<music21.chord.Chord B4 E5 G#4 E4>,"[0, 4, 7]","[4, 8, 11]",106,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+265,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",107,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+265.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",107,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+266.25,<music21.chord.Chord E4 G4 C4>,"[0, 4, 7]","[0, 4, 7]",107,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+266.5,<music21.chord.Chord D4 G4 B3>,"[0, 4, 7]","[7, 11, 2]",107,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+267.25,<music21.chord.Chord F#4 C5 D5 A3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",107,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+267.5,<music21.chord.Chord G4 B4 D5 G3>,"[0, 4, 7]","[7, 11, 2]",108,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+268,<music21.chord.Chord A4 B4 E-5 F#3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",108,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+268.75,<music21.chord.Chord G4 B4 E5 E3>,"[0, 3, 7]","[4, 7, 11]",108,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+269,<music21.chord.Chord B4 F5 G#5 D3>,"[0, 3, 6, 9]","[2, 5, 8, 11]",108,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+269.75,<music21.chord.Chord B5 B2>,[0],[11],108,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+270,<music21.chord.Chord E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",109,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+270.5,<music21.chord.Chord C6 A2>,"[0, 3]","[9, 0]",109,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+271.25,<music21.chord.Chord E6 F#2>,"[0, 2]","[4, 6]",109,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+271.5,<music21.chord.Chord A5 E-6 B2>,"[0, 2, 6]","[9, 11, 3]",109,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+272.25,<music21.chord.Chord B6 B1>,[0],[11],109,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+272.5,<music21.chord.Chord G#5 G#6 E2>,"[0, 4]","[4, 8]",110,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+273,<music21.chord.Chord G#5 G#6 B2>,"[0, 3]","[8, 11]",110,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+273.6666667,<music21.chord.Chord G#5 G#6>,[0],[8],110,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+273.75,<music21.chord.Chord G#5 G#6 E3>,"[0, 4]","[4, 8]",110,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+273.875,<music21.chord.Chord E3>,[0],[4],110,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+274,<music21.chord.Chord G#3>,[0],[8],110,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+274.75,<music21.chord.Chord B3>,[0],[11],110,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+275,<music21.chord.Chord A4 B4 B3 E-4>,"[0, 2, 6]","[9, 11, 3]",111,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+275.5,<music21.chord.Chord C#5 A4 E4 B3>,"[0, 2, 4, 7]","[9, 11, 1, 4]",111,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+276.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",111,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+276.25,<music21.chord.Chord E-5 A4 F#4 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",111,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+276.375,<music21.chord.Chord E-5 B3 F#4>,"[0, 4, 7]","[11, 3, 6]",111,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+276.5,<music21.chord.Chord B4 A4 E-4 B3>,"[0, 2, 6]","[9, 11, 3]",111,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+277.1666667,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",111,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+277.25,<music21.chord.Chord G#5 A4 B3>,"[0, 1, 3]","[8, 9, 11]",111,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+277.5,<music21.chord.Chord B4 E5 E4 G#4>,"[0, 4, 7]","[4, 8, 11]",112,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+278,<music21.chord.Chord B4 E5 E-4 G#4>,"[0, 1, 5, 8]","[3, 4, 8, 11]",112,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+278.6666667,<music21.chord.Chord B4 E5 G#4>,"[0, 4, 7]","[4, 8, 11]",112,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+278.75,<music21.chord.Chord B4 E5 D4 G#4>,"[0, 3, 6, 8]","[8, 11, 2, 4]",112,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+278.875,<music21.chord.Chord D4>,[0],[2],112,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+279,<music21.chord.Chord C#4>,[0],[1],112,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+279.75,<music21.chord.Chord C4>,[0],[0],112,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+280,<music21.chord.Chord A3 B3 B2 E-3>,"[0, 2, 6]","[9, 11, 3]",113,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+280.5,<music21.chord.Chord C#4 A3 E3 B2>,"[0, 2, 4, 7]","[9, 11, 1, 4]",113,2,Albeniz,Suite Espana 6 Zortzico Op165 E major
+281.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",113,3.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+281.25,<music21.chord.Chord E-4 A3 F#3 B2>,"[0, 3, 6, 8]","[3, 6, 9, 11]",113,3.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+281.375,<music21.chord.Chord E-4 B2 F#3>,"[0, 4, 7]","[11, 3, 6]",113,3.75,Albeniz,Suite Espana 6 Zortzico Op165 E major
+281.5,<music21.chord.Chord B3 A3 E-3 B2>,"[0, 2, 6]","[9, 11, 3]",113,4,Albeniz,Suite Espana 6 Zortzico Op165 E major
+282.1666667,<music21.chord.Chord A3 B2>,"[0, 2]","[9, 11]",113,0.333333333,Albeniz,Suite Espana 6 Zortzico Op165 E major
+282.25,<music21.chord.Chord G#4 A3 B2>,"[0, 1, 3]","[8, 9, 11]",113,0.5,Albeniz,Suite Espana 6 Zortzico Op165 E major
+282.5,<music21.chord.Chord B3 E4 E3 G#3>,"[0, 4, 7]","[4, 8, 11]",114,1,Albeniz,Suite Espana 6 Zortzico Op165 E major
+283,<music21.chord.Chord E5 G#5 E6 E2 E3>,"[0, 4]","[4, 8]",114,2,Albeniz,Suite Espana 6 Zortzico Op165 E major

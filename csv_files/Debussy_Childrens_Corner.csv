@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,measureNumber,Measure Count,Composer
+Offset,Chord,NormalForm,PCsInNormalForm,File,measureNumber,beatNumber,Composer
 0,<music21.chord.Chord B-5 B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,1,1,Debussy
 0.25,<music21.chord.Chord G#5 G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,1,1.25,Debussy
 0.75,<music21.chord.Chord B-5 B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,1,1.75,Debussy

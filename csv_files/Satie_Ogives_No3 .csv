@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord D4 D3>,[0],[2],Ogives No3 D minor.mid,Satie,,
 1,<music21.chord.Chord E4 E3>,[0],[4],Ogives No3 D minor.mid,Satie,,
 2,<music21.chord.Chord F4 F3>,[0],[5],Ogives No3 D minor.mid,Satie,,

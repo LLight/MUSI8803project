@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,1
 0.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,1.125
 0.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,1.5

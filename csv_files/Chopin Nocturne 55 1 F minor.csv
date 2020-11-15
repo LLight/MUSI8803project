@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 3,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,0,4
 4,<music21.chord.Chord C5 F2>,"[0, 5]","[0, 5]",Nocturne 55 1 F Minor.mid,Chopin,1,1
 4.5,<music21.chord.Chord C5>,[0],[0],Nocturne 55 1 F Minor.mid,Chopin,1,1.5

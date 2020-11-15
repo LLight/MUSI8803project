@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,MeasureCount
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 3,<music21.chord.Chord G5 E4 G4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,1,1
 4,<music21.chord.Chord E4 G4 E5>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,1,1.666666667
 4.5,<music21.chord.Chord F#5 E4 A4>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,1,2

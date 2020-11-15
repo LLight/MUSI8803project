@@ -1,4 +1,4 @@
-Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,Measure Count
+Offset,Chord,NormalForm,PCsInNormalForm,File,Composer,measureNumber,beatNumber
 16.125,<music21.chord.Chord F5>,[0],[5],Waldszenen Op 82 Verrufene Stelle D minor.mid,Schumann,,4.5
 17.5,<music21.chord.Chord F5 D2>,"[0, 3]","[2, 5]",Waldszenen Op 82 Verrufene Stelle D minor.mid,Schumann,1,1.9
 17.625,<music21.chord.Chord F5 B-2>,"[0, 5]","[5, 10]",Waldszenen Op 82 Verrufene Stelle D minor.mid,Schumann,1,2
