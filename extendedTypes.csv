@@ -1,0 +1,146 @@
+NormalForm,Count,CommonNames
+"[0, -10]",1,['Minor Fourteenth']
+"[0, -7]",2,['Perfect Eighteenth' 'Perfect Nineteenth']
+"[0, -8]",2,['Major Seventeenth' 'Minor Thirteenth']
+"[0, -9]",1,['Major Twentieth']
+"[0, 1, -9]",1,['phrygian trichord']
+"[0, 1, 2, 3, 4, 5, 8]",1,['forte class 7-3A']
+"[0, 1, 2, 3, 4, 6, 8]",1,['forte class 7-9A']
+"[0, 1, 2, 3, 5, 7, 8, 10]",1,['Greek']
+"[0, 1, 2, 3, 6, 8]",1,['forte class 6-41A']
+"[0, 1, 2, 3]",1,['chromatic tetramirror']
+"[0, 1, 2, 4, 6, 7, 9]",1,['forte class 7-29A']
+"[0, 1, 2, 4, 7, 9]",1,['dominant-eleventh']
+"[0, 1, 2, 4, 7]",1,['major-seventh pentacluster']
+"[0, 1, 2, 5, 6]",1,['Asian pentacluster']
+"[0, 1, 2, 5, 7, 9]",1,['combinatorial RI (RI2)']
+"[0, 1, 2, 5, 8]",1,['diminished pentacluster']
+"[0, 1, 2, 5]",2,['incomplete minor-seventh chord' 'minor third tetracluster']
+"[0, 1, 2, 6]",1,['major third tetracluster']
+"[0, 1, 2, 7]",1,['perfect fourth tetramirror']
+"[0, 1, 2]",4,['minor trichord' 'Major Second' 'Minor Seventh' 'chromatic trimirror']
+"[0, 1, 3, 4, 5, 8]",1,['combinatorial P (P6)']
+"[0, 1, 3, 4, 6, 7, 8]",1,['forte class 7-38B']
+"[0, 1, 3, 4, 8]",1,['minor-major ninth chord']
+"[0, 1, 3, 4]",2,['phrygian trichord' 'alternating tetramirror']
+"[0, 1, 3, 5, 6, 8, 10]",1,['major scale']
+"[0, 1, 3, 5, 6, 8]",1,['locrian hexachord']
+"[0, 1, 3, 5, 6, 9]",1,['double-phrygian heachord']
+"[0, 1, 3, 5, 6]",1,['locrian pentachord']
+"[0, 1, 3, 5, 7, 8]",1,['phrygian hexamirror']
+"[0, 1, 3, 5, 7]",1,['phrygian pentachord']
+"[0, 1, 3, 5, 8, 9]",1,['combinatorial I (I7)']
+"[0, 1, 3, 5, 8]",1,['major-ninth chord']
+"[0, 1, 3, 5]",2,['incomplete dominant-seventh chord' 'phrygian tetrachord']
+"[0, 1, 3, 6, 8]",1,['Kumoi pentachord']
+"[0, 1, 3, 6, 9]",1,['diminished minor-ninth chord']
+"[0, 1, 3, 6]",2,['major-second major tetrachord' 'minor-second diminished tetrachord']
+"[0, 1, 3, 7]",1,['all-interval tetrachord']
+"[0, 1, 3]",4,"['whole-tone trichord' 'Major Thirteenth' 'chromatic trimirror'
+ 'phrygian trichord']"
+"[0, 1, 4, 5, 8]",1,['major-augmented ninth chord']
+"[0, 1, 4, 5]",1,['phrygian tetrachord']
+"[0, 1, 4, 6, 7, 9]",1,['combinatorial RI (RI1)']
+"[0, 1, 4, 6, 8]",1,['enigmatic pentachord']
+"[0, 1, 4, 6, 9]",1,['Neapolitan pentachord']
+"[0, 1, 4, 6]",3,"['quartal tetramirror' 'minor-second diminished tetrachord'
+ 'all-interval tetrachord']"
+"[0, 1, 4, 7, 8]",1,['Persian pentamirror']
+"[0, 1, 4, 7]",1,['major-diminished tetrachord']
+"[0, 1, 4, 8]",3,"['perfect-fourth major tetrachord' 'minor seventh chord'
+ 'minor-augmented tetrachord']"
+"[0, 1, 4]",3,"['incomplete minor-seventh chord' 'phrygian trichord'
+ 'major-minor trichord']"
+"[0, 1, 5, 6]",1,['double-fourth tetramirror']
+"[0, 1, 5, 7, 8]",1,['Hirajoshi pentatonic']
+"[0, 1, 5, 7]",2,['quartal trichord' 'minor-second quartal tetrachord']
+"[0, 1, 5, 8]",1,['major seventh chord']
+"[0, 1, 5]",6,"['Perfect Fifth' 'Perfect Fourth' 'Perfect Eleventh' 'Perfect Twelfth'
+ 'Perfect Octave' 'incomplete major-seventh chord']"
+"[0, 1, 6]",1,['tritone-fourth']
+"[0, 1]",20,"['Minor Sixteenth' 'Major Twenty-first' 'Major Fourteenth'
+ 'Diminished Octave' 'Doubly-Augmented Triple-octave'
+ 'Doubly-Augmented 29' 'Minor Second' 'Minor Ninth' 'Major Seventh'
+ 'Augmented Unison' 'Augmented Octave' 'Diminished Double-octave'
+ 'Augmented 29' 'Augmented Double-octave' 'Perfect Octave'
+ 'Perfect Triple-octave' 'Minor 23' 'Augmented Triple-octave'
+ 'Diminished Unison' 'Major 28']"
+"[0, 2, 3, 4, 5]",1,['major-second pentacluster']
+"[0, 2, 3, 4, 6, 9]",1,['combinatorial RI (RI6)']
+"[0, 2, 3, 4, 7]",1,['center-cluster pentachord']
+"[0, 2, 3, 4]",1,['whole-tone trichord']
+"[0, 2, 3, 5, 6, 7, 8, 9]",1,['forte class 8-13B']
+"[0, 2, 3, 5, 7, 9]",1,['dorian hexachord']
+"[0, 2, 3, 5, 7]",2,['quartal tetramirror' 'dorian pentachord']
+"[0, 2, 3, 5, 8]",1,['diminished-major ninth chord']
+"[0, 2, 3, 5]",2,['incomplete minor-seventh chord' 'minor tetramirror']
+"[0, 2, 3, 6, 8, 9]",1,"[""Stravinsky's Petrouchka-chord""]"
+"[0, 2, 3, 6, 8]",1,['augmented-sixth pentachord']
+"[0, 2, 3, 6]",1,['harmonic minor tetrachord']
+"[0, 2, 3, 7]",2,['quartal trichord' 'major-second minor tetrachord']
+"[0, 2, 3]",6,"['minor trichord' 'Minor Seventh' 'Major Sixteenth' 'phrygian trichord'
+ 'Major Second' 'Major Ninth']"
+"[0, 2, 4, 5, 7, 9]",1,"['C all combinatorial (P6, I3, RI9)']"
+"[0, 2, 4, 5, 8]",1,['diminished-augmented ninth chord']
+"[0, 2, 4, 5]",1,['lydian tetrachord']
+"[0, 2, 4, 6, 7]",1,['lydian pentachord']
+"[0, 2, 4, 6, 8, 9]",1,['augmented-eleventh']
+"[0, 2, 4, 6, 8]",1,['whole-tone pentachord']
+"[0, 2, 4, 6, 9]",1,['dominant-ninth']
+"[0, 2, 4, 6]",1,['whole-tone tetramirror']
+"[0, 2, 4, 7, 9]",1,['major pentatonic']
+"[0, 2, 4, 7]",1,['major-second major tetrachord']
+"[0, 2, 4, 8]",2,['major-second major tetrachord' 'augmented seventh chord']
+"[0, 2, 4]",3,"['incomplete dominant-seventh chord' 'minor trichord'
+ 'whole-tone trichord']"
+"[0, 2, 5, 6, 7]",1,['double-seconds triple-fourth pentachord']
+"[0, 2, 5, 6, 8]",1,['Javanese pentatonic']
+"[0, 2, 5, 6]",1,['all-interval tetrachord']
+"[0, 2, 5, 7, 8]",2,['quartal tetramirror' 'Kumoi pentachord']
+"[0, 2, 5, 7]",1,['quartal tetramirror']
+"[0, 2, 5, 8]",2,['half-diminished seventh chord' 'major seventh chord']
+"[0, 2, 5]",2,['incomplete minor-seventh chord' 'incomplete major-seventh chord']
+"[0, 2, 6, 7]",1,['tritone quartal tetrachord']
+"[0, 2, 6, 8]",3,"['tritone quartal tetrachord' 'French augmented sixth chord'
+ ""Messiaen's truncated mode 6""]"
+"[0, 2, 6]",5,"['incomplete dominant-seventh chord' 'tritone-fourth'
+ 'incomplete minor-seventh chord' 'enharmonic equivalent to minor triad'
+ 'Italian augmented sixth chord']"
+"[0, 2, 7]",1,['quartal trichord']
+"[0, 2]",18,"['Minor Fourteenth' 'Major Sixteenth' 'Major 23' 'Minor Twenty-first'
+ 'Augmented 23' 'Augmented 30' 'Augmented Sixteenth' 'Major Second'
+ 'Perfect Octave' 'Minor Seventh' 'Major Ninth' 'Diminished Tenth'
+ 'Augmented Sixth' 'Augmented Thirteenth' 'Diminished Third'
+ 'Perfect Double-octave' 'Augmented 27' 'Minor 28']"
+"[0, 3, 4, 5]",3,"['lydian tetrachord' 'incomplete dominant-seventh chord'
+ 'minor third tetracluster']"
+"[0, 3, 4, 6, 7, 8, 9]",1,['forte class 7-16B']
+"[0, 3, 4, 6, 7]",1,['major-minor diminished pentachord']
+"[0, 3, 4, 6, 8]",1,['augmented-diminished ninth chord']
+"[0, 3, 4, 6]",1,['major-third diminished terachord']
+"[0, 3, 4, 7, 8]",1,['Lebanese pentachord']
+"[0, 3, 4, 7]",2,['major-second major tetrachord' 'major-minor tetramirror']
+"[0, 3, 4]",5,"['Diminished Fourteenth' 'whole-tone trichord' 'Diminished Seventh'
+ 'Perfect Octave' 'major-minor trichord']"
+"[0, 3, 5, 6, 7]",1,['minor-seventh pentacluster']
+"[0, 3, 5, 6, 8]",1,['minor-diminished ninth chord']
+"[0, 3, 5, 6]",1,['perfect-fourth diminished tetrachord']
+"[0, 3, 5, 7, 8, 9]",1,['forte class 6-46B']
+"[0, 3, 5, 7, 8]",1,['minor-ninth chord']
+"[0, 3, 5, 7]",2,['quartal tetramirror' 'perfect-fourth minor tetrachord']
+"[0, 3, 5, 8, 9]",1,['Neapolitan pentachord']
+"[0, 3, 5, 8]",1,['minor seventh chord']
+"[0, 3, 5]",2,['incomplete dominant-seventh chord' 'incomplete minor-seventh chord']
+"[0, 3, 6, 7, 8]",1,['diminished pentacluster']
+"[0, 3, 6, 7]",1,['minor-diminished tetrachord']
+"[0, 3, 6, 8, 9]",1,['flat-ninth pentachord']
+"[0, 3, 6, 8]",4,"['enharmonic to dominant seventh chord' 'minor seventh chord'
+ 'dominant seventh chord' 'German augmented sixth chord']"
+"[0, 3, 6, 9]",1,['diminished seventh chord']
+"[0, 4, 5, 7]",1,['perfect-fourth major tetrachord']
+"[0, 4, 5]",2,['incomplete major-seventh chord' 'incomplete dominant-seventh chord']
+"[0, 4, 6, 7]",1,['all-interval tetrachord']
+"[0, 4, 6]",2,"['enharmonic equivalent to diminished triad'
+ 'incomplete half-diminished seventh chord']"
+"[0, 4, 7, 8]",2,['enharmonic equivalent to major triad' 'augmented major tetrachord']
+"[0, 5, 6]",1,['tritone-fourth']
